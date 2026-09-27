@@ -23,11 +23,20 @@
 |-------|------|
 | [Sympla](https://sympla.com.br) | Scraping JSON-LD |
 | [Eventbrite](https://eventbrite.com.br) | Scraping JSON-LD |
-| [Sampa.Art](https://sampa.art) | API pública |
-| [Prefeitura SP](https://prefeitura.sp.gov.br) | Scraping HTML |
-| [G1 SP](https://g1.globo.com/sp/sao-paulo/agenda-de-eventos/) | Scraping HTML |
-| [Catraca Livre](https://catracalivre.com.br) | Scraping HTML |
-| [Balada SP](https://balada.sp.gov.br) | Scraping HTML |
+| [SESC São Paulo](https://sescsp.org.br) | Scraping Programação / Grátis |
+| [Centro Cultural SP (CCSP)](https://centrocultural.sp.gov.br) | Scraping Agenda Cultural |
+| [Pinacoteca de SP](https://pinacoteca.org.br) | Scraping Exposições |
+| [Instituto Moreira Salles (IMS)](https://ims.com.br) | Scraping Exposições & Cinema |
+| [Memorial da América Latina](https://memorial.org.br) | Scraping Festivais & Gastronomia |
+| [MIS SP](https://mis-sp.org.br) | Scraping Museu da Imagem e do Som |
+| [Ticket360](https://ticket360.com.br) | Scraping Shows & Baladas |
+| [Ingresso.com SP](https://ingresso.com) | Scraping Cinema & Teatro |
+| [Sampa.Art](https://sampa.art) | API pública de eventos |
+| [Prefeitura SP](https://prefeitura.sp.gov.br) | Scraping Agenda Oficial |
+| [G1 SP](https://g1.globo.com/sp/sao-paulo/agenda-de-eventos/) | Scraping Guia de Eventos |
+| [Catraca Livre](https://catracalivre.com.br) | Scraping Cultura & Grátis |
+| [SP Turismo](https://cidadedesaopaulo.com) | Scraping Guia Turístico |
+| [Balada SP](https://balada.sp.gov.br) | Scraping Vida Noturna |
 
 ## 🚀 Stack
 
