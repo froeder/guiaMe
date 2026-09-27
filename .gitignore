@@ -1,0 +1,37 @@
+# Dependências
+node_modules/
+
+# Build
+dist/
+dist-ssr/
+
+# Cache Vite
+.vite/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Ambiente local
+.env
+.env.local
+.env.*.local
+
+# Editor
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Firebase
+.firebase/
+firebase-debug.log
+firestore-debug.log

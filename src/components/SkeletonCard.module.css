@@ -1,0 +1,56 @@
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 20px;
+}
+
+.card {
+  background: var(--bg-card);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+.image {
+  aspect-ratio: 16/9;
+  border-radius: 0;
+}
+
+.content {
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.title {
+  height: 18px;
+  width: 90%;
+  border-radius: 4px;
+}
+
+.titleShort {
+  height: 18px;
+  width: 60%;
+  border-radius: 4px;
+}
+
+.meta {
+  height: 14px;
+  width: 75%;
+  border-radius: 4px;
+}
+
+.desc {
+  height: 12px;
+  width: 100%;
+  border-radius: 4px;
+}
+
+.descShort {
+  height: 12px;
+  width: 40%;
+  border-radius: 4px;
+}
