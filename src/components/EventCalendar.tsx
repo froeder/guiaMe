@@ -43,16 +43,19 @@ export function EventCalendar({
     if (!eventsMap.has(key)) eventsMap.set(key, []);
     eventsMap.get(key)!.push(e);
 
-    // Also register multi-day events
+    // Also register short multi-day events (e.g. weekend festivals up to 3 days)
     if (e.endDate) {
       const start = new Date(e.date);
       const end = new Date(e.endDate);
-      let cur = addDays(start, 1);
-      while (cur <= end) {
-        const k = format(cur, 'yyyy-MM-dd');
-        if (!eventsMap.has(k)) eventsMap.set(k, []);
-        eventsMap.get(k)!.push(e);
-        cur = addDays(cur, 1);
+      const diffDays = Math.round((end.getTime() - start.getTime()) / (1000 * 60 * 60 * 24));
+      if (diffDays > 0 && diffDays <= 3) {
+        let cur = addDays(start, 1);
+        while (cur <= end) {
+          const k = format(cur, 'yyyy-MM-dd');
+          if (!eventsMap.has(k)) eventsMap.set(k, []);
+          eventsMap.get(k)!.push(e);
+          cur = addDays(cur, 1);
+        }
       }
     }
   });

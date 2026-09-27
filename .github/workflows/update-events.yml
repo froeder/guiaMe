@@ -1,0 +1,45 @@
+name: Atualizar Eventos Diários SP
+
+on:
+  schedule:
+    # Executa todos os dias às 06:00 UTC (03:00 horário de Brasília)
+    - cron: '0 6 * * *'
+  workflow_dispatch: # Permite disparar manualmente a qualquer momento pela interface do GitHub
+
+permissions:
+  contents: write
+
+jobs:
+  update-events:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'npm'
+
+      - name: Instalar dependências
+        run: npm ci
+
+      - name: Coletar eventos reais de São Paulo
+        run: npm run update-events
+
+      - name: Validar build do projeto
+        run: npm run build
+
+      - name: Commitar e enviar atualizações
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add public/data/events.json
+          if git diff --staged --quiet; then
+            echo "Nenhuma alteração nos eventos hoje."
+          else
+            git commit -m "chore(data): atualiza eventos diários SP [skip ci]"
+            git push
+          fi

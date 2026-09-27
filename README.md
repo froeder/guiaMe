@@ -61,9 +61,19 @@ npm run build
 # Preview do build
 npm run preview
 
+# Coletar eventos reais manualmente
+npm run update-events
+
 # Regenerar ícones PWA
 npm run icons
 ```
+
+## 🤖 Atualização Automática via GitHub Actions
+
+O repositório possui uma rotina automatizada (`.github/workflows/update-events.yml`):
+- **Agendamento diário:** Roda todo dia às 03:00 (horário de Brasília) via cron.
+- **Execução manual:** Pode ser acionado a qualquer momento na aba **Actions** do GitHub clicando em **Run workflow**.
+- O script `scripts/update-events.mjs` coleta eventos reais (Veja SP, Catraca Livre, G1 SP, São Paulo para Crianças, etc.) sem bloqueios de CORS, gera o arquivo estático `public/data/events.json` e faz commit automático no repositório.
 
 ## 🔥 Deploy no Firebase
 

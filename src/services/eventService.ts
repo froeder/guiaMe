@@ -1,8 +1,8 @@
 import type { Event, EventCategory } from '../types/event';
-import { startOfMonth, endOfMonth, addMonths, format, parseISO } from 'date-fns';
+import { startOfMonth, endOfMonth, addMonths, addDays, format, parseISO } from 'date-fns';
 
-const CACHE_KEY = 'sp_eventos_cache';
-const CACHE_TIMESTAMP_KEY = 'sp_eventos_cache_ts';
+const CACHE_KEY = 'sp_eventos_cache_v7';
+const CACHE_TIMESTAMP_KEY = 'sp_eventos_cache_ts_v7';
 const CACHE_TTL_MS = 6 * 60 * 60 * 1000; // 6 hours
 
 // ─── Utility ────────────────────────────────────────────────────────────────
@@ -823,458 +823,479 @@ function generateMockEvents(): Event[] {
   const today = new Date();
   const m = today.getMonth();
   const y = today.getFullYear();
-  const d = (day: number, hour = 0, min = 0) => new Date(y, m, day, hour, min).toISOString();
-  const dn = (day: number, hour = 0, min = 0) => new Date(y, m + 1, day, hour, min).toISOString();
+  const pad = (n: number) => String(n).padStart(2, '0');
+
+  // Formata data local 'YYYY-MM-DDTHH:mm:00' para evitar qualquer deslocamento UTC
+  const d = (day: number, hour = 0, min = 0) =>
+    `${y}-${pad(m + 1)}-${pad(day)}T${pad(hour)}:${pad(min)}:00`;
+
+  const dn = (day: number, hour = 0, min = 0) => {
+    const nextM = (m + 1) % 12;
+    const nextY = m + 1 >= 12 ? y + 1 : y;
+    return `${nextY}-${pad(nextM + 1)}-${pad(day)}T${pad(hour)}:${pad(min)}:00`;
+  };
 
   const mockData: Omit<Event, 'id'>[] = [
-
-    // ──────── SESC SP — múltiplas unidades ────────────────────────────────────
+    // ══════════════════════════════════════════════════════════════════════════
+    // 🎃 ESPECIAL DIA DAS BRUXAS / HALLOWEEN & DIA DO SACI (31 DE OUTUBRO) 🎃
+    // ══════════════════════════════════════════════════════════════════════════
     {
-      title: 'SESC Pinheiros — Festival de Jazz',
-      description: 'Três dias de jazz com artistas nacionais e internacionais. Workshops, masterclasses e jam sessions abertas ao público. Entrada gratuita.',
-      category: 'musica', date: d(3, 20), endDate: d(5, 23), time: '20:00',
-      location: 'SESC Pinheiros', address: 'Rua Paes Leme, 195', neighborhood: 'Pinheiros',
-      price: 0, isFree: true,
-      imageUrl: 'https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=800&q=80',
-      ticketUrl: 'https://www.sescsp.org.br/agenda/', source: 'SESC SP', sourceUrl: 'https://www.sescsp.org.br/agenda/', featured: true,
+      title: 'Halloween da Audio: O Grande Baile dos Monstros',
+      description: 'A maior festa à fantasia de Halloween de São Paulo! Concurso com premiação de R$ 10.000 para as melhores caracterizações, 3 pistas simultâneas (Rock, Pop, Eletrônico), labirinto assombrado com atores e open bar temático no mezanino.',
+      category: 'festa', date: dn(31, 22), time: '22:00',
+      location: 'Audio Club', address: 'Av. Francisco Matarazzo, 694 — Barra Funda', neighborhood: 'Barra Funda',
+      price: 80, priceMax: 220, isFree: false, featured: true,
+      imageUrl: 'https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=800&q=80',
+      ticketUrl: 'https://www.audiosp.com.br/', source: 'Audio SP', sourceUrl: 'https://www.audiosp.com.br/',
+      tags: ['halloween', 'dia das bruxas', 'fantasia', 'balada', 'audio', 'barra funda'],
     },
     {
-      title: 'SESC Pompeia — Cinema na Varanda',
-      description: 'Sessões de cinema gratuito aos fins de semana na varanda do SESC Pompeia. Filmes nacionais e clássicos do cinema mundial. Entrada franca.',
-      category: 'cinema', date: d(6, 15), endDate: d(27, 18), time: '15:00',
+      title: 'Madame Underground Club: A Lendária Noite de Halloween Gótica',
+      description: 'O clube gótico mais lendário da América Latina celebra a Noite de Halloween no casarão histórico da Bela Vista. Decoração fúnebre exclusiva, poções no bar, DJs de post-punk, darkwave e gothic rock, e concurso de fantasias dark.',
+      category: 'festa', date: dn(31, 23), time: '23:00',
+      location: 'Madame Underground Club', address: 'Rua Conselheiro Ramalho, 873 — Bela Vista', neighborhood: 'Bela Vista',
+      price: 45, priceMax: 90, isFree: false, featured: true,
+      imageUrl: 'https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=800&q=80',
+      ticketUrl: 'https://madameclub.com.br', source: 'Madame Club', sourceUrl: 'https://madameclub.com.br',
+      tags: ['halloween', 'dia das bruxas', 'madame', 'goth', 'bela vista', 'festa'],
+    },
+    {
+      title: 'Candlelight Halloween: Trilhas Sonoras de Terror à Luz de Velas',
+      description: 'Concerto à luz de velas intimista com quarteto de cordas executando trilhas inesquecíveis: Halloween (John Carpenter), O Exorcista, Tubarão, Stranger Things, Psicose, Danse Macabre e Thriller sob a luz de 5.000 velas.',
+      category: 'musica', date: dn(31, 19, 30), time: '19:30',
+      location: 'Teatro Bradesco', address: 'Rua Palestra Itália, 500 — Bourbon Shopping', neighborhood: 'Perdizes',
+      price: 75, priceMax: 190, isFree: false, featured: true,
+      imageUrl: 'https://images.unsplash.com/photo-1507676184212-d03ab07a01bf?w=800&q=80',
+      ticketUrl: 'https://feverup.com/sao-paulo', source: 'Candlelight', sourceUrl: 'https://feverup.com/sao-paulo',
+      tags: ['halloween', 'candlelight', 'concerto', 'trilhas sonoras', 'terror', 'musica'],
+    },
+    {
+      title: 'MIS SP: Maratona Cine Horror Especial Madrugada de Halloween',
+      description: 'Noite inteira com clássicos do terror nas salas do Museu da Imagem e do Som. Exibição de O Iluminado, Suspiria e A Bruxa em cópias restauradas, lounge com DJs tocando synth horror, food trucks e concurso de cosplay macabro.',
+      category: 'cinema', date: dn(31, 19), endDate: dn(31, 23, 59), time: '19:00',
+      location: 'MIS - Museu da Imagem e do Som', address: 'Av. Europa, 158', neighborhood: 'Jardim Europa',
+      price: 20, priceMax: 40, isFree: false,
+      imageUrl: 'https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=800&q=80',
+      ticketUrl: 'https://www.mis-sp.org.br/', source: 'MIS SP', sourceUrl: 'https://www.mis-sp.org.br/',
+      tags: ['halloween', 'cinema', 'filmes de terror', 'cine horror', 'mis', 'dia das bruxas'],
+    },
+    {
+      title: 'Parque Villa-Lobos: Caça aos Doces ou Travessuras & Halloween Pet (Gratuito)',
+      description: 'Grande celebração diurna de Dia das Bruxas para famílias, crianças e seus pets! Trilha do "Doces ou Travessuras", pintura facial de monstrinhos, concurso de fantasias infantil e de pets, contação de causos assustadores e oficinas de artesanato. Grátis.',
+      category: 'infantil', date: dn(31, 10), endDate: dn(31, 17), time: '10:00',
+      location: 'Parque Villa-Lobos', address: 'Av. Prof. Fonseca Rodrigues, 2001', neighborhood: 'Alto de Pinheiros',
+      price: 0, isFree: true, featured: true,
+      imageUrl: 'https://images.unsplash.com/photo-1508873696983-2df5293cb32f?w=800&q=80',
+      ticketUrl: 'https://parquevillalobos.sp.gov.br', source: 'Parques SP', sourceUrl: 'https://parquevillalobos.sp.gov.br',
+      tags: ['halloween', 'infantil', 'dia das bruxas', 'doces ou travessuras', 'pet', 'gratuito'],
+    },
+    {
+      title: 'SESC Pompeia: Dia do Saci & Lendas Urbanas de São Paulo (Gratuito)',
+      description: '31 de outubro também é o oficial Dia do Saci no Brasil! O SESC Pompeia celebra com contação teatral das lendas urbanas paulistanas (A Loira do Banheiro, O Fantasma do Municipal e o Castelo da Rua Apa), cortejo musical e oficina de fantoches de seres mágicos.',
+      category: 'cultura', date: dn(31, 15), endDate: dn(31, 19), time: '15:00',
+      location: 'SESC Pompeia', address: 'Rua Clélia, 93', neighborhood: 'Pompeia',
+      price: 0, isFree: true,
+      imageUrl: 'https://images.unsplash.com/photo-1514533450685-4493e01d1fdc?w=800&q=80',
+      ticketUrl: 'https://www.sescsp.org.br/agenda/', source: 'SESC SP', sourceUrl: 'https://www.sescsp.org.br/agenda/',
+      tags: ['dia do saci', 'halloween', 'folclore', 'lendas urbanas', 'sesc', 'gratuito'],
+    },
+    {
+      title: 'Zombie Walk São Paulo: Marcha dos Mortos-Vivos no Centro Histórico (Gratuito)',
+      description: 'Tradicional concentração anual onde milhares de paulistanos fantasiados e maquiados de zumbis caminham pelas ruas do centro velho de SP. Maquiadores voluntários, flash mobs com coreografia de "Thriller", cortejo musical e arrecadação de alimentos.',
+      category: 'cultura', date: dn(31, 14), endDate: dn(31, 18), time: '14:00',
+      location: 'Praça do Patriarca & Viaduto do Chá', address: 'Praça do Patriarca, s/n', neighborhood: 'Centro Histórico',
+      price: 0, isFree: true,
+      imageUrl: 'https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=800&q=80',
+      ticketUrl: 'https://www.prefeitura.sp.gov.br', source: 'Prefeitura SP', sourceUrl: 'https://www.prefeitura.sp.gov.br',
+      tags: ['halloween', 'zombie walk', 'zumbi', 'centro historico', 'dia das bruxas', 'gratuito'],
+    },
+    {
+      title: 'Tokyo República: Halloween nas Alturas — Rooftop & Karaokê do Terror',
+      description: '9 andares de festa na República: karaokês privativos decorados com clássicos cult de horror, pista no terraço com vista para o Copan iluminado de roxo e abóbora, carta de coquetéis com seringas e névoa cenográfica, e sets de indie, dark pop e disco.',
+      category: 'festa', date: dn(31, 20), time: '20:00',
+      location: 'Tokyo Rooftop', address: 'Rua Major Sertório, 110 — República', neighborhood: 'República',
+      price: 50, priceMax: 90, isFree: false,
+      imageUrl: 'https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=800&q=80',
+      ticketUrl: 'https://tokyo011.com.br', source: 'Tokyo SP', sourceUrl: 'https://tokyo011.com.br',
+      tags: ['halloween', 'balada', 'rooftop', 'tokyo', 'republica', 'karaoke'],
+    },
+    {
+      title: 'Cine Joia: Freak Show Halloween Circus Party',
+      description: 'O templo da música na Liberdade se transforma em um bizarro circo dos horrores! Projeção mapeada imersiva 360°, trupe circense burlesca, maquiadores no local e line-up com DJs de electropop, funk e tribal. Premiação para as melhores fantasias.',
+      category: 'festa', date: dn(31, 22, 30), time: '22:30',
+      location: 'Cine Joia', address: 'Praça Carlos Gomes, 82 — Liberdade', neighborhood: 'Liberdade',
+      price: 55, priceMax: 110, isFree: false,
+      imageUrl: 'https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=800&q=80',
+      ticketUrl: 'https://cinejoia.tv', source: 'Cine Joia', sourceUrl: 'https://cinejoia.tv',
+      tags: ['halloween', 'cine joia', 'liberdade', 'freak show', 'balada', 'fantasia'],
+    },
+    {
+      title: 'Vila Madalena Halloween Pub Crawl & Rota dos Bares Assombrados',
+      description: 'O circuito etílico mais divertido de São Paulo: passagem guiada por 5 bares temáticos da Vila Madalena, com direito a welcome shots de "poção mágica", petiscos temáticos monstruosos, concurso de fantasias e entrada VIP para a balada de encerramento.',
+      category: 'gastronomia', date: dn(31, 18), time: '18:00',
+      location: 'Vila Madalena', address: 'Rua Aspicuelta, 300 (Concentração)', neighborhood: 'Vila Madalena',
+      price: 65, priceMax: 120, isFree: false,
+      imageUrl: 'https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=800&q=80',
+      ticketUrl: 'https://sympla.com.br', source: 'Sympla', sourceUrl: 'https://sympla.com.br',
+      tags: ['halloween', 'pub crawl', 'vila madalena', 'gastronomia', 'drinks', 'dia das bruxas'],
+    },
+    {
+      title: 'CCSP: Mostra Literária Macabra — Sarau das Bruxas e Literatura Gótica (Gratuito)',
+      description: 'Tarde e noite dedicada aos clássicos da literatura gótica e fantástica no Centro Cultural SP. Leitura dramática ao vivo de contos de Mary Shelley, Edgar Allan Poe e Lygia Fagundes Telles, sarau poético aberto, feira de zines independentes e debates.',
+      category: 'literatura', date: dn(31, 17), endDate: dn(31, 21), time: '17:00',
+      location: 'Centro Cultural São Paulo', address: 'R. Vergueiro, 1000 — Paraíso', neighborhood: 'Paraíso',
+      price: 0, isFree: true,
+      imageUrl: 'https://images.unsplash.com/photo-1455849318743-b2233052fcff?w=800&q=80',
+      ticketUrl: 'https://centrocultural.sp.gov.br', source: 'Centro Cultural SP', sourceUrl: 'https://centrocultural.sp.gov.br',
+      tags: ['halloween', 'literatura', 'sarau', 'bruxas', 'ccsp', 'gratuito'],
+    },
+    {
+      title: 'Edifício Martinelli: Baile de Máscaras & Halloween no Terraço Histórico',
+      description: 'No topo do primeiro arranha-céu da cidade, uma festa glamorosa e exclusiva de Halloween. Vista de 360 graus do skyline paulistano, orquestra jazzística de câmara tocando temas de mistério, open bar premium e alta gastronomia.',
+      category: 'festa', date: dn(31, 21), time: '21:00',
+      location: 'Edifício Martinelli', address: 'Rua São Bento, 405 — Centro', neighborhood: 'Centro Histórico',
+      price: 190, priceMax: 380, isFree: false, featured: true,
+      imageUrl: 'https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=800&q=80',
+      ticketUrl: 'https://edificiomartinelli.com.br', source: 'Martinelli', sourceUrl: 'https://edificiomartinelli.com.br',
+      tags: ['halloween', 'edificio martinelli', 'baile de mascaras', 'centro', 'destaque'],
+    },
+    {
+      title: 'Escape 60: Noite de Horror Extremo com Atores Vivos — Especial Halloween',
+      description: 'Para quem tem coragem de verdade: salas de fuga temáticas com atores profissionais caracterizados como monstros, zumbis e criaturas paranormais interagindo em tempo real. 60 minutos de enigmas e adrenalina pura!',
+      category: 'outros', date: dn(31, 15), endDate: dn(31, 23), time: '15:00',
+      location: 'Escape 60 Jardins & Moema', address: 'Al. dos Anapurus, 1479 — Moema', neighborhood: 'Moema',
+      price: 119, isFree: false,
+      imageUrl: 'https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=800&q=80',
+      ticketUrl: 'https://escape60.com.br', source: 'Escape 60', sourceUrl: 'https://escape60.com.br',
+      tags: ['halloween', 'escape room', 'jogos', 'terror', 'moema'],
+    },
+    {
+      title: 'Praça da Liberdade: Feira Noturna Geek, Cosplay & Mística de Halloween (Gratuito)',
+      description: 'Feira especial de Dia das Bruxas com mais de 70 barraquinhas: quitutes orientais com temática monstruosa (crepes negros, taiyakis recheados de poção vermelha), tendas de leitura de tarô, concurso de cosplay sobrenatural e flash tattoos.',
+      category: 'cultura', date: dn(31, 16), endDate: dn(31, 22), time: '16:00',
+      location: 'Praça da Liberdade', address: 'Praça da Liberdade, s/n', neighborhood: 'Liberdade',
+      price: 0, isFree: true,
+      imageUrl: 'https://images.unsplash.com/photo-1569050467447-ce54b3bbc37d?w=800&q=80',
+      ticketUrl: 'https://www.cidadedesaopaulo.com', source: 'SP Turismo', sourceUrl: 'https://www.cidadedesaopaulo.com',
+      tags: ['halloween', 'liberdade', 'geek', 'cosplay', 'feira noturna', 'gratuito'],
+    },
+    {
+      title: 'Cinemateca Brasileira: Ciclo Cinema Macabro e Clássicos de Horror (Gratuito)',
+      description: 'Projeção ao ar livre nos jardins da Cinemateca com clássicos do terror mundial: Drácula de Bela Lugosi, Nosferatu com acompanhamento de piano ao vivo e O Bebê de Rosemary. Entrada gratuita com retirada de senha 1h antes.',
+      category: 'cinema', date: dn(30, 19), endDate: dn(31, 22), time: '19:00',
+      location: 'Cinemateca Brasileira', address: 'Largo Senador Raul Cardoso, 207', neighborhood: 'Vila Clementino',
+      price: 0, isFree: true,
+      imageUrl: 'https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=800&q=80',
+      ticketUrl: 'https://cinemateca.org.br', source: 'Cinemateca', sourceUrl: 'https://cinemateca.org.br',
+      tags: ['halloween', 'cinemateca', 'cinema de terror', 'gratuito', 'filmes'],
+    },
+    {
+      title: 'Hopi Hari: Noite dos Horrores Especial Pré-Halloween',
+      description: 'O maior parque temático da região de SP com túneis assustadores, dezenas de atores caracterizados, shows musicais de abertura e montanhas-russas funcionando até altas horas da noite. Transporte especial saindo do Terminal Barra Funda.',
+      category: 'outros', date: dn(30, 17), time: '17:00',
+      location: 'Hopi Hari (Saída Barra Funda)', address: 'Terminal Rodoviário Barra Funda', neighborhood: 'Barra Funda',
+      price: 139, priceMax: 219, isFree: false,
+      imageUrl: 'https://images.unsplash.com/photo-1513889961551-628c1e5e2ee9?w=800&q=80',
+      ticketUrl: 'https://hopihari.com.br', source: 'Hopi Hari', sourceUrl: 'https://hopihari.com.br',
+      tags: ['halloween', 'hopi hari', 'noite dos horrores', 'parque', 'adrenalina'],
+    },
+    {
+      title: 'Memorial da América Latina: Grande Festival Dia de Los Muertos (Gratuito)',
+      description: 'Tradicional e emocionante celebração do Dia dos Mortos com rica herança mexicana! Apresentações ao vivo de grupos Mariachis, altares gigantes de oferendas e flores de cempasúchil, concurso do melhor desfile de Catrinas e muita gastronomia mexicana.',
+      category: 'cultura', date: dn(31, 11), endDate: dn(31, 21), time: '11:00',
+      location: 'Memorial da América Latina', address: 'Av. Auro Soares de Moura Andrade, 664', neighborhood: 'Barra Funda',
+      price: 0, isFree: true, featured: true,
+      imageUrl: 'https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=800&q=80',
+      ticketUrl: 'https://memorial.org.br', source: 'Memorial América Latina', sourceUrl: 'https://memorial.org.br',
+      tags: ['dia de los muertos', 'mexico', 'halloween', 'memorial', 'catrinas', 'gratuito'],
+    },
+
+    // ══════════════════════════════════════════════════════════════════════════
+    // 🍂 OUTUBRO — GRANDES EVENTOS DO MÊS INTEIRO 🍂
+    // ══════════════════════════════════════════════════════════════════════════
+    {
+      title: 'São Paulo Oktoberfest 2026 — Parque Villa-Lobos',
+      description: 'A autêntica festa da cerveja de São Paulo com cervejarias artesanais, comidas típicas alemãs (joelho de porco, salsichões, brezel), bandas folclóricas bávaras e shows com grandes nomes do rock e pop nacional.',
+      category: 'gastronomia', date: dn(2, 16), endDate: dn(5, 23), time: '16:00',
+      location: 'Parque Villa-Lobos', address: 'Av. Prof. Fonseca Rodrigues, 2001', neighborhood: 'Alto de Pinheiros',
+      price: 60, priceMax: 180, isFree: false, featured: true,
+      imageUrl: 'https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=800&q=80',
+      ticketUrl: 'https://saopaulooktoberfest.com.br', source: 'Oktoberfest SP', sourceUrl: 'https://saopaulooktoberfest.com.br',
+      tags: ['oktoberfest', 'cerveja', 'festa', 'gastronomia', 'shows'],
+    },
+    {
+      title: 'Brasil Game Show (BGS 2026) — O Maior Evento de Games da América Latina',
+      description: 'Lançamentos mundiais de videogames para testar antes de todo mundo, campeonatos eletrizantes de eSports, presença de lendas da indústria internacional de games, área cosplay gigantesca e centenas de estandes interativos.',
+      category: 'tecnologia', date: dn(8, 13), endDate: dn(11, 21), time: '13:00',
+      location: 'Expo Center Norte', address: 'Rua José Bernardo Pinto, 333', neighborhood: 'Vila Guilherme',
+      price: 120, priceMax: 350, isFree: false, featured: true,
+      imageUrl: 'https://images.unsplash.com/photo-1511512578047-dfb367046420?w=800&q=80',
+      ticketUrl: 'https://brasilgameshow.com.br', source: 'BGS', sourceUrl: 'https://brasilgameshow.com.br',
+      tags: ['bgs', 'games', 'tecnologia', 'esports', 'cosplay'],
+    },
+    {
+      title: 'Show: Jorge Ben Jor & Banda Zé Pretinho — Espaço Unimed',
+      description: 'O mestre do samba-rock e da música brasileira em um show épico com todos os hinos atemporais: Taj Mahal, Mas Que Nada, Chove Chuva, País Tropical e Fio Maravilha. Pista e camarotes disponíveis.',
+      category: 'musica', date: dn(3, 21), time: '21:00',
+      location: 'Espaço Unimed', address: 'R. Tagipuru, 795 — Barra Funda', neighborhood: 'Barra Funda',
+      price: 110, priceMax: 320, isFree: false, featured: true,
+      imageUrl: 'https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=800&q=80',
+      ticketUrl: 'https://espacounimed.com.br', source: 'Espaço Unimed', sourceUrl: 'https://espacounimed.com.br',
+      tags: ['jorge ben jor', 'musica', 'show', 'samba rock', 'barra funda'],
+    },
+    {
+      title: 'Festival das Crianças no Parque Ibirapuera (Gratuito)',
+      description: 'Especial Semana e Dia das Crianças (12/10)! Três palcos com espetáculos circenses, teatro de bonecos, contação de fábulas, shows de mágica e oficinas científicas. Piquenique aberto e atrações 100% gratuitas.',
+      category: 'infantil', date: dn(11, 10), endDate: dn(12, 18), time: '10:00',
+      location: 'Parque Ibirapuera — Praça da Paz', address: 'Av. Pedro Álvares Cabral, s/n', neighborhood: 'Vila Mariana',
+      price: 0, isFree: true, featured: true,
+      imageUrl: 'https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=800&q=80',
+      ticketUrl: 'https://ibirapuera.org', source: 'Parque Ibirapuera', sourceUrl: 'https://ibirapuera.org',
+      tags: ['dia das criancas', 'infantil', 'ibirapuera', 'circo', 'gratuito'],
+    },
+    {
+      title: 'Circo Stankowich — Especial Mês das Crianças',
+      description: 'O mais antigo e consagrado circo tradicional do Brasil apresenta um super espetáculo com trapezistas voadores, o incrível Globo da Morte com 6 motos, águas dançantes e palhaços premiados mundialmente.',
+      category: 'cultura', date: dn(10, 17), endDate: dn(12, 20), time: '17:00',
+      location: 'Sambódromo do Anhembi', address: 'Av. Olavo Fontoura, 1209 — Santana', neighborhood: 'Santana',
+      price: 40, priceMax: 120, isFree: false,
+      imageUrl: 'https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=800&q=80',
+      ticketUrl: 'https://stankowich.com.br', source: 'Circo Stankowich', sourceUrl: 'https://stankowich.com.br',
+      tags: ['circo', 'stankowich', 'infantil', 'familia', 'anhembi'],
+    },
+    {
+      title: '48ª Mostra Internacional de Cinema de São Paulo',
+      description: 'O festival cinematográfico mais relevante do país exibe mais de 300 filmes inéditos vindos de 60 países. Sessões no CineSesc, Espaço Itaú Augusta, IMS Paulista e projeções gratuitas no vão do MASP.',
+      category: 'cinema', date: dn(18, 14), endDate: dn(31, 23), time: '14:00',
+      location: 'Circuito de Cinemas de SP', address: 'Diversas salas (CineSesc, CCSP, Reserva)', neighborhood: 'Consolação e Centro',
+      price: 24, priceMax: 48, isFree: false, featured: true,
+      imageUrl: 'https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=800&q=80',
+      ticketUrl: 'https://mostra.org', source: 'Mostra SP', sourceUrl: 'https://mostra.org',
+      tags: ['mostra sp', 'cinema', 'filmes', 'cinesesc', 'festival de cinema'],
+    },
+    {
+      title: 'São Paulo Fashion Week (SPFW) — Pavilhão da Bienal',
+      description: 'A semana de moda mais prestigiada do hemisfério sul. Desfiles das maiores marcas e estilistas de vanguarda, exposições de fotografia têxtil, palestras sobre sustentabilidade e pop-up stores de designers independentes.',
+      category: 'cultura', date: dn(14, 15), endDate: dn(18, 22), time: '15:00',
+      location: 'Pavilhão da Bienal — Ibirapuera', address: 'Portão 3 — Parque Ibirapuera', neighborhood: 'Vila Mariana',
+      price: 80, priceMax: 300, isFree: false,
+      imageUrl: 'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80',
+      ticketUrl: 'https://spfw.com.br', source: 'SPFW', sourceUrl: 'https://spfw.com.br',
+      tags: ['spfw', 'moda', 'bienal', 'estilo', 'ibirapuera'],
+    },
+    {
+      title: 'Festival do Café e Sabores Paulistas — Museu da Imigração',
+      description: 'Feira gastronômica com os melhores cafés especiais do estado de SP, baristas premiados ministrando workshops gratuitos, doces típicos da roça, queijos artesanais e apresentações musicais de choro e caipira nos jardins históricos.',
+      category: 'gastronomia', date: dn(17, 10), endDate: dn(18, 18), time: '10:00',
+      location: 'Museu da Imigração', address: 'Rua Visconde de Parnaíba, 1316 — Mooca', neighborhood: 'Mooca',
+      price: 16, isFree: false,
+      imageUrl: 'https://images.unsplash.com/photo-1447933601403-0c6688de566e?w=800&q=80',
+      ticketUrl: 'https://museudaimigracao.org.br', source: 'Museu da Imigração', sourceUrl: 'https://museudaimigracao.org.br',
+      tags: ['cafe', 'gastronomia', 'mooca', 'museu da imigracao', 'feira'],
+    },
+    {
+      title: 'Balé Bolshoi: Gala Clássica — Theatro Municipal de São Paulo',
+      description: 'Solistas consagrados da Escola do Teatro Bolshoi executam trechos de O Quebra-Nozes, Don Quixote e Spartacus, acompanhados ao vivo pela Orquestra Sinfônica Municipal. Cenários suntuosos e técnica impecável.',
+      category: 'danca', date: dn(16, 20), endDate: dn(17, 20), time: '20:00',
+      location: 'Theatro Municipal de São Paulo', address: 'Praça Ramos de Azevedo, s/n', neighborhood: 'Centro Histórico',
+      price: 50, priceMax: 240, isFree: false,
+      imageUrl: 'https://images.unsplash.com/photo-1518611507888-3e15cce98b21?w=800&q=80',
+      ticketUrl: 'https://theatromunicipal.org.br', source: 'Theatro Municipal', sourceUrl: 'https://theatromunicipal.org.br',
+      tags: ['bale', 'danca', 'theatro municipal', 'bolshoi', 'cultura'],
+    },
+    {
+      title: 'Night Run SP — Corrida Noturna no Sambódromo do Anhembi',
+      description: 'A corrida noturna mais eletrizante do Brasil! Circuitos de 5km e 10km na passarela do samba com túneis de luz neon, DJs tocando ao longo do percurso, show na chegada e arena com massagem e hidratação.',
+      category: 'esporte', date: dn(24, 19), time: '19:00',
+      location: 'Sambódromo do Anhembi', address: 'Av. Olavo Fontoura, 1209 — Santana', neighborhood: 'Santana',
+      price: 89, priceMax: 160, isFree: false,
+      imageUrl: 'https://images.unsplash.com/photo-1452626038306-9aae5e071b52?w=800&q=80',
+      ticketUrl: 'https://runningland.com.br', source: 'Night Run', sourceUrl: 'https://runningland.com.br',
+      tags: ['corrida', 'night run', 'esporte', 'anhembi', 'fitness'],
+    },
+    {
+      title: 'Festival de Primavera no Jardim Botânico (Gratuito)',
+      description: 'Exposição botânica com mais de 500 orquídeas e bromélias raras, feira de mudas, visitas guiadas pelas estufas históricas e caminhadas meditativas em meio à Mata Atlântica preservada da zona sul.',
+      category: 'cultura', date: dn(4, 9), endDate: dn(4, 17), time: '09:00',
+      location: 'Jardim Botânico de São Paulo', address: 'Av. Miguel Estefno, 3031', neighborhood: 'Água Funda',
+      price: 0, isFree: true,
+      imageUrl: 'https://images.unsplash.com/photo-1448375240586-882707db888b?w=800&q=80',
+      ticketUrl: 'https://jardimbotanico.sp.gov.br', source: 'Jardim Botânico', sourceUrl: 'https://jardimbotanico.sp.gov.br',
+      tags: ['flores', 'jardim botanico', 'natureza', 'primavera', 'gratuito'],
+    },
+    {
+      title: 'Noite de Jazz & Vinhos no JazzB — República',
+      description: 'Uma noite intimista com o sexteto de jazz paulistano homenageando Miles Davis e John Coltrane. Carta especial de vinhos de pequenos produtores nacionais e tábua de queijos artesanais da serra da Mantiqueira.',
+      category: 'musica', date: dn(9, 21), time: '21:00',
+      location: 'JazzB', address: 'Rua General Jardim, 43 — Vila Buarque', neighborhood: 'República',
+      price: 40, priceMax: 70, isFree: false,
+      imageUrl: 'https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=800&q=80',
+      ticketUrl: 'https://jazzb.net', source: 'JazzB', sourceUrl: 'https://jazzb.net',
+      tags: ['jazz', 'musica', 'jazzb', 'vinhos', 'republica'],
+    },
+    {
+      title: 'Hackathon SP Tech — Inteligência Artificial no InovaUSP (Gratuito)',
+      description: 'Maratona hacker de 48 horas focada no desenvolvimento de soluções de IA para saúde pública, mobilidade urbana e educação em SP. Mentoria com especialistas do Google, premiações e networking com investidores.',
+      category: 'tecnologia', date: dn(17, 9), endDate: dn(18, 18), time: '09:00',
+      location: 'InovaUSP — Cidade Universitária', address: 'Av. Prof. Lúcio Martins Rodrigues, 370', neighborhood: 'Butantã',
+      price: 0, isFree: true,
+      imageUrl: 'https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800&q=80',
+      ticketUrl: 'https://inova.usp.br', source: 'InovaUSP', sourceUrl: 'https://inova.usp.br',
+      tags: ['hackathon', 'tecnologia', 'inteligencia artificial', 'usp', 'gratuito'],
+    },
+    {
+      title: 'Roda de Samba Tradicional do Bixiga na Rua 13 de Maio (Gratuito)',
+      description: 'O autêntico samba de raiz do tradicional bairro do Bixiga: cavaquinho, pandeiro e surdo comandados pelos baluartes da Vai-Vai. Mesas na calçada, cerveja gelada e porções de pastel com queijo canastra.',
+      category: 'musica', date: dn(7, 19), time: '19:00',
+      location: 'Rua Treze de Maio (Bixiga)', address: 'Rua Treze de Maio, 800', neighborhood: 'Bela Vista',
+      price: 0, isFree: true,
+      imageUrl: 'https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=800&q=80',
+      ticketUrl: 'https://www.prefeitura.sp.gov.br', source: 'Prefeitura SP', sourceUrl: 'https://www.prefeitura.sp.gov.br',
+      tags: ['samba', 'bixiga', 'musica', 'gratuito', 'roda de samba'],
+    },
+    {
+      title: 'Stand-Up Comedy All-Stars — Clube do Minhoca',
+      description: 'Noite com os 5 maiores nomes da nova geração do humor stand-up nacional em um dos clubes de comédia mais charmosos do centro de SP. Risadas garantidas e drinks artesanais.',
+      category: 'teatro', date: dn(20, 20, 30), time: '20:30',
+      location: 'Clube do Minhoca', address: 'Rua Conselheiro Nébias, 131', neighborhood: 'Campos Elíseos',
+      price: 45, priceMax: 70, isFree: false,
+      imageUrl: 'https://images.unsplash.com/photo-1508345228704-935cc84bf5e2?w=800&q=80',
+      ticketUrl: 'https://clubedominhoca.com.br', source: 'Clube do Minhoca', sourceUrl: 'https://clubedominhoca.com.br',
+      tags: ['stand up', 'comedia', 'teatro', 'humor', 'centro'],
+    },
+    {
+      title: 'Farol Santander: Exposição "Ocultismo e Mitologias Antigas"',
+      description: 'Instalação imersiva de artes visuais explorando as raízes do misticismo, símbolos esotéricos e lendas antigas através de esculturas, hologramas e projeções sonoras 8D. Visita inclui o mirante no 26º andar.',
+      category: 'exposicao', date: dn(22, 9), time: '09:00',
+      location: 'Farol Santander', address: 'Rua João Brícola, 24 — Centro', neighborhood: 'Centro Histórico',
+      price: 35, isFree: false,
+      imageUrl: 'https://images.unsplash.com/photo-1580060839134-75a5edca2e99?w=800&q=80',
+      ticketUrl: 'https://farolsantander.com.br', source: 'Farol Santander', sourceUrl: 'https://farolsantander.com.br',
+      tags: ['farol santander', 'exposicao', 'arte', 'mirante', 'centro'],
+    },
+    {
+      title: 'Passeio Ciclístico Noturno de São Paulo (Gratuito)',
+      description: 'Passeio ciclístico de 15km pelas vias icônicas de SP iluminadas à noite: Av. Paulista, Minhocão, Praça Roosevelt e Vale do Anhangabaú. Apoio mecânico, batedores da CET e ritmo leve para ciclistas de todas as idades.',
+      category: 'esporte', date: dn(21, 20), time: '20:00',
+      location: 'Praça do Ciclista — Av. Paulista', address: 'Av. Paulista, 2444', neighborhood: 'Bela Vista',
+      price: 0, isFree: true,
+      imageUrl: 'https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=800&q=80',
+      ticketUrl: 'https://www.prefeitura.sp.gov.br', source: 'Prefeitura SP', sourceUrl: 'https://www.prefeitura.sp.gov.br',
+      tags: ['ciclismo', 'bike', 'esporte', 'paulista', 'gratuito'],
+    },
+
+    // ══════════════════════════════════════════════════════════════════════════
+    // 🏛️ INSTITUIÇÕES PERMANENTES & SESCs (SETEMBRO E OUTUBRO) 🏛️
+    // ══════════════════════════════════════════════════════════════════════════
+    {
+      title: 'SESC Pinheiros — Festival de Jazz Contemporâneo',
+      description: 'Três noites de jazz com instrumentistas nacionais e internacionais. Masterclasses gratuitas e jam sessions abertas ao público após as apresentações principais.',
+      category: 'musica', date: d(27, 20), endDate: d(29, 23), time: '20:00',
+      location: 'SESC Pinheiros', address: 'Rua Paes Leme, 195', neighborhood: 'Pinheiros',
+      price: 0, isFree: true, featured: true,
+      imageUrl: 'https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=800&q=80',
+      ticketUrl: 'https://www.sescsp.org.br/agenda/', source: 'SESC SP', sourceUrl: 'https://www.sescsp.org.br/agenda/',
+      tags: ['jazz', 'sesc pinheiros', 'musica', 'gratuito'],
+    },
+    {
+      title: 'Feira Noturna Gastronômica & Jazz — Praça Benedito Calixto (Gratuito)',
+      description: 'Edição noturna especial com barraquinhas de gastronomia de rua (hambúrgueres artesanais, empanadas argentinas, churros e chopes locais) acompanhada de shows de jazz e choro sob as árvores da praça.',
+      category: 'gastronomia', date: d(27, 18), endDate: d(27, 23), time: '18:00',
+      location: 'Praça Benedito Calixto', address: 'Praça Benedito Calixto, s/n', neighborhood: 'Pinheiros',
+      price: 0, isFree: true,
+      imageUrl: 'https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=800&q=80',
+      ticketUrl: 'https://beneditocalixto.com.br', source: 'Benedito Calixto', sourceUrl: 'https://beneditocalixto.com.br',
+      tags: ['gastronomia', 'benedito calixto', 'pinheiros', 'jazz', 'gratuito'],
+    },
+    {
+      title: 'Concerto Sinfônico OSESP na Sala São Paulo',
+      description: 'A aclamada Orquestra Sinfônica do Estado de São Paulo apresenta a 9ª Sinfonia de Beethoven com coro completo em uma das salas de concerto com melhor acústica do planeta.',
+      category: 'musica', date: d(28, 16), time: '16:00',
+      location: 'Sala São Paulo', address: 'Praça Júlio Prestes, 16 — Campos Elíseos', neighborhood: 'Luz',
+      price: 35, priceMax: 180, isFree: false, featured: true,
+      imageUrl: 'https://images.unsplash.com/photo-1465847899084-d164df4dedc6?w=800&q=80',
+      ticketUrl: 'https://osesp.art.br', source: 'OSESP', sourceUrl: 'https://osesp.art.br',
+      tags: ['osesp', 'musica classica', 'sala sao paulo', 'beethoven'],
+    },
+    {
+      title: 'Domingo Sem Carro na Av. Paulista — Cultura e Esporte na Rua (Gratuito)',
+      description: 'A avenida mais famosa do Brasil fechada para veículos e aberta exclusivamente para pedestres, ciclistas e skatistas. Shows acústicos a cada quarteirão, feira de artesãos e aulas coletivas de dança.',
+      category: 'esporte', date: d(28, 8), endDate: d(28, 16), time: '08:00',
+      location: 'Avenida Paulista', address: 'Av. Paulista, toda a extensão', neighborhood: 'Bela Vista',
+      price: 0, isFree: true,
+      imageUrl: 'https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=800&q=80',
+      ticketUrl: 'https://www.prefeitura.sp.gov.br', source: 'Prefeitura SP', sourceUrl: 'https://www.prefeitura.sp.gov.br',
+      tags: ['paulista aberta', 'esporte', 'lazer', 'gratuito', 'musica de rua'],
+    },
+    {
+      title: 'SESC Pompeia — Cinema na Varanda: Clássicos Premiados (Gratuito)',
+      description: 'Sessões gratuitas de cinema cult nas noites de fim de semana na emblemática varanda projetada por Lina Bo Bardi. Pipoca liberada e bate-papo cinematográfico após a exibição.',
+      category: 'cinema', date: d(27, 19), time: '19:00',
       location: 'SESC Pompeia', address: 'Rua Clélia, 93', neighborhood: 'Pompeia',
       price: 0, isFree: true,
       imageUrl: 'https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=800&q=80',
       ticketUrl: 'https://www.sescsp.org.br/agenda/', source: 'SESC SP', sourceUrl: 'https://www.sescsp.org.br/agenda/',
+      tags: ['cinema', 'sesc pompeia', 'gratuito', 'cultura'],
     },
     {
-      title: 'SESC Consolação — Espetáculo de Dança Contemporânea',
-      description: 'Apresentação gratuita do grupo de dança contemporânea Nave em cartaz por dois finais de semana. Obra que mistura teatro e movimento.',
-      category: 'danca', date: d(10, 19, 30), endDate: d(11, 18), time: '19:30',
-      location: 'SESC Consolação', address: 'R. Dr. Vila Nova, 245', neighborhood: 'Consolação',
-      price: 0, isFree: true,
-      imageUrl: 'https://images.unsplash.com/photo-1518611507888-3e15cce98b21?w=800&q=80',
-      ticketUrl: 'https://www.sescsp.org.br/agenda/', source: 'SESC SP', sourceUrl: 'https://www.sescsp.org.br/agenda/',
-    },
-    {
-      title: 'SESC Belenzinho — Teatro para Crianças: "As Aventuras de Pinóquio"',
-      description: 'Espetáculo infantil gratuito com reserva antecipada. Para crianças de 4 a 12 anos. Duração 50 minutos. Sábados e domingos às 15h.',
-      category: 'infantil', date: d(7, 15), endDate: d(28, 17), time: '15:00',
-      location: 'SESC Belenzinho', address: 'R. Padre Adelino, 1000', neighborhood: 'Belenzinho',
-      price: 0, isFree: true,
-      imageUrl: 'https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=800&q=80',
-      ticketUrl: 'https://www.sescsp.org.br/agenda/', source: 'SESC SP', sourceUrl: 'https://www.sescsp.org.br/agenda/',
-    },
-    {
-      title: 'SESC Vila Mariana — Show de MPB: Canto do Sertão',
-      description: 'Show gratuito com os melhores ritmos do Nordeste: forró, baião, xote e repente. Banda completa com 8 músicos. Não perca!',
-      category: 'musica', date: d(13, 18, 30), time: '18:30',
-      location: 'SESC Vila Mariana', address: 'R. Pelotas, 141', neighborhood: 'Vila Mariana',
-      price: 0, isFree: true,
-      imageUrl: 'https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=800&q=80',
-      ticketUrl: 'https://www.sescsp.org.br/agenda/', source: 'SESC SP', sourceUrl: 'https://www.sescsp.org.br/agenda/',
-    },
-    {
-      title: 'SESC Santana — Exposição Fotográfica: "Retratos da Periferia"',
-      description: 'Exposição gratuita com 80 fotografias que documentam a vida e a cultura das periferias de São Paulo. Visitação de terça a domingo, 10h–20h.',
-      category: 'exposicao', date: d(1), endDate: d(30), time: '10:00',
-      location: 'SESC Santana', address: 'Av. Luiz Dumont Villares, 579', neighborhood: 'Santana',
-      price: 0, isFree: true,
-      imageUrl: 'https://images.unsplash.com/photo-1502635385003-ee1e6a1a742d?w=800&q=80',
-      ticketUrl: 'https://www.sescsp.org.br/agenda/', source: 'SESC SP', sourceUrl: 'https://www.sescsp.org.br/agenda/',
-    },
-    {
-      title: 'SESC Ipiranga — Oficina de Teatro para Adultos',
-      description: 'Oficina gratuita de iniciação ao teatro para adultos sem experiência prévia. 4 sábados seguidos, das 10h às 13h. Vagas limitadas.',
-      category: 'teatro', date: d(8, 10), endDate: d(29, 13), time: '10:00',
-      location: 'SESC Ipiranga', address: 'R. Bom Pastor, 822', neighborhood: 'Ipiranga',
-      price: 0, isFree: true,
-      imageUrl: 'https://images.unsplash.com/photo-1503095396549-807759245b35?w=800&q=80',
-      ticketUrl: 'https://www.sescsp.org.br/agenda/', source: 'SESC SP', sourceUrl: 'https://www.sescsp.org.br/agenda/',
-    },
-    {
-      title: 'SESC Santo André — Feira do Conhecimento',
-      description: 'Feira de livros usados, troca de saberes, palestras abertas e bate-papo com autores. Entrada gratuita. Ótimo para toda a família.',
-      category: 'literatura', date: d(20, 10), endDate: d(21, 18), time: '10:00',
-      location: 'SESC Santo André', address: 'R. Tamarutaca, 302 — Santo André', neighborhood: 'Santo André',
-      price: 0, isFree: true,
-      imageUrl: 'https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&q=80',
-      ticketUrl: 'https://www.sescsp.org.br/agenda/', source: 'SESC SP', sourceUrl: 'https://www.sescsp.org.br/agenda/',
-    },
-    {
-      title: 'SESC Pompeia — Feirinha Artesanal',
-      description: 'Feira de artesanato com mais de 50 expositores de design, moda, gastronomia e arte independente. Entrada gratuita aos sábados e domingos.',
-      category: 'cultura', date: d(14, 10), endDate: d(14, 18), time: '10:00',
-      location: 'SESC Pompeia', address: 'Rua Clélia, 93', neighborhood: 'Pompeia',
-      price: 0, isFree: true,
-      imageUrl: 'https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=800&q=80',
-      ticketUrl: 'https://www.sescsp.org.br/agenda/', source: 'SESC SP', sourceUrl: 'https://www.sescsp.org.br/agenda/',
-    },
-    {
-      title: 'SESC Pinheiros — Yoga no Terraço (Gratuito)',
-      description: 'Aulas de yoga abertas ao público todas as manhãs no terraço do SESC Pinheiros com vista para a cidade. Leve seu tapetinho.',
-      category: 'esporte', date: d(1, 7), endDate: d(30, 8), time: '07:00',
-      location: 'SESC Pinheiros', address: 'Rua Paes Leme, 195', neighborhood: 'Pinheiros',
-      price: 0, isFree: true,
-      imageUrl: 'https://images.unsplash.com/photo-1545389336-cf090694435e?w=800&q=80',
-      ticketUrl: 'https://www.sescsp.org.br/agenda/', source: 'SESC SP', sourceUrl: 'https://www.sescsp.org.br/agenda/',
-    },
-    {
-      title: 'SESC Interlagos — Sarau de Poesia Negra',
-      description: 'Noite de sarau com poetas e escritores negros do ABC e Grande SP. Música ao vivo, slam de poesia e exposição fotográfica. Entrada gratuita.',
-      category: 'literatura', date: d(17, 19), time: '19:00',
-      location: 'SESC Interlagos', address: 'Av. Manuel Alves Soares, 1100', neighborhood: 'Interlagos',
-      price: 0, isFree: true,
-      imageUrl: 'https://images.unsplash.com/photo-1455849318743-b2233052fcff?w=800&q=80',
-      ticketUrl: 'https://www.sescsp.org.br/agenda/', source: 'SESC SP', sourceUrl: 'https://www.sescsp.org.br/agenda/',
-    },
-
-    // ──────── Centro Cultural São Paulo (CCSP) ────────────────────────────────
-    {
-      title: 'CCSP — Exposição: "Arte e Resistência"',
-      description: 'Exposição coletiva com obras de 30 artistas emergentes que exploram identidade, política e diversidade. Entrada gratuita. Terça a domingo.',
-      category: 'exposicao', date: d(1), endDate: d(30),
-      location: 'Centro Cultural São Paulo', address: 'R. Vergueiro, 1000 — Paraíso', neighborhood: 'Paraíso',
-      price: 0, isFree: true,
-      imageUrl: 'https://images.unsplash.com/photo-1580060839134-75a5edca2e99?w=800&q=80',
-      ticketUrl: 'https://centrocultural.sp.gov.br', source: 'Centro Cultural SP', sourceUrl: 'https://centrocultural.sp.gov.br',
-    },
-    {
-      title: 'CCSP — Concerto de Câmara Gratuito',
-      description: 'Concerto da Orquestra de Câmara Municipal com obras de Bach, Mozart e compositores brasileiros. Sessão única. Entrada franca.',
-      category: 'musica', date: d(11, 17), time: '17:00',
-      location: 'Centro Cultural São Paulo', address: 'R. Vergueiro, 1000 — Paraíso', neighborhood: 'Paraíso',
-      price: 0, isFree: true,
-      imageUrl: 'https://images.unsplash.com/photo-1465847899084-d164df4dedc6?w=800&q=80',
-      ticketUrl: 'https://centrocultural.sp.gov.br', source: 'Centro Cultural SP', sourceUrl: 'https://centrocultural.sp.gov.br',
-    },
-    {
-      title: 'CCSP — Peça de Teatro: "O Encontro"',
-      description: 'Espetáculo teatral gratuito da Cia Aberta de Teatro. Uma história sobre solidão e reencantamento da vida cotidiana. Sextas e sábados.',
-      category: 'teatro', date: d(5, 20), endDate: d(26, 21), time: '20:00',
-      location: 'Centro Cultural São Paulo', address: 'R. Vergueiro, 1000 — Paraíso', neighborhood: 'Paraíso',
-      price: 0, isFree: true,
-      imageUrl: 'https://images.unsplash.com/photo-1508345228704-935cc84bf5e2?w=800&q=80',
-      ticketUrl: 'https://centrocultural.sp.gov.br', source: 'Centro Cultural SP', sourceUrl: 'https://centrocultural.sp.gov.br',
-    },
-
-    // ──────── Museus e Instituições Culturais ─────────────────────────────────
-    {
-      title: 'MASP — Exposição: "Memórias de São Paulo"',
-      description: 'Retrospectiva fotográfica com 200 imagens históricas da cidade de São Paulo desde 1900. Gratuito às terças, R$60 demais dias.',
-      category: 'exposicao', date: d(1), endDate: dn(30),
+      title: 'MASP — "Histórias Paulistanas": Obras do Acervo Permanente (Terça Grátis)',
+      description: 'A fantástica expografia nos cavaletes de cristal de Lina Bo Bardi reunindo obras de Van Gogh, Renoir, Cézanne, Candido Portinari e Tarsila do Amaral. Entrada gratuita toda terça-feira mediante agendamento prévio.',
+      category: 'exposicao', date: d(29, 10), time: '10:00',
       location: 'MASP', address: 'Av. Paulista, 1578', neighborhood: 'Bela Vista',
-      price: 60, isFree: false,
+      price: 0, isFree: true, featured: true,
       imageUrl: 'https://images.unsplash.com/photo-1580060839134-75a5edca2e99?w=800&q=80',
-      ticketUrl: 'https://masp.org.br', source: 'MASP', sourceUrl: 'https://masp.org.br', featured: true,
+      ticketUrl: 'https://masp.org.br', source: 'MASP', sourceUrl: 'https://masp.org.br',
+      tags: ['masp', 'arte', 'museu', 'paulista', 'exposicao', 'gratuito'],
     },
     {
-      title: 'Pinacoteca — "Brasil Moderno" — Entrada Gratuita Sábados',
-      description: 'Acervo permanente com mais de 10.000 obras da arte brasileira dos séculos XIX e XX. Entrada gratuita aos sábados. R$20 demais dias.',
-      category: 'exposicao', date: d(1), endDate: dn(30),
+      title: 'Pinacoteca de São Paulo — Arte Brasileira dos Séculos XIX e XX (Sábado Grátis)',
+      description: 'A mais antiga instituição de arte de São Paulo apresenta seu acervo magistral, incluindo obras icônicas como O Mestiço e Saudade. Entrada franca aos sábados para todos os públicos.',
+      category: 'exposicao', date: d(27, 10), time: '10:00',
       location: 'Pinacoteca do Estado', address: 'Praça da Luz, 2 — Luz', neighborhood: 'Luz',
-      price: 20, isFree: false,
+      price: 0, isFree: true,
       imageUrl: 'https://images.unsplash.com/photo-1518998053901-5348d3961a04?w=800&q=80',
       ticketUrl: 'https://pinacoteca.org.br', source: 'Pinacoteca SP', sourceUrl: 'https://pinacoteca.org.br',
+      tags: ['pinacoteca', 'arte brasileira', 'museu', 'luz', 'exposicao', 'gratuito'],
     },
     {
-      title: 'IMS Paulista — "Sebastião Salgado: Amazônia"',
-      description: 'Mostra fotográfica com imagens inéditas de Sebastião Salgado sobre a floresta Amazônica e seus povos. Entrada gratuita.',
-      category: 'exposicao', date: d(1), endDate: dn(30),
+      title: 'IMS Paulista — Fotografia Contemporânea Brasileira (Gratuito)',
+      description: 'Exposição fotográfica em três andares do Instituto Moreira Salles, com terraço panorâmico e centro de documentação de fotografia do Brasil. Totalmente gratuito.',
+      category: 'exposicao', date: d(28, 10), time: '10:00',
       location: 'IMS Paulista', address: 'Av. Paulista, 2424', neighborhood: 'Bela Vista',
       price: 0, isFree: true,
       imageUrl: 'https://images.unsplash.com/photo-1501854140801-50d01698950b?w=800&q=80',
       ticketUrl: 'https://ims.com.br', source: 'IMS', sourceUrl: 'https://ims.com.br',
+      tags: ['ims', 'fotografia', 'paulista', 'gratuito', 'exposicao'],
     },
     {
-      title: 'Memorial da América Latina — Cultura Andina',
-      description: 'Exposição permanente sobre culturas andinas, com peças arqueológicas, têxteis e mapas históricos. Entrada gratuita de terça a domingo.',
-      category: 'cultura', date: d(1), endDate: dn(30),
-      location: 'Memorial da América Latina', address: 'Av. Auro Soares de Moura Andrade, 664', neighborhood: 'Barra Funda',
-      price: 0, isFree: true,
-      imageUrl: 'https://images.unsplash.com/photo-1519681393784-d120267933ba?w=800&q=80',
-      ticketUrl: 'https://memorial.org.br', source: 'Memorial América Latina', sourceUrl: 'https://memorial.org.br',
+      title: 'Museu Catavento — Ciência Interativa e Planetário',
+      description: 'O museu de ciências mais divertido do Brasil instalado no Palácio das Indústrias: gerador Van de Graaff, nave espacial com simulação, borboletário e sala de astronomia. Ideal para mentes curiosas.',
+      category: 'infantil', date: d(28, 9), time: '09:00',
+      location: 'Museu Catavento', address: 'Av. Mercúrio, s/n — Brás', neighborhood: 'Brás',
+      price: 18, isFree: false,
+      imageUrl: 'https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80',
+      ticketUrl: 'https://museucatavento.org.br', source: 'Catavento', sourceUrl: 'https://museucatavento.org.br',
+      tags: ['catavento', 'ciencia', 'infantil', 'museu', 'planetario'],
     },
     {
-      title: 'MIS SP — "Era Digital: 30 Anos de Internet"',
-      description: 'Exposição interativa sobre a história da internet e a revolução digital. Instalações imersivas, acervo fotográfico e vídeos históricos.',
-      category: 'tecnologia', date: d(1), endDate: dn(30),
-      location: 'MIS - Museu da Imagem e do Som', address: 'Av. Europa, 158', neighborhood: 'Jardim Europa',
-      price: 25, isFree: false,
-      imageUrl: 'https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800&q=80',
-      ticketUrl: 'https://www.mis-sp.org.br/', source: 'MIS SP', sourceUrl: 'https://www.mis-sp.org.br/',
+      title: 'Expo Aviação & Simuladores — Aeroporto Campo de Marte',
+      description: 'Aeronaves clássicas da aviação civil e militar abertas para visitação interna, simuladores de caça e Boeing 737, além de voos panorâmicos de helicóptero sobre a capital paulista.',
+      category: 'aviacao', date: dn(19, 9), endDate: dn(20, 18), time: '09:00',
+      location: 'Campo de Marte', address: 'Av. Santos Dumont, 1979', neighborhood: 'Santana',
+      price: 35, priceMax: 180, isFree: false,
+      imageUrl: 'https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=800&q=80',
+      ticketUrl: 'https://sympla.com.br', source: 'Sympla', sourceUrl: 'https://sympla.com.br',
+      tags: ['aviacao', 'campo de marte', 'avioes', 'santana', 'expo'],
     },
     {
-      title: 'Museu Afro Brasil — Herança Africana na Cultura Paulistana',
-      description: 'Exposição com mais de 6.000 peças que contam a história da cultura africana e afro-brasileira. Entrada gratuita aos sábados.',
-      category: 'cultura', date: d(1), endDate: dn(30),
-      location: 'Museu Afro Brasil', address: 'Av. Pedro Álvares Cabral, 10001 — Ibirapuera', neighborhood: 'Vila Mariana',
-      price: 10, isFree: false,
-      imageUrl: 'https://images.unsplash.com/photo-1534330207526-8e81f10ec6fc?w=800&q=80',
-      ticketUrl: 'https://museuafroBrasil.org.br', source: 'Museu Afro Brasil', sourceUrl: 'https://museuafrobrasil.org.br',
-    },
-
-    // ──────── Parques e Espaços Públicos ──────────────────────────────────────
-    {
-      title: 'Parque Ibirapuera — Feira Gastronômica',
-      description: 'Mais de 80 expositores: comidas regionais, food trucks, chefs convidados, cervejas artesanais e muito mais. Entrada gratuita.',
-      category: 'gastronomia', date: d(15, 10), endDate: d(16, 20), time: '10:00',
-      location: 'Parque Ibirapuera', address: 'Av. Pedro Álvares Cabral, s/n', neighborhood: 'Vila Mariana',
-      price: 0, isFree: true,
-      imageUrl: 'https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=800&q=80',
-      ticketUrl: 'https://ibirapuera.org', source: 'Parque Ibirapuera', sourceUrl: 'https://ibirapuera.org',
-    },
-    {
-      title: 'Parque Estadual da Cantareira — Trilha Guiada Gratuita',
-      description: 'Caminhada ecológica gratuita com guias ambientais pelo maior parque urbano do mundo. Saída às 8h da portaria Tremembé. Vagas limitadas.',
-      category: 'esporte', date: d(22, 8), time: '08:00',
-      location: 'Parque Estadual da Cantareira', address: 'Av. Edu Chaves, s/n — Tremembé', neighborhood: 'Tremembé',
-      price: 0, isFree: true,
-      imageUrl: 'https://images.unsplash.com/photo-1448375240586-882707db888b?w=800&q=80',
-      ticketUrl: 'https://fflorestal.sp.gov.br', source: 'Parques SP', sourceUrl: 'https://fflorestal.sp.gov.br',
-    },
-    {
-      title: 'Ciclovia da Paulista — Domingo Sem Carro',
-      description: 'Av. Paulista fechada para carros todos os domingos. Ciclismo, caminhada, patins e muito mais. Barraquinhas, artistas de rua e atividades físicas.',
-      category: 'esporte', date: d(5, 7), endDate: d(26, 16), time: '07:00',
-      location: 'Avenida Paulista', address: 'Av. Paulista, s/n', neighborhood: 'Bela Vista',
-      price: 0, isFree: true,
-      imageUrl: 'https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=800&q=80',
-      ticketUrl: 'https://www.prefeitura.sp.gov.br', source: 'Prefeitura SP', sourceUrl: 'https://www.prefeitura.sp.gov.br',
-    },
-
-    // ──────── Shows e Teatro Pagos ─────────────────────────────────────────────
-    {
-      title: 'Show: Titãs 45 Anos — Allianz Parque',
-      description: 'A banda de rock mais icônica do Brasil celebra 45 anos com um show histórico no Allianz Parque. Clássicos como Cabeça Dinossauro ao vivo.',
-      category: 'musica', date: d(18, 21), time: '21:00',
-      location: 'Allianz Parque', address: 'Av. Francisco Matarazzo, 1705', neighborhood: 'Água Branca',
-      price: 150, priceMax: 450, isFree: false,
-      imageUrl: 'https://images.unsplash.com/photo-1540039155733-5bb30b53aa14?w=800&q=80',
-      ticketUrl: 'https://www.sympla.com.br', source: 'Sympla', sourceUrl: 'https://www.sympla.com.br', featured: true,
-    },
-    {
-      title: 'Peça: "Hamlet" — Teatro Alfa',
-      description: 'Montagem contemporânea do clássico de Shakespeare com elenco renomado. Direção de Bia Lessa. De quinta a domingo.',
-      category: 'teatro', date: d(4, 20), endDate: d(25, 21), time: '20:00',
-      location: 'Teatro Alfa', address: 'R. Bento Branco de Andrade Filho, 722', neighborhood: 'Santo Amaro',
-      price: 80, priceMax: 160, isFree: false,
-      imageUrl: 'https://images.unsplash.com/photo-1503095396549-807759245b35?w=800&q=80',
-      ticketUrl: 'https://www.sympla.com.br', source: 'Sympla', sourceUrl: 'https://www.sympla.com.br',
-    },
-    {
-      title: 'Ballet: "Lago dos Cisnes" — Teatro Municipal',
-      description: 'O clássico de Tchaikovsky pelo Ballet da Cidade de São Paulo. Ingressos com 50% de desconto para estudantes e idosos.',
-      category: 'danca', date: d(16, 20, 30), endDate: d(19, 21), time: '20:30',
-      location: 'Teatro Municipal de São Paulo', address: 'Praça Ramos de Azevedo, s/n', neighborhood: 'Centro',
-      price: 80, priceMax: 300, isFree: false,
-      imageUrl: 'https://images.unsplash.com/photo-1518611507888-3e15cce98b21?w=800&q=80',
-      ticketUrl: 'https://theatromunicipal.org.br', source: 'Teatro Municipal', sourceUrl: 'https://theatromunicipal.org.br',
-    },
-    {
-      title: 'Show: Fagner & Zé Ramalho — Espaço das Américas',
-      description: 'Os ícones do Nordeste juntos no palco em noite histórica. Repertório com clássicos de ambos os cantores e músicas inéditas.',
-      category: 'musica', date: d(24, 20), time: '20:00',
-      location: 'Espaço das Américas', address: 'R. Tagipuru, 795', neighborhood: 'Barra Funda',
-      price: 120, priceMax: 280, isFree: false,
-      imageUrl: 'https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=800&q=80',
-      ticketUrl: 'https://www.sympla.com.br', source: 'Sympla', sourceUrl: 'https://www.sympla.com.br',
-    },
-
-    // ──────── Tecnologia e Negócios ───────────────────────────────────────────
-    {
-      title: 'SP Tech Summit — Fórum de Inovação',
-      description: 'Maior fórum de tecnologia e startups de SP. Palestras com CEO\u2019s de unicórnios brasileiros, hackathon aberto e networking. Acesso gratuito.',
-      category: 'tecnologia', date: d(20, 9), endDate: d(21, 18), time: '09:00',
-      location: 'Expo Center Norte', address: 'Rua José Bernardo Pinto, 333', neighborhood: 'Vila Guilherme',
-      price: 0, isFree: true,
-      imageUrl: 'https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800&q=80',
-      ticketUrl: 'https://sympla.com.br', source: 'Sympla', sourceUrl: 'https://sympla.com.br', featured: true,
-    },
-
-    // ──────── Gastronomia ─────────────────────────────────────────────────────
-    {
-      title: 'Mercado Municipal — Noite Temática Italiana',
-      description: 'Uma noite especial no Mercadão com pratos típicos italianos, vinhos, musica ao vivo e apresentações de chefs renomados. Acesso gratuito.',
-      category: 'gastronomia', date: d(12, 18), time: '18:00',
-      location: 'Mercado Municipal de SP', address: 'R. da Cantareira, 306 — Centro', neighborhood: 'Centro',
+      title: 'Mercado Municipal de SP — Tour Gastronômico Paulistano de Domingo',
+      description: 'Visita gastronômica ao histórico Mercadão de São Paulo: o famoso sanduíche de mortadela gigante, pastel de bacalhau crocante e frutas raras de todas as regiões tropicais do Brasil.',
+      category: 'gastronomia', date: d(28, 8), time: '08:00',
+      location: 'Mercado Municipal de SP', address: 'R. da Cantareira, 306 — Centro', neighborhood: 'Centro Histórico',
       price: 0, isFree: true,
       imageUrl: 'https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800&q=80',
       ticketUrl: 'https://mercadaomunicipal.com.br', source: 'Mercadão SP', sourceUrl: 'https://mercadaomunicipal.com.br',
-    },
-    {
-      title: 'Festival Gourmet — Bairro da Liberdade',
-      description: 'Festival de culinária oriental com yakisoba, sushi, ramen, guiozá e muito mais no coração do bairro oriental de SP. Entrada gratuita.',
-      category: 'gastronomia', date: d(9, 11), endDate: d(10, 20), time: '11:00',
-      location: 'Praça da Liberdade', address: 'Praça da Liberdade, s/n', neighborhood: 'Liberdade',
-      price: 0, isFree: true,
-      imageUrl: 'https://images.unsplash.com/photo-1569050467447-ce54b3bbc37d?w=800&q=80',
-      ticketUrl: 'https://sympla.com.br', source: 'Sympla', sourceUrl: 'https://sympla.com.br',
-    },
-
-    // ──────── Aviação ─────────────────────────────────────────────────────────
-    {
-      title: 'Expo Aviação — Campo de Marte',
-      description: 'Exposição de aeronaves históricas e modernas, simuladores de voo, voos panorâmicos de helicóptero e apresentações acrobáticas. Um sonho para aviadores!',
-      category: 'aviacao', date: d(19, 9), endDate: d(20, 18), time: '09:00',
-      location: 'Aeroporto Campo de Marte', address: 'Av. Santos Dumont, 1979', neighborhood: 'Santana',
-      price: 30, priceMax: 200, isFree: false,
-      imageUrl: 'https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=800&q=80',
-      ticketUrl: 'https://sympla.com.br', source: 'Sympla', sourceUrl: 'https://sympla.com.br',
-    },
-    {
-      title: 'Museu TAM — Visita Gratuita com Guia',
-      description: 'Visita guiada gratuita ao maior acervo de aeronáutica civil da América Latina. Aeronaves históricas, motores, uniformes e história da aviação brasileira.',
-      category: 'aviacao', date: d(1), endDate: d(30),
-      location: 'Museu TAM', address: 'Av. Santos Dumont, 800 — Faria Lima', neighborhood: 'Faria Lima',
-      price: 0, isFree: true,
-      imageUrl: 'https://images.unsplash.com/photo-1583202842046-c90e3fc59c0c?w=800&q=80',
-      ticketUrl: 'https://museutan.tam.com.br', source: 'Museu TAM', sourceUrl: 'https://www.tam.com.br',
-    },
-
-    // ──────── Esporte ─────────────────────────────────────────────────────────
-    {
-      title: 'Corrida SP — Maratona da Cidade',
-      description: 'A maior corrida de rua de SP com percursos de 5km, 10km, 21km e 42km. Circuito passa pela Paulista, Ibirapuera e centro histórico.',
-      category: 'esporte', date: d(27, 6), time: '06:00',
-      location: 'Av. Paulista', address: 'Av. Paulista, s/n', neighborhood: 'Bela Vista',
-      price: 80, priceMax: 180, isFree: false,
-      imageUrl: 'https://images.unsplash.com/photo-1452626038306-9aae5e071b52?w=800&q=80',
-      ticketUrl: 'https://sympla.com.br', source: 'Sympla', sourceUrl: 'https://sympla.com.br',
-    },
-    {
-      title: 'Futebol de Base — Arena Corinthians (Gratuito)',
-      description: 'Jogos do campeonato paulista sub-17 e sub-20 abertos ao público. Entrada gratuita mediante retirada de ingresso antecipado.',
-      category: 'esporte', date: d(8, 15), time: '15:00',
-      location: 'Neo Química Arena', address: 'Av. Miguel Ignácio Curi, 111', neighborhood: 'Itaquera',
-      price: 0, isFree: true,
-      imageUrl: 'https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=800&q=80',
-      ticketUrl: 'https://www.corinthians.com.br', source: 'Corinthians', sourceUrl: 'https://www.corinthians.com.br',
-    },
-
-    // ──────── Infantil ────────────────────────────────────────────────────────
-    {
-      title: 'Museu Catavento — Ciência para Crianças',
-      description: 'Museu interativo de ciências com mais de 250 experimentos. Crianças aprendem sobre física, química e astronomia brincando. Entrada acessível.',
-      category: 'infantil', date: d(1), endDate: dn(30),
-      location: 'Museu Catavento', address: 'Av. Mercúrio, s/n — Brás', neighborhood: 'Brás',
-      price: 10, isFree: false,
-      imageUrl: 'https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80',
-      ticketUrl: 'https://museucatavento.org.br', source: 'Museu Catavento', sourceUrl: 'https://museucatavento.org.br',
-    },
-    {
-      title: 'Parque Villa-Lobos — Festa das Crianças',
-      description: 'Programação especial com teatro de rua, contação de histórias, brinquedos infláveis e oficinas de pintura. Tudo gratuito!',
-      category: 'infantil', date: d(12, 10), endDate: d(12, 17), time: '10:00',
-      location: 'Parque Villa-Lobos', address: 'Av. Prof. Fonseca Rodrigues, 2001', neighborhood: 'Alto de Pinheiros',
-      price: 0, isFree: true,
-      imageUrl: 'https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=800&q=80',
-      ticketUrl: 'https://parquevillalobo.sp.gov.br', source: 'Parques SP', sourceUrl: 'https://parquevillalobo.sp.gov.br',
-    },
-
-    // ──────── Festas e Cultura ────────────────────────────────────────────────
-    {
-      title: 'Bloco Maluco Beleza — Rua Augusta',
-      description: 'Bloco de carnaval fora de época com marchinha, frevo e axé no coração de SP. Fantasia obrigatória. Concentração a partir das 14h.',
-      category: 'festa', date: d(25, 14), time: '14:00',
-      location: 'Rua Augusta', address: 'Rua Augusta, s/n', neighborhood: 'Consolação',
-      price: 0, isFree: true,
-      imageUrl: 'https://images.unsplash.com/photo-1551818255-e6e10975bc17?w=800&q=80',
-      ticketUrl: 'https://sympla.com.br', source: 'Sympla', sourceUrl: 'https://sympla.com.br',
-    },
-    {
-      title: 'Festa Junina Tradicional — Parque do Trote',
-      description: 'Festa junina com quadrilha, forró ao vivo, comidas típicas, pescaria e bingão. Entrada gratuita para toda a família.',
-      category: 'festa', date: d(14, 14), endDate: d(15, 22), time: '14:00',
-      location: 'Parque do Trote', address: 'R. José Getúlio, 420 — Cambuci', neighborhood: 'Cambuci',
-      price: 0, isFree: true,
-      imageUrl: 'https://images.unsplash.com/photo-1504701954957-2010ec3bcec1?w=800&q=80',
-      ticketUrl: 'https://sympla.com.br', source: 'Sympla', sourceUrl: 'https://sympla.com.br',
-    },
-    {
-      title: 'Virada Cultural de São Paulo',
-      description: '24 horas ininterruptas de cultura gratuita espalhadas por toda São Paulo. Mais de 3.000 atrações em palcos, ruas, museus e centros culturais.',
-      category: 'cultura', date: d(23, 18), endDate: d(24, 18), time: '18:00',
-      location: 'Toda São Paulo', address: 'Diversas localizações', neighborhood: 'Centro e Bairros',
-      price: 0, isFree: true,
-      imageUrl: 'https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=800&q=80',
-      ticketUrl: 'https://viradacultural.prefeitura.sp.gov.br', source: 'Prefeitura SP', sourceUrl: 'https://viradacultural.prefeitura.sp.gov.br', featured: true,
-    },
-
-    // ──────── Cinema ──────────────────────────────────────────────────────────
-    {
-      title: 'Cine Sesc — Sessão Gratuita: Filmes Brasileiros',
-      description: 'Ciclo de cinema nacional com longas-metragens premiados. Sessões gratuitas às terças às 15h. Debate com diretores após a sessão.',
-      category: 'cinema', date: d(1, 15), endDate: d(29, 17), time: '15:00',
-      location: 'SESC Consolação', address: 'R. Dr. Vila Nova, 245', neighborhood: 'Consolação',
-      price: 0, isFree: true,
-      imageUrl: 'https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=800&q=80',
-      ticketUrl: 'https://www.sescsp.org.br/agenda/', source: 'SESC SP', sourceUrl: 'https://www.sescsp.org.br/agenda/',
-    },
-
-    // ──────── Próximo Mês ─────────────────────────────────────────────────────
-    {
-      title: 'Bienal do Livro de São Paulo',
-      description: 'A maior feira do livro da América Latina. Mais de 3.000 títulos, autores internacionais, lançamentos exclusivos e atividades culturais.',
-      category: 'literatura', date: dn(3, 10), endDate: dn(13, 21), time: '10:00',
-      location: 'Pavilhão da Bienal — Parque Ibirapuera', address: 'Portão 3 — Parque Ibirapuera', neighborhood: 'Vila Mariana',
-      price: 30, priceMax: 60, isFree: false,
-      imageUrl: 'https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=800&q=80',
-      ticketUrl: 'https://bienaldolivro.com.br', source: 'Bienal do Livro', sourceUrl: 'https://bienaldolivro.com.br', featured: true,
-    },
-    {
-      title: 'SESC Pompeia — Rock in Sesc (Gratuito)',
-      description: 'Festival de rock com 10 bandas independentes paulistanas. Dois palcos, praça de alimentação e feira de discos de vinil. Entrada gratuita.',
-      category: 'musica', date: dn(5, 17), endDate: dn(6, 22), time: '17:00',
-      location: 'SESC Pompeia', address: 'Rua Clélia, 93', neighborhood: 'Pompeia',
-      price: 0, isFree: true,
-      imageUrl: 'https://images.unsplash.com/photo-1540039155733-5bb30b53aa14?w=800&q=80',
-      ticketUrl: 'https://www.sescsp.org.br/agenda/', source: 'SESC SP', sourceUrl: 'https://www.sescsp.org.br/agenda/',
-    },
-    {
-      title: 'CCSP — Noite de Slam Poetry',
-      description: 'Festival de slam com competição aberta ao público. Inscrições para participar no local. Entrada gratuita para plateia. A partir das 19h.',
-      category: 'literatura', date: dn(8, 19), time: '19:00',
-      location: 'Centro Cultural São Paulo', address: 'R. Vergueiro, 1000', neighborhood: 'Paraíso',
-      price: 0, isFree: true,
-      imageUrl: 'https://images.unsplash.com/photo-1455849318743-b2233052fcff?w=800&q=80',
-      ticketUrl: 'https://centrocultural.sp.gov.br', source: 'Centro Cultural SP', sourceUrl: 'https://centrocultural.sp.gov.br',
-    },
-    {
-      title: 'São Paulo Fashion Week',
-      description: 'A semana de moda mais importante da América Latina. Desfiles, showrooms e pop-ups exclusivos. Acesso público ao Mercado Fashion.',
-      category: 'cultura', date: dn(10, 18), endDate: dn(15, 23), time: '18:00',
-      location: 'Complexo Geraldo de Alckmin', address: 'R. Rego Freitas, 454', neighborhood: 'República',
-      price: 0, isFree: false,
-      imageUrl: 'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80',
-      ticketUrl: 'https://spfw.com.br', source: 'SPFW', sourceUrl: 'https://spfw.com.br', featured: true,
-    },
-    {
-      title: 'Mostra Internacional de Cinema de São Paulo',
-      description: 'A Mostra SP traz filmes de mais de 60 países. Competição, retrospectivas e sessões especiais em salas de cinema por todo o estado.',
-      category: 'cinema', date: dn(18, 14), endDate: dn(31, 22), time: '14:00',
-      location: 'Multiplas salas — São Paulo', address: 'Diversas localizações', neighborhood: 'Centro e Bairros',
-      price: 25, priceMax: 50, isFree: false,
-      imageUrl: 'https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=800&q=80',
-      ticketUrl: 'https://mostra.org', source: 'Mostra SP', sourceUrl: 'https://mostra.org',
-    },
-    {
-      title: 'SESC Belenzinho — Circo Contemporâneo',
-      description: 'Espetáculo circense gratuito com acrobatas, malabaristas e contorcionistas de todo o Brasil. Para toda a família. Domingo às 16h.',
-      category: 'cultura', date: dn(12, 16), time: '16:00',
-      location: 'SESC Belenzinho', address: 'R. Padre Adelino, 1000', neighborhood: 'Belenzinho',
-      price: 0, isFree: true,
-      imageUrl: 'https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=800&q=80',
-      ticketUrl: 'https://www.sescsp.org.br/agenda/', source: 'SESC SP', sourceUrl: 'https://www.sescsp.org.br/agenda/',
-    },
-    {
-      title: 'Festival Internacional de Teatro — SP',
-      description: 'Companhias de teatro do Brasil, Argentina, França e Portugal em cartaz simultâneo por toda São Paulo. Espetáculos gratuitos e pagos.',
-      category: 'teatro', date: dn(15, 19), endDate: dn(25, 22), time: '19:00',
-      location: 'Diversas Localizações', address: 'Teatros e centros culturais de SP', neighborhood: 'Toda SP',
-      price: 0, isFree: true,
-      imageUrl: 'https://images.unsplash.com/photo-1508345228704-935cc84bf5e2?w=800&q=80',
-      ticketUrl: 'https://centrocultural.sp.gov.br', source: 'Centro Cultural SP', sourceUrl: 'https://centrocultural.sp.gov.br', featured: true,
+      tags: ['mercadao', 'gastronomia', 'centro', 'pastel de bacalhau', 'comida'],
     },
   ];
 
@@ -1289,14 +1310,15 @@ function generateMockEvents(): Event[] {
 function guessCategory(title: string, description: string): EventCategory {
   const text = `${title} ${description}`.toLowerCase();
 
+  if (/halloween|bruxa|saci|fantasia|horror|terror|macabr/i.test(text)) return 'festa';
   if (/jazz|rock|show|música|concert|band|samba|forró|mpb|pop|metal|rap|funk|eletrôni|festival music/i.test(text)) return 'musica';
   if (/teatro|peça|espetáculo|cena|palco|dramaturgia|ópera/i.test(text)) return 'teatro';
   if (/exposiç|museu|galeria|arte|pintura|escultura|fotografia|instalação/i.test(text)) return 'exposicao';
-  if (/gastro|culinária|chef|food|alimentação|vinho|cerveja|cervejaria|feira de comida/i.test(text)) return 'gastronomia';
+  if (/gastro|culinária|chef|food|alimentação|vinho|cerveja|cervejaria|feira de comida|oktoberfest/i.test(text)) return 'gastronomia';
   if (/esporte|corrida|maratona|futebol|tênis|basquete|vôlei|ciclismo|natação|fitness/i.test(text)) return 'esporte';
-  if (/tech|tecnologia|startup|programação|inovaç|digital|hackathon|developer|TI\b/i.test(text)) return 'tecnologia';
+  if (/tech|tecnologia|startup|programação|inovaç|digital|hackathon|developer|TI\b|game|bgs/i.test(text)) return 'tecnologia';
   if (/aviaç|aeronave|avião|helicóptero|piloto|voo|aeroporto|aeronáutica/i.test(text)) return 'aviacao';
-  if (/cinema|filme|movie|sessão|curta|longa/i.test(text)) return 'cinema';
+  if (/cinema|filme|movie|sessão|curta|longa|mostra sp/i.test(text)) return 'cinema';
   if (/dança|ballet|balé|coreografia|sapateado/i.test(text)) return 'danca';
   if (/livro|literatura|poesia|sarau|leitura|autor|escritor|bibliote/i.test(text)) return 'literatura';
   if (/infantil|criança|kids|família|brincar|fantoches|conto|fairy/i.test(text)) return 'infantil';
@@ -1355,7 +1377,7 @@ function deduplicateEvents(events: Event[]): Event[] {
 
 export async function fetchAllEvents(forceRefresh = false): Promise<Event[]> {
   // Check cache
-  if (!forceRefresh) {
+  if (!forceRefresh && typeof localStorage !== 'undefined') {
     const cached = localStorage.getItem(CACHE_KEY);
     const cachedTs = localStorage.getItem(CACHE_TIMESTAMP_KEY);
     if (cached && cachedTs) {
@@ -1370,13 +1392,35 @@ export async function fetchAllEvents(forceRefresh = false): Promise<Event[]> {
     }
   }
 
+  // 1. Tenta carregar do feed estático atualizado diariamente via GitHub Actions
+  try {
+    const cacheBuster = forceRefresh ? `?t=${Date.now()}` : '';
+    const res = await fetch(`/data/events.json${cacheBuster}`);
+    if (res.ok) {
+      const data = await res.json();
+      const dynamicEvents = (data.events || data) as Event[];
+      if (Array.isArray(dynamicEvents) && dynamicEvents.length > 0) {
+        dynamicEvents.sort((a, b) => new Date(a.date).getTime() - new Date(b.date).getTime());
+        if (typeof localStorage !== 'undefined') {
+          try {
+            localStorage.setItem(CACHE_KEY, JSON.stringify(dynamicEvents));
+            localStorage.setItem(CACHE_TIMESTAMP_KEY, String(Date.now()));
+          } catch {}
+        }
+        return dynamicEvents;
+      }
+    }
+  } catch (err) {
+    console.warn('[eventService] Falha ao carregar /data/events.json, usando fallback:', err);
+  }
+
   const now = new Date();
   const fromDate = format(startOfMonth(now), 'yyyy-MM-dd');
   const toDate = format(endOfMonth(addMonths(now, 1)), 'yyyy-MM-dd');
   void fromDate;
   void toDate;
 
-  // Always start with mock events to ensure the app has content
+  // Always start with mock events to ensure the app has content if offline or initial load
   const mockEvents = generateMockEvents();
 
   // Fetch from ALL sources in parallel — failures are silently swallowed
@@ -1423,9 +1467,9 @@ export async function fetchAllEvents(forceRefresh = false): Promise<Event[]> {
   // Merge: real events take priority, mock events fill in
   const allEvents = deduplicateEvents([...realEvents, ...mockEvents]);
 
-  // Filter to current + next month date range
+  // Filter to current + next month date range (plus a few days margin to include full transitions)
   const rangeStart = startOfMonth(now);
-  const rangeEnd = endOfMonth(addMonths(now, 1));
+  const rangeEnd = addDays(endOfMonth(addMonths(now, 1)), 2);
 
   const filtered = allEvents.filter((e) => {
     try {
@@ -1440,11 +1484,13 @@ export async function fetchAllEvents(forceRefresh = false): Promise<Event[]> {
   filtered.sort((a, b) => new Date(a.date).getTime() - new Date(b.date).getTime());
 
   // Cache results
-  try {
-    localStorage.setItem(CACHE_KEY, JSON.stringify(filtered));
-    localStorage.setItem(CACHE_TIMESTAMP_KEY, String(Date.now()));
-  } catch {
-    // ignore storage errors
+  if (typeof localStorage !== 'undefined') {
+    try {
+      localStorage.setItem(CACHE_KEY, JSON.stringify(filtered));
+      localStorage.setItem(CACHE_TIMESTAMP_KEY, String(Date.now()));
+    } catch {
+      // ignore storage errors
+    }
   }
 
   return filtered;
@@ -1471,7 +1517,8 @@ export function filterEvents(events: Event[], filters: {
         e.title.toLowerCase().includes(q) ||
         e.description.toLowerCase().includes(q) ||
         e.location.toLowerCase().includes(q) ||
-        (e.neighborhood || '').toLowerCase().includes(q);
+        (e.neighborhood || '').toLowerCase().includes(q) ||
+        (e.tags && e.tags.some((t) => t.toLowerCase().includes(q)));
       if (!match) return false;
     }
 
@@ -1483,15 +1530,24 @@ export function filterEvents(events: Event[], filters: {
         `${sel.getFullYear()}-${String(sel.getMonth() + 1).padStart(2, '0')}-${String(sel.getDate()).padStart(2, '0')}`;
 
       const eventStartStr = e.date.slice(0, 10); // "YYYY-MM-DD"
-      const eventEndStr = e.endDate ? e.endDate.slice(0, 10) : eventStartStr;
 
-      // Event is on the selected day if:
-      //  - it starts on that day, OR
-      //  - it's a multi-day event that spans that day (start <= sel <= end)
-      const startsOnDay = eventStartStr === selStr;
-      const spansDay = eventStartStr <= selStr && eventEndStr >= selStr;
+      // Evento começa exatamente no dia selecionado
+      if (eventStartStr === selStr) return true;
 
-      if (!startsOnDay && !spansDay) return false;
+      // Se for um evento curto de múltiplos dias (ex: festival de fim de semana de até 3 dias)
+      if (e.endDate) {
+        const eventEndStr = e.endDate.slice(0, 10);
+        const startTimestamp = new Date(eventStartStr + 'T00:00:00').getTime();
+        const endTimestamp = new Date(eventEndStr + 'T00:00:00').getTime();
+        const diffDays = Math.round((endTimestamp - startTimestamp) / (1000 * 60 * 60 * 24));
+
+        // Permite apenas eventos curtos de fim de semana (até 3 dias) que ocorrem na data selecionada
+        if (diffDays > 0 && diffDays <= 3 && eventStartStr <= selStr && eventEndStr >= selStr) {
+          return true;
+        }
+      }
+
+      return false;
     }
 
     return true;

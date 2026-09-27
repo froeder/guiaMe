@@ -12,7 +12,8 @@
     "build": "tsc -b && vite build",
     "lint": "oxlint",
     "preview": "vite preview",
-    "icons": "node scripts/generate-icons.mjs"
+    "icons": "node scripts/generate-icons.mjs",
+    "update-events": "node scripts/update-events.mjs"
   },
   "dependencies": {
     "date-fns": "^4.4.0",
