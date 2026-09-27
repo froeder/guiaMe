@@ -1,8 +1,8 @@
 import type { Event, EventCategory } from '../types/event';
 import { startOfMonth, endOfMonth, addMonths, addDays, format, parseISO } from 'date-fns';
 
-const CACHE_KEY = 'sp_eventos_cache_v7';
-const CACHE_TIMESTAMP_KEY = 'sp_eventos_cache_ts_v7';
+const CACHE_KEY = 'sp_eventos_cache_v8';
+const CACHE_TIMESTAMP_KEY = 'sp_eventos_cache_ts_v8';
 const CACHE_TTL_MS = 6 * 60 * 60 * 1000; // 6 hours
 
 // ─── Utility ────────────────────────────────────────────────────────────────
@@ -830,9 +830,11 @@ function generateMockEvents(): Event[] {
     `${y}-${pad(m + 1)}-${pad(day)}T${pad(hour)}:${pad(min)}:00`;
 
   const dn = (day: number, hour = 0, min = 0) => {
-    const nextM = (m + 1) % 12;
-    const nextY = m + 1 >= 12 ? y + 1 : y;
-    return `${nextY}-${pad(nextM + 1)}-${pad(day)}T${pad(hour)}:${pad(min)}:00`;
+    // Se estivermos em setembro (m=8) ou outubro (m=9), fixa no mês de outubro (m=9)
+    // para que festivais e sazonais de outubro (Halloween, BGS, Oktoberfest) permaneçam no mês correto
+    const targetM = m <= 8 ? 9 : (m === 9 ? 9 : (m + 1) % 12);
+    const targetY = m <= 8 || m === 9 ? y : (m + 1 >= 12 ? y + 1 : y);
+    return `${targetY}-${pad(targetM + 1)}-${pad(day)}T${pad(hour)}:${pad(min)}:00`;
   };
 
   const mockData: Omit<Event, 'id'>[] = [
@@ -1400,14 +1402,17 @@ export async function fetchAllEvents(forceRefresh = false): Promise<Event[]> {
       const data = await res.json();
       const dynamicEvents = (data.events || data) as Event[];
       if (Array.isArray(dynamicEvents) && dynamicEvents.length > 0) {
-        dynamicEvents.sort((a, b) => new Date(a.date).getTime() - new Date(b.date).getTime());
+        // Combina com eventos curados/mock para garantir cobertura completa de Outubro e sazonalidades
+        const mockEvents = generateMockEvents();
+        const combined = deduplicateEvents([...dynamicEvents, ...mockEvents]);
+        combined.sort((a, b) => new Date(a.date).getTime() - new Date(b.date).getTime());
         if (typeof localStorage !== 'undefined') {
           try {
-            localStorage.setItem(CACHE_KEY, JSON.stringify(dynamicEvents));
+            localStorage.setItem(CACHE_KEY, JSON.stringify(combined));
             localStorage.setItem(CACHE_TIMESTAMP_KEY, String(Date.now()));
           } catch {}
         }
-        return dynamicEvents;
+        return combined;
       }
     }
   } catch (err) {

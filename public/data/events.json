@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-27T21:52:33.381Z",
-  "totalCount": 87,
+  "updatedAt": "2026-09-27T22:22:09.180Z",
+  "totalCount": 125,
   "sources": [
     "Veja SP",
     "Catraca Livre",
@@ -10,51 +10,7 @@
   ],
   "events": [
     {
-      "id": "5j7ffp",
-      "title": "Nostalgia sem wifi: festival gratuito reúne brincadeiras de rua e músicas dos anos 90 em São Paulo",
-      "description": "Atualização: a programação teve sua data alterada para 27 de setembro de 2026. Quando foi a última vez que você brincou de pião, taco ou rolimã com seus filhos? Essa é a proposta do Nostalgia sem Wifi, que reúne mais de 40 brincadeiras de rua, desafios e atividades no palco em 20 de setembro de [&hellip;]",
-      "category": "infantil",
-      "date": "2026-09-03T16:34:20.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/09/sp_criancas_passeio_na_rua_sem_wi_fi-3.jpg",
-      "ticketUrl": "https://saopauloparacriancas.com.br/nostalgia-sem-wifi-festival-grajau-sp/",
-      "source": "SP para Crianças",
-      "sourceUrl": "https://saopauloparacriancas.com.br/nostalgia-sem-wifi-festival-grajau-sp/",
-      "tags": [
-        "infantil",
-        "familia",
-        "criancas",
-        "sp"
-      ],
-      "featured": true
-    },
-    {
-      "id": "z8xtgd",
-      "title": "Nos cinemas em outubro: “A Princesa e o Plebeu” chega com aventura para toda a família",
-      "description": "Que tal aproveitar momentos juntos para assistir a uma aventura de fantasia no cinema? A Princesa e o Plebeu é uma animação com lançamento previsto para outubro deste ano, que acompanha uma princesa, um rei disfarçado e uma história de descobertas, humor e romance. Na trama, Carolina é uma princesa que rejeita o pedido de [&hellip;]",
-      "category": "infantil",
-      "date": "2026-09-03T21:01:02.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 35,
-      "isFree": false,
-      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/09/sp_criancas_passeio_cinema_03.jpeg",
-      "ticketUrl": "https://saopauloparacriancas.com.br/princesa-e-o-plebeu-cinema/",
-      "source": "SP para Crianças",
-      "sourceUrl": "https://saopauloparacriancas.com.br/princesa-e-o-plebeu-cinema/",
-      "tags": [
-        "infantil",
-        "familia",
-        "criancas",
-        "sp"
-      ],
-      "featured": false
-    },
-    {
-      "id": "i9d2ej",
+      "id": "13hf0r",
       "title": "AcquaVale Park é inaugurado no Sul de Minas com 11 piscinas, praia com ondas e atrações para crianças pequenas",
       "description": "Novo parque aquático do Hotel Fazenda Vale da Mantiqueira tem água climatizada, sete toboáguas, áreas cobertas e ao ar livre e estrutura pensada para diferentes idades Tem novidade para as famílias que gostam de combinar hotel fazenda e parque aquático. O AcquaVale Park já está em operação em Virgínia, no Sul de Minas Gerais, junto [&hellip;]",
       "category": "infantil",
@@ -76,7 +32,7 @@
       "featured": true
     },
     {
-      "id": "l5o0qp",
+      "id": "yspjkk",
       "title": "Cartoon Network Land em São Paulo tem Ben 10, Gumball, Meninas Superpoderosas e atrações interativas",
       "description": "Experiência no Shopping Center Norte transforma desenhos do Cartoon Network em brinquedos, games e desafios que crianças e adultos podem experimentar de verdade Quem cresceu esperando a hora de assistir Cartoon Network agora pode curtir essa experiência junto com os filhos. A Cartoon Network Land, está em cartaz no Shopping Center Norte, em São Paulo, [&hellip;]",
       "category": "infantil",
@@ -98,29 +54,7 @@
       "featured": false
     },
     {
-      "id": "h035ru",
-      "title": "Batman Day 2026 em São Paulo: veja o que já está confirmado",
-      "description": "O Batman Day 2026 acontece no sábado, 19 de setembro, com ações para fãs do Cavaleiro das Trevas em vários países. Confira as notícias sobre o evento em São Paulo! O que vai ter no Batman Day 2026? A programação oficial da DC inclui o lançamento de Batman of Two Worlds, edição especial que reúne [&hellip;]",
-      "category": "infantil",
-      "date": "2026-09-08T13:40:50.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 35,
-      "isFree": false,
-      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/09/sp_criancas_passeio_batman_day_02-1.jpeg",
-      "ticketUrl": "https://saopauloparacriancas.com.br/batman-day-2026-sp/",
-      "source": "SP para Crianças",
-      "sourceUrl": "https://saopauloparacriancas.com.br/batman-day-2026-sp/",
-      "tags": [
-        "infantil",
-        "familia",
-        "criancas",
-        "sp"
-      ],
-      "featured": false
-    },
-    {
-      "id": "4guucx",
+      "id": "qrgd24",
       "title": "Cabanas, cinema e uma noite inteira com os amigos: conheça a festa do pijama do Pullman Guarulhos",
       "description": "Que tal trocar a festa de aniversário tradicional das crianças, por uma noite de pijama com direito a cabanas, cinema e comida especial? A Festa do Pijama no Pullman Guarulhos foi pensada para crianças que querem comemorar uma data especial ou simplesmente transformar uma noite comum em uma divertida aventura com os amigos. O pacote [&hellip;]",
       "category": "infantil",
@@ -142,7 +76,7 @@
       "featured": false
     },
     {
-      "id": "nvnak8",
+      "id": "mb0yuw",
       "title": "Corrida para mulheres em SP une atividade física e networking no B2Mamy Run Like a Mother",
       "description": "Quem disse que networking precisa acontecer em uma sala de reunião? No B2Mamy Run Like a Mother, a proposta é colocar o tênis no pé e deixar as conexões acontecerem durante uma manhã de corrida, caminhada e conversa. A segunda edição do B2Mamy Run Like a Mother acontece em São Paulo no dia 26 de [&hellip;]",
       "category": "infantil",
@@ -164,29 +98,29 @@
       "featured": false
     },
     {
-      "id": "y45utw",
-      "title": "Expresso Chocolate: passeio de trem leva famílias a Paranapiacaba em outubro",
-      "description": "Que tal passar o dia em um passeio de trem com destino a Paranapiacaba? O Expresso Chocolate acontece no sábado, 10 de outubro de 2026, com saída da Estação da Luz, em São Paulo, e chegada prevista à vila de Paranapiacaba, em Santo André. Realizado pela Nova Ponte Turismo, o passeio é voltado também para [&hellip;]",
+      "id": "u6v4hi",
+      "title": "Mostra Amor ao Cinema tem programação infantil no CineSesc",
+      "description": "E se uma ida ao cinema também fosse uma oportunidade para as crianças conhecerem histórias criadas a partir da imaginação? A Mostra Amor ao Cinema terá duas sessões do CineClubinho no CineSesc, em São Paulo, com animações francesas de classificação Livre e dubladas. A programação acontece de 9 a 26 de setembro, em celebração aos [&hellip;]",
       "category": "infantil",
-      "date": "2026-09-09T13:04:39.000Z",
+      "date": "2026-09-09T10:00:00",
       "location": "São Paulo",
       "neighborhood": "São Paulo",
-      "price": 35,
-      "isFree": false,
-      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/09/sp_criancas_passeio_trem_01.jpeg",
-      "ticketUrl": "https://saopauloparacriancas.com.br/expresso-chocolate-passeio-de-trem-paranapiacaba-sp/",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/09/sp_criancas_passeio_cinesesc_01.jpeg",
+      "ticketUrl": "https://saopauloparacriancas.com.br/sesc-cinema-infantil-sp/",
       "source": "SP para Crianças",
-      "sourceUrl": "https://saopauloparacriancas.com.br/expresso-chocolate-passeio-de-trem-paranapiacaba-sp/",
+      "sourceUrl": "https://saopauloparacriancas.com.br/sesc-cinema-infantil-sp/",
       "tags": [
         "infantil",
         "familia",
         "criancas",
         "sp"
       ],
-      "featured": false
+      "featured": true
     },
     {
-      "id": "kzszut",
+      "id": "ydzehc",
       "title": "Centro para Crianças e Adolescentes (CCA): como funciona em São Paulo",
       "description": "Quem procura um espaço gratuito para crianças e adolescentes no período em que não estão na escola pode encontrar nos Centros para Crianças e Adolescentes (CCAs) uma opção da rede socioassistencial da Prefeitura de São Paulo. O serviço atende crianças e adolescentes de 6 a 14 anos e 11 meses, prioritariamente em situações de vulnerabilidade [&hellip;]",
       "category": "infantil",
@@ -208,7 +142,7 @@
       "featured": true
     },
     {
-      "id": "r39wnu",
+      "id": "yfkkz5",
       "title": "Onde dançar música latina em SP: festas, bailes e mais pra se jogar na pista",
       "description": "Do reggaeton à cumbia, conheça festas e casas de música latina em São Paulo que transformam a cidade em um pedacinho da América Latina",
       "category": "festa",
@@ -230,7 +164,7 @@
       "featured": false
     },
     {
-      "id": "7p9fvp",
+      "id": "kwde6o",
       "title": "Roteiro de rolês para dançar de segunda a domingo em SP",
       "description": "De segunda a domingo, São Paulo tem pista para todo mundo! Descubra aulas, bailes e festas pra dançar muito — do forró ao charme e à salsa.",
       "category": "festa",
@@ -252,7 +186,7 @@
       "featured": false
     },
     {
-      "id": "7cnho1",
+      "id": "npv4ze",
       "title": "Yūg: novo restaurante japonês da Vila Buarque celebra tradição com alma contemporânea",
       "description": "Com cardápio assinado pela dupla Thiago Maeda e Thiago Pereira, o Yūg traduz a essência da culinária japonesa tradicional com um toque moderno",
       "category": "gastronomia",
@@ -274,7 +208,7 @@
       "featured": false
     },
     {
-      "id": "2q9788",
+      "id": "krv49v",
       "title": "Como casal do interior de SP virou referência em queijos artesanais e ganhou 7 medalhas no maior concurso do Brasil",
       "description": "A Jeito de Mato nasceu em Fernandópolis para custear uma festa de criança — e hoje coleciona prêmios nos maiores concursos de queijos do país",
       "category": "festa",
@@ -296,7 +230,7 @@
       "featured": false
     },
     {
-      "id": "p70vjn",
+      "id": "un5ise",
       "title": "Bares e restaurantes com drinks zero álcool em SP",
       "description": "Descubra os melhores bares e restaurantes de São Paulo com drinks sem álcool. Mocktails criativos, refrescantes e cheios de personalidade te esperam!",
       "category": "gastronomia",
@@ -318,7 +252,7 @@
       "featured": false
     },
     {
-      "id": "itu4ll",
+      "id": "4ok2to",
       "title": "Museus com entrada gratuita em São Paulo: saiba como visitar",
       "description": "SP é conhecida por ter alguns dos maiores museus do país. Além de cultural, a cidade é super acessível e tem opções todos os dias para curtir de graça.  A Gira Catraca Livre tá aqui para te ajudar a aproveitar a cidade todinha, então bora para uma listona de museus com entrada gratuita em São [&hellip;]",
       "category": "exposicao",
@@ -340,73 +274,7 @@
       "featured": true
     },
     {
-      "id": "wm5w0m",
-      "title": "Festival da Lua Chinês chega à 25 de Março com atrações gratuitas e recorde de leões dançantes",
-      "description": "Já provou o Bolo da Lua? O Festival da Lua Chinês é gratuito e ocupa a 25 de Março com 100 leões dançantes, explosão cultural e muita comida boa. Vem ver!",
-      "category": "danca",
-      "date": "2026-09-09T18:53:01.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/09/festival-da-lua-chines-2026-7-scaled.jpg",
-      "ticketUrl": "https://catracalivre.com.br/gira/sp-recebe-4o-festival-da-lua-chines-na-rua-25-de-marco-sp/",
-      "source": "Catraca Livre",
-      "sourceUrl": "https://catracalivre.com.br/gira/sp-recebe-4o-festival-da-lua-chines-na-rua-25-de-marco-sp/",
-      "tags": [
-        "catracalivre",
-        "gratuito",
-        "sp",
-        "danca"
-      ],
-      "featured": true
-    },
-    {
-      "id": "nrv1vl",
-      "title": "Mostra Amor ao Cinema tem programação infantil no CineSesc",
-      "description": "E se uma ida ao cinema também fosse uma oportunidade para as crianças conhecerem histórias criadas a partir da imaginação? A Mostra Amor ao Cinema terá duas sessões do CineClubinho no CineSesc, em São Paulo, com animações francesas de classificação Livre e dubladas. A programação acontece de 9 a 26 de setembro, em celebração aos [&hellip;]",
-      "category": "infantil",
-      "date": "2026-09-09T19:21:35.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/09/sp_criancas_passeio_cinesesc_01.jpeg",
-      "ticketUrl": "https://saopauloparacriancas.com.br/sesc-cinema-infantil-sp/",
-      "source": "SP para Crianças",
-      "sourceUrl": "https://saopauloparacriancas.com.br/sesc-cinema-infantil-sp/",
-      "tags": [
-        "infantil",
-        "familia",
-        "criancas",
-        "sp"
-      ],
-      "featured": true
-    },
-    {
-      "id": "u0jrq0",
-      "title": "Grátis! Era uma vez Pocotó: história e oficina para crianças",
-      "description": "Um cavalo sonhava em fazer parte da Guarda Real, mas acabou ganhando uma missão bem diferente: brincar com uma princesa. Essa é a história de Pocotó, o Corajoso Cavalo Trovão, atração da programação infantil do Pátio Higienópolis neste domingo, 13 de setembro. A programação é gratuita e livre, indicada para crianças de qualquer idade, sempre [&hellip;]",
-      "category": "infantil",
-      "date": "2026-09-10T12:27:31.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/09/sp_criancas_passeio_higienopolis_contacao_de_historias_02.jpeg",
-      "ticketUrl": "https://saopauloparacriancas.com.br/contacao-historia-shopping-sp/",
-      "source": "SP para Crianças",
-      "sourceUrl": "https://saopauloparacriancas.com.br/contacao-historia-shopping-sp/",
-      "tags": [
-        "infantil",
-        "familia",
-        "criancas",
-        "sp"
-      ],
-      "featured": true
-    },
-    {
-      "id": "rasorp",
+      "id": "ncior4",
       "title": "Theatro Municipal comemora 115 anos com concertos gratuitos e encontro inusitado da Sinfônica com Marcos &#038; Belutti!",
       "description": "Theatro Municipal faz 115 anos e ganha festa de graça com sertanejo orquestrado, MPB e ópera. Veja os horários e como retirar seu ingresso!",
       "category": "festa",
@@ -428,7 +296,7 @@
       "featured": true
     },
     {
-      "id": "fqlg6j",
+      "id": "rpxbfu",
       "title": "Dinos Alive: exposição com mais de 80 dinossauros chega a Curitiba",
       "description": "Já imaginou dar de cara com um T-Rex durante um passeio em família? É essa a proposta do Dinos Alive: Uma Experiência Imersiva, exposição que está em cartaz no Jockey Plaza Shopping, em Curitiba, por tempo limitado. Indicada para crianças e adultos, a atração dura aproximadamente 60 minutos e reúne réplicas animadas em tamanho real, [&hellip;]",
       "category": "infantil",
@@ -450,29 +318,29 @@
       "featured": false
     },
     {
-      "id": "f3ktdb",
-      "title": "Festival Forró das Minas ocupa o Tendal da Lapa com shows grátis, feira autoral e espaço kids!",
-      "description": "3º Festival Forró das Minas chega ao Tendal da Lapa nos dias 19 e 20 de setembro! Tem Anastácia, Alessandra Leão, feira 0800 e aulas de dança. Vem ver!",
-      "category": "musica",
-      "date": "2026-09-14T12:18:37.000Z",
+      "id": "c0i7se",
+      "title": "Grátis! Era uma vez Pocotó: história e oficina para crianças",
+      "description": "Um cavalo sonhava em fazer parte da Guarda Real, mas acabou ganhando uma missão bem diferente: brincar com uma princesa. Essa é a história de Pocotó, o Corajoso Cavalo Trovão, atração da programação infantil do Pátio Higienópolis neste domingo, 13 de setembro. A programação é gratuita e livre, indicada para crianças de qualquer idade, sempre [&hellip;]",
+      "category": "infantil",
+      "date": "2026-09-13T10:00:00",
       "location": "São Paulo",
       "neighborhood": "São Paulo",
       "price": 0,
       "isFree": true,
-      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/09/forro-das-minas-2-1-e1789388291176.png",
-      "ticketUrl": "https://catracalivre.com.br/gira/festival-forro-das-minas-ocupa-o-tendal-da-lapa-com-shows-gratis-feira-autoral-e-espaco-kids/",
-      "source": "Catraca Livre",
-      "sourceUrl": "https://catracalivre.com.br/gira/festival-forro-das-minas-ocupa-o-tendal-da-lapa-com-shows-gratis-feira-autoral-e-espaco-kids/",
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/09/sp_criancas_passeio_higienopolis_contacao_de_historias_02.jpeg",
+      "ticketUrl": "https://saopauloparacriancas.com.br/contacao-historia-shopping-sp/",
+      "source": "SP para Crianças",
+      "sourceUrl": "https://saopauloparacriancas.com.br/contacao-historia-shopping-sp/",
       "tags": [
-        "catracalivre",
-        "gratuito",
-        "sp",
-        "musica"
+        "infantil",
+        "familia",
+        "criancas",
+        "sp"
       ],
       "featured": true
     },
     {
-      "id": "pxgic0",
+      "id": "abdfg0",
       "title": "‘Valsa nº 6’, clássico de Nelson Rodrigues, ganha montagem intimista e visceral no Teatro Sérgio Cardoso",
       "description": "Com direção de Jorge Farjalla e atuação de Carol Costa, “Valsa nº 6” volta ao Teatro Sérgio Cardoso para curta temporada em formato de arena.",
       "category": "teatro",
@@ -494,7 +362,7 @@
       "featured": false
     },
     {
-      "id": "fo8l95",
+      "id": "j7p9qq",
       "title": "Parque Villa-Lobos ganha exposição gratuita com obras gigantes e interativas para a criançada!",
       "description": "Com entrada 0800 no Parque Villa-Lobos, a 15ª Mostra 3M de Arte traz o tema “A Cidade das Crianças” com obras inéditas e brincadeiras para a família.",
       "category": "exposicao",
@@ -516,7 +384,7 @@
       "featured": true
     },
     {
-      "id": "umgvb",
+      "id": "i7222s",
       "title": "Pela primeira vez em SP, Edwin Luisi vive 20 personagens no aclamado espetáculo ‘Eu Sou Minha Própria Mulher’",
       "description": "Conheça a história da travesti alemã que desafiou a história em “Eu Sou Minha Própria Mulher”, com Edwin Luisi no Teatro FAAP",
       "category": "teatro",
@@ -538,7 +406,7 @@
       "featured": false
     },
     {
-      "id": "9sh2fu",
+      "id": "l5c5cr",
       "title": "Olivier Anquier abre centro cultural no centro de SP com exposição gratuita de suas fotografias pelo Brasil",
       "description": "O Arquivo Anquier recheia a Praça da República com arte, memórias e cultura popular brasileira. Exposição aberta de quarta a domingo. Saiba mais!",
       "category": "musica",
@@ -560,7 +428,7 @@
       "featured": true
     },
     {
-      "id": "8i4gdi",
+      "id": "ekaoxd",
       "title": "Ocupação Itaú Cultural homenageia Anísio Teixeira, o patrono da escola pública brasileira",
       "description": "Conheça a vida do criador da escola pública brasileira! O Itaú Cultural recebe mostra gratuita recheada de memórias e acervo inédito. Saiba mais!",
       "category": "exposicao",
@@ -582,7 +450,7 @@
       "featured": true
     },
     {
-      "id": "93agvy",
+      "id": "mcffsj",
       "title": "Festival Burger Gourmet traz combos completos de hambúrguer artesanal a partir de R$ 49,90 em SP",
       "description": "Hambúrguer, acompanhamento e bebida geladinha por preço fixo! O 9º Burger Gourmet reúne mais de 30 hamburguerias em SP. Confira os participantes!",
       "category": "exposicao",
@@ -604,7 +472,7 @@
       "featured": false
     },
     {
-      "id": "legjcx",
+      "id": "asgze2",
       "title": "Casa de Cultura do Parque tem mês recheado de exposições, oficinas e encontros grátis no Alto de Pinheiros",
       "description": "Arte, oficinas para bebês e aulas para o vestibular! Confirme sua presença no mês gratuito da Casa de Cultura do Parque no Alto de Pinheiros.",
       "category": "exposicao",
@@ -626,7 +494,7 @@
       "featured": true
     },
     {
-      "id": "d61l2m",
+      "id": "yg3zte",
       "title": "Exposição inédita celebrando os 90 anos de Luis Fernando Verissimo ocupa o Centro Cultural FIESP na Paulista",
       "description": "Rolê 0800 imperdível na Paulista! A mostra “Traçando Verissimo” reúne mais de 300 relíquias inéditas, desenhos e charges no Centro Cultural FIESP.",
       "category": "exposicao",
@@ -648,7 +516,7 @@
       "featured": true
     },
     {
-      "id": "wkamri",
+      "id": "vjjvqv",
       "title": "Feira Sabor Nacional ocupa a Cinemateca com 100 pequenos produtores, espaço de botecos, shows e cinema",
       "description": "Coma bem e apoie pequenos produtores! A Feira Sabor Nacional invade a Cinemateca com pratos incríveis, drinks de boteco e atrações pra família toda.",
       "category": "musica",
@@ -670,7 +538,7 @@
       "featured": false
     },
     {
-      "id": "l7xjzd",
+      "id": "ibgfk2",
       "title": "Última chance! ‘Rita Lee, Uma Autobiografia Musical’ se despede de SP com Mel Lisboa no Teatro Porto",
       "description": "Inspirado no livro de memórias da rainha do rock, o musical premiado promete arrancar risos e lágrimas no Teatro Porto. Garanta seu lugar!",
       "category": "musica",
@@ -692,51 +560,7 @@
       "featured": false
     },
     {
-      "id": "wkwyz7",
-      "title": "Encontro com princesas tem desfile e coroação de crianças em SP",
-      "description": "Quem tem uma pequena princesa ou um pequeno príncipe em casa terá um programa diferente para os próximos fins de semana em São Paulo. Encontro de “Princesas – em um grande chá” chega ao Morumbi Town Shopping nos dias 19, 20, 26 e 27 de setembro, com uma experiência de uma hora que reúne lanche, músicas, [&hellip;]",
-      "category": "infantil",
-      "date": "2026-09-15T16:01:08.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 35,
-      "isFree": false,
-      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/09/sp_criancas_passeio_cha_das_princesas_01-1.jpg",
-      "ticketUrl": "https://saopauloparacriancas.com.br/cha-das-princesas-sp/",
-      "source": "SP para Crianças",
-      "sourceUrl": "https://saopauloparacriancas.com.br/cha-das-princesas-sp/",
-      "tags": [
-        "infantil",
-        "familia",
-        "criancas",
-        "sp"
-      ],
-      "featured": false
-    },
-    {
-      "id": "f7einl",
-      "title": "LEGO PET DAY CARE no Pátio Paulista: passeio gratuito permite criar pets com peças LEGO",
-      "description": "E se seu filho pudesse criar um bichinho, escolher onde ele vai viver e ainda cuidar dele usando peças LEGO®? Essa é a proposta do LEGO® PET DAY CARE, que chega pela primeira vez a São Paulo em 18 de setembro. A atração ocupa o Piso Jardins do Shopping Pátio Paulista, na Bela Vista, e [&hellip;]",
-      "category": "infantil",
-      "date": "2026-09-15T17:54:42.000Z",
-      "location": "Bela Vista",
-      "neighborhood": "Bela Vista",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-22-at-18.13.15.jpeg",
-      "ticketUrl": "https://saopauloparacriancas.com.br/lego-pet-day-care-sp/",
-      "source": "SP para Crianças",
-      "sourceUrl": "https://saopauloparacriancas.com.br/lego-pet-day-care-sp/",
-      "tags": [
-        "infantil",
-        "familia",
-        "criancas",
-        "sp"
-      ],
-      "featured": true
-    },
-    {
-      "id": "vi6czi",
+      "id": "crdxpz",
       "title": "Festival gratuito no Bom Retiro traz Duda Beat, Demônios da Garoa e feira de arte para o centro de SP",
       "description": "Rolê 0800 imperdível! Duda Beat, Demônios da Garoa, feira com 90 artistas e oficinas ocupam o Arquivo Histórico Municipal. Confira a programação!",
       "category": "exposicao",
@@ -758,7 +582,7 @@
       "featured": true
     },
     {
-      "id": "daqrbp",
+      "id": "1g0a5x",
       "title": "Peppa Pig, Play-Doh e Transformers juntos? Experiência da Hasbro transforma shopping de SP em vila de brincadeiras",
       "description": "Tem poça de lama, pizza de massinha, espelhos mágicos, arco-íris e desafios de pontaria. No Family Fest by Hasbro, Experiencia Familiar Inmersiva, as crianças recebem um passaporte e partem para uma missão por sete cenários inspirados em personagens e marcas como Peppa Pig, My Little Pony, Furby e Transformers. A atração acontece no Shopping Eldorado, [&hellip;]",
       "category": "infantil",
@@ -780,7 +604,7 @@
       "featured": false
     },
     {
-      "id": "qlee10",
+      "id": "mvbki7",
       "title": "O que fazer em São Paulo com chuva: 11 rolês incríveis para curtir sem perrengue",
       "description": "Procurando o que fazer em São Paulo quando chove? Descubra atrações cobertas, shows, cinemas de rua, cafeterias e rodas de samba para curtir a cidade sem passar perrengue.",
       "category": "musica",
@@ -802,29 +626,7 @@
       "featured": false
     },
     {
-      "id": "gav4dy",
-      "title": "O Reino dos Jogos de Madeira reúne mais de 20 atrações gratuitas em shopping de São Paulo",
-      "description": "E se uma tarde no shopping também pudesse virar uma viagem por brincadeiras de diferentes culturas? É essa a proposta de O Reino dos Jogos de Madeira, atração gratuita que ocupa o Shopping Parque da Cidade, na Zona Sul de São Paulo, até 27 de setembro de 2026. A experiência reúne mais de 20 jogos [&hellip;]",
-      "category": "infantil",
-      "date": "2026-09-17T17:06:44.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/09/sp_criancas_passeios_jogos_de_madeira_01.jpeg",
-      "ticketUrl": "https://saopauloparacriancas.com.br/o-reino-dos-jogos-de-madeira-sp/",
-      "source": "SP para Crianças",
-      "sourceUrl": "https://saopauloparacriancas.com.br/o-reino-dos-jogos-de-madeira-sp/",
-      "tags": [
-        "infantil",
-        "familia",
-        "criancas",
-        "sp"
-      ],
-      "featured": true
-    },
-    {
-      "id": "uxf2ku",
+      "id": "j8yj4e",
       "title": "Uma Festa no Castelo: TUCCA leva circo e orquestra para espetáculo infantil em SP",
       "description": "E se uma bruxa precisasse preparar uma festa de aniversário antes que um conde vampiro acordasse? Essa é a situação de Uma Festa no Castelo, espetáculo da série Aprendiz de Maestro, do TUCCA Música pela Cura, que combina teatro, circo e orquestra. Com classificação livre, a montagem terá apresentações nos dias 19 e 20 de [&hellip;]",
       "category": "infantil",
@@ -846,29 +648,95 @@
       "featured": true
     },
     {
-      "id": "6kwo0h",
-      "title": "Parque Trianon recebe exposição gratuita que mistura fotografia e espelhos",
-      "description": "Com curadoria de Marcello Dantas, a artista Betina Samaia instala obras ao ar livre no coração da Avenida Paulista a partir de 26 de setembro",
-      "category": "exposicao",
-      "date": "2026-09-20T11:00:46.000Z",
+      "id": "cpp0yf",
+      "title": "LEGO PET DAY CARE no Pátio Paulista: passeio gratuito permite criar pets com peças LEGO",
+      "description": "E se seu filho pudesse criar um bichinho, escolher onde ele vai viver e ainda cuidar dele usando peças LEGO®? Essa é a proposta do LEGO® PET DAY CARE, que chega pela primeira vez a São Paulo em 18 de setembro. A atração ocupa o Piso Jardins do Shopping Pátio Paulista, na Bela Vista, e [&hellip;]",
+      "category": "infantil",
+      "date": "2026-09-18T10:00:00",
       "location": "Bela Vista",
       "neighborhood": "Bela Vista",
       "price": 0,
       "isFree": true,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/09/expo_Trianon.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/parque-trianon-recebe-exposicao-gratuita-que-mistura-fotografia-e-espelhos/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/parque-trianon-recebe-exposicao-gratuita-que-mistura-fotografia-e-espelhos/",
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-22-at-18.13.15.jpeg",
+      "ticketUrl": "https://saopauloparacriancas.com.br/lego-pet-day-care-sp/",
+      "source": "SP para Crianças",
+      "sourceUrl": "https://saopauloparacriancas.com.br/lego-pet-day-care-sp/",
       "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "exposicao"
+        "infantil",
+        "familia",
+        "criancas",
+        "sp"
       ],
       "featured": true
     },
     {
-      "id": "b7h2mr",
+      "id": "kzyudj",
+      "title": "Batman Day 2026 em São Paulo: veja o que já está confirmado",
+      "description": "O Batman Day 2026 acontece no sábado, 19 de setembro, com ações para fãs do Cavaleiro das Trevas em vários países. Confira as notícias sobre o evento em São Paulo! O que vai ter no Batman Day 2026? A programação oficial da DC inclui o lançamento de Batman of Two Worlds, edição especial que reúne [&hellip;]",
+      "category": "infantil",
+      "date": "2026-09-19T10:00:00",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 35,
+      "isFree": false,
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/09/sp_criancas_passeio_batman_day_02-1.jpeg",
+      "ticketUrl": "https://saopauloparacriancas.com.br/batman-day-2026-sp/",
+      "source": "SP para Crianças",
+      "sourceUrl": "https://saopauloparacriancas.com.br/batman-day-2026-sp/",
+      "tags": [
+        "infantil",
+        "familia",
+        "criancas",
+        "sp"
+      ],
+      "featured": false
+    },
+    {
+      "id": "6y59ov",
+      "title": "Festival Forró das Minas ocupa o Tendal da Lapa com shows grátis, feira autoral e espaço kids!",
+      "description": "3º Festival Forró das Minas chega ao Tendal da Lapa nos dias 19 e 20 de setembro! Tem Anastácia, Alessandra Leão, feira 0800 e aulas de dança. Vem ver!",
+      "category": "musica",
+      "date": "2026-09-20T10:00:00",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/09/forro-das-minas-2-1-e1789388291176.png",
+      "ticketUrl": "https://catracalivre.com.br/gira/festival-forro-das-minas-ocupa-o-tendal-da-lapa-com-shows-gratis-feira-autoral-e-espaco-kids/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/festival-forro-das-minas-ocupa-o-tendal-da-lapa-com-shows-gratis-feira-autoral-e-espaco-kids/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
+        "sp",
+        "musica"
+      ],
+      "featured": true
+    },
+    {
+      "id": "s9q2m8",
+      "title": "Nostalgia sem wifi: festival gratuito reúne brincadeiras de rua e músicas dos anos 90 em São Paulo",
+      "description": "Atualização: a programação teve sua data alterada para 27 de setembro de 2026. Quando foi a última vez que você brincou de pião, taco ou rolimã com seus filhos? Essa é a proposta do Nostalgia sem Wifi, que reúne mais de 40 brincadeiras de rua, desafios e atividades no palco em 20 de setembro de [&hellip;]",
+      "category": "infantil",
+      "date": "2026-09-20T10:00:00",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/09/sp_criancas_passeio_na_rua_sem_wi_fi-3.jpg",
+      "ticketUrl": "https://saopauloparacriancas.com.br/nostalgia-sem-wifi-festival-grajau-sp/",
+      "source": "SP para Crianças",
+      "sourceUrl": "https://saopauloparacriancas.com.br/nostalgia-sem-wifi-festival-grajau-sp/",
+      "tags": [
+        "infantil",
+        "familia",
+        "criancas",
+        "sp"
+      ],
+      "featured": true
+    },
+    {
+      "id": "2mhnqr",
       "title": "Presley Gerber, modelo e filho de Cindy Crawford, morre aos 27 anos",
       "description": "Filho da supermodelo e do empresário Rande Gerber faleceu em uma clínica de reabilitação em Los Angeles; causa da morte não foi divulgada",
       "category": "cultura",
@@ -890,7 +758,7 @@
       "featured": false
     },
     {
-      "id": "wbj6vd",
+      "id": "85w0b0",
       "title": "Arquivo Histórico Municipal realiza festival gratuito com Duda Beat e Demônios da Garoa",
       "description": "Evento no Edifício Ramos de Azevedo, no Bom Retiro, reúne oficinas, debates, intervenções artísticas e shows ao ar livre entre quinta (24) e sábado (26)",
       "category": "musica",
@@ -912,7 +780,7 @@
       "featured": true
     },
     {
-      "id": "a4otf6",
+      "id": "beb4fb",
       "title": "Exposição gratuita para crianças chega ao Parque Villa-Lobos",
       "description": "Mostra 3M de Arte inaugura sua 15ª edição com obras interativas voltadas para os pequenos",
       "category": "exposicao",
@@ -934,7 +802,7 @@
       "featured": true
     },
     {
-      "id": "8echiv",
+      "id": "4j7s24",
       "title": "Brasil Jazz Sinfônica apresenta concerto no Teatro Franco Zampari",
       "description": "Sob regência de João Maurício Galindo, orquestra toca obras de Edu Lobo, Chico Buarque e Pixinguinha, além de trabalhos originais",
       "category": "musica",
@@ -956,29 +824,7 @@
       "featured": true
     },
     {
-      "id": "y7s8yl",
-      "title": "29º Cultura Inglesa Festival reúne shows, teatro e cinema em São Paulo com atrações gratuitas",
-      "description": "Programação gratuita ocorre de 21 a 31 de outubro com nomes como Agnes Nunes e Louise Orwin",
-      "category": "musica",
-      "date": "2026-09-21T20:37:46.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/09/AGNES_NUNES_0414_FINAL_02-1.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/29o-cultura-inglesa-festival-reune-shows-teatro-e-cinema-em-sao-paulo-com-atracoes-gratuitas/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/29o-cultura-inglesa-festival-reune-shows-teatro-e-cinema-em-sao-paulo-com-atracoes-gratuitas/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "musica"
-      ],
-      "featured": true
-    },
-    {
-      "id": "g55694",
+      "id": "d447h4",
       "title": "Mostras Regionais de Dança reúnem 11 companhias paulistas com espetáculos gratuitos",
       "description": "Programação passa por dez municípios entre outubro e novembro",
       "category": "teatro",
@@ -1000,51 +846,7 @@
       "featured": true
     },
     {
-      "id": "jh9llx",
-      "title": "Pé de Sonho leva Duo Badulaque ao Teatro Bradesco em show para crianças em SP",
-      "description": "Do Tiranossauro Rex ao Sistema Solar, o Pé de Sonho transforma o palco em uma viagem por músicas, bichos e histórias. A apresentação acontece em 18 de outubro de 2026, às 15h, no Teatro Bradesco, em São Paulo, como parte da programação da Semana das Crianças, com participação especial do Duo Badulaque. Com classificação livre, [&hellip;]",
-      "category": "infantil",
-      "date": "2026-09-22T13:07:58.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/09/sp_criancas_passeio_pe_de_sonho_01.jpeg",
-      "ticketUrl": "https://saopauloparacriancas.com.br/pe-de-sonho-teatro-sp/",
-      "source": "SP para Crianças",
-      "sourceUrl": "https://saopauloparacriancas.com.br/pe-de-sonho-teatro-sp/",
-      "tags": [
-        "infantil",
-        "familia",
-        "criancas",
-        "sp"
-      ],
-      "featured": true
-    },
-    {
-      "id": "ge93ez",
-      "title": "1º Festival Asiático do Memorial traz 80 barracas de comida de rua, K-pop e atrações grátis na Barra Funda",
-      "description": "Memorial da América Latina recebe o 1º Festival Asiático nos dias 26 e 27 de setembro. Evento celebra a cultura coreana e japonesa com gastronomia e atrações gratuitas.",
-      "category": "musica",
-      "date": "2026-09-22T14:19:42.000Z",
-      "location": "Barra Funda",
-      "neighborhood": "Barra Funda",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/09/1o-festival-asiatico-do-memorial-traz-80-barracas-de-comida-de-rua-k-pop-e-atracoes-gratis-na-barra.jpg",
-      "ticketUrl": "https://catracalivre.com.br/gira/1o-festival-asiatico-do-memorial-da-america-latina-sp/",
-      "source": "Catraca Livre",
-      "sourceUrl": "https://catracalivre.com.br/gira/1o-festival-asiatico-do-memorial-da-america-latina-sp/",
-      "tags": [
-        "catracalivre",
-        "gratuito",
-        "sp",
-        "musica"
-      ],
-      "featured": true
-    },
-    {
-      "id": "7jk6eo",
+      "id": "zew8w5",
       "title": "Pitty lança ‘Sobremesa’, primeiro single de seu novo álbum solo após hiato de sete anos",
       "description": "Com guitarras em primeiro plano e letra irônica, faixa antecipa o disco ‘PITTY’, previsto para outubro",
       "category": "cultura",
@@ -1066,7 +868,7 @@
       "featured": false
     },
     {
-      "id": "q21p7f",
+      "id": "cr09lc",
       "title": "Satyrianas 2026: maratona cultural gratuita reúne Mel Lisboa, Carmo Dalla Vecchia e 400 atrações na Praça Roosevelt",
       "description": "78 horas de arte ininterruptas! A 27ª edição das Satyrianas traz leituras com Mel Lisboa e Carmo Dalla Vecchia, teatro, cinema e atrações infantis. Confira!",
       "category": "teatro",
@@ -1088,7 +890,7 @@
       "featured": true
     },
     {
-      "id": "51gnmo",
+      "id": "17ckiz",
       "title": "Vozes da MPB na ZL: Luedji Luna faz show gratuito no Sesc Itaquera neste domingo",
       "description": "Quer curtir MPB de graça neste domingo? Luedji Luna se apresenta no Sesc Itaquera no clássico programa Bem Brasil da TV Cultura. Vem ver!",
       "category": "musica",
@@ -1110,7 +912,7 @@
       "featured": true
     },
     {
-      "id": "14exy8",
+      "id": "io12vp",
       "title": "CCBB SP recebe mostra gratuita da Cinemateca Brasileira com 36 clássicos do cinema nacional",
       "description": "Mostra gratuita no CCBB SP reúne 36 filmes marcantes do cinema brasileiro, incluindo obras de Glauber Rocha e Mário Peixoto. Confira a programação!",
       "category": "tecnologia",
@@ -1132,7 +934,7 @@
       "featured": true
     },
     {
-      "id": "3z93t7",
+      "id": "fpm8ju",
       "title": "O caminho da água depois do ralo: museu recebe experiência interativa para crianças",
       "description": "‘Missão Rio Limpo’, no Museu da Imaginação, oferece atração imersiva em um passeio pelo ciclo do saneamento",
       "category": "exposicao",
@@ -1154,7 +956,7 @@
       "featured": true
     },
     {
-      "id": "tteqxh",
+      "id": "9x3s9i",
       "title": "Com Gregorio Duvivier, ‘O Céu da Língua’ volta a São Paulo para curta temporada no Espaço Unimed",
       "description": "Um stand-up refinado e hilário sobre como tropeçamos na poesia todo dia! Gregorio Duvivier volta a SP com a comédia premiada “O Céu da Língua”. Confira datas e ingressos.",
       "category": "teatro",
@@ -1176,29 +978,7 @@
       "featured": false
     },
     {
-      "id": "sqz78w",
-      "title": "Circo Di Napoli fica em Osasco até 4 de outubro",
-      "description": "O Circo Di Napoli está em temporada em Osasco, na Grande São Paulo, até 4 de outubro. Instalado no estacionamento do Carrefour Vila Yara, o espetáculo reúne números de acrobacia, malabarismo, mágica, palhaços e atrações como o Globo da Morte e o Flecha Humana. As apresentações acontecem de terça a sexta-feira, às 20h30; aos sábados, [&hellip;]",
-      "category": "infantil",
-      "date": "2026-09-22T19:02:06.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 35,
-      "isFree": false,
-      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/09/sp_criancas_passeios_circo_di_napoli_02.jpeg",
-      "ticketUrl": "https://saopauloparacriancas.com.br/circo-di-napoli-sp/",
-      "source": "SP para Crianças",
-      "sourceUrl": "https://saopauloparacriancas.com.br/circo-di-napoli-sp/",
-      "tags": [
-        "infantil",
-        "familia",
-        "criancas",
-        "sp"
-      ],
-      "featured": false
-    },
-    {
-      "id": "zgpscc",
+      "id": "hpaj24",
       "title": "Andreas Kisser faz show gratuito no Jardim Suspenso do CCSP",
       "description": "Guitarrista do Sepultura mostra projeto acústico neste sábado (26); evento ao ar livre PRISMA também reúne performance visual, DJs e cinema",
       "category": "musica",
@@ -1220,7 +1000,7 @@
       "featured": true
     },
     {
-      "id": "itgy7d",
+      "id": "yw2rw7",
       "title": "Portugal além do óbvio: o que descobrir em Porto e Lisboa",
       "description": "Confira dicas de gastronomia e cultura nas duas cidades para uma viagem diferente pelos dois principais destinos turísticos de Portugal",
       "category": "gastronomia",
@@ -1242,51 +1022,7 @@
       "featured": false
     },
     {
-      "id": "cb9hlr",
-      "title": "Ocean Alley anuncia show em São Paulo; confira data, local e ingressos",
-      "description": "Sexteto se apresenta na Audio em 8 de novembro com a turnê do álbum ‘Love Balloon’; ingressos estão à venda",
-      "category": "musica",
-      "date": "2026-09-23T15:44:17.000Z",
-      "location": "Barra Funda",
-      "neighborhood": "Barra Funda",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/09/OA_LD_-_Primary_Press_Shot.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/ocean-alley-anuncia-show-em-sao-paulo-confira-data-local-e-ingressos/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/ocean-alley-anuncia-show-em-sao-paulo-confira-data-local-e-ingressos/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "musica"
-      ],
-      "featured": true
-    },
-    {
-      "id": "itcbff",
-      "title": "Cine na Praça promove especial de Halloween gratuito no Jardim Suspenso do CCSP em outubro",
-      "description": "Cinema de graça ao ar livre! O Cine na Praça exibe 15 filmes de terror no CCSP com concurso de fantasias e microfone aberto. Confira a lista completa!",
-      "category": "festa",
-      "date": "2026-09-23T16:50:23.000Z",
-      "location": "Butantã",
-      "neighborhood": "Butantã",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/09/5-curiosidades-sobre-o-iluminado-que-completa-45-anos-em-2025.jpg",
-      "ticketUrl": "https://catracalivre.com.br/gira/cine-na-praca-promove-especial-de-halloween-gratuito-no-jardim-suspenso-do-ccsp-em-outubro/",
-      "source": "Catraca Livre",
-      "sourceUrl": "https://catracalivre.com.br/gira/cine-na-praca-promove-especial-de-halloween-gratuito-no-jardim-suspenso-do-ccsp-em-outubro/",
-      "tags": [
-        "catracalivre",
-        "gratuito",
-        "sp",
-        "festa"
-      ],
-      "featured": true
-    },
-    {
-      "id": "wdjv3s",
+      "id": "hfc1tp",
       "title": "Jão estreia nova turnê com palco 360° no Nubank Parque; confira guia completo",
       "description": "Apresentação do álbum ‘Memórias Póstumas’ acontece nesta sexta-feira (25)",
       "category": "teatro",
@@ -1308,7 +1044,7 @@
       "featured": false
     },
     {
-      "id": "i5fanu",
+      "id": "4w09v3",
       "title": "Comédia de terror brasileira ‘Privadas de Suas Vidas’ é premiada no Festival de Brasília",
       "description": "Longa estrelado por Martha Nowill mistura gore e humor ácido; produção foi reconhecida nas categorias de Melhor Atriz, Atriz Coadjuvante e Direção de Arte",
       "category": "festa",
@@ -1330,29 +1066,7 @@
       "featured": false
     },
     {
-      "id": "jzt4h3",
-      "title": "Com quatro dias de programação grátis, Festival Nordeste em Cena estreia em SP",
-      "description": "O festival reúne música, artes cênicas e gastronomia no centro de São Paulo. De 9 a 12 de outubro, o iBT recebe atrações nordestinas gratuitas.",
-      "category": "musica",
-      "date": "2026-09-23T18:09:47.000Z",
-      "location": "Centro Histórico",
-      "neighborhood": "Centro Histórico",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/09/saveclipapp-590421822-18545827780012328-7335183066162547201-n-e1790186984319.webp",
-      "ticketUrl": "https://catracalivre.com.br/gira/centro-cultural-ibt-e-banco-do-nordeste-apresentam-o-festival-nordeste-em-cena-2026-sp/",
-      "source": "Catraca Livre",
-      "sourceUrl": "https://catracalivre.com.br/gira/centro-cultural-ibt-e-banco-do-nordeste-apresentam-o-festival-nordeste-em-cena-2026-sp/",
-      "tags": [
-        "catracalivre",
-        "gratuito",
-        "sp",
-        "musica"
-      ],
-      "featured": true
-    },
-    {
-      "id": "56emih",
+      "id": "1x32qk",
       "title": "Com pistas de skate de Bob Burnquist e shows para 5 mil pessoas, SESI Itaquera abre as portas",
       "description": "O novo Centro Cultural SESI Itaquera abre as portas com pistas padrão olímpico, teatro gigante, artes visuais e quadras esportivas 100% gratuitas na Zona Leste.",
       "category": "musica",
@@ -1374,7 +1088,7 @@
       "featured": true
     },
     {
-      "id": "yo1jki",
+      "id": "kp8515",
       "title": "Solar da Marquesa de Santos tem oficina gratuita de HQ",
       "description": "Atividade do Museu da Cidade integra a 20ª Primavera dos Museus e ensina o público a criar quadrinhos sobre memórias e populações invisibilizadas de São Paulo",
       "category": "musica",
@@ -1396,7 +1110,7 @@
       "featured": true
     },
     {
-      "id": "e29ikw",
+      "id": "ge96u3",
       "title": "Campo de Marte recebe Domingo Aéreo com Esquadrilha da Fumaça e entrada grátis",
       "description": "Tradicional evento paulistano ocorre domingo (27) com manobras no céu, exposição de caças, carros de drift e simuladores de voo",
       "category": "exposicao",
@@ -1418,29 +1132,7 @@
       "featured": true
     },
     {
-      "id": "c8bk5e",
-      "title": "Hilary Duff anuncia show em SP em 2027 após 18 anos; confira datas e ingressos",
-      "description": "Apresentação única acontece em 13 de agosto de 2027 no Espaço Unimed",
-      "category": "musica",
-      "date": "2026-09-24T14:41:26.000Z",
-      "location": "Barra Funda",
-      "neighborhood": "Barra Funda",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/09/Hilary_Duff_Small_Rooms_Big_Nerves_tour_-_February_15_2026_2.png",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/hilary-duff-anuncia-show-em-sp-em-2027-apos-18-anos-confira-datas-e-ingressos/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/hilary-duff-anuncia-show-em-sp-em-2027-apos-18-anos-confira-datas-e-ingressos/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "musica"
-      ],
-      "featured": true
-    },
-    {
-      "id": "y894f6",
+      "id": "c2jhgp",
       "title": "Galeria Ibehas inaugura em SP com exposições de arte sonora imersiva na Barra Funda",
       "description": "Com 205 caixas acústicas e nenhum estímulo visual, a galeria sonora Ibehas inaugura na Barra Funda propondo uma imersão sensorial inédita na cidade",
       "category": "exposicao",
@@ -1462,7 +1154,7 @@
       "featured": true
     },
     {
-      "id": "ek08fr",
+      "id": "pfpill",
       "title": "‘Resident Evil’: a receita perfeita para uma comédia de terror",
       "description": "Do mesmo diretor de ‘A Hora do Mal’, o longa estrelado por Austin Abrams acompanha um entregador em uma jornada repleta de criaturas mutantes",
       "category": "festa",
@@ -1484,7 +1176,7 @@
       "featured": false
     },
     {
-      "id": "xdgpqt",
+      "id": "rv2lf9",
       "title": "Mural SP: Lucia Laguna",
       "description": "A artista morreu na última segunda-feira (21), aos 85 anos",
       "category": "gastronomia",
@@ -1506,7 +1198,7 @@
       "featured": false
     },
     {
-      "id": "4u2ezv",
+      "id": "vy52i2",
       "title": "Sandy e Junior anunciam novo projeto juntos em São Paulo para 2027",
       "description": "Irmãos pegaram os fãs de surpresa com postagem nas redes sociais; detalhes da novidade serão revelados em novembro",
       "category": "cultura",
@@ -1528,51 +1220,7 @@
       "featured": false
     },
     {
-      "id": "qgoeez",
-      "title": "Hotel em São Roque transforma crianças em Guardiões da Floresta no feriado do Dia das Crianças",
-      "description": "Que tal trocar a rotina da cidade por uma verdadeira missão na floresta? No feriado do Dia das Crianças, o Hotel Villa Rossa, em São Roque, a cerca de 50 quilômetros de São Paulo, prepara uma programação especial que transforma os pequenos hóspedes em Guardiões da Floresta. Diversão no feriado do Dia das Crianças A [&hellip;]",
-      "category": "infantil",
-      "date": "2026-09-25T17:19:39.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 35,
-      "isFree": false,
-      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2020/11/sp_criancas_villa-rossa-hotel-1.jpg",
-      "ticketUrl": "https://saopauloparacriancas.com.br/hotel-villa-rossa-sao-roque-sp/",
-      "source": "SP para Crianças",
-      "sourceUrl": "https://saopauloparacriancas.com.br/hotel-villa-rossa-sao-roque-sp/",
-      "tags": [
-        "infantil",
-        "familia",
-        "criancas",
-        "sp"
-      ],
-      "featured": false
-    },
-    {
-      "id": "jkh1lm",
-      "title": "Para os fãs de terror: Edifício Rolim anuncia programação de Halloween e lança nova atração imersiva",
-      "description": "Prédio centenário no centro de São Paulo lança escape room focado em investigação e cria experiências inéditas para a temporada de Dia das Bruxas",
-      "category": "festa",
-      "date": "2026-09-25T17:26:11.000Z",
-      "location": "Centro Histórico",
-      "neighborhood": "Centro Histórico",
-      "price": 25,
-      "isFree": false,
-      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/09/25fe3bfe-7cf5-4114-80dc-d5236b716914.png",
-      "ticketUrl": "https://catracalivre.com.br/gira/para-os-fas-de-terror-edificio-rolim-anuncia-programacao-de-halloween-e-lanca-nova-atracao-imersiva/",
-      "source": "Catraca Livre",
-      "sourceUrl": "https://catracalivre.com.br/gira/para-os-fas-de-terror-edificio-rolim-anuncia-programacao-de-halloween-e-lanca-nova-atracao-imersiva/",
-      "tags": [
-        "catracalivre",
-        "gratuito",
-        "sp",
-        "festa"
-      ],
-      "featured": false
-    },
-    {
-      "id": "2734r4",
+      "id": "4wvbzk",
       "title": "Renner se manifesta pela primeira vez após morte de Rick: ‘O show não pode parar’",
       "description": "Sertanejo gravou depoimento nas redes sociais após o sepultamento do parceiro em Sorocaba",
       "category": "festa",
@@ -1594,7 +1242,7 @@
       "featured": false
     },
     {
-      "id": "kh5e4h",
+      "id": "v23in3",
       "title": "Com Bruna Linzmeyer, ‘Virtuosas’ usa seita para cutucar feridas",
       "description": "Premiado na Mostra SP, o longa retrata grupo de mulheres conservadoras em uma trama perturbadora",
       "category": "cinema",
@@ -1616,7 +1264,7 @@
       "featured": false
     },
     {
-      "id": "pbsfev",
+      "id": "lotgux",
       "title": "Espaços culturais de SP realizam troca e distribuição gratuita de livros neste sábado (26)",
       "description": "Programação reúne feiras de livros, gibis e mangás nas bibliotecas Álvares de Azevedo e Álvaro Guerra e no Arquivo Histórico Municipal",
       "category": "gastronomia",
@@ -1638,51 +1286,7 @@
       "featured": true
     },
     {
-      "id": "65ho26",
-      "title": "Trem da República ganha edição noturna de Halloween entre Itu e Salto",
-      "description": "Passeio temático Hallowtrain ocorre em três sábados de outubro com decoração especial, personagens, serviço de bordo e coquetel na Estação de Salto",
-      "category": "festa",
-      "date": "2026-09-26T11:00:42.000Z",
-      "location": "Centro Histórico",
-      "neighborhood": "Centro Histórico",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/09/001A3558.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/trem-da-republica-ganha-edicao-noturna-de-halloween-entre-itu-e-salto/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/trem-da-republica-ganha-edicao-noturna-de-halloween-entre-itu-e-salto/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "festa"
-      ],
-      "featured": false
-    },
-    {
-      "id": "w9hrjm",
-      "title": "‘Roque Santeiro’ volta à TV Globo em reprise na faixa ‘Edição Especial’",
-      "description": "Quatro décadas após a estreia, clássico de Dias Gomes e Aguinaldo Silva reestreia no dia 5 de outubro nas tardes da emissora",
-      "category": "cultura",
-      "date": "2026-09-26T11:00:50.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/09/Captura-de-tela-2026-09-24-145816.png",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/roque-santeiro-volta-a-tv-globo-em-reprise-na-faixa-edicao-especial/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/roque-santeiro-volta-a-tv-globo-em-reprise-na-faixa-edicao-especial/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "cultura"
-      ],
-      "featured": false
-    },
-    {
-      "id": "sdn3nw",
+      "id": "m6ghak",
       "title": "Parlapatões comemoram 35 anos com versão abrasileirada de clássico",
       "description": "Sob direção de Hugo Possolo, ‘Arlequim, Servidor de Dois Patrões’ une palhaçaria, música e crítica social para falar sobre a fome",
       "category": "musica",
@@ -1704,7 +1308,7 @@
       "featured": true
     },
     {
-      "id": "n00qld",
+      "id": "9ghsu7",
       "title": "De Veneza para São Paulo: Paula Cohen é destaque em ‘Retorno a Buenos Aires’",
       "description": "Atriz relata como foi participar da produção, recém-premiada no Festival de Veneza",
       "category": "cultura",
@@ -1726,7 +1330,29 @@
       "featured": false
     },
     {
-      "id": "3cgagj",
+      "id": "uhivkw",
+      "title": "Parque Trianon recebe exposição gratuita que mistura fotografia e espelhos",
+      "description": "Com curadoria de Marcello Dantas, a artista Betina Samaia instala obras ao ar livre no coração da Avenida Paulista a partir de 26 de setembro",
+      "category": "exposicao",
+      "date": "2026-09-26T10:00:00",
+      "location": "Bela Vista",
+      "neighborhood": "Bela Vista",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/09/expo_Trianon.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/parque-trianon-recebe-exposicao-gratuita-que-mistura-fotografia-e-espelhos/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/parque-trianon-recebe-exposicao-gratuita-que-mistura-fotografia-e-espelhos/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "exposicao"
+      ],
+      "featured": true
+    },
+    {
+      "id": "e7hz2r",
       "title": "Centro Cultural Fiesp recebe primeira exposição de Martin Parr no Brasil",
       "description": "Mostra ‘Mundo Pequeno’ reúne 45 imagens do aclamado fotógrafo britânico sobre o turismo de massa e o consumo, além de instalação interativa",
       "category": "exposicao",
@@ -1748,7 +1374,73 @@
       "featured": true
     },
     {
-      "id": "f4dawr",
+      "id": "ejukc1",
+      "title": "1º Festival Asiático do Memorial traz 80 barracas de comida de rua, K-pop e atrações grátis na Barra Funda",
+      "description": "Memorial da América Latina recebe o 1º Festival Asiático nos dias 26 e 27 de setembro. Evento celebra a cultura coreana e japonesa com gastronomia e atrações gratuitas.",
+      "category": "musica",
+      "date": "2026-09-27T10:00:00",
+      "location": "Barra Funda",
+      "neighborhood": "Barra Funda",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/09/1o-festival-asiatico-do-memorial-traz-80-barracas-de-comida-de-rua-k-pop-e-atracoes-gratis-na-barra.jpg",
+      "ticketUrl": "https://catracalivre.com.br/gira/1o-festival-asiatico-do-memorial-da-america-latina-sp/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/1o-festival-asiatico-do-memorial-da-america-latina-sp/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
+        "sp",
+        "musica"
+      ],
+      "featured": true
+    },
+    {
+      "id": "xpaxv7",
+      "title": "O Reino dos Jogos de Madeira reúne mais de 20 atrações gratuitas em shopping de São Paulo",
+      "description": "E se uma tarde no shopping também pudesse virar uma viagem por brincadeiras de diferentes culturas? É essa a proposta de O Reino dos Jogos de Madeira, atração gratuita que ocupa o Shopping Parque da Cidade, na Zona Sul de São Paulo, até 27 de setembro de 2026. A experiência reúne mais de 20 jogos [&hellip;]",
+      "category": "infantil",
+      "date": "2026-09-27T10:00:00",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/09/sp_criancas_passeios_jogos_de_madeira_01.jpeg",
+      "ticketUrl": "https://saopauloparacriancas.com.br/o-reino-dos-jogos-de-madeira-sp/",
+      "source": "SP para Crianças",
+      "sourceUrl": "https://saopauloparacriancas.com.br/o-reino-dos-jogos-de-madeira-sp/",
+      "tags": [
+        "infantil",
+        "familia",
+        "criancas",
+        "sp"
+      ],
+      "featured": true
+    },
+    {
+      "id": "ncyp60",
+      "title": "Encontro com princesas tem desfile e coroação de crianças em SP",
+      "description": "Quem tem uma pequena princesa ou um pequeno príncipe em casa terá um programa diferente para os próximos fins de semana em São Paulo. Encontro de “Princesas – em um grande chá” chega ao Morumbi Town Shopping nos dias 19, 20, 26 e 27 de setembro, com uma experiência de uma hora que reúne lanche, músicas, [&hellip;]",
+      "category": "infantil",
+      "date": "2026-09-27T10:00:00",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 35,
+      "isFree": false,
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/09/sp_criancas_passeio_cha_das_princesas_01-1.jpg",
+      "ticketUrl": "https://saopauloparacriancas.com.br/cha-das-princesas-sp/",
+      "source": "SP para Crianças",
+      "sourceUrl": "https://saopauloparacriancas.com.br/cha-das-princesas-sp/",
+      "tags": [
+        "infantil",
+        "familia",
+        "criancas",
+        "sp"
+      ],
+      "featured": false
+    },
+    {
+      "id": "an092b",
       "title": "Pinacoteca de São Paulo — Arte Brasileira dos Séculos XIX e XX (Sábado Grátis)",
       "description": "A mais antiga instituição de arte de São Paulo apresenta seu acervo magistral, incluindo obras icônicas como O Mestiço e Saudade. Entrada franca aos sábados.",
       "category": "exposicao",
@@ -1773,7 +1465,7 @@
       ]
     },
     {
-      "id": "5lrecc",
+      "id": "w377td",
       "title": "Biblioteca Mário de Andrade tem recital e atividade de leitura gratuitas",
       "description": "Programação ocorre na terça-feira (29) e na quarta-feira (30) no centro de São Paulo",
       "category": "musica",
@@ -1795,7 +1487,7 @@
       "featured": true
     },
     {
-      "id": "kwla8m",
+      "id": "foc41q",
       "title": "Concerto Sinfônico OSESP na Sala São Paulo",
       "description": "A Orquestra Sinfônica do Estado de São Paulo apresenta a 9ª Sinfonia de Beethoven com coro completo em uma das salas com melhor acústica do mundo.",
       "category": "musica",
@@ -1819,7 +1511,7 @@
       ]
     },
     {
-      "id": "xbfi06",
+      "id": "hj0w08",
       "title": "MASP — \"Histórias Paulistanas\": Obras do Acervo Permanente (Terça Grátis)",
       "description": "A fantástica expografia nos cavaletes de cristal de Lina Bo Bardi reunindo obras de Van Gogh, Cézanne e Tarsila do Amaral. Entrada gratuita toda terça-feira mediante agendamento.",
       "category": "exposicao",
@@ -1845,7 +1537,7 @@
       ]
     },
     {
-      "id": "12kfrq",
+      "id": "fyp7lc",
       "title": "São Paulo Oktoberfest 2026 — Parque Villa-Lobos",
       "description": "A autêntica festa da cerveja de São Paulo com cervejarias artesanais, comidas típicas alemãs, bandas folclóricas bávaras e shows nacionais.",
       "category": "gastronomia",
@@ -1871,7 +1563,152 @@
       ]
     },
     {
-      "id": "s512bu",
+      "id": "pb0j09",
+      "title": "Show: Jorge Ben Jor & Banda Zé Pretinho — Espaço Unimed",
+      "description": "O mestre do samba-rock e da música brasileira em um show épico com todos os hinos atemporais: Taj Mahal, Mas Que Nada, Chove Chuva, País Tropical e Fio Maravilha. Pista e camarotes disponíveis.",
+      "category": "musica",
+      "date": "2026-10-03T21:00:00",
+      "time": "21:00",
+      "location": "Espaço Unimed",
+      "address": "R. Tagipuru, 795 — Barra Funda",
+      "neighborhood": "Barra Funda",
+      "price": 110,
+      "priceMax": 320,
+      "isFree": false,
+      "featured": true,
+      "imageUrl": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=800&q=80",
+      "ticketUrl": "https://espacounimed.com.br",
+      "source": "Espaço Unimed",
+      "sourceUrl": "https://espacounimed.com.br",
+      "tags": [
+        "jorge ben jor",
+        "musica",
+        "show",
+        "samba rock",
+        "barra funda"
+      ]
+    },
+    {
+      "id": "66jzwu",
+      "title": "Festival de Primavera no Jardim Botânico (Gratuito)",
+      "description": "Exposição botânica com mais de 500 orquídeas e bromélias raras, feira de mudas, visitas guiadas pelas estufas históricas e caminhadas meditativas em meio à Mata Atlântica preservada da zona sul.",
+      "category": "cultura",
+      "date": "2026-10-04T09:00:00",
+      "endDate": "2026-10-04T17:00:00",
+      "time": "09:00",
+      "location": "Jardim Botânico de São Paulo",
+      "address": "Av. Miguel Estefno, 3031",
+      "neighborhood": "Água Funda",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://images.unsplash.com/photo-1448375240586-882707db888b?w=800&q=80",
+      "ticketUrl": "https://jardimbotanico.sp.gov.br",
+      "source": "Jardim Botânico",
+      "sourceUrl": "https://jardimbotanico.sp.gov.br",
+      "tags": [
+        "flores",
+        "jardim botanico",
+        "natureza",
+        "primavera",
+        "gratuito"
+      ]
+    },
+    {
+      "id": "sxg0s8",
+      "title": "Circo Di Napoli fica em Osasco até 4 de outubro",
+      "description": "O Circo Di Napoli está em temporada em Osasco, na Grande São Paulo, até 4 de outubro. Instalado no estacionamento do Carrefour Vila Yara, o espetáculo reúne números de acrobacia, malabarismo, mágica, palhaços e atrações como o Globo da Morte e o Flecha Humana. As apresentações acontecem de terça a sexta-feira, às 20h30; aos sábados, [&hellip;]",
+      "category": "infantil",
+      "date": "2026-10-04T10:00:00",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 35,
+      "isFree": false,
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/09/sp_criancas_passeios_circo_di_napoli_02.jpeg",
+      "ticketUrl": "https://saopauloparacriancas.com.br/circo-di-napoli-sp/",
+      "source": "SP para Crianças",
+      "sourceUrl": "https://saopauloparacriancas.com.br/circo-di-napoli-sp/",
+      "tags": [
+        "infantil",
+        "familia",
+        "criancas",
+        "sp"
+      ],
+      "featured": false
+    },
+    {
+      "id": "mv5v5t",
+      "title": "‘Roque Santeiro’ volta à TV Globo em reprise na faixa ‘Edição Especial’",
+      "description": "Quatro décadas após a estreia, clássico de Dias Gomes e Aguinaldo Silva reestreia no dia 5 de outubro nas tardes da emissora",
+      "category": "cultura",
+      "date": "2026-10-05T10:00:00",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/09/Captura-de-tela-2026-09-24-145816.png",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/roque-santeiro-volta-a-tv-globo-em-reprise-na-faixa-edicao-especial/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/roque-santeiro-volta-a-tv-globo-em-reprise-na-faixa-edicao-especial/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "cultura"
+      ],
+      "featured": false
+    },
+    {
+      "id": "48wz4z",
+      "title": "MASP — \"Histórias Paulistanas\": Obras do Acervo Permanente (Terça Grátis)",
+      "description": "A fantástica expografia nos cavaletes de cristal de Lina Bo Bardi reunindo obras de Van Gogh, Cézanne e Tarsila do Amaral. Entrada gratuita toda terça-feira mediante agendamento.",
+      "category": "exposicao",
+      "date": "2026-10-06T10:00:00",
+      "time": "10:00",
+      "location": "MASP",
+      "address": "Av. Paulista, 1578",
+      "neighborhood": "Bela Vista",
+      "price": 0,
+      "isFree": true,
+      "featured": true,
+      "imageUrl": "https://images.unsplash.com/photo-1580060839134-75a5edca2e99?w=800&q=80",
+      "ticketUrl": "https://masp.org.br",
+      "source": "MASP",
+      "sourceUrl": "https://masp.org.br",
+      "tags": [
+        "masp",
+        "arte",
+        "museu",
+        "paulista",
+        "exposicao",
+        "gratuito"
+      ]
+    },
+    {
+      "id": "z0pu6k",
+      "title": "Roda de Samba Tradicional do Bixiga na Rua 13 de Maio (Gratuito)",
+      "description": "O autêntico samba de raiz do tradicional bairro do Bixiga: cavaquinho, pandeiro e surdo comandados pelos baluartes da Vai-Vai. Mesas na calçada, cerveja gelada e porções de pastel com queijo canastra.",
+      "category": "musica",
+      "date": "2026-10-07T19:00:00",
+      "time": "19:00",
+      "location": "Rua Treze de Maio (Bixiga)",
+      "address": "Rua Treze de Maio, 800",
+      "neighborhood": "Bela Vista",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=800&q=80",
+      "ticketUrl": "https://www.prefeitura.sp.gov.br",
+      "source": "Prefeitura SP",
+      "sourceUrl": "https://www.prefeitura.sp.gov.br",
+      "tags": [
+        "samba",
+        "bixiga",
+        "musica",
+        "gratuito",
+        "roda de samba"
+      ]
+    },
+    {
+      "id": "153v0t",
       "title": "Brasil Game Show (BGS 2026) — Expo Center Norte",
       "description": "Lançamentos mundiais de videogames, campeonatos eletrizantes de eSports, presença de lendas internacionais de games e área cosplay gigantesca.",
       "category": "tecnologia",
@@ -1898,7 +1735,764 @@
       ]
     },
     {
-      "id": "nsuo6l",
+      "id": "i52cvs",
+      "title": "Com quatro dias de programação grátis, Festival Nordeste em Cena estreia em SP",
+      "description": "O festival reúne música, artes cênicas e gastronomia no centro de São Paulo. De 9 a 12 de outubro, o iBT recebe atrações nordestinas gratuitas.",
+      "category": "musica",
+      "date": "2026-10-09T10:00:00",
+      "location": "Centro Histórico",
+      "neighborhood": "Centro Histórico",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/09/saveclipapp-590421822-18545827780012328-7335183066162547201-n-e1790186984319.webp",
+      "ticketUrl": "https://catracalivre.com.br/gira/centro-cultural-ibt-e-banco-do-nordeste-apresentam-o-festival-nordeste-em-cena-2026-sp/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/centro-cultural-ibt-e-banco-do-nordeste-apresentam-o-festival-nordeste-em-cena-2026-sp/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
+        "sp",
+        "musica"
+      ],
+      "featured": true
+    },
+    {
+      "id": "1tvg0l",
+      "title": "Noite de Jazz & Vinhos no JazzB — República",
+      "description": "Uma noite intimista com o sexteto de jazz paulistano homenageando Miles Davis e John Coltrane. Carta especial de vinhos de pequenos produtores nacionais e tábua de queijos artesanais da serra da Mantiqueira.",
+      "category": "musica",
+      "date": "2026-10-09T21:00:00",
+      "time": "21:00",
+      "location": "JazzB",
+      "address": "Rua General Jardim, 43 — Vila Buarque",
+      "neighborhood": "República",
+      "price": 40,
+      "priceMax": 70,
+      "isFree": false,
+      "imageUrl": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=800&q=80",
+      "ticketUrl": "https://jazzb.net",
+      "source": "JazzB",
+      "sourceUrl": "https://jazzb.net",
+      "tags": [
+        "jazz",
+        "musica",
+        "jazzb",
+        "vinhos",
+        "republica"
+      ]
+    },
+    {
+      "id": "q2b2i",
+      "title": "Expresso Chocolate: passeio de trem leva famílias a Paranapiacaba em outubro",
+      "description": "Que tal passar o dia em um passeio de trem com destino a Paranapiacaba? O Expresso Chocolate acontece no sábado, 10 de outubro de 2026, com saída da Estação da Luz, em São Paulo, e chegada prevista à vila de Paranapiacaba, em Santo André. Realizado pela Nova Ponte Turismo, o passeio é voltado também para [&hellip;]",
+      "category": "infantil",
+      "date": "2026-10-10T10:00:00",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 35,
+      "isFree": false,
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/09/sp_criancas_passeio_trem_01.jpeg",
+      "ticketUrl": "https://saopauloparacriancas.com.br/expresso-chocolate-passeio-de-trem-paranapiacaba-sp/",
+      "source": "SP para Crianças",
+      "sourceUrl": "https://saopauloparacriancas.com.br/expresso-chocolate-passeio-de-trem-paranapiacaba-sp/",
+      "tags": [
+        "infantil",
+        "familia",
+        "criancas",
+        "sp"
+      ],
+      "featured": false
+    },
+    {
+      "id": "1mj8jl",
+      "title": "Pinacoteca de São Paulo — Arte Brasileira dos Séculos XIX e XX (Sábado Grátis)",
+      "description": "A mais antiga instituição de arte de São Paulo apresenta seu acervo magistral, incluindo obras icônicas como O Mestiço e Saudade. Entrada franca aos sábados.",
+      "category": "exposicao",
+      "date": "2026-10-10T10:00:00",
+      "time": "10:00",
+      "location": "Pinacoteca do Estado",
+      "address": "Praça da Luz, 2 — Luz",
+      "neighborhood": "Luz",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://images.unsplash.com/photo-1518998053901-5348d3961a04?w=800&q=80",
+      "ticketUrl": "https://pinacoteca.org.br",
+      "source": "Pinacoteca SP",
+      "sourceUrl": "https://pinacoteca.org.br",
+      "tags": [
+        "pinacoteca",
+        "arte brasileira",
+        "museu",
+        "luz",
+        "exposicao",
+        "gratuito"
+      ]
+    },
+    {
+      "id": "xv7r1u",
+      "title": "Cine na Praça promove especial de Halloween gratuito no Jardim Suspenso do CCSP em outubro",
+      "description": "Cinema de graça ao ar livre! O Cine na Praça exibe 15 filmes de terror no CCSP com concurso de fantasias e microfone aberto. Confira a lista completa!",
+      "category": "festa",
+      "date": "2026-10-10T14:00:00",
+      "location": "Butantã",
+      "neighborhood": "Butantã",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/09/5-curiosidades-sobre-o-iluminado-que-completa-45-anos-em-2025.jpg",
+      "ticketUrl": "https://catracalivre.com.br/gira/cine-na-praca-promove-especial-de-halloween-gratuito-no-jardim-suspenso-do-ccsp-em-outubro/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/cine-na-praca-promove-especial-de-halloween-gratuito-no-jardim-suspenso-do-ccsp-em-outubro/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
+        "sp",
+        "festa"
+      ],
+      "featured": true
+    },
+    {
+      "id": "84d18u",
+      "title": "Nos cinemas em outubro: “A Princesa e o Plebeu” chega com aventura para toda a família",
+      "description": "Que tal aproveitar momentos juntos para assistir a uma aventura de fantasia no cinema? A Princesa e o Plebeu é uma animação com lançamento previsto para outubro deste ano, que acompanha uma princesa, um rei disfarçado e uma história de descobertas, humor e romance. Na trama, Carolina é uma princesa que rejeita o pedido de [&hellip;]",
+      "category": "infantil",
+      "date": "2026-10-10T14:00:00",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 35,
+      "isFree": false,
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/09/sp_criancas_passeio_cinema_03.jpeg",
+      "ticketUrl": "https://saopauloparacriancas.com.br/princesa-e-o-plebeu-cinema/",
+      "source": "SP para Crianças",
+      "sourceUrl": "https://saopauloparacriancas.com.br/princesa-e-o-plebeu-cinema/",
+      "tags": [
+        "infantil",
+        "familia",
+        "criancas",
+        "sp"
+      ],
+      "featured": false
+    },
+    {
+      "id": "f7cl2y",
+      "title": "Circo Stankowich — Especial Mês das Crianças",
+      "description": "O mais antigo e consagrado circo tradicional do Brasil apresenta um super espetáculo com trapezistas voadores, o incrível Globo da Morte com 6 motos, águas dançantes e palhaços premiados mundialmente.",
+      "category": "cultura",
+      "date": "2026-10-10T17:00:00",
+      "endDate": "2026-10-12T20:00:00",
+      "time": "17:00",
+      "location": "Sambódromo do Anhembi",
+      "address": "Av. Olavo Fontoura, 1209 — Santana",
+      "neighborhood": "Santana",
+      "price": 40,
+      "priceMax": 120,
+      "isFree": false,
+      "imageUrl": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=800&q=80",
+      "ticketUrl": "https://stankowich.com.br",
+      "source": "Circo Stankowich",
+      "sourceUrl": "https://stankowich.com.br",
+      "tags": [
+        "circo",
+        "stankowich",
+        "infantil",
+        "familia",
+        "anhembi"
+      ]
+    },
+    {
+      "id": "ud3plg",
+      "title": "Domingo Sem Carro na Av. Paulista — Cultura e Esporte na Rua (Gratuito)",
+      "description": "A avenida mais famosa do Brasil fechada para veículos e aberta exclusivamente para pedestres, ciclistas e skatistas. Shows acústicos a cada quarteirão, feira de artesãos e aulas coletivas de dança.",
+      "category": "esporte",
+      "date": "2026-10-11T08:00:00",
+      "endDate": "2026-10-11T16:00:00",
+      "time": "08:00",
+      "location": "Avenida Paulista",
+      "address": "Av. Paulista, toda a extensão",
+      "neighborhood": "Bela Vista",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=800&q=80",
+      "ticketUrl": "https://www.prefeitura.sp.gov.br",
+      "source": "Prefeitura SP",
+      "sourceUrl": "https://www.prefeitura.sp.gov.br",
+      "tags": [
+        "paulista aberta",
+        "esporte",
+        "lazer",
+        "gratuito",
+        "musica de rua"
+      ]
+    },
+    {
+      "id": "l0o4vn",
+      "title": "Festival das Crianças no Parque Ibirapuera (Gratuito)",
+      "description": "Especial Semana e Dia das Crianças (12/10)! Três palcos com espetáculos circenses, teatro de bonecos, contação de fábulas, shows de mágica e oficinas científicas. Piquenique aberto e atrações 100% gratuitas.",
+      "category": "infantil",
+      "date": "2026-10-11T10:00:00",
+      "endDate": "2026-10-12T18:00:00",
+      "time": "10:00",
+      "location": "Parque Ibirapuera — Praça da Paz",
+      "address": "Av. Pedro Álvares Cabral, s/n",
+      "neighborhood": "Vila Mariana",
+      "price": 0,
+      "isFree": true,
+      "featured": true,
+      "imageUrl": "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=800&q=80",
+      "ticketUrl": "https://ibirapuera.org",
+      "source": "Parque Ibirapuera",
+      "sourceUrl": "https://ibirapuera.org",
+      "tags": [
+        "dia das criancas",
+        "infantil",
+        "ibirapuera",
+        "circo",
+        "gratuito"
+      ]
+    },
+    {
+      "id": "cvkwks",
+      "title": "Concerto Sinfônico OSESP na Sala São Paulo",
+      "description": "A Orquestra Sinfônica do Estado de São Paulo apresenta a 9ª Sinfonia de Beethoven com coro completo em uma das salas com melhor acústica do mundo.",
+      "category": "musica",
+      "date": "2026-10-11T16:00:00",
+      "time": "16:00",
+      "location": "Sala São Paulo",
+      "address": "Praça Júlio Prestes, 16",
+      "neighborhood": "Luz",
+      "price": 35,
+      "priceMax": 180,
+      "isFree": false,
+      "featured": true,
+      "imageUrl": "https://images.unsplash.com/photo-1465847899084-d164df4dedc6?w=800&q=80",
+      "ticketUrl": "https://osesp.art.br",
+      "source": "OSESP",
+      "sourceUrl": "https://osesp.art.br",
+      "tags": [
+        "osesp",
+        "musica classica",
+        "sala sao paulo"
+      ]
+    },
+    {
+      "id": "lqqnd",
+      "title": "Museu Catavento — Ciência Interativa e Planetário",
+      "description": "O museu de ciências mais divertido do Brasil instalado no Palácio das Indústrias: gerador Van de Graaff, nave espacial com simulação, borboletário e sala de astronomia. Ideal para mentes curiosas.",
+      "category": "infantil",
+      "date": "2026-10-12T09:00:00",
+      "time": "09:00",
+      "location": "Museu Catavento",
+      "address": "Av. Mercúrio, s/n — Brás",
+      "neighborhood": "Brás",
+      "price": 18,
+      "isFree": false,
+      "imageUrl": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+      "ticketUrl": "https://museucatavento.org.br",
+      "source": "Catavento",
+      "sourceUrl": "https://museucatavento.org.br",
+      "tags": [
+        "catavento",
+        "ciencia",
+        "infantil",
+        "museu",
+        "planetario"
+      ]
+    },
+    {
+      "id": "siplqn",
+      "title": "Hotel em São Roque transforma crianças em Guardiões da Floresta no feriado do Dia das Crianças",
+      "description": "Que tal trocar a rotina da cidade por uma verdadeira missão na floresta? No feriado do Dia das Crianças, o Hotel Villa Rossa, em São Roque, a cerca de 50 quilômetros de São Paulo, prepara uma programação especial que transforma os pequenos hóspedes em Guardiões da Floresta. Diversão no feriado do Dia das Crianças A [&hellip;]",
+      "category": "infantil",
+      "date": "2026-10-12T10:00:00",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 35,
+      "isFree": false,
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2020/11/sp_criancas_villa-rossa-hotel-1.jpg",
+      "ticketUrl": "https://saopauloparacriancas.com.br/hotel-villa-rossa-sao-roque-sp/",
+      "source": "SP para Crianças",
+      "sourceUrl": "https://saopauloparacriancas.com.br/hotel-villa-rossa-sao-roque-sp/",
+      "tags": [
+        "infantil",
+        "familia",
+        "criancas",
+        "sp"
+      ],
+      "featured": false
+    },
+    {
+      "id": "726t71",
+      "title": "São Paulo Fashion Week (SPFW) — Pavilhão da Bienal",
+      "description": "A semana de moda mais prestigiada do hemisfério sul. Desfiles das maiores marcas e estilistas de vanguarda, exposições de fotografia têxtil, palestras sobre sustentabilidade e pop-up stores de designers independentes.",
+      "category": "cultura",
+      "date": "2026-10-14T15:00:00",
+      "endDate": "2026-10-18T22:00:00",
+      "time": "15:00",
+      "location": "Pavilhão da Bienal — Ibirapuera",
+      "address": "Portão 3 — Parque Ibirapuera",
+      "neighborhood": "Vila Mariana",
+      "price": 80,
+      "priceMax": 300,
+      "isFree": false,
+      "imageUrl": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80",
+      "ticketUrl": "https://spfw.com.br",
+      "source": "SPFW",
+      "sourceUrl": "https://spfw.com.br",
+      "tags": [
+        "spfw",
+        "moda",
+        "bienal",
+        "estilo",
+        "ibirapuera"
+      ]
+    },
+    {
+      "id": "e734bk",
+      "title": "Balé Bolshoi: Gala Clássica — Theatro Municipal de São Paulo",
+      "description": "Solistas consagrados da Escola do Teatro Bolshoi executam trechos de O Quebra-Nozes, Don Quixote e Spartacus, acompanhados ao vivo pela Orquestra Sinfônica Municipal. Cenários suntuosos e técnica impecável.",
+      "category": "danca",
+      "date": "2026-10-16T20:00:00",
+      "endDate": "2026-10-17T20:00:00",
+      "time": "20:00",
+      "location": "Theatro Municipal de São Paulo",
+      "address": "Praça Ramos de Azevedo, s/n",
+      "neighborhood": "Centro Histórico",
+      "price": 50,
+      "priceMax": 240,
+      "isFree": false,
+      "imageUrl": "https://images.unsplash.com/photo-1518611507888-3e15cce98b21?w=800&q=80",
+      "ticketUrl": "https://theatromunicipal.org.br",
+      "source": "Theatro Municipal",
+      "sourceUrl": "https://theatromunicipal.org.br",
+      "tags": [
+        "bale",
+        "danca",
+        "theatro municipal",
+        "bolshoi",
+        "cultura"
+      ]
+    },
+    {
+      "id": "ul1bun",
+      "title": "Hackathon SP Tech — Inteligência Artificial no InovaUSP (Gratuito)",
+      "description": "Maratona hacker de 48 horas focada no desenvolvimento de soluções de IA para saúde pública, mobilidade urbana e educação em SP. Mentoria com especialistas do Google, premiações e networking com investidores.",
+      "category": "tecnologia",
+      "date": "2026-10-17T09:00:00",
+      "endDate": "2026-10-18T18:00:00",
+      "time": "09:00",
+      "location": "InovaUSP — Cidade Universitária",
+      "address": "Av. Prof. Lúcio Martins Rodrigues, 370",
+      "neighborhood": "Butantã",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800&q=80",
+      "ticketUrl": "https://inova.usp.br",
+      "source": "InovaUSP",
+      "sourceUrl": "https://inova.usp.br",
+      "tags": [
+        "hackathon",
+        "tecnologia",
+        "inteligencia artificial",
+        "usp",
+        "gratuito"
+      ]
+    },
+    {
+      "id": "7asr4m",
+      "title": "Festival do Café e Sabores Paulistas — Museu da Imigração",
+      "description": "Feira gastronômica com os melhores cafés especiais do estado de SP, baristas premiados ministrando workshops gratuitos, doces típicos da roça, queijos artesanais e apresentações musicais de choro e caipira nos jardins históricos.",
+      "category": "gastronomia",
+      "date": "2026-10-17T10:00:00",
+      "endDate": "2026-10-18T18:00:00",
+      "time": "10:00",
+      "location": "Museu da Imigração",
+      "address": "Rua Visconde de Parnaíba, 1316 — Mooca",
+      "neighborhood": "Mooca",
+      "price": 16,
+      "isFree": false,
+      "imageUrl": "https://images.unsplash.com/photo-1447933601403-0c6688de566e?w=800&q=80",
+      "ticketUrl": "https://museudaimigracao.org.br",
+      "source": "Museu da Imigração",
+      "sourceUrl": "https://museudaimigracao.org.br",
+      "tags": [
+        "cafe",
+        "gastronomia",
+        "mooca",
+        "museu da imigracao",
+        "feira"
+      ]
+    },
+    {
+      "id": "60xw94",
+      "title": "Pé de Sonho leva Duo Badulaque ao Teatro Bradesco em show para crianças em SP",
+      "description": "Do Tiranossauro Rex ao Sistema Solar, o Pé de Sonho transforma o palco em uma viagem por músicas, bichos e histórias. A apresentação acontece em 18 de outubro de 2026, às 15h, no Teatro Bradesco, em São Paulo, como parte da programação da Semana das Crianças, com participação especial do Duo Badulaque. Com classificação livre, [&hellip;]",
+      "category": "infantil",
+      "date": "2026-10-18T10:00:00",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/09/sp_criancas_passeio_pe_de_sonho_01.jpeg",
+      "ticketUrl": "https://saopauloparacriancas.com.br/pe-de-sonho-teatro-sp/",
+      "source": "SP para Crianças",
+      "sourceUrl": "https://saopauloparacriancas.com.br/pe-de-sonho-teatro-sp/",
+      "tags": [
+        "infantil",
+        "familia",
+        "criancas",
+        "sp"
+      ],
+      "featured": true
+    },
+    {
+      "id": "v7r98",
+      "title": "IMS Paulista — Fotografia Contemporânea Brasileira (Gratuito)",
+      "description": "Exposição fotográfica em três andares do Instituto Moreira Salles, com terraço panorâmico e centro de documentação de fotografia do Brasil. Totalmente gratuito.",
+      "category": "exposicao",
+      "date": "2026-10-18T10:00:00",
+      "time": "10:00",
+      "location": "IMS Paulista",
+      "address": "Av. Paulista, 2424",
+      "neighborhood": "Bela Vista",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://images.unsplash.com/photo-1501854140801-50d01698950b?w=800&q=80",
+      "ticketUrl": "https://ims.com.br",
+      "source": "IMS",
+      "sourceUrl": "https://ims.com.br",
+      "tags": [
+        "ims",
+        "fotografia",
+        "paulista",
+        "gratuito",
+        "exposicao"
+      ]
+    },
+    {
+      "id": "a9mk8m",
+      "title": "48ª Mostra Internacional de Cinema de São Paulo",
+      "description": "O festival cinematográfico mais relevante do país exibe mais de 300 filmes inéditos vindos de 60 países. Sessões no CineSesc, Espaço Itaú Augusta, IMS Paulista e projeções gratuitas no vão do MASP.",
+      "category": "cinema",
+      "date": "2026-10-18T14:00:00",
+      "endDate": "2026-10-31T23:00:00",
+      "time": "14:00",
+      "location": "Circuito de Cinemas de SP",
+      "address": "Diversas salas (CineSesc, CCSP, Reserva)",
+      "neighborhood": "Consolação e Centro",
+      "price": 24,
+      "priceMax": 48,
+      "isFree": false,
+      "featured": true,
+      "imageUrl": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=800&q=80",
+      "ticketUrl": "https://mostra.org",
+      "source": "Mostra SP",
+      "sourceUrl": "https://mostra.org",
+      "tags": [
+        "mostra sp",
+        "cinema",
+        "filmes",
+        "cinesesc",
+        "festival de cinema"
+      ]
+    },
+    {
+      "id": "qcodjv",
+      "title": "Expo Aviação & Simuladores — Aeroporto Campo de Marte",
+      "description": "Aeronaves clássicas da aviação civil e militar abertas para visitação interna, simuladores de caça e Boeing 737, além de voos panorâmicos de helicóptero sobre a capital paulista.",
+      "category": "aviacao",
+      "date": "2026-10-19T09:00:00",
+      "endDate": "2026-10-20T18:00:00",
+      "time": "09:00",
+      "location": "Campo de Marte",
+      "address": "Av. Santos Dumont, 1979",
+      "neighborhood": "Santana",
+      "price": 35,
+      "priceMax": 180,
+      "isFree": false,
+      "imageUrl": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=800&q=80",
+      "ticketUrl": "https://sympla.com.br",
+      "source": "Sympla",
+      "sourceUrl": "https://sympla.com.br",
+      "tags": [
+        "aviacao",
+        "campo de marte",
+        "avioes",
+        "santana",
+        "expo"
+      ]
+    },
+    {
+      "id": "9t7y34",
+      "title": "Stand-Up Comedy All-Stars — Clube do Minhoca",
+      "description": "Noite com os 5 maiores nomes da nova geração do humor stand-up nacional em um dos clubes de comédia mais charmosos do centro de SP. Risadas garantidas e drinks artesanais.",
+      "category": "teatro",
+      "date": "2026-10-20T20:30:00",
+      "time": "20:30",
+      "location": "Clube do Minhoca",
+      "address": "Rua Conselheiro Nébias, 131",
+      "neighborhood": "Campos Elíseos",
+      "price": 45,
+      "priceMax": 70,
+      "isFree": false,
+      "imageUrl": "https://images.unsplash.com/photo-1508345228704-935cc84bf5e2?w=800&q=80",
+      "ticketUrl": "https://clubedominhoca.com.br",
+      "source": "Clube do Minhoca",
+      "sourceUrl": "https://clubedominhoca.com.br",
+      "tags": [
+        "stand up",
+        "comedia",
+        "teatro",
+        "humor",
+        "centro"
+      ]
+    },
+    {
+      "id": "x9lo1e",
+      "title": "29º Cultura Inglesa Festival reúne shows, teatro e cinema em São Paulo com atrações gratuitas",
+      "description": "Programação gratuita ocorre de 21 a 31 de outubro com nomes como Agnes Nunes e Louise Orwin",
+      "category": "musica",
+      "date": "2026-10-21T10:00:00",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/09/AGNES_NUNES_0414_FINAL_02-1.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/29o-cultura-inglesa-festival-reune-shows-teatro-e-cinema-em-sao-paulo-com-atracoes-gratuitas/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/29o-cultura-inglesa-festival-reune-shows-teatro-e-cinema-em-sao-paulo-com-atracoes-gratuitas/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "musica"
+      ],
+      "featured": true
+    },
+    {
+      "id": "l4zfup",
+      "title": "Passeio Ciclístico Noturno de São Paulo (Gratuito)",
+      "description": "Passeio ciclístico de 15km pelas vias icônicas de SP iluminadas à noite: Av. Paulista, Minhocão, Praça Roosevelt e Vale do Anhangabaú. Apoio mecânico, batedores da CET e ritmo leve para ciclistas de todas as idades.",
+      "category": "esporte",
+      "date": "2026-10-21T20:00:00",
+      "time": "20:00",
+      "location": "Praça do Ciclista — Av. Paulista",
+      "address": "Av. Paulista, 2444",
+      "neighborhood": "Bela Vista",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=800&q=80",
+      "ticketUrl": "https://www.prefeitura.sp.gov.br",
+      "source": "Prefeitura SP",
+      "sourceUrl": "https://www.prefeitura.sp.gov.br",
+      "tags": [
+        "ciclismo",
+        "bike",
+        "esporte",
+        "paulista",
+        "gratuito"
+      ]
+    },
+    {
+      "id": "ppaf3g",
+      "title": "Farol Santander: Exposição \"Ocultismo e Mitologias Antigas\"",
+      "description": "Instalação imersiva de artes visuais explorando as raízes do misticismo, símbolos esotéricos e lendas antigas através de esculturas, hologramas e projeções sonoras 8D. Visita inclui o mirante no 26º andar.",
+      "category": "exposicao",
+      "date": "2026-10-22T09:00:00",
+      "time": "09:00",
+      "location": "Farol Santander",
+      "address": "Rua João Brícola, 24 — Centro",
+      "neighborhood": "Centro Histórico",
+      "price": 35,
+      "isFree": false,
+      "imageUrl": "https://images.unsplash.com/photo-1580060839134-75a5edca2e99?w=800&q=80",
+      "ticketUrl": "https://farolsantander.com.br",
+      "source": "Farol Santander",
+      "sourceUrl": "https://farolsantander.com.br",
+      "tags": [
+        "farol santander",
+        "exposicao",
+        "arte",
+        "mirante",
+        "centro"
+      ]
+    },
+    {
+      "id": "7lxhcc",
+      "title": "SESC Pinheiros — Festival de Jazz Contemporâneo",
+      "description": "Três noites de jazz com instrumentistas nacionais e internacionais. Masterclasses gratuitas e jam sessions abertas ao público após as apresentações principais.",
+      "category": "musica",
+      "date": "2026-10-23T20:00:00",
+      "endDate": "2026-10-25T23:00:00",
+      "time": "20:00",
+      "location": "SESC Pinheiros",
+      "address": "Rua Paes Leme, 195",
+      "neighborhood": "Pinheiros",
+      "price": 0,
+      "isFree": true,
+      "featured": true,
+      "imageUrl": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=800&q=80",
+      "ticketUrl": "https://www.sescsp.org.br/agenda/",
+      "source": "SESC SP",
+      "sourceUrl": "https://www.sescsp.org.br/agenda/",
+      "tags": [
+        "jazz",
+        "sesc pinheiros",
+        "musica",
+        "gratuito"
+      ]
+    },
+    {
+      "id": "h6qrvx",
+      "title": "Feira Noturna Gastronômica & Jazz — Praça Benedito Calixto (Gratuito)",
+      "description": "Edição noturna especial com barraquinhas de gastronomia de rua (hambúrgueres artesanais, empanadas argentinas, churros e chopes locais) acompanhada de shows de jazz e choro sob as árvores da praça.",
+      "category": "gastronomia",
+      "date": "2026-10-24T18:00:00",
+      "endDate": "2026-10-24T23:00:00",
+      "time": "18:00",
+      "location": "Praça Benedito Calixto",
+      "address": "Praça Benedito Calixto, s/n",
+      "neighborhood": "Pinheiros",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=800&q=80",
+      "ticketUrl": "https://beneditocalixto.com.br",
+      "source": "Benedito Calixto",
+      "sourceUrl": "https://beneditocalixto.com.br",
+      "tags": [
+        "gastronomia",
+        "benedito calixto",
+        "pinheiros",
+        "jazz",
+        "gratuito"
+      ]
+    },
+    {
+      "id": "69092q",
+      "title": "Night Run SP — Corrida Noturna no Sambódromo do Anhembi",
+      "description": "A corrida noturna mais eletrizante do Brasil! Circuitos de 5km e 10km na passarela do samba com túneis de luz neon, DJs tocando ao longo do percurso, show na chegada e arena com massagem e hidratação.",
+      "category": "esporte",
+      "date": "2026-10-24T19:00:00",
+      "time": "19:00",
+      "location": "Sambódromo do Anhembi",
+      "address": "Av. Olavo Fontoura, 1209 — Santana",
+      "neighborhood": "Santana",
+      "price": 89,
+      "priceMax": 160,
+      "isFree": false,
+      "imageUrl": "https://images.unsplash.com/photo-1452626038306-9aae5e071b52?w=800&q=80",
+      "ticketUrl": "https://runningland.com.br",
+      "source": "Night Run",
+      "sourceUrl": "https://runningland.com.br",
+      "tags": [
+        "corrida",
+        "night run",
+        "esporte",
+        "anhembi",
+        "fitness"
+      ]
+    },
+    {
+      "id": "809ecy",
+      "title": "Mercado Municipal de SP — Tour Gastronômico Paulistano de Domingo",
+      "description": "Visita gastronômica ao histórico Mercadão de São Paulo: o famoso sanduíche de mortadela gigante, pastel de bacalhau crocante e frutas raras de todas as regiões tropicais do Brasil.",
+      "category": "gastronomia",
+      "date": "2026-10-25T08:00:00",
+      "time": "08:00",
+      "location": "Mercado Municipal de SP",
+      "address": "R. da Cantareira, 306 — Centro",
+      "neighborhood": "Centro Histórico",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800&q=80",
+      "ticketUrl": "https://mercadaomunicipal.com.br",
+      "source": "Mercadão SP",
+      "sourceUrl": "https://mercadaomunicipal.com.br",
+      "tags": [
+        "mercadao",
+        "gastronomia",
+        "centro",
+        "pastel de bacalhau",
+        "comida"
+      ]
+    },
+    {
+      "id": "1hozdl",
+      "title": "Hopi Hari: Noite dos Horrores Especial Pré-Halloween",
+      "description": "O maior parque temático da região de SP com túneis assustadores, dezenas de atores caracterizados, shows musicais de abertura e montanhas-russas funcionando até altas horas da noite. Transporte especial saindo do Terminal Barra Funda.",
+      "category": "outros",
+      "date": "2026-10-30T17:00:00",
+      "time": "17:00",
+      "location": "Hopi Hari (Saída Barra Funda)",
+      "address": "Terminal Rodoviário Barra Funda",
+      "neighborhood": "Barra Funda",
+      "price": 139,
+      "priceMax": 219,
+      "isFree": false,
+      "imageUrl": "https://images.unsplash.com/photo-1513889961551-628c1e5e2ee9?w=800&q=80",
+      "ticketUrl": "https://hopihari.com.br",
+      "source": "Hopi Hari",
+      "sourceUrl": "https://hopihari.com.br",
+      "tags": [
+        "halloween",
+        "hopi hari",
+        "noite dos horrores",
+        "parque",
+        "adrenalina"
+      ]
+    },
+    {
+      "id": "8oitj4",
+      "title": "Cinemateca Brasileira: Ciclo Cinema Macabro e Clássicos de Horror (Gratuito)",
+      "description": "Projeção ao ar livre nos jardins da Cinemateca com clássicos do terror mundial: Drácula de Bela Lugosi, Nosferatu com acompanhamento de piano ao vivo e O Bebê de Rosemary. Entrada gratuita com retirada de senha 1h antes.",
+      "category": "cinema",
+      "date": "2026-10-30T19:00:00",
+      "endDate": "2026-10-31T22:00:00",
+      "time": "19:00",
+      "location": "Cinemateca Brasileira",
+      "address": "Largo Senador Raul Cardoso, 207",
+      "neighborhood": "Vila Clementino",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=800&q=80",
+      "ticketUrl": "https://cinemateca.org.br",
+      "source": "Cinemateca",
+      "sourceUrl": "https://cinemateca.org.br",
+      "tags": [
+        "halloween",
+        "cinemateca",
+        "cinema de terror",
+        "gratuito",
+        "filmes"
+      ]
+    },
+    {
+      "id": "qlh11b",
+      "title": "Parque Villa-Lobos: Caça aos Doces ou Travessuras & Halloween Pet (Gratuito)",
+      "description": "Grande celebração diurna de Dia das Bruxas para famílias, crianças e seus pets! Trilha do \"Doces ou Travessuras\", pintura facial de monstrinhos, concurso de fantasias infantil e de pets, contação de causos assustadores e oficinas de artesanato. Grátis.",
+      "category": "infantil",
+      "date": "2026-10-31T10:00:00",
+      "endDate": "2026-10-31T17:00:00",
+      "time": "10:00",
+      "location": "Parque Villa-Lobos",
+      "address": "Av. Prof. Fonseca Rodrigues, 2001",
+      "neighborhood": "Alto de Pinheiros",
+      "price": 0,
+      "isFree": true,
+      "featured": true,
+      "imageUrl": "https://images.unsplash.com/photo-1508873696983-2df5293cb32f?w=800&q=80",
+      "ticketUrl": "https://parquevillalobos.sp.gov.br",
+      "source": "Parques SP",
+      "sourceUrl": "https://parquevillalobos.sp.gov.br",
+      "tags": [
+        "halloween",
+        "infantil",
+        "dia das bruxas",
+        "doces ou travessuras",
+        "pet",
+        "gratuito"
+      ]
+    },
+    {
+      "id": "wjv3ki",
       "title": "Memorial da América Latina: Grande Festival Dia de Los Muertos (Gratuito)",
       "description": "Tradicional celebração do Dia dos Mortos com mariachis, altares gigantes, flores de cempasúchil, desfile de Catrinas e gastronomia mexicana.",
       "category": "cultura",
@@ -1924,14 +2518,319 @@
       ]
     },
     {
-      "id": "v2kc98",
+      "id": "eix9s",
+      "title": "Zombie Walk São Paulo: Marcha dos Mortos-Vivos no Centro Histórico (Gratuito)",
+      "description": "Tradicional concentração anual onde milhares de paulistanos fantasiados e maquiados de zumbis caminham pelas ruas do centro velho de SP. Maquiadores voluntários, flash mobs com coreografia de \"Thriller\", cortejo musical e arrecadação de alimentos.",
+      "category": "cultura",
+      "date": "2026-10-31T14:00:00",
+      "endDate": "2026-10-31T18:00:00",
+      "time": "14:00",
+      "location": "Praça do Patriarca & Viaduto do Chá",
+      "address": "Praça do Patriarca, s/n",
+      "neighborhood": "Centro Histórico",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=800&q=80",
+      "ticketUrl": "https://www.prefeitura.sp.gov.br",
+      "source": "Prefeitura SP",
+      "sourceUrl": "https://www.prefeitura.sp.gov.br",
+      "tags": [
+        "halloween",
+        "zombie walk",
+        "zumbi",
+        "centro historico",
+        "dia das bruxas",
+        "gratuito"
+      ]
+    },
+    {
+      "id": "mzte48",
+      "title": "SESC Pompeia: Dia do Saci & Lendas Urbanas de São Paulo (Gratuito)",
+      "description": "31 de outubro também é o oficial Dia do Saci no Brasil! O SESC Pompeia celebra com contação teatral das lendas urbanas paulistanas (A Loira do Banheiro, O Fantasma do Municipal e o Castelo da Rua Apa), cortejo musical e oficina de fantoches de seres mágicos.",
+      "category": "cultura",
+      "date": "2026-10-31T15:00:00",
+      "endDate": "2026-10-31T19:00:00",
+      "time": "15:00",
+      "location": "SESC Pompeia",
+      "address": "Rua Clélia, 93",
+      "neighborhood": "Pompeia",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://images.unsplash.com/photo-1514533450685-4493e01d1fdc?w=800&q=80",
+      "ticketUrl": "https://www.sescsp.org.br/agenda/",
+      "source": "SESC SP",
+      "sourceUrl": "https://www.sescsp.org.br/agenda/",
+      "tags": [
+        "dia do saci",
+        "halloween",
+        "folclore",
+        "lendas urbanas",
+        "sesc",
+        "gratuito"
+      ]
+    },
+    {
+      "id": "h6e6pj",
+      "title": "Escape 60: Noite de Horror Extremo com Atores Vivos — Especial Halloween",
+      "description": "Para quem tem coragem de verdade: salas de fuga temáticas com atores profissionais caracterizados como monstros, zumbis e criaturas paranormais interagindo em tempo real. 60 minutos de enigmas e adrenalina pura!",
+      "category": "outros",
+      "date": "2026-10-31T15:00:00",
+      "endDate": "2026-10-31T23:00:00",
+      "time": "15:00",
+      "location": "Escape 60 Jardins & Moema",
+      "address": "Al. dos Anapurus, 1479 — Moema",
+      "neighborhood": "Moema",
+      "price": 119,
+      "isFree": false,
+      "imageUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=800&q=80",
+      "ticketUrl": "https://escape60.com.br",
+      "source": "Escape 60",
+      "sourceUrl": "https://escape60.com.br",
+      "tags": [
+        "halloween",
+        "escape room",
+        "jogos",
+        "terror",
+        "moema"
+      ]
+    },
+    {
+      "id": "p4pwta",
+      "title": "Praça da Liberdade: Feira Noturna Geek, Cosplay & Mística de Halloween (Gratuito)",
+      "description": "Feira especial de Dia das Bruxas com mais de 70 barraquinhas: quitutes orientais com temática monstruosa (crepes negros, taiyakis recheados de poção vermelha), tendas de leitura de tarô, concurso de cosplay sobrenatural e flash tattoos.",
+      "category": "cultura",
+      "date": "2026-10-31T16:00:00",
+      "endDate": "2026-10-31T22:00:00",
+      "time": "16:00",
+      "location": "Praça da Liberdade",
+      "address": "Praça da Liberdade, s/n",
+      "neighborhood": "Liberdade",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://images.unsplash.com/photo-1569050467447-ce54b3bbc37d?w=800&q=80",
+      "ticketUrl": "https://www.cidadedesaopaulo.com",
+      "source": "SP Turismo",
+      "sourceUrl": "https://www.cidadedesaopaulo.com",
+      "tags": [
+        "halloween",
+        "liberdade",
+        "geek",
+        "cosplay",
+        "feira noturna",
+        "gratuito"
+      ]
+    },
+    {
+      "id": "garjjj",
+      "title": "CCSP: Mostra Literária Macabra — Sarau das Bruxas e Literatura Gótica (Gratuito)",
+      "description": "Tarde e noite dedicada aos clássicos da literatura gótica e fantástica no Centro Cultural SP. Leitura dramática ao vivo de contos de Mary Shelley, Edgar Allan Poe e Lygia Fagundes Telles, sarau poético aberto, feira de zines independentes e debates.",
+      "category": "literatura",
+      "date": "2026-10-31T17:00:00",
+      "endDate": "2026-10-31T21:00:00",
+      "time": "17:00",
+      "location": "Centro Cultural São Paulo",
+      "address": "R. Vergueiro, 1000 — Paraíso",
+      "neighborhood": "Paraíso",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://images.unsplash.com/photo-1455849318743-b2233052fcff?w=800&q=80",
+      "ticketUrl": "https://centrocultural.sp.gov.br",
+      "source": "Centro Cultural SP",
+      "sourceUrl": "https://centrocultural.sp.gov.br",
+      "tags": [
+        "halloween",
+        "literatura",
+        "sarau",
+        "bruxas",
+        "ccsp",
+        "gratuito"
+      ]
+    },
+    {
+      "id": "4vkn0e",
+      "title": "Vila Madalena Halloween Pub Crawl & Rota dos Bares Assombrados",
+      "description": "O circuito etílico mais divertido de São Paulo: passagem guiada por 5 bares temáticos da Vila Madalena, com direito a welcome shots de \"poção mágica\", petiscos temáticos monstruosos, concurso de fantasias e entrada VIP para a balada de encerramento.",
+      "category": "gastronomia",
+      "date": "2026-10-31T18:00:00",
+      "time": "18:00",
+      "location": "Vila Madalena",
+      "address": "Rua Aspicuelta, 300 (Concentração)",
+      "neighborhood": "Vila Madalena",
+      "price": 65,
+      "priceMax": 120,
+      "isFree": false,
+      "imageUrl": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=800&q=80",
+      "ticketUrl": "https://sympla.com.br",
+      "source": "Sympla",
+      "sourceUrl": "https://sympla.com.br",
+      "tags": [
+        "halloween",
+        "pub crawl",
+        "vila madalena",
+        "gastronomia",
+        "drinks",
+        "dia das bruxas"
+      ]
+    },
+    {
+      "id": "bua434",
+      "title": "Trem da República ganha edição noturna de Halloween entre Itu e Salto",
+      "description": "Passeio temático Hallowtrain ocorre em três sábados de outubro com decoração especial, personagens, serviço de bordo e coquetel na Estação de Salto",
+      "category": "festa",
+      "date": "2026-10-31T19:00:00",
+      "location": "Centro Histórico",
+      "neighborhood": "Centro Histórico",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/09/001A3558.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/trem-da-republica-ganha-edicao-noturna-de-halloween-entre-itu-e-salto/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/trem-da-republica-ganha-edicao-noturna-de-halloween-entre-itu-e-salto/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "festa"
+      ],
+      "featured": false
+    },
+    {
+      "id": "1chsdm",
+      "title": "Para os fãs de terror: Edifício Rolim anuncia programação de Halloween e lança nova atração imersiva",
+      "description": "Prédio centenário no centro de São Paulo lança escape room focado em investigação e cria experiências inéditas para a temporada de Dia das Bruxas",
+      "category": "festa",
+      "date": "2026-10-31T19:00:00",
+      "location": "Centro Histórico",
+      "neighborhood": "Centro Histórico",
+      "price": 25,
+      "isFree": false,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/09/25fe3bfe-7cf5-4114-80dc-d5236b716914.png",
+      "ticketUrl": "https://catracalivre.com.br/gira/para-os-fas-de-terror-edificio-rolim-anuncia-programacao-de-halloween-e-lanca-nova-atracao-imersiva/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/para-os-fas-de-terror-edificio-rolim-anuncia-programacao-de-halloween-e-lanca-nova-atracao-imersiva/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
+        "sp",
+        "festa"
+      ],
+      "featured": false
+    },
+    {
+      "id": "chnf2o",
+      "title": "MIS SP: Maratona Cine Horror Especial Madrugada de Halloween",
+      "description": "Noite inteira com clássicos do terror nas salas do Museu da Imagem e do Som. Exibição de O Iluminado, Suspiria e A Bruxa em cópias restauradas, lounge com DJs tocando synth horror, food trucks e concurso de cosplay macabro.",
+      "category": "cinema",
+      "date": "2026-10-31T19:00:00",
+      "endDate": "2026-10-31T23:59:00",
+      "time": "19:00",
+      "location": "MIS - Museu da Imagem e do Som",
+      "address": "Av. Europa, 158",
+      "neighborhood": "Jardim Europa",
+      "price": 20,
+      "priceMax": 40,
+      "isFree": false,
+      "imageUrl": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=800&q=80",
+      "ticketUrl": "https://www.mis-sp.org.br/",
+      "source": "MIS SP",
+      "sourceUrl": "https://www.mis-sp.org.br/",
+      "tags": [
+        "halloween",
+        "cinema",
+        "filmes de terror",
+        "cine horror",
+        "mis",
+        "dia das bruxas"
+      ]
+    },
+    {
+      "id": "1yiibh",
+      "title": "Candlelight Halloween: Trilhas Sonoras de Terror à Luz de Velas",
+      "description": "Concerto à luz de velas intimista com quarteto de cordas executando trilhas inesquecíveis: Halloween (John Carpenter), O Exorcista, Tubarão, Stranger Things, Psicose, Danse Macabre e Thriller sob a luz de 5.000 velas.",
+      "category": "musica",
+      "date": "2026-10-31T19:30:00",
+      "time": "19:30",
+      "location": "Teatro Bradesco",
+      "address": "Rua Palestra Itália, 500 — Bourbon Shopping",
+      "neighborhood": "Perdizes",
+      "price": 75,
+      "priceMax": 190,
+      "isFree": false,
+      "featured": true,
+      "imageUrl": "https://images.unsplash.com/photo-1507676184212-d03ab07a01bf?w=800&q=80",
+      "ticketUrl": "https://feverup.com/sao-paulo",
+      "source": "Candlelight",
+      "sourceUrl": "https://feverup.com/sao-paulo",
+      "tags": [
+        "halloween",
+        "candlelight",
+        "concerto",
+        "trilhas sonoras",
+        "terror",
+        "musica"
+      ]
+    },
+    {
+      "id": "ec2yov",
+      "title": "Tokyo República: Halloween nas Alturas — Rooftop & Karaokê do Terror",
+      "description": "9 andares de festa na República: karaokês privativos decorados com clássicos cult de horror, pista no terraço com vista para o Copan iluminado de roxo e abóbora, carta de coquetéis com seringas e névoa cenográfica, e sets de indie, dark pop e disco.",
+      "category": "festa",
+      "date": "2026-10-31T20:00:00",
+      "time": "20:00",
+      "location": "Tokyo Rooftop",
+      "address": "Rua Major Sertório, 110 — República",
+      "neighborhood": "República",
+      "price": 50,
+      "priceMax": 90,
+      "isFree": false,
+      "imageUrl": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=800&q=80",
+      "ticketUrl": "https://tokyo011.com.br",
+      "source": "Tokyo SP",
+      "sourceUrl": "https://tokyo011.com.br",
+      "tags": [
+        "halloween",
+        "balada",
+        "rooftop",
+        "tokyo",
+        "republica",
+        "karaoke"
+      ]
+    },
+    {
+      "id": "kkozlm",
+      "title": "Edifício Martinelli: Baile de Máscaras & Halloween no Terraço Histórico",
+      "description": "No topo do primeiro arranha-céu da cidade, uma festa glamorosa e exclusiva de Halloween. Vista de 360 graus do skyline paulistano, orquestra jazzística de câmara tocando temas de mistério, open bar premium e alta gastronomia.",
+      "category": "festa",
+      "date": "2026-10-31T21:00:00",
+      "time": "21:00",
+      "location": "Edifício Martinelli",
+      "address": "Rua São Bento, 405 — Centro",
+      "neighborhood": "Centro Histórico",
+      "price": 190,
+      "priceMax": 380,
+      "isFree": false,
+      "featured": true,
+      "imageUrl": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=800&q=80",
+      "ticketUrl": "https://edificiomartinelli.com.br",
+      "source": "Martinelli",
+      "sourceUrl": "https://edificiomartinelli.com.br",
+      "tags": [
+        "halloween",
+        "edificio martinelli",
+        "baile de mascaras",
+        "centro",
+        "destaque"
+      ]
+    },
+    {
+      "id": "pxmpnh",
       "title": "Halloween da Audio: O Grande Baile dos Monstros",
-      "description": "A maior festa à fantasia de Halloween de São Paulo! Premiação para as melhores caracterizações, 3 pistas simultâneas e labirinto assombrado.",
+      "description": "A maior festa à fantasia de Halloween de São Paulo! Concurso com premiação de R$ 10.000 para as melhores caracterizações, 3 pistas simultâneas (Rock, Pop, Eletrônico), labirinto assombrado com atores e open bar temático no mezanino.",
       "category": "festa",
       "date": "2026-10-31T22:00:00",
       "time": "22:00",
       "location": "Audio Club",
-      "address": "Av. Francisco Matarazzo, 694",
+      "address": "Av. Francisco Matarazzo, 694 — Barra Funda",
       "neighborhood": "Barra Funda",
       "price": 80,
       "priceMax": 220,
@@ -1945,8 +2844,85 @@
         "halloween",
         "dia das bruxas",
         "fantasia",
-        "balada"
+        "balada",
+        "audio",
+        "barra funda"
       ]
+    },
+    {
+      "id": "vppbpz",
+      "title": "Cine Joia: Freak Show Halloween Circus Party",
+      "description": "O templo da música na Liberdade se transforma em um bizarro circo dos horrores! Projeção mapeada imersiva 360°, trupe circense burlesca, maquiadores no local e line-up com DJs de electropop, funk e tribal. Premiação para as melhores fantasias.",
+      "category": "festa",
+      "date": "2026-10-31T22:30:00",
+      "time": "22:30",
+      "location": "Cine Joia",
+      "address": "Praça Carlos Gomes, 82 — Liberdade",
+      "neighborhood": "Liberdade",
+      "price": 55,
+      "priceMax": 110,
+      "isFree": false,
+      "imageUrl": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=800&q=80",
+      "ticketUrl": "https://cinejoia.tv",
+      "source": "Cine Joia",
+      "sourceUrl": "https://cinejoia.tv",
+      "tags": [
+        "halloween",
+        "cine joia",
+        "liberdade",
+        "freak show",
+        "balada",
+        "fantasia"
+      ]
+    },
+    {
+      "id": "h9wfq6",
+      "title": "Madame Underground Club: A Lendária Noite de Halloween Gótica",
+      "description": "O clube gótico mais lendário da América Latina celebra a Noite de Halloween no casarão histórico da Bela Vista. Decoração fúnebre exclusiva, poções no bar, DJs de post-punk, darkwave e gothic rock, e concurso de fantasias dark.",
+      "category": "festa",
+      "date": "2026-10-31T23:00:00",
+      "time": "23:00",
+      "location": "Madame Underground Club",
+      "address": "Rua Conselheiro Ramalho, 873 — Bela Vista",
+      "neighborhood": "Bela Vista",
+      "price": 45,
+      "priceMax": 90,
+      "isFree": false,
+      "featured": true,
+      "imageUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=800&q=80",
+      "ticketUrl": "https://madameclub.com.br",
+      "source": "Madame Club",
+      "sourceUrl": "https://madameclub.com.br",
+      "tags": [
+        "halloween",
+        "dia das bruxas",
+        "madame",
+        "goth",
+        "bela vista",
+        "festa"
+      ]
+    },
+    {
+      "id": "ehplw9",
+      "title": "Ocean Alley anuncia show em São Paulo; confira data, local e ingressos",
+      "description": "Sexteto se apresenta na Audio em 8 de novembro com a turnê do álbum ‘Love Balloon’; ingressos estão à venda",
+      "category": "musica",
+      "date": "2026-11-08T10:00:00",
+      "location": "Barra Funda",
+      "neighborhood": "Barra Funda",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/09/OA_LD_-_Primary_Press_Shot.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/ocean-alley-anuncia-show-em-sao-paulo-confira-data-local-e-ingressos/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/ocean-alley-anuncia-show-em-sao-paulo-confira-data-local-e-ingressos/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "musica"
+      ],
+      "featured": true
     }
   ]
 }

@@ -83,9 +83,10 @@ npm run build
 
 # 2. Deploy
 npx firebase-tools deploy --only hosting
-```
 
-> Atualize o ID do projeto em `.firebaserc` com o seu projeto Firebase.
+# URL publicada:
+# https://frojho-guiame.web.app
+```
 
 ## 📁 Estrutura
 
