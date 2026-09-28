@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T22:22:09.180Z",
+  "updatedAt": "2026-09-28T13:31:40.445Z",
   "totalCount": 125,
   "sources": [
     "Veja SP",
@@ -10,11 +10,11 @@
   ],
   "events": [
     {
-      "id": "13hf0r",
+      "id": "ip628d",
       "title": "AcquaVale Park é inaugurado no Sul de Minas com 11 piscinas, praia com ondas e atrações para crianças pequenas",
       "description": "Novo parque aquático do Hotel Fazenda Vale da Mantiqueira tem água climatizada, sete toboáguas, áreas cobertas e ao ar livre e estrutura pensada para diferentes idades Tem novidade para as famílias que gostam de combinar hotel fazenda e parque aquático. O AcquaVale Park já está em operação em Virgínia, no Sul de Minas Gerais, junto [&hellip;]",
       "category": "infantil",
-      "date": "2026-09-04T12:58:35.000Z",
+      "date": "2026-09-04T09:58:35.000Z",
       "location": "São Paulo",
       "neighborhood": "São Paulo",
       "price": 0,
@@ -32,11 +32,11 @@
       "featured": true
     },
     {
-      "id": "yspjkk",
+      "id": "se5gzb",
       "title": "Cartoon Network Land em São Paulo tem Ben 10, Gumball, Meninas Superpoderosas e atrações interativas",
       "description": "Experiência no Shopping Center Norte transforma desenhos do Cartoon Network em brinquedos, games e desafios que crianças e adultos podem experimentar de verdade Quem cresceu esperando a hora de assistir Cartoon Network agora pode curtir essa experiência junto com os filhos. A Cartoon Network Land, está em cartaz no Shopping Center Norte, em São Paulo, [&hellip;]",
       "category": "infantil",
-      "date": "2026-09-04T14:04:40.000Z",
+      "date": "2026-09-04T11:04:40.000Z",
       "location": "São Paulo",
       "neighborhood": "São Paulo",
       "price": 35,
@@ -54,11 +54,11 @@
       "featured": false
     },
     {
-      "id": "qrgd24",
+      "id": "x60fnd",
       "title": "Cabanas, cinema e uma noite inteira com os amigos: conheça a festa do pijama do Pullman Guarulhos",
       "description": "Que tal trocar a festa de aniversário tradicional das crianças, por uma noite de pijama com direito a cabanas, cinema e comida especial? A Festa do Pijama no Pullman Guarulhos foi pensada para crianças que querem comemorar uma data especial ou simplesmente transformar uma noite comum em uma divertida aventura com os amigos. O pacote [&hellip;]",
       "category": "infantil",
-      "date": "2026-09-08T18:02:13.000Z",
+      "date": "2026-09-08T15:02:13.000Z",
       "location": "São Paulo",
       "neighborhood": "São Paulo",
       "price": 35,
@@ -76,11 +76,11 @@
       "featured": false
     },
     {
-      "id": "mb0yuw",
+      "id": "sxflv4",
       "title": "Corrida para mulheres em SP une atividade física e networking no B2Mamy Run Like a Mother",
       "description": "Quem disse que networking precisa acontecer em uma sala de reunião? No B2Mamy Run Like a Mother, a proposta é colocar o tênis no pé e deixar as conexões acontecerem durante uma manhã de corrida, caminhada e conversa. A segunda edição do B2Mamy Run Like a Mother acontece em São Paulo no dia 26 de [&hellip;]",
       "category": "infantil",
-      "date": "2026-09-08T22:45:53.000Z",
+      "date": "2026-09-08T19:45:53.000Z",
       "location": "Vila Mariana",
       "neighborhood": "Vila Mariana",
       "price": 35,
@@ -120,11 +120,11 @@
       "featured": true
     },
     {
-      "id": "ydzehc",
+      "id": "rzfbw3",
       "title": "Centro para Crianças e Adolescentes (CCA): como funciona em São Paulo",
       "description": "Quem procura um espaço gratuito para crianças e adolescentes no período em que não estão na escola pode encontrar nos Centros para Crianças e Adolescentes (CCAs) uma opção da rede socioassistencial da Prefeitura de São Paulo. O serviço atende crianças e adolescentes de 6 a 14 anos e 11 meses, prioritariamente em situações de vulnerabilidade [&hellip;]",
       "category": "infantil",
-      "date": "2026-09-09T14:03:14.000Z",
+      "date": "2026-09-09T11:03:14.000Z",
       "location": "Centro Histórico",
       "neighborhood": "Centro Histórico",
       "price": 0,
@@ -142,33 +142,11 @@
       "featured": true
     },
     {
-      "id": "yfkkz5",
-      "title": "Onde dançar música latina em SP: festas, bailes e mais pra se jogar na pista",
-      "description": "Do reggaeton à cumbia, conheça festas e casas de música latina em São Paulo que transformam a cidade em um pedacinho da América Latina",
-      "category": "festa",
-      "date": "2026-09-09T17:56:51.000Z",
-      "location": "Vila Mariana",
-      "neighborhood": "Vila Mariana",
-      "price": 25,
-      "isFree": false,
-      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2025/10/roles-musica-latina-em-sp.jpg",
-      "ticketUrl": "https://catracalivre.com.br/gira/onde-dancar-musica-latina-em-sp-festas-bailes-e-mais-pra-se-jogar-na-pista/",
-      "source": "Catraca Livre",
-      "sourceUrl": "https://catracalivre.com.br/gira/onde-dancar-musica-latina-em-sp-festas-bailes-e-mais-pra-se-jogar-na-pista/",
-      "tags": [
-        "catracalivre",
-        "gratuito",
-        "sp",
-        "festa"
-      ],
-      "featured": false
-    },
-    {
-      "id": "kwde6o",
+      "id": "raxgrx",
       "title": "Roteiro de rolês para dançar de segunda a domingo em SP",
       "description": "De segunda a domingo, São Paulo tem pista para todo mundo! Descubra aulas, bailes e festas pra dançar muito — do forró ao charme e à salsa.",
       "category": "festa",
-      "date": "2026-09-09T17:56:54.000Z",
+      "date": "2026-09-09T14:56:54.000Z",
       "location": "São Paulo",
       "neighborhood": "São Paulo",
       "price": 25,
@@ -186,11 +164,11 @@
       "featured": false
     },
     {
-      "id": "npv4ze",
+      "id": "u4f7kn",
       "title": "Yūg: novo restaurante japonês da Vila Buarque celebra tradição com alma contemporânea",
       "description": "Com cardápio assinado pela dupla Thiago Maeda e Thiago Pereira, o Yūg traduz a essência da culinária japonesa tradicional com um toque moderno",
       "category": "gastronomia",
-      "date": "2026-09-09T17:56:57.000Z",
+      "date": "2026-09-09T14:56:57.000Z",
       "location": "São Paulo",
       "neighborhood": "São Paulo",
       "price": 25,
@@ -208,11 +186,11 @@
       "featured": false
     },
     {
-      "id": "krv49v",
+      "id": "r6f6v4",
       "title": "Como casal do interior de SP virou referência em queijos artesanais e ganhou 7 medalhas no maior concurso do Brasil",
       "description": "A Jeito de Mato nasceu em Fernandópolis para custear uma festa de criança — e hoje coleciona prêmios nos maiores concursos de queijos do país",
       "category": "festa",
-      "date": "2026-09-09T17:57:08.000Z",
+      "date": "2026-09-09T14:57:08.000Z",
       "location": "São Paulo",
       "neighborhood": "São Paulo",
       "price": 25,
@@ -230,11 +208,11 @@
       "featured": false
     },
     {
-      "id": "un5ise",
+      "id": "xzeglh",
       "title": "Bares e restaurantes com drinks zero álcool em SP",
       "description": "Descubra os melhores bares e restaurantes de São Paulo com drinks sem álcool. Mocktails criativos, refrescantes e cheios de personalidade te esperam!",
       "category": "gastronomia",
-      "date": "2026-09-09T17:57:12.000Z",
+      "date": "2026-09-09T14:57:12.000Z",
       "location": "São Paulo",
       "neighborhood": "São Paulo",
       "price": 25,
@@ -252,11 +230,11 @@
       "featured": false
     },
     {
-      "id": "4ok2to",
+      "id": "1pzzrl",
       "title": "Museus com entrada gratuita em São Paulo: saiba como visitar",
       "description": "SP é conhecida por ter alguns dos maiores museus do país. Além de cultural, a cidade é super acessível e tem opções todos os dias para curtir de graça.  A Gira Catraca Livre tá aqui para te ajudar a aproveitar a cidade todinha, então bora para uma listona de museus com entrada gratuita em São [&hellip;]",
       "category": "exposicao",
-      "date": "2026-09-09T18:01:24.000Z",
+      "date": "2026-09-09T15:01:24.000Z",
       "location": "São Paulo",
       "neighborhood": "São Paulo",
       "price": 0,
@@ -274,11 +252,11 @@
       "featured": true
     },
     {
-      "id": "ncior4",
+      "id": "tr2rcd",
       "title": "Theatro Municipal comemora 115 anos com concertos gratuitos e encontro inusitado da Sinfônica com Marcos &#038; Belutti!",
       "description": "Theatro Municipal faz 115 anos e ganha festa de graça com sertanejo orquestrado, MPB e ópera. Veja os horários e como retirar seu ingresso!",
       "category": "festa",
-      "date": "2026-09-10T14:17:32.000Z",
+      "date": "2026-09-10T11:17:32.000Z",
       "location": "São Paulo",
       "neighborhood": "São Paulo",
       "price": 0,
@@ -296,11 +274,11 @@
       "featured": true
     },
     {
-      "id": "rpxbfu",
+      "id": "lbd8ul",
       "title": "Dinos Alive: exposição com mais de 80 dinossauros chega a Curitiba",
       "description": "Já imaginou dar de cara com um T-Rex durante um passeio em família? É essa a proposta do Dinos Alive: Uma Experiência Imersiva, exposição que está em cartaz no Jockey Plaza Shopping, em Curitiba, por tempo limitado. Indicada para crianças e adultos, a atração dura aproximadamente 60 minutos e reúne réplicas animadas em tamanho real, [&hellip;]",
       "category": "infantil",
-      "date": "2026-09-10T17:10:53.000Z",
+      "date": "2026-09-10T14:10:53.000Z",
       "location": "São Paulo",
       "neighborhood": "São Paulo",
       "price": 35,
@@ -340,11 +318,11 @@
       "featured": true
     },
     {
-      "id": "abdfg0",
+      "id": "u40wp4",
       "title": "‘Valsa nº 6’, clássico de Nelson Rodrigues, ganha montagem intimista e visceral no Teatro Sérgio Cardoso",
       "description": "Com direção de Jorge Farjalla e atuação de Carol Costa, “Valsa nº 6” volta ao Teatro Sérgio Cardoso para curta temporada em formato de arena.",
       "category": "teatro",
-      "date": "2026-09-14T12:47:36.000Z",
+      "date": "2026-09-14T09:47:36.000Z",
       "location": "Centro Histórico",
       "neighborhood": "Centro Histórico",
       "price": 25,
@@ -362,11 +340,11 @@
       "featured": false
     },
     {
-      "id": "j7p9qq",
+      "id": "pm9cbz",
       "title": "Parque Villa-Lobos ganha exposição gratuita com obras gigantes e interativas para a criançada!",
       "description": "Com entrada 0800 no Parque Villa-Lobos, a 15ª Mostra 3M de Arte traz o tema “A Cidade das Crianças” com obras inéditas e brincadeiras para a família.",
       "category": "exposicao",
-      "date": "2026-09-14T13:10:13.000Z",
+      "date": "2026-09-14T10:10:13.000Z",
       "location": "São Paulo",
       "neighborhood": "São Paulo",
       "price": 0,
@@ -384,11 +362,11 @@
       "featured": true
     },
     {
-      "id": "i7222s",
+      "id": "olm4o1",
       "title": "Pela primeira vez em SP, Edwin Luisi vive 20 personagens no aclamado espetáculo ‘Eu Sou Minha Própria Mulher’",
       "description": "Conheça a história da travesti alemã que desafiou a história em “Eu Sou Minha Própria Mulher”, com Edwin Luisi no Teatro FAAP",
       "category": "teatro",
-      "date": "2026-09-14T14:31:35.000Z",
+      "date": "2026-09-14T11:31:35.000Z",
       "location": "São Paulo",
       "neighborhood": "São Paulo",
       "price": 25,
@@ -406,11 +384,11 @@
       "featured": false
     },
     {
-      "id": "l5c5cr",
+      "id": "eqs2ri",
       "title": "Olivier Anquier abre centro cultural no centro de SP com exposição gratuita de suas fotografias pelo Brasil",
       "description": "O Arquivo Anquier recheia a Praça da República com arte, memórias e cultura popular brasileira. Exposição aberta de quarta a domingo. Saiba mais!",
       "category": "musica",
-      "date": "2026-09-14T15:34:32.000Z",
+      "date": "2026-09-14T12:34:32.000Z",
       "location": "Centro Histórico",
       "neighborhood": "Centro Histórico",
       "price": 0,
@@ -428,11 +406,11 @@
       "featured": true
     },
     {
-      "id": "ekaoxd",
+      "id": "kyurim",
       "title": "Ocupação Itaú Cultural homenageia Anísio Teixeira, o patrono da escola pública brasileira",
       "description": "Conheça a vida do criador da escola pública brasileira! O Itaú Cultural recebe mostra gratuita recheada de memórias e acervo inédito. Saiba mais!",
       "category": "exposicao",
-      "date": "2026-09-14T16:30:17.000Z",
+      "date": "2026-09-14T13:30:17.000Z",
       "location": "São Paulo",
       "neighborhood": "São Paulo",
       "price": 0,
@@ -450,11 +428,11 @@
       "featured": true
     },
     {
-      "id": "mcffsj",
+      "id": "fxvd7a",
       "title": "Festival Burger Gourmet traz combos completos de hambúrguer artesanal a partir de R$ 49,90 em SP",
       "description": "Hambúrguer, acompanhamento e bebida geladinha por preço fixo! O 9º Burger Gourmet reúne mais de 30 hamburguerias em SP. Confira os participantes!",
       "category": "exposicao",
-      "date": "2026-09-14T16:52:04.000Z",
+      "date": "2026-09-14T13:52:04.000Z",
       "location": "São Paulo",
       "neighborhood": "São Paulo",
       "price": 25,
@@ -472,11 +450,11 @@
       "featured": false
     },
     {
-      "id": "asgze2",
+      "id": "h711zb",
       "title": "Casa de Cultura do Parque tem mês recheado de exposições, oficinas e encontros grátis no Alto de Pinheiros",
       "description": "Arte, oficinas para bebês e aulas para o vestibular! Confirme sua presença no mês gratuito da Casa de Cultura do Parque no Alto de Pinheiros.",
       "category": "exposicao",
-      "date": "2026-09-14T17:45:41.000Z",
+      "date": "2026-09-14T14:45:41.000Z",
       "location": "Pinheiros",
       "neighborhood": "Pinheiros",
       "price": 0,
@@ -494,11 +472,11 @@
       "featured": true
     },
     {
-      "id": "yg3zte",
+      "id": "gsckwm",
       "title": "Exposição inédita celebrando os 90 anos de Luis Fernando Verissimo ocupa o Centro Cultural FIESP na Paulista",
       "description": "Rolê 0800 imperdível na Paulista! A mostra “Traçando Verissimo” reúne mais de 300 relíquias inéditas, desenhos e charges no Centro Cultural FIESP.",
       "category": "exposicao",
-      "date": "2026-09-14T20:01:12.000Z",
+      "date": "2026-09-14T17:01:12.000Z",
       "location": "Bela Vista",
       "neighborhood": "Bela Vista",
       "price": 0,
@@ -516,11 +494,11 @@
       "featured": true
     },
     {
-      "id": "vjjvqv",
+      "id": "p4zt5m",
       "title": "Feira Sabor Nacional ocupa a Cinemateca com 100 pequenos produtores, espaço de botecos, shows e cinema",
       "description": "Coma bem e apoie pequenos produtores! A Feira Sabor Nacional invade a Cinemateca com pratos incríveis, drinks de boteco e atrações pra família toda.",
       "category": "musica",
-      "date": "2026-09-15T14:00:53.000Z",
+      "date": "2026-09-15T11:00:53.000Z",
       "location": "São Paulo",
       "neighborhood": "São Paulo",
       "price": 25,
@@ -538,11 +516,11 @@
       "featured": false
     },
     {
-      "id": "ibgfk2",
+      "id": "oq0i5b",
       "title": "Última chance! ‘Rita Lee, Uma Autobiografia Musical’ se despede de SP com Mel Lisboa no Teatro Porto",
       "description": "Inspirado no livro de memórias da rainha do rock, o musical premiado promete arrancar risos e lágrimas no Teatro Porto. Garanta seu lugar!",
       "category": "musica",
-      "date": "2026-09-15T14:45:55.000Z",
+      "date": "2026-09-15T11:45:55.000Z",
       "location": "São Paulo",
       "neighborhood": "São Paulo",
       "price": 25,
@@ -560,11 +538,11 @@
       "featured": false
     },
     {
-      "id": "crdxpz",
+      "id": "6ctv4q",
       "title": "Festival gratuito no Bom Retiro traz Duda Beat, Demônios da Garoa e feira de arte para o centro de SP",
       "description": "Rolê 0800 imperdível! Duda Beat, Demônios da Garoa, feira com 90 artistas e oficinas ocupam o Arquivo Histórico Municipal. Confira a programação!",
       "category": "exposicao",
-      "date": "2026-09-15T18:01:59.000Z",
+      "date": "2026-09-15T15:01:59.000Z",
       "location": "Centro Histórico",
       "neighborhood": "Centro Histórico",
       "price": 0,
@@ -582,11 +560,11 @@
       "featured": true
     },
     {
-      "id": "1g0a5x",
+      "id": "icn737",
       "title": "Peppa Pig, Play-Doh e Transformers juntos? Experiência da Hasbro transforma shopping de SP em vila de brincadeiras",
       "description": "Tem poça de lama, pizza de massinha, espelhos mágicos, arco-íris e desafios de pontaria. No Family Fest by Hasbro, Experiencia Familiar Inmersiva, as crianças recebem um passaporte e partem para uma missão por sete cenários inspirados em personagens e marcas como Peppa Pig, My Little Pony, Furby e Transformers. A atração acontece no Shopping Eldorado, [&hellip;]",
       "category": "infantil",
-      "date": "2026-09-15T20:28:59.000Z",
+      "date": "2026-09-15T17:28:59.000Z",
       "location": "São Paulo",
       "neighborhood": "São Paulo",
       "price": 35,
@@ -604,11 +582,11 @@
       "featured": false
     },
     {
-      "id": "mvbki7",
+      "id": "t9vn3g",
       "title": "O que fazer em São Paulo com chuva: 11 rolês incríveis para curtir sem perrengue",
       "description": "Procurando o que fazer em São Paulo quando chove? Descubra atrações cobertas, shows, cinemas de rua, cafeterias e rodas de samba para curtir a cidade sem passar perrengue.",
       "category": "musica",
-      "date": "2026-09-17T14:37:07.000Z",
+      "date": "2026-09-17T11:37:07.000Z",
       "location": "São Paulo",
       "neighborhood": "São Paulo",
       "price": 25,
@@ -626,11 +604,11 @@
       "featured": false
     },
     {
-      "id": "j8yj4e",
+      "id": "vzi1lm",
       "title": "Uma Festa no Castelo: TUCCA leva circo e orquestra para espetáculo infantil em SP",
       "description": "E se uma bruxa precisasse preparar uma festa de aniversário antes que um conde vampiro acordasse? Essa é a situação de Uma Festa no Castelo, espetáculo da série Aprendiz de Maestro, do TUCCA Música pela Cura, que combina teatro, circo e orquestra. Com classificação livre, a montagem terá apresentações nos dias 19 e 20 de [&hellip;]",
       "category": "infantil",
-      "date": "2026-09-18T12:35:52.000Z",
+      "date": "2026-09-18T09:35:52.000Z",
       "location": "Centro Histórico",
       "neighborhood": "Centro Histórico",
       "price": 0,
@@ -736,11 +714,11 @@
       "featured": true
     },
     {
-      "id": "2mhnqr",
+      "id": "h65tid",
       "title": "Presley Gerber, modelo e filho de Cindy Crawford, morre aos 27 anos",
       "description": "Filho da supermodelo e do empresário Rande Gerber faleceu em uma clínica de reabilitação em Los Angeles; causa da morte não foi divulgada",
       "category": "cultura",
-      "date": "2026-09-21T12:11:34.000Z",
+      "date": "2026-09-21T09:11:34.000Z",
       "location": "São Paulo",
       "neighborhood": "São Paulo",
       "price": 30,
@@ -758,11 +736,11 @@
       "featured": false
     },
     {
-      "id": "85w0b0",
+      "id": "1rbxpr",
       "title": "Arquivo Histórico Municipal realiza festival gratuito com Duda Beat e Demônios da Garoa",
       "description": "Evento no Edifício Ramos de Azevedo, no Bom Retiro, reúne oficinas, debates, intervenções artísticas e shows ao ar livre entre quinta (24) e sábado (26)",
       "category": "musica",
-      "date": "2026-09-21T13:29:37.000Z",
+      "date": "2026-09-21T10:29:37.000Z",
       "location": "São Paulo",
       "neighborhood": "São Paulo",
       "price": 0,
@@ -780,11 +758,11 @@
       "featured": true
     },
     {
-      "id": "beb4fb",
+      "id": "4zr1u2",
       "title": "Exposição gratuita para crianças chega ao Parque Villa-Lobos",
       "description": "Mostra 3M de Arte inaugura sua 15ª edição com obras interativas voltadas para os pequenos",
       "category": "exposicao",
-      "date": "2026-09-21T15:21:30.000Z",
+      "date": "2026-09-21T12:21:30.000Z",
       "location": "São Paulo",
       "neighborhood": "São Paulo",
       "price": 0,
@@ -802,11 +780,11 @@
       "featured": true
     },
     {
-      "id": "4j7s24",
+      "id": "1vcaj5",
       "title": "Brasil Jazz Sinfônica apresenta concerto no Teatro Franco Zampari",
       "description": "Sob regência de João Maurício Galindo, orquestra toca obras de Edu Lobo, Chico Buarque e Pixinguinha, além de trabalhos originais",
       "category": "musica",
-      "date": "2026-09-21T19:56:20.000Z",
+      "date": "2026-09-21T16:56:20.000Z",
       "location": "São Paulo",
       "neighborhood": "São Paulo",
       "price": 30,
@@ -824,11 +802,11 @@
       "featured": true
     },
     {
-      "id": "d447h4",
+      "id": "6oj9s0",
       "title": "Mostras Regionais de Dança reúnem 11 companhias paulistas com espetáculos gratuitos",
       "description": "Programação passa por dez municípios entre outubro e novembro",
       "category": "teatro",
-      "date": "2026-09-21T21:48:52.000Z",
+      "date": "2026-09-21T18:48:52.000Z",
       "location": "Bela Vista",
       "neighborhood": "Bela Vista",
       "price": 0,
@@ -846,11 +824,11 @@
       "featured": true
     },
     {
-      "id": "zew8w5",
+      "id": "t0c6aw",
       "title": "Pitty lança ‘Sobremesa’, primeiro single de seu novo álbum solo após hiato de sete anos",
       "description": "Com guitarras em primeiro plano e letra irônica, faixa antecipa o disco ‘PITTY’, previsto para outubro",
       "category": "cultura",
-      "date": "2026-09-22T15:29:50.000Z",
+      "date": "2026-09-22T12:29:50.000Z",
       "location": "São Paulo",
       "neighborhood": "São Paulo",
       "price": 30,
@@ -868,11 +846,11 @@
       "featured": false
     },
     {
-      "id": "cr09lc",
+      "id": "j5kc6l",
       "title": "Satyrianas 2026: maratona cultural gratuita reúne Mel Lisboa, Carmo Dalla Vecchia e 400 atrações na Praça Roosevelt",
       "description": "78 horas de arte ininterruptas! A 27ª edição das Satyrianas traz leituras com Mel Lisboa e Carmo Dalla Vecchia, teatro, cinema e atrações infantis. Confira!",
       "category": "teatro",
-      "date": "2026-09-22T16:51:34.000Z",
+      "date": "2026-09-22T13:51:34.000Z",
       "location": "São Paulo",
       "neighborhood": "São Paulo",
       "price": 0,
@@ -890,11 +868,11 @@
       "featured": true
     },
     {
-      "id": "17ckiz",
+      "id": "7lwn48",
       "title": "Vozes da MPB na ZL: Luedji Luna faz show gratuito no Sesc Itaquera neste domingo",
       "description": "Quer curtir MPB de graça neste domingo? Luedji Luna se apresenta no Sesc Itaquera no clássico programa Bem Brasil da TV Cultura. Vem ver!",
       "category": "musica",
-      "date": "2026-09-22T17:25:49.000Z",
+      "date": "2026-09-22T14:25:49.000Z",
       "location": "Itaquera",
       "neighborhood": "Itaquera",
       "price": 0,
@@ -912,11 +890,11 @@
       "featured": true
     },
     {
-      "id": "io12vp",
+      "id": "c9h0ag",
       "title": "CCBB SP recebe mostra gratuita da Cinemateca Brasileira com 36 clássicos do cinema nacional",
       "description": "Mostra gratuita no CCBB SP reúne 36 filmes marcantes do cinema brasileiro, incluindo obras de Glauber Rocha e Mário Peixoto. Confira a programação!",
       "category": "tecnologia",
-      "date": "2026-09-22T18:00:39.000Z",
+      "date": "2026-09-22T15:00:39.000Z",
       "location": "São Paulo",
       "neighborhood": "São Paulo",
       "price": 0,
@@ -934,11 +912,11 @@
       "featured": true
     },
     {
-      "id": "fpm8ju",
+      "id": "9b25yl",
       "title": "O caminho da água depois do ralo: museu recebe experiência interativa para crianças",
       "description": "‘Missão Rio Limpo’, no Museu da Imaginação, oferece atração imersiva em um passeio pelo ciclo do saneamento",
       "category": "exposicao",
-      "date": "2026-09-22T18:18:55.000Z",
+      "date": "2026-09-22T15:18:55.000Z",
       "location": "São Paulo",
       "neighborhood": "São Paulo",
       "price": 30,
@@ -956,11 +934,11 @@
       "featured": true
     },
     {
-      "id": "9x3s9i",
+      "id": "gbnuur",
       "title": "Com Gregorio Duvivier, ‘O Céu da Língua’ volta a São Paulo para curta temporada no Espaço Unimed",
       "description": "Um stand-up refinado e hilário sobre como tropeçamos na poesia todo dia! Gregorio Duvivier volta a SP com a comédia premiada “O Céu da Língua”. Confira datas e ingressos.",
       "category": "teatro",
-      "date": "2026-09-22T18:30:40.000Z",
+      "date": "2026-09-22T15:30:40.000Z",
       "location": "Barra Funda",
       "neighborhood": "Barra Funda",
       "price": 25,
@@ -978,11 +956,11 @@
       "featured": false
     },
     {
-      "id": "hpaj24",
+      "id": "23cy70",
       "title": "Andreas Kisser faz show gratuito no Jardim Suspenso do CCSP",
       "description": "Guitarrista do Sepultura mostra projeto acústico neste sábado (26); evento ao ar livre PRISMA também reúne performance visual, DJs e cinema",
       "category": "musica",
-      "date": "2026-09-22T20:01:18.000Z",
+      "date": "2026-09-22T17:01:18.000Z",
       "location": "Butantã",
       "neighborhood": "Butantã",
       "price": 0,
@@ -1000,11 +978,11 @@
       "featured": true
     },
     {
-      "id": "yw2rw7",
+      "id": "gcdstt",
       "title": "Portugal além do óbvio: o que descobrir em Porto e Lisboa",
       "description": "Confira dicas de gastronomia e cultura nas duas cidades para uma viagem diferente pelos dois principais destinos turísticos de Portugal",
       "category": "gastronomia",
-      "date": "2026-09-23T11:00:34.000Z",
+      "date": "2026-09-23T08:00:34.000Z",
       "location": "São Paulo",
       "neighborhood": "São Paulo",
       "price": 30,
@@ -1022,11 +1000,11 @@
       "featured": false
     },
     {
-      "id": "hfc1tp",
+      "id": "b0rz8g",
       "title": "Jão estreia nova turnê com palco 360° no Nubank Parque; confira guia completo",
       "description": "Apresentação do álbum ‘Memórias Póstumas’ acontece nesta sexta-feira (25)",
       "category": "teatro",
-      "date": "2026-09-23T17:09:15.000Z",
+      "date": "2026-09-23T14:09:15.000Z",
       "location": "São Paulo",
       "neighborhood": "São Paulo",
       "price": 30,
@@ -1044,11 +1022,11 @@
       "featured": false
     },
     {
-      "id": "4w09v3",
+      "id": "1ijsq6",
       "title": "Comédia de terror brasileira ‘Privadas de Suas Vidas’ é premiada no Festival de Brasília",
       "description": "Longa estrelado por Martha Nowill mistura gore e humor ácido; produção foi reconhecida nas categorias de Melhor Atriz, Atriz Coadjuvante e Direção de Arte",
       "category": "festa",
-      "date": "2026-09-23T17:14:44.000Z",
+      "date": "2026-09-23T14:14:44.000Z",
       "location": "São Paulo",
       "neighborhood": "São Paulo",
       "price": 30,
@@ -1066,11 +1044,11 @@
       "featured": false
     },
     {
-      "id": "1x32qk",
+      "id": "4hgzup",
       "title": "Com pistas de skate de Bob Burnquist e shows para 5 mil pessoas, SESI Itaquera abre as portas",
       "description": "O novo Centro Cultural SESI Itaquera abre as portas com pistas padrão olímpico, teatro gigante, artes visuais e quadras esportivas 100% gratuitas na Zona Leste.",
       "category": "musica",
-      "date": "2026-09-23T18:58:27.000Z",
+      "date": "2026-09-23T15:58:27.000Z",
       "location": "Centro Histórico",
       "neighborhood": "Centro Histórico",
       "price": 0,
@@ -1088,11 +1066,11 @@
       "featured": true
     },
     {
-      "id": "kp8515",
+      "id": "r3s7me",
       "title": "Solar da Marquesa de Santos tem oficina gratuita de HQ",
       "description": "Atividade do Museu da Cidade integra a 20ª Primavera dos Museus e ensina o público a criar quadrinhos sobre memórias e populações invisibilizadas de São Paulo",
       "category": "musica",
-      "date": "2026-09-24T13:45:17.000Z",
+      "date": "2026-09-24T10:45:17.000Z",
       "location": "São Paulo",
       "neighborhood": "São Paulo",
       "price": 0,
@@ -1110,11 +1088,11 @@
       "featured": true
     },
     {
-      "id": "ge96u3",
+      "id": "mst9fc",
       "title": "Campo de Marte recebe Domingo Aéreo com Esquadrilha da Fumaça e entrada grátis",
       "description": "Tradicional evento paulistano ocorre domingo (27) com manobras no céu, exposição de caças, carros de drift e simuladores de voo",
       "category": "exposicao",
-      "date": "2026-09-24T14:11:34.000Z",
+      "date": "2026-09-24T11:11:34.000Z",
       "location": "Bela Vista",
       "neighborhood": "Bela Vista",
       "price": 0,
@@ -1132,11 +1110,11 @@
       "featured": true
     },
     {
-      "id": "c2jhgp",
+      "id": "ih3k1y",
       "title": "Galeria Ibehas inaugura em SP com exposições de arte sonora imersiva na Barra Funda",
       "description": "Com 205 caixas acústicas e nenhum estímulo visual, a galeria sonora Ibehas inaugura na Barra Funda propondo uma imersão sensorial inédita na cidade",
       "category": "exposicao",
-      "date": "2026-09-24T14:58:04.000Z",
+      "date": "2026-09-24T11:58:04.000Z",
       "location": "Barra Funda",
       "neighborhood": "Barra Funda",
       "price": 30,
@@ -1154,11 +1132,11 @@
       "featured": true
     },
     {
-      "id": "pfpill",
+      "id": "5n21ch",
       "title": "‘Resident Evil’: a receita perfeita para uma comédia de terror",
       "description": "Do mesmo diretor de ‘A Hora do Mal’, o longa estrelado por Austin Abrams acompanha um entregador em uma jornada repleta de criaturas mutantes",
       "category": "festa",
-      "date": "2026-09-25T11:00:07.000Z",
+      "date": "2026-09-25T08:00:07.000Z",
       "location": "São Paulo",
       "neighborhood": "São Paulo",
       "price": 30,
@@ -1176,11 +1154,11 @@
       "featured": false
     },
     {
-      "id": "rv2lf9",
+      "id": "82f465",
       "title": "Mural SP: Lucia Laguna",
       "description": "A artista morreu na última segunda-feira (21), aos 85 anos",
       "category": "gastronomia",
-      "date": "2026-09-25T11:00:17.000Z",
+      "date": "2026-09-25T08:00:17.000Z",
       "location": "São Paulo",
       "neighborhood": "São Paulo",
       "price": 30,
@@ -1198,11 +1176,11 @@
       "featured": false
     },
     {
-      "id": "vy52i2",
+      "id": "pjkzwt",
       "title": "Sandy e Junior anunciam novo projeto juntos em São Paulo para 2027",
       "description": "Irmãos pegaram os fãs de surpresa com postagem nas redes sociais; detalhes da novidade serão revelados em novembro",
       "category": "cultura",
-      "date": "2026-09-25T14:54:49.000Z",
+      "date": "2026-09-25T11:54:49.000Z",
       "location": "São Paulo",
       "neighborhood": "São Paulo",
       "price": 30,
@@ -1220,11 +1198,11 @@
       "featured": false
     },
     {
-      "id": "4wvbzk",
+      "id": "opit8o",
       "title": "Renner se manifesta pela primeira vez após morte de Rick: ‘O show não pode parar’",
       "description": "Sertanejo gravou depoimento nas redes sociais após o sepultamento do parceiro em Sorocaba",
       "category": "festa",
-      "date": "2026-09-25T20:08:22.000Z",
+      "date": "2026-09-25T17:08:22.000Z",
       "location": "São Paulo",
       "neighborhood": "São Paulo",
       "price": 30,
@@ -1242,11 +1220,11 @@
       "featured": false
     },
     {
-      "id": "v23in3",
+      "id": "k6d22x",
       "title": "Com Bruna Linzmeyer, ‘Virtuosas’ usa seita para cutucar feridas",
       "description": "Premiado na Mostra SP, o longa retrata grupo de mulheres conservadoras em uma trama perturbadora",
       "category": "cinema",
-      "date": "2026-09-26T11:00:08.000Z",
+      "date": "2026-09-26T08:00:08.000Z",
       "location": "São Paulo",
       "neighborhood": "São Paulo",
       "price": 30,
@@ -1264,11 +1242,11 @@
       "featured": false
     },
     {
-      "id": "lotgux",
+      "id": "tjn3v3",
       "title": "Espaços culturais de SP realizam troca e distribuição gratuita de livros neste sábado (26)",
       "description": "Programação reúne feiras de livros, gibis e mangás nas bibliotecas Álvares de Azevedo e Álvaro Guerra e no Arquivo Histórico Municipal",
       "category": "gastronomia",
-      "date": "2026-09-26T11:00:16.000Z",
+      "date": "2026-09-26T08:00:16.000Z",
       "location": "São Paulo",
       "neighborhood": "São Paulo",
       "price": 0,
@@ -1286,11 +1264,11 @@
       "featured": true
     },
     {
-      "id": "m6ghak",
+      "id": "2dt01g",
       "title": "Parlapatões comemoram 35 anos com versão abrasileirada de clássico",
       "description": "Sob direção de Hugo Possolo, ‘Arlequim, Servidor de Dois Patrões’ une palhaçaria, música e crítica social para falar sobre a fome",
       "category": "musica",
-      "date": "2026-09-26T11:00:55.000Z",
+      "date": "2026-09-26T08:00:55.000Z",
       "location": "São Paulo",
       "neighborhood": "São Paulo",
       "price": 30,
@@ -1308,11 +1286,11 @@
       "featured": true
     },
     {
-      "id": "9ghsu7",
+      "id": "t95a3b",
       "title": "De Veneza para São Paulo: Paula Cohen é destaque em ‘Retorno a Buenos Aires’",
       "description": "Atriz relata como foi participar da produção, recém-premiada no Festival de Veneza",
       "category": "cultura",
-      "date": "2026-09-26T11:00:58.000Z",
+      "date": "2026-09-26T08:00:58.000Z",
       "location": "São Paulo",
       "neighborhood": "São Paulo",
       "price": 30,
@@ -1352,11 +1330,11 @@
       "featured": true
     },
     {
-      "id": "e7hz2r",
+      "id": "5l5i6d",
       "title": "Centro Cultural Fiesp recebe primeira exposição de Martin Parr no Brasil",
       "description": "Mostra ‘Mundo Pequeno’ reúne 45 imagens do aclamado fotógrafo britânico sobre o turismo de massa e o consumo, além de instalação interativa",
       "category": "exposicao",
-      "date": "2026-09-27T11:00:49.000Z",
+      "date": "2026-09-27T08:00:49.000Z",
       "location": "Bela Vista",
       "neighborhood": "Bela Vista",
       "price": 30,
@@ -1465,11 +1443,11 @@
       ]
     },
     {
-      "id": "w377td",
+      "id": "pon584",
       "title": "Biblioteca Mário de Andrade tem recital e atividade de leitura gratuitas",
       "description": "Programação ocorre na terça-feira (29) e na quarta-feira (30) no centro de São Paulo",
       "category": "musica",
-      "date": "2026-09-27T19:00:25.000Z",
+      "date": "2026-09-27T16:00:25.000Z",
       "location": "Centro Histórico",
       "neighborhood": "Centro Histórico",
       "price": 0,
@@ -1481,6 +1459,28 @@
       "tags": [
         "vejasp",
         "cultura",
+        "sp",
+        "musica"
+      ],
+      "featured": true
+    },
+    {
+      "id": "p4rkpi",
+      "title": "3º Festival Nordestino do CTN celebra os 9 estados da região com shows e pratos gigantes de graça",
+      "description": "Shows ao vivo, pratos gigantes de graça e cultura dos nove estados! O Festival Nordestino do CTN celebra o mês de outubro com programação 0800 na Zona Norte.",
+      "category": "musica",
+      "date": "2026-09-28T09:47:46.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/09/unnamed-2026-09-28t093723199.jpg",
+      "ticketUrl": "https://catracalivre.com.br/gira/festival-nordestino-do-ctn-sao-paulo-programacao-2026/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/festival-nordestino-do-ctn-sao-paulo-programacao-2026/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
         "sp",
         "musica"
       ],
