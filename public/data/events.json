@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T13:31:40.445Z",
+  "updatedAt": "2026-09-29T12:33:23.788Z",
   "totalCount": 125,
   "sources": [
     "Veja SP",
@@ -9,28 +9,6 @@
     "Instituições SP"
   ],
   "events": [
-    {
-      "id": "ip628d",
-      "title": "AcquaVale Park é inaugurado no Sul de Minas com 11 piscinas, praia com ondas e atrações para crianças pequenas",
-      "description": "Novo parque aquático do Hotel Fazenda Vale da Mantiqueira tem água climatizada, sete toboáguas, áreas cobertas e ao ar livre e estrutura pensada para diferentes idades Tem novidade para as famílias que gostam de combinar hotel fazenda e parque aquático. O AcquaVale Park já está em operação em Virgínia, no Sul de Minas Gerais, junto [&hellip;]",
-      "category": "infantil",
-      "date": "2026-09-04T09:58:35.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/09/spcriancas_passeio_acquavale.jpg",
-      "ticketUrl": "https://saopauloparacriancas.com.br/acquavale-park-vale-da-mantiqueira/",
-      "source": "SP para Crianças",
-      "sourceUrl": "https://saopauloparacriancas.com.br/acquavale-park-vale-da-mantiqueira/",
-      "tags": [
-        "infantil",
-        "familia",
-        "criancas",
-        "sp"
-      ],
-      "featured": true
-    },
     {
       "id": "se5gzb",
       "title": "Cartoon Network Land em São Paulo tem Ben 10, Gumball, Meninas Superpoderosas e atrações interativas",
@@ -692,72 +670,6 @@
       "featured": true
     },
     {
-      "id": "s9q2m8",
-      "title": "Nostalgia sem wifi: festival gratuito reúne brincadeiras de rua e músicas dos anos 90 em São Paulo",
-      "description": "Atualização: a programação teve sua data alterada para 27 de setembro de 2026. Quando foi a última vez que você brincou de pião, taco ou rolimã com seus filhos? Essa é a proposta do Nostalgia sem Wifi, que reúne mais de 40 brincadeiras de rua, desafios e atividades no palco em 20 de setembro de [&hellip;]",
-      "category": "infantil",
-      "date": "2026-09-20T10:00:00",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/09/sp_criancas_passeio_na_rua_sem_wi_fi-3.jpg",
-      "ticketUrl": "https://saopauloparacriancas.com.br/nostalgia-sem-wifi-festival-grajau-sp/",
-      "source": "SP para Crianças",
-      "sourceUrl": "https://saopauloparacriancas.com.br/nostalgia-sem-wifi-festival-grajau-sp/",
-      "tags": [
-        "infantil",
-        "familia",
-        "criancas",
-        "sp"
-      ],
-      "featured": true
-    },
-    {
-      "id": "h65tid",
-      "title": "Presley Gerber, modelo e filho de Cindy Crawford, morre aos 27 anos",
-      "description": "Filho da supermodelo e do empresário Rande Gerber faleceu em uma clínica de reabilitação em Los Angeles; causa da morte não foi divulgada",
-      "category": "cultura",
-      "date": "2026-09-21T09:11:34.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/09/Presley_corte.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/presley-gerber-modelo-e-filho-de-cindy-crawford-morre-aos-27-anos/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/presley-gerber-modelo-e-filho-de-cindy-crawford-morre-aos-27-anos/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "cultura"
-      ],
-      "featured": false
-    },
-    {
-      "id": "1rbxpr",
-      "title": "Arquivo Histórico Municipal realiza festival gratuito com Duda Beat e Demônios da Garoa",
-      "description": "Evento no Edifício Ramos de Azevedo, no Bom Retiro, reúne oficinas, debates, intervenções artísticas e shows ao ar livre entre quinta (24) e sábado (26)",
-      "category": "musica",
-      "date": "2026-09-21T10:29:37.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=800&q=80",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/arquivo-historico-municipal-realiza-festival-gratuito-com-duda-beat-e-demonios-da-garoa/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/arquivo-historico-municipal-realiza-festival-gratuito-com-duda-beat-e-demonios-da-garoa/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "musica"
-      ],
-      "featured": true
-    },
-    {
       "id": "4zr1u2",
       "title": "Exposição gratuita para crianças chega ao Parque Villa-Lobos",
       "description": "Mostra 3M de Arte inaugura sua 15ª edição com obras interativas voltadas para os pequenos",
@@ -1308,28 +1220,6 @@
       "featured": false
     },
     {
-      "id": "uhivkw",
-      "title": "Parque Trianon recebe exposição gratuita que mistura fotografia e espelhos",
-      "description": "Com curadoria de Marcello Dantas, a artista Betina Samaia instala obras ao ar livre no coração da Avenida Paulista a partir de 26 de setembro",
-      "category": "exposicao",
-      "date": "2026-09-26T10:00:00",
-      "location": "Bela Vista",
-      "neighborhood": "Bela Vista",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/09/expo_Trianon.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/parque-trianon-recebe-exposicao-gratuita-que-mistura-fotografia-e-espelhos/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/parque-trianon-recebe-exposicao-gratuita-que-mistura-fotografia-e-espelhos/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "exposicao"
-      ],
-      "featured": true
-    },
-    {
       "id": "5l5i6d",
       "title": "Centro Cultural Fiesp recebe primeira exposição de Martin Parr no Brasil",
       "description": "Mostra ‘Mundo Pequeno’ reúne 45 imagens do aclamado fotógrafo britânico sobre o turismo de massa e o consumo, além de instalação interativa",
@@ -1487,6 +1377,72 @@
       "featured": true
     },
     {
+      "id": "1gwnrn",
+      "title": "Festival de lanternas inspirado na Tailândia chega a SP",
+      "description": "Com edição no Jardim Botânico, o Water Lantern Festival reúne soltura de lâmpadas ecológicas sobre as águas, gastronomia e música ao vivo",
+      "category": "musica",
+      "date": "2026-09-28T12:49:11.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/09/hero-b_lcxujh_Z77IT0.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/festival-de-lanternas-inspirado-na-tailandia-chega-a-sp/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/festival-de-lanternas-inspirado-na-tailandia-chega-a-sp/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "musica"
+      ],
+      "featured": true
+    },
+    {
+      "id": "1wt52k",
+      "title": "Vale-night com Beethoven? 9ª Sinfonia ganha experiência imersiva em SP",
+      "description": "Que tal trocar o bar, o jantar ou o cinema por uma noite ao som de Beethoven? A 9ª de Beethoven em 7.1 leva a 9ª Sinfonia de Beethoven ao Vibra, em São Paulo, em uma apresentação com sistema cinematográfico de som imersivo 7.1. A proposta pode entrar no roteiro de um vale night a [&hellip;]",
+      "category": "infantil",
+      "date": "2026-09-28T14:19:54.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 35,
+      "isFree": false,
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/09/sp_criancas_passeios_vibra_01.jpeg",
+      "ticketUrl": "https://saopauloparacriancas.com.br/vale-night-beethoven-9a-sinfonia-sp/",
+      "source": "SP para Crianças",
+      "sourceUrl": "https://saopauloparacriancas.com.br/vale-night-beethoven-9a-sinfonia-sp/",
+      "tags": [
+        "infantil",
+        "familia",
+        "criancas",
+        "sp"
+      ],
+      "featured": false
+    },
+    {
+      "id": "t510s3",
+      "title": "U2 anuncia novo disco após 10 anos sem lançamentos: confira detalhes",
+      "description": "Novo trabalho de estúdio traz single com citação ao Rio de Janeiro, colaboração com a cantora Rosalía e a última gravação da carreira de Dolly Parton",
+      "category": "cultura",
+      "date": "2026-09-28T15:09:43.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/09/u2-apresenta-novo-album-carnaval-de-luz-que-chega-em-novembro-banda-tambem-aprov.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/u2-anuncia-novo-disco-apos-10-anos-sem-lancamentos-confira-detalhes/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/u2-anuncia-novo-disco-apos-10-anos-sem-lancamentos-confira-detalhes/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "cultura"
+      ],
+      "featured": false
+    },
+    {
       "id": "foc41q",
       "title": "Concerto Sinfônico OSESP na Sala São Paulo",
       "description": "A Orquestra Sinfônica do Estado de São Paulo apresenta a 9ª Sinfonia de Beethoven com coro completo em uma das salas com melhor acústica do mundo.",
@@ -1509,6 +1465,28 @@
         "musica classica",
         "sala sao paulo"
       ]
+    },
+    {
+      "id": "eoeq5x",
+      "title": "As 5 livrarias e bibliotecas mais bonitas de São Paulo",
+      "description": "Confira os endereços que recebem um vasta programação cultural e possuem projetos arquitetônicos interessantes",
+      "category": "tecnologia",
+      "date": "2026-09-28T16:22:01.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2025/10/Biblioteca-Mario-De-Andrade-0005-copy.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/5-livrarias-bibliotecas-bonitas-sao-paulo/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/5-livrarias-bibliotecas-bonitas-sao-paulo/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "tecnologia"
+      ],
+      "featured": false
     },
     {
       "id": "hj0w08",
@@ -1782,6 +1760,28 @@
       ]
     },
     {
+      "id": "60xro4",
+      "title": "Dia das Crianças com música, bolhas de sabão e circo: shopping de SP prepara programação gratuita",
+      "description": "O Dia das Crianças ganha uma programação especial no Jardim Pamplona Shopping, em São Paulo. No dia 10 de outubro, o rooftop do empreendimento recebe o PAM Kids Day, com show da Queen Live Kids, artistas circenses, bolhas de sabão, pintura facial, meet & greet e outras atividades para crianças e adultos. Das 14h às [&hellip;]",
+      "category": "infantil",
+      "date": "2026-10-10T10:00:00",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/09/sp_criancas_passeios_pamplona_shopping_02.jpeg",
+      "ticketUrl": "https://saopauloparacriancas.com.br/jardim-pamplona-shopping-sp/",
+      "source": "SP para Crianças",
+      "sourceUrl": "https://saopauloparacriancas.com.br/jardim-pamplona-shopping-sp/",
+      "tags": [
+        "infantil",
+        "familia",
+        "criancas",
+        "sp"
+      ],
+      "featured": true
+    },
+    {
       "id": "q2b2i",
       "title": "Expresso Chocolate: passeio de trem leva famílias a Paranapiacaba em outubro",
       "description": "Que tal passar o dia em um passeio de trem com destino a Paranapiacaba? O Expresso Chocolate acontece no sábado, 10 de outubro de 2026, com saída da Estação da Luz, em São Paulo, e chegada prevista à vila de Paranapiacaba, em Santo André. Realizado pela Nova Ponte Turismo, o passeio é voltado também para [&hellip;]",
@@ -1851,19 +1851,19 @@
       "featured": true
     },
     {
-      "id": "84d18u",
-      "title": "Nos cinemas em outubro: “A Princesa e o Plebeu” chega com aventura para toda a família",
-      "description": "Que tal aproveitar momentos juntos para assistir a uma aventura de fantasia no cinema? A Princesa e o Plebeu é uma animação com lançamento previsto para outubro deste ano, que acompanha uma princesa, um rei disfarçado e uma história de descobertas, humor e romance. Na trama, Carolina é uma princesa que rejeita o pedido de [&hellip;]",
+      "id": "grqpdb",
+      "title": "Crianças não pagam: hotel em São José dos Campos tem piscina climatizada, espaço kids e atividades em outubro",
+      "description": "Em São José dos Campos, o Novotel São José dos Campos reúne hospedagem, lazer e atividades para famílias com crianças. Além de servir como ponto de partida para conhecer a cidade e outros destinos do Vale do Paraíba, o hotel oferece opções para quem prefere passar mais tempo dentro da própria estrutura. A programação inclui [&hellip;]",
       "category": "infantil",
       "date": "2026-10-10T14:00:00",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
+      "location": "Centro Histórico",
+      "neighborhood": "Centro Histórico",
       "price": 35,
       "isFree": false,
-      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/09/sp_criancas_passeio_cinema_03.jpeg",
-      "ticketUrl": "https://saopauloparacriancas.com.br/princesa-e-o-plebeu-cinema/",
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/09/sp_criancas_passeios_novotel_03.jpeg",
+      "ticketUrl": "https://saopauloparacriancas.com.br/novotel-sao-jose-dos-campos-sp/",
       "source": "SP para Crianças",
-      "sourceUrl": "https://saopauloparacriancas.com.br/princesa-e-o-plebeu-cinema/",
+      "sourceUrl": "https://saopauloparacriancas.com.br/novotel-sao-jose-dos-campos-sp/",
       "tags": [
         "infantil",
         "familia",
