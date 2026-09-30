@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T12:33:23.788Z",
+  "updatedAt": "2026-09-30T12:19:30.502Z",
   "totalCount": 125,
   "sources": [
     "Veja SP",
@@ -9,28 +9,6 @@
     "Instituições SP"
   ],
   "events": [
-    {
-      "id": "se5gzb",
-      "title": "Cartoon Network Land em São Paulo tem Ben 10, Gumball, Meninas Superpoderosas e atrações interativas",
-      "description": "Experiência no Shopping Center Norte transforma desenhos do Cartoon Network em brinquedos, games e desafios que crianças e adultos podem experimentar de verdade Quem cresceu esperando a hora de assistir Cartoon Network agora pode curtir essa experiência junto com os filhos. A Cartoon Network Land, está em cartaz no Shopping Center Norte, em São Paulo, [&hellip;]",
-      "category": "infantil",
-      "date": "2026-09-04T11:04:40.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 35,
-      "isFree": false,
-      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/09/spcriancas_passeio_cartoon.jpg",
-      "ticketUrl": "https://saopauloparacriancas.com.br/cartoon-network-land-sao-paulo/",
-      "source": "SP para Crianças",
-      "sourceUrl": "https://saopauloparacriancas.com.br/cartoon-network-land-sao-paulo/",
-      "tags": [
-        "infantil",
-        "familia",
-        "criancas",
-        "sp"
-      ],
-      "featured": false
-    },
     {
       "id": "x60fnd",
       "title": "Cabanas, cinema e uma noite inteira com os amigos: conheça a festa do pijama do Pullman Guarulhos",
@@ -118,28 +96,6 @@
         "sp"
       ],
       "featured": true
-    },
-    {
-      "id": "raxgrx",
-      "title": "Roteiro de rolês para dançar de segunda a domingo em SP",
-      "description": "De segunda a domingo, São Paulo tem pista para todo mundo! Descubra aulas, bailes e festas pra dançar muito — do forró ao charme e à salsa.",
-      "category": "festa",
-      "date": "2026-09-09T14:56:54.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 25,
-      "isFree": false,
-      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2025/10/sampa-charme-por-fabioeufrazio-e1762176359404.jpg",
-      "ticketUrl": "https://catracalivre.com.br/gira/roteiro-roles-danca-sp/",
-      "source": "Catraca Livre",
-      "sourceUrl": "https://catracalivre.com.br/gira/roteiro-roles-danca-sp/",
-      "tags": [
-        "catracalivre",
-        "gratuito",
-        "sp",
-        "festa"
-      ],
-      "featured": false
     },
     {
       "id": "u4f7kn",
@@ -670,72 +626,6 @@
       "featured": true
     },
     {
-      "id": "4zr1u2",
-      "title": "Exposição gratuita para crianças chega ao Parque Villa-Lobos",
-      "description": "Mostra 3M de Arte inaugura sua 15ª edição com obras interativas voltadas para os pequenos",
-      "category": "exposicao",
-      "date": "2026-09-21T12:21:30.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/09/Rommulo-Vieira-Conceicao_15a-Mostra-3M-de-Arte_006.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/mostra-3m-exposicao-gratuita-criancas-parque-villa-lobos/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/mostra-3m-exposicao-gratuita-criancas-parque-villa-lobos/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "exposicao"
-      ],
-      "featured": true
-    },
-    {
-      "id": "1vcaj5",
-      "title": "Brasil Jazz Sinfônica apresenta concerto no Teatro Franco Zampari",
-      "description": "Sob regência de João Maurício Galindo, orquestra toca obras de Edu Lobo, Chico Buarque e Pixinguinha, além de trabalhos originais",
-      "category": "musica",
-      "date": "2026-09-21T16:56:20.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/09/unnamed_244c66.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/brasil-jazz-sinfonica-apresenta-concerto-no-teatro-franco-zampari/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/brasil-jazz-sinfonica-apresenta-concerto-no-teatro-franco-zampari/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "musica"
-      ],
-      "featured": true
-    },
-    {
-      "id": "6oj9s0",
-      "title": "Mostras Regionais de Dança reúnem 11 companhias paulistas com espetáculos gratuitos",
-      "description": "Programação passa por dez municípios entre outubro e novembro",
-      "category": "teatro",
-      "date": "2026-09-21T18:48:52.000Z",
-      "location": "Bela Vista",
-      "neighborhood": "Bela Vista",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/08/677c2641d091bda7d76e9f85_677c2593d14e98bd6c769e00_CultSP-PRO-2-1024x683-1.jpeg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/mostras-regionais-de-danca-reunem-11-companhias-paulistas-com-espetaculos-gratuitos/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/mostras-regionais-de-danca-reunem-11-companhias-paulistas-com-espetaculos-gratuitos/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "teatro"
-      ],
-      "featured": true
-    },
-    {
       "id": "t0c6aw",
       "title": "Pitty lança ‘Sobremesa’, primeiro single de seu novo álbum solo após hiato de sete anos",
       "description": "Com guitarras em primeiro plano e letra irônica, faixa antecipa o disco ‘PITTY’, previsto para outubro",
@@ -1220,8 +1110,8 @@
       "featured": false
     },
     {
-      "id": "5l5i6d",
-      "title": "Centro Cultural Fiesp recebe primeira exposição de Martin Parr no Brasil",
+      "id": "7d8pwk",
+      "title": "Centro Cultural Fiesp recebe nova exposição de Martin Parr",
       "description": "Mostra ‘Mundo Pequeno’ reúne 45 imagens do aclamado fotógrafo britânico sobre o turismo de massa e o consumo, além de instalação interativa",
       "category": "exposicao",
       "date": "2026-09-27T08:00:49.000Z",
@@ -1515,6 +1405,72 @@
       ]
     },
     {
+      "id": "c9p7ex",
+      "title": "3 terraços gratuitos com vista para a Avenida Paulista",
+      "description": "Confira endereços na via mais famosa de São Paulo que unem arquitetura, cultura e visuais panorâmicos da cidade",
+      "category": "cultura",
+      "date": "2026-09-29T16:22:18.000Z",
+      "location": "Bela Vista",
+      "neighborhood": "Bela Vista",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2025/08/dan_7390_b219a6.webp",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/3-terracos-gratis-com-vista-avenida-paulista/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/3-terracos-gratis-com-vista-avenida-paulista/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "cultura"
+      ],
+      "featured": true
+    },
+    {
+      "id": "5ry21d",
+      "title": "Semana Internacional de Música ocupa Avenida Paulista em novembro",
+      "description": "Evento reunirá mais de 100 painéis, cerca de 300 conferencistas e showcases de mais de 20 artistas",
+      "category": "musica",
+      "date": "2026-09-29T17:06:36.000Z",
+      "location": "Bela Vista",
+      "neighborhood": "Bela Vista",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/09/Imagem1.png",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/semana-internacional-musica-avenida-paulista-novembro/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/semana-internacional-musica-avenida-paulista-novembro/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "musica"
+      ],
+      "featured": true
+    },
+    {
+      "id": "ldcmnj",
+      "title": "4 lugares para explorar novos hobbies em São Paulo",
+      "description": "Do tricô à cerâmica, espaços da cidade oferecem aulas e ateliês para quem quer trocar a tela do celular por atividades manuais",
+      "category": "cultura",
+      "date": "2026-09-29T20:12:19.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/09/tinta2.webp",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/4-lugares-hobbies-sao-paulo/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/4-lugares-hobbies-sao-paulo/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "cultura"
+      ],
+      "featured": false
+    },
+    {
       "id": "fyp7lc",
       "title": "São Paulo Oktoberfest 2026 — Parque Villa-Lobos",
       "description": "A autêntica festa da cerveja de São Paulo com cervejarias artesanais, comidas típicas alemãs, bandas folclóricas bávaras e shows nacionais.",
@@ -1539,6 +1495,28 @@
         "festa",
         "gastronomia"
       ]
+    },
+    {
+      "id": "r5j5dk",
+      "title": "Dia das Crianças no Estádio do Red Bull Bragantino tem entrada gratuita, brinquedos infláveis e arena gamer",
+      "description": "Para comemorar o mês das crianças com uma experiência diferente, o Red Bull Bragantino realiza o evento “Toro Loko no Mundo da Diversão”. A atração acontece no sábado, dia 3 de outubro de 2026, das 9h às 16h, no Estádio Municipal Cícero de Souza Marques, em Bragança Paulista. A programação é totalmente gratuita, aberta ao [&hellip;]",
+      "category": "infantil",
+      "date": "2026-10-03T10:00:00",
+      "location": "Bela Vista",
+      "neighborhood": "Bela Vista",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-29-at-18.12.15-.jpeg",
+      "ticketUrl": "https://saopauloparacriancas.com.br/red-bull-bragantino-dia-das-criancas/",
+      "source": "SP para Crianças",
+      "sourceUrl": "https://saopauloparacriancas.com.br/red-bull-bragantino-dia-das-criancas/",
+      "tags": [
+        "infantil",
+        "familia",
+        "criancas",
+        "sp"
+      ],
+      "featured": true
     },
     {
       "id": "pb0j09",
@@ -1827,6 +1805,28 @@
         "exposicao",
         "gratuito"
       ]
+    },
+    {
+      "id": "ebm2n0",
+      "title": "Guia de teatro em SP: Confira as peças, musicais e comédias em cartaz em outubro",
+      "description": ": Descubra o que assistir nos palcos paulistanos neste mês. De superproduções musicais a peças gratuitas e infantis, montamos um roteiro completo de teatro em São Paulo.",
+      "category": "musica",
+      "date": "2026-10-10T14:00:00",
+      "location": "Bela Vista",
+      "neighborhood": "Bela Vista",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/09/guia-de-teatro-em-sp-confira-as-pecas-musicais-e-comedias-em-cartaz-em-outubro.jpg",
+      "ticketUrl": "https://catracalivre.com.br/gira/guia-de-teatro-em-sp/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/guia-de-teatro-em-sp/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
+        "sp",
+        "musica"
+      ],
+      "featured": true
     },
     {
       "id": "xv7r1u",
@@ -2246,28 +2246,6 @@
       ]
     },
     {
-      "id": "x9lo1e",
-      "title": "29º Cultura Inglesa Festival reúne shows, teatro e cinema em São Paulo com atrações gratuitas",
-      "description": "Programação gratuita ocorre de 21 a 31 de outubro com nomes como Agnes Nunes e Louise Orwin",
-      "category": "musica",
-      "date": "2026-10-21T10:00:00",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/09/AGNES_NUNES_0414_FINAL_02-1.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/29o-cultura-inglesa-festival-reune-shows-teatro-e-cinema-em-sao-paulo-com-atracoes-gratuitas/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/29o-cultura-inglesa-festival-reune-shows-teatro-e-cinema-em-sao-paulo-com-atracoes-gratuitas/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "musica"
-      ],
-      "featured": true
-    },
-    {
       "id": "l4zfup",
       "title": "Passeio Ciclístico Noturno de São Paulo (Gratuito)",
       "description": "Passeio ciclístico de 15km pelas vias icônicas de SP iluminadas à noite: Av. Paulista, Minhocão, Praça Roosevelt e Vale do Anhangabaú. Apoio mecânico, batedores da CET e ritmo leve para ciclistas de todas as idades.",
@@ -2671,6 +2649,28 @@
         "drinks",
         "dia das bruxas"
       ]
+    },
+    {
+      "id": "arbwo0",
+      "title": "Ed. Rolim ganha escape room e atrações especiais de Halloween no Centro de SP",
+      "description": "Maior complexo vertical de terror da América Latina lança sala focada em enigmas, teatro com contato físico e exploração noturna no prédio centenário",
+      "category": "festa",
+      "date": "2026-10-31T19:00:00",
+      "location": "Centro Histórico",
+      "neighborhood": "Centro Histórico",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/09/EdRolim.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/ed-rolim-ganha-escape-room-e-atracoes-especiais-de-halloween-no-centro-de-sp/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/ed-rolim-ganha-escape-room-e-atracoes-especiais-de-halloween-no-centro-de-sp/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "festa"
+      ],
+      "featured": false
     },
     {
       "id": "bua434",
