@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-01T12:54:13.314Z",
-  "totalCount": 61,
+  "updatedAt": "2026-10-02T12:16:54.908Z",
+  "totalCount": 70,
   "sources": [
     "Veja SP",
     "Catraca Livre",
@@ -9,6 +9,138 @@
     "Instituições SP"
   ],
   "events": [
+    {
+      "id": "pa69jh",
+      "title": "Museu Catavento apresenta espetáculos e oficinas na Semana das Crianças: confira",
+      "description": "Programação especial e educativa estimula o cuidado com a natureza e o aprendizado",
+      "category": "teatro",
+      "date": "2026-10-01T12:49:39.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/03/Palacio_das_Industrias-sede-do-Museu-Catavento-Alexandre-Carvalho_-Governo-SP.jpg.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/museu-catavento-programacao-dia-das-criancas/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/museu-catavento-programacao-dia-das-criancas/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "teatro"
+      ],
+      "featured": false
+    },
+    {
+      "id": "t9p1dg",
+      "title": "Shows infantis em São Paulo: opções para cantar, dançar e se divertir com os pequenos",
+      "description": "Tem criança que não perde a chance de cantar, dançar e acompanhar seus personagens favoritos no palco? Para quem está procurando um programa diferente para fazer em família, reunimos neste guia shows infantis em São Paulo que prometem colocar a criançada para cantar, dançar e se divertir. Tem espetáculos musicais, personagens conhecidos, apresentações cheias de [&hellip;]",
+      "category": "infantil",
+      "date": "2026-10-01T14:46:34.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 35,
+      "isFree": false,
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2025/09/sp_criancas_passeio_bluey_teatro_02.jpeg",
+      "ticketUrl": "https://saopauloparacriancas.com.br/shows-infantis-em-sao-paulo/",
+      "source": "SP para Crianças",
+      "sourceUrl": "https://saopauloparacriancas.com.br/shows-infantis-em-sao-paulo/",
+      "tags": [
+        "infantil",
+        "familia",
+        "criancas",
+        "sp"
+      ],
+      "featured": false
+    },
+    {
+      "id": "614bq4",
+      "title": "CAIXA Cultural São Paulo recebe 7ª Feira do Cordel Brasileiro de graça no centro de SP",
+      "description": "Literatura, xilogravura e muita música na Praça da Sé! A 7ª Feira do Cordel Brasileiro traz atrações gratuitas para todas as idades no centro de SP. Veja as datas!",
+      "category": "musica",
+      "date": "2026-10-01T15:26:46.000Z",
+      "location": "Centro Histórico",
+      "neighborhood": "Centro Histórico",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/10/unnamed-2026-10-01t152702594.jpg",
+      "ticketUrl": "https://catracalivre.com.br/gira/caixa-cultural-sao-paulo-recebe-a-7a-feira-do-cordel-brasileiro-no-dia-do-nordestino-sp/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/caixa-cultural-sao-paulo-recebe-a-7a-feira-do-cordel-brasileiro-no-dia-do-nordestino-sp/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
+        "sp",
+        "musica"
+      ],
+      "featured": true
+    },
+    {
+      "id": "82aioh",
+      "title": "WSL agita Maresias dentro e fora do mar",
+      "description": "Com patrocínio da Corona, etapa da World Surf League movimenta o Litoral Norte paulistano com programação que vai além das ondas",
+      "category": "tecnologia",
+      "date": "2026-10-01T17:35:56.000Z",
+      "location": "Bela Vista",
+      "neighborhood": "Bela Vista",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/DJI_20260926140759_0058_D-1.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/viagem/wsl-agita-maresias-dentro-e-fora-do-mar/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/viagem/wsl-agita-maresias-dentro-e-fora-do-mar/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "tecnologia"
+      ],
+      "featured": false
+    },
+    {
+      "id": "mect0x",
+      "title": "Christian Dunker fala sobre saúde mental, inadequação e pertencimento em novo livro",
+      "description": "O psicanalista aborda os efeitos das redes sociais, da pressão por desempenho e da busca por diagnósticos na saúde mental",
+      "category": "literatura",
+      "date": "2026-10-02T08:00:05.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/CHRISTIANDUNKER13.jpg.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/christian-dunker-fala-sobre-saude-mental-inadequacao-e-pertencimento-em-novo-livro/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/christian-dunker-fala-sobre-saude-mental-inadequacao-e-pertencimento-em-novo-livro/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "literatura"
+      ],
+      "featured": false
+    },
+    {
+      "id": "ulq3ox",
+      "title": "Mural SP: Ana Paula Sirino",
+      "description": "A artista Ana Paula Sirino transforma memórias em pinturas",
+      "category": "exposicao",
+      "date": "2026-10-02T08:00:59.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/Ana-Paula-Sirino_01.jpg.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/mural-sp-ana-paula-sirino/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/mural-sp-ana-paula-sirino/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "exposicao"
+      ],
+      "featured": true
+    },
     {
       "id": "fyp7lc",
       "title": "São Paulo Oktoberfest 2026 — Parque Villa-Lobos",
@@ -34,6 +166,28 @@
         "festa",
         "gastronomia"
       ]
+    },
+    {
+      "id": "c7f6g8",
+      "title": "Villa-Lobos terá manhã de wellness ao ar livre com aulas de yoga, funcional e até corrida",
+      "description": "Evento gratuito para alunos da Bio Ritmo e convidados reúne aulas ao ar livre, recovery e experiências de marcas parceiras no dia 3 de outubro",
+      "category": "esporte",
+      "date": "2026-10-03T10:00:00",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/10/villalobos-210525-fotodanieldeak-0789-scaled-1.jpg",
+      "ticketUrl": "https://catracalivre.com.br/gira/villa-lobos-tera-manha-de-wellness-ao-ar-livre-com-aulas-de-yoga-funcional-e-ate-corrida/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/villa-lobos-tera-manha-de-wellness-ao-ar-livre-com-aulas-de-yoga-funcional-e-ate-corrida/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
+        "sp",
+        "esporte"
+      ],
+      "featured": true
     },
     {
       "id": "r5j5dk",
@@ -299,28 +453,6 @@
       "featured": true
     },
     {
-      "id": "q2b2i",
-      "title": "Expresso Chocolate: passeio de trem leva famílias a Paranapiacaba em outubro",
-      "description": "Que tal passar o dia em um passeio de trem com destino a Paranapiacaba? O Expresso Chocolate acontece no sábado, 10 de outubro de 2026, com saída da Estação da Luz, em São Paulo, e chegada prevista à vila de Paranapiacaba, em Santo André. Realizado pela Nova Ponte Turismo, o passeio é voltado também para [&hellip;]",
-      "category": "infantil",
-      "date": "2026-10-10T10:00:00",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 35,
-      "isFree": false,
-      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/09/sp_criancas_passeio_trem_01.jpeg",
-      "ticketUrl": "https://saopauloparacriancas.com.br/expresso-chocolate-passeio-de-trem-paranapiacaba-sp/",
-      "source": "SP para Crianças",
-      "sourceUrl": "https://saopauloparacriancas.com.br/expresso-chocolate-passeio-de-trem-paranapiacaba-sp/",
-      "tags": [
-        "infantil",
-        "familia",
-        "criancas",
-        "sp"
-      ],
-      "featured": false
-    },
-    {
       "id": "1mj8jl",
       "title": "Pinacoteca de São Paulo — Arte Brasileira dos Séculos XIX e XX (Sábado Grátis)",
       "description": "A mais antiga instituição de arte de São Paulo apresenta seu acervo magistral, incluindo obras icônicas como O Mestiço e Saudade. Entrada franca aos sábados.",
@@ -344,6 +476,72 @@
         "exposicao",
         "gratuito"
       ]
+    },
+    {
+      "id": "aytkyt",
+      "title": "Biblioteca de São Paulo promove saraus e programação especial gratuita para o Dia das Crianças",
+      "description": "Espaço reúne encontros literários, apresentações da Big Band do Projeto Guri, contação de histórias e sessões de cinema em outubro",
+      "category": "musica",
+      "date": "2026-10-10T14:00:00",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2024/02/Fotos-BSP_Equipe-SP-Leituras_2.jpg.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/biblioteca-de-sao-paulo-promove-saraus-e-programacao-especial-gratuita-para-o-dia-das-criancas/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/biblioteca-de-sao-paulo-promove-saraus-e-programacao-especial-gratuita-para-o-dia-das-criancas/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "musica"
+      ],
+      "featured": true
+    },
+    {
+      "id": "c11195",
+      "title": "Festival ỌmỌdé celebra o Mês das Crianças com Fat Family, Samba de Dandara e Marina Íris no Sesc Bom Retiro",
+      "description": "Cultura afro-brasileira para a molecada! Festival ỌmỌdé traz Fat Family, Samba de Dandara, oficinas e jogos com atrações gratuitas no Sesc Bom Retiro.",
+      "category": "musica",
+      "date": "2026-10-10T14:00:00",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/10/samba-de-dandara-creditos-sofia-colluci.jpg",
+      "ticketUrl": "https://catracalivre.com.br/gira/omode-festival-sesc-de-arte-e-cultura-negra-para-a-molecada-sesc-bom-retiro-2026-sp/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/omode-festival-sesc-de-arte-e-cultura-negra-para-a-molecada-sesc-bom-retiro-2026-sp/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
+        "sp",
+        "musica"
+      ],
+      "featured": true
+    },
+    {
+      "id": "1nalpo",
+      "title": "Casa de Cultura do Parque abre novas exposições gratuitas e oficinas em outubro",
+      "description": "Novas exposições de arte e oficinas de xilogravura de graça na Zona Oeste! A Casa de Cultura do Parque movimenta o Alto de Pinheiros em outubro. Veja a programação",
+      "category": "exposicao",
+      "date": "2026-10-10T14:00:00",
+      "location": "Pinheiros",
+      "neighborhood": "Pinheiros",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/10/ccp-no-quintal-boneco-articulado-scaled-e1790874832962.jpg",
+      "ticketUrl": "https://catracalivre.com.br/gira/casa-de-cultura-do-parque-abre-novas-exposicoes-gratuitas-e-oficinas-em-outubro/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/casa-de-cultura-do-parque-abre-novas-exposicoes-gratuitas-e-oficinas-em-outubro/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
+        "sp",
+        "exposicao"
+      ],
+      "featured": true
     },
     {
       "id": "ebm2n0",
@@ -557,6 +755,28 @@
         "museu",
         "planetario"
       ]
+    },
+    {
+      "id": "g0atsq",
+      "title": "Museu da Língua Portuguesa tem programação gratuita para Dia das Crianças: confira",
+      "description": "Festival Dia das Crianças inclui apresentação musical, instalações lúdicas e visita guiada",
+      "category": "musica",
+      "date": "2026-10-12T10:00:00",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/24.0805_AN_Badulaque-748.jpg.jpeg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/museu-da-lingua-portuguesa-programacao-gratuita-dia-das-criancas/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/museu-da-lingua-portuguesa-programacao-gratuita-dia-das-criancas/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "musica"
+      ],
+      "featured": true
     },
     {
       "id": "1ahvd3",
@@ -1484,28 +1704,6 @@
         "bela vista",
         "festa"
       ]
-    },
-    {
-      "id": "ehplw9",
-      "title": "Ocean Alley anuncia show em São Paulo; confira data, local e ingressos",
-      "description": "Sexteto se apresenta na Audio em 8 de novembro com a turnê do álbum ‘Love Balloon’; ingressos estão à venda",
-      "category": "musica",
-      "date": "2026-11-08T10:00:00",
-      "location": "Barra Funda",
-      "neighborhood": "Barra Funda",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/09/OA_LD_-_Primary_Press_Shot.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/ocean-alley-anuncia-show-em-sao-paulo-confira-data-local-e-ingressos/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/ocean-alley-anuncia-show-em-sao-paulo-confira-data-local-e-ingressos/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "musica"
-      ],
-      "featured": true
     }
   ]
 }
