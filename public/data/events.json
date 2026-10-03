@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-02T12:16:54.908Z",
-  "totalCount": 70,
+  "updatedAt": "2026-10-03T11:27:02.839Z",
+  "totalCount": 74,
   "sources": [
     "Veja SP",
     "Catraca Livre",
@@ -142,6 +142,28 @@
       "featured": true
     },
     {
+      "id": "foxsgb",
+      "title": "SP Food Film Fest une cinema e comida de graça com degustações após as sessões",
+      "description": "De moqueca em Dona Flor a bolo de chocolate em Matilda! O SP Food Film Fest traz 42 filmes com degustação gratuita na capital. Veja os destaques!",
+      "category": "gastronomia",
+      "date": "2026-10-02T14:04:29.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/10/sp-food-film-fest-une-cinema-e-comida-de-graca-com-degustacoes-apos-as-sessoes.jpg",
+      "ticketUrl": "https://catracalivre.com.br/gira/sp-food-film-fest-une-cinema-e-comida-de-graca-com-degustacoes-apos-as-sessoes-2026/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/sp-food-film-fest-une-cinema-e-comida-de-graca-com-degustacoes-apos-as-sessoes-2026/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
+        "sp",
+        "gastronomia"
+      ],
+      "featured": true
+    },
+    {
       "id": "fyp7lc",
       "title": "São Paulo Oktoberfest 2026 — Parque Villa-Lobos",
       "description": "A autêntica festa da cerveja de São Paulo com cervejarias artesanais, comidas típicas alemãs, bandas folclóricas bávaras e shows nacionais.",
@@ -261,6 +283,28 @@
         "primavera",
         "gratuito"
       ]
+    },
+    {
+      "id": "3sveg2",
+      "title": "Festival de cultura digital desembarca pela primeira vez na Praça das Artes com robótica, games e IA",
+      "description": "Edição de 10 anos do HACKTUDO estreia em São Paulo nos dias 3 e 4 de outubro;",
+      "category": "exposicao",
+      "date": "2026-10-04T10:00:00",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/684_Hacktudo_2025_11.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/hacktudo-festival-games-tecnologia-ia-gratuito/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/hacktudo-festival-games-tecnologia-ia-gratuito/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "exposicao"
+      ],
+      "featured": true
     },
     {
       "id": "sxg0s8",
@@ -431,6 +475,28 @@
       ]
     },
     {
+      "id": "spw1pc",
+      "title": "Festival Coreano no Memorial tem K-pop, pratos típicos e lanternas no Dia das Crianças",
+      "description": "Lanternas coloridas, passos de K-pop e sabores da Coreia vão tomar conta do Memorial da América Latina neste Dia das Crianças. De 10 a 12 de outubro, o espaço recebe o Festival Coreano – Sabores e Luzes da Coreia, com entrada gratuita e programação de música, dança, gastronomia e cultura coreana. Realizado pelo Cola Em [&hellip;]",
+      "category": "infantil",
+      "date": "2026-10-10T10:00:00",
+      "location": "Barra Funda",
+      "neighborhood": "Barra Funda",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/10/sp_criancas_passeios_festival_coreano_02.jpeg",
+      "ticketUrl": "https://saopauloparacriancas.com.br/festival-memorial-da-america-latina-sp/",
+      "source": "SP para Crianças",
+      "sourceUrl": "https://saopauloparacriancas.com.br/festival-memorial-da-america-latina-sp/",
+      "tags": [
+        "infantil",
+        "familia",
+        "criancas",
+        "sp"
+      ],
+      "featured": true
+    },
+    {
       "id": "60xro4",
       "title": "Dia das Crianças com música, bolhas de sabão e circo: shopping de SP prepara programação gratuita",
       "description": "O Dia das Crianças ganha uma programação especial no Jardim Pamplona Shopping, em São Paulo. No dia 10 de outubro, o rooftop do empreendimento recebe o PAM Kids Day, com show da Queen Live Kids, artistas circenses, bolhas de sabão, pintura facial, meet & greet e outras atividades para crianças e adultos. Das 14h às [&hellip;]",
@@ -586,6 +652,28 @@
         "festa"
       ],
       "featured": true
+    },
+    {
+      "id": "m8jj4j",
+      "title": "TV Cultura leva Quintal da Cultura para seis cidades de SP em programação especial para crianças",
+      "description": "Nova fase do programa estreia em outubro e passa por Santos, São Bernardo do Campo, Jundiaí, Itu, Campinas e Sorocaba. Emissora também terá filmes, séries, música e programas especiais A TV Cultura estreia na segunda-feira (5) uma programação especial para o Mês das Crianças. A principal novidade é Quintal no Interior, nova fase de Quintal [&hellip;]",
+      "category": "infantil",
+      "date": "2026-10-10T14:00:00",
+      "location": "Centro Histórico",
+      "neighborhood": "Centro Histórico",
+      "price": 35,
+      "isFree": false,
+      "imageUrl": "https://images.unsplash.com/photo-1508873696983-2df5293cb32f?w=800&q=80",
+      "ticketUrl": "https://saopauloparacriancas.com.br/tv-cultura-criancas-sp/",
+      "source": "SP para Crianças",
+      "sourceUrl": "https://saopauloparacriancas.com.br/tv-cultura-criancas-sp/",
+      "tags": [
+        "infantil",
+        "familia",
+        "criancas",
+        "sp"
+      ],
+      "featured": false
     },
     {
       "id": "grqpdb",
