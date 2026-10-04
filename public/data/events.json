@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-03T11:27:02.839Z",
-  "totalCount": 74,
+  "updatedAt": "2026-10-04T12:08:34.639Z",
+  "totalCount": 76,
   "sources": [
     "Veja SP",
     "Catraca Livre",
@@ -234,6 +234,28 @@
       "featured": true
     },
     {
+      "id": "73it6t",
+      "title": "W São Paulo: conheça o hotel que aparece em ‘Quem Ama Cuida’",
+      "description": "Em uma moderna torre na Rua Funchal, na Vila Olímpia, hotel oferece vista panorâmica para a cidade e ganha projeção no horário nobre",
+      "category": "cultura",
+      "date": "2026-10-03T10:00:04.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/W-Sao-Paulo_Fachada_-Credito-Daniel-Levin-2.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/w-sao-paulo-conheca-o-hotel-que-aparece-em-quem-ama-cuida/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/w-sao-paulo-conheca-o-hotel-que-aparece-em-quem-ama-cuida/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "cultura"
+      ],
+      "featured": false
+    },
+    {
       "id": "pb0j09",
       "title": "Show: Jorge Ben Jor & Banda Zé Pretinho — Espaço Unimed",
       "description": "O mestre do samba-rock e da música brasileira em um show épico com todos os hinos atemporais: Taj Mahal, Mas Que Nada, Chove Chuva, País Tropical e Fio Maravilha. Pista e camarotes disponíveis.",
@@ -303,6 +325,28 @@
         "cultura",
         "sp",
         "exposicao"
+      ],
+      "featured": true
+    },
+    {
+      "id": "yzekq0",
+      "title": "Entrada grátis no Zoo SP, Jardim Botânico e Simba Safari: apresente o comprovante de votação para ganhar cortesia",
+      "description": "Comprovante de votação dá cortesia no Zoo SP, Jardim Botânico e Simba Safari em 4 de outubro. Veja regras, preços, quanto crianças pagam e como chegar.",
+      "category": "infantil",
+      "date": "2026-10-04T10:00:00",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/10/SP-criancas_cred_Divulgação-Zoo-São-Paulo.jpg",
+      "ticketUrl": "https://saopauloparacriancas.com.br/zoo-sp-jardim-botanico-simba-safari-comprovante-votacao/",
+      "source": "SP para Crianças",
+      "sourceUrl": "https://saopauloparacriancas.com.br/zoo-sp-jardim-botanico-simba-safari-comprovante-votacao/",
+      "tags": [
+        "infantil",
+        "familia",
+        "criancas",
+        "sp"
       ],
       "featured": true
     },
@@ -477,7 +521,7 @@
     {
       "id": "spw1pc",
       "title": "Festival Coreano no Memorial tem K-pop, pratos típicos e lanternas no Dia das Crianças",
-      "description": "Lanternas coloridas, passos de K-pop e sabores da Coreia vão tomar conta do Memorial da América Latina neste Dia das Crianças. De 10 a 12 de outubro, o espaço recebe o Festival Coreano – Sabores e Luzes da Coreia, com entrada gratuita e programação de música, dança, gastronomia e cultura coreana. Realizado pelo Cola Em [&hellip;]",
+      "description": "Lanternas coloridas, o ritmo do K-pop e o melhor da gastronomia asiática vão invadir o Memorial da América Latina neste feriadão de Dia das Crianças. De 10 a 12 de outubro de 2026, São Paulo recebe o Festival Coreano – Sabores e Luzes da Coreia, um evento com entrada gratuita recheado de atrações culturais, música, [&hellip;]",
       "category": "infantil",
       "date": "2026-10-10T10:00:00",
       "location": "Barra Funda",
