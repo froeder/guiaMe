@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-04T12:08:34.639Z",
-  "totalCount": 76,
+  "updatedAt": "2026-10-05T14:14:59.644Z",
+  "totalCount": 79,
   "sources": [
     "Veja SP",
     "Catraca Livre",
@@ -369,6 +369,50 @@
         "familia",
         "criancas",
         "sp"
+      ],
+      "featured": false
+    },
+    {
+      "id": "22uj4i",
+      "title": "O que fazer na Mooca? Confira 5 endereços e dicas sobre a região",
+      "description": "Na zona leste, bairro de forte influência italiana oferece muitos passeios culturais e gastronômicos",
+      "category": "gastronomia",
+      "date": "2026-10-04T10:00:32.000Z",
+      "location": "Mooca",
+      "neighborhood": "Mooca",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/09/a-mooca-e-um-bairro-tradicional-ligado-a-cultura-italiana-435c9.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/o-que-fazer-mooca-guia-enderecos/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/o-que-fazer-mooca-guia-enderecos/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "gastronomia"
+      ],
+      "featured": false
+    },
+    {
+      "id": "qek5cl",
+      "title": "Como São Paulo está reinventando a forma de adotar um pet",
+      "description": "Iniciativas como Puppy Yoga e cat café trocam feiras tradicionais por experiências de conexão, enquanto sistema de abrigos enfrenta sobrecarga",
+      "category": "gastronomia",
+      "date": "2026-10-04T14:00:18.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/Copia-de-Puppy-Yoga-13-42.jpg.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/adocao-pets-sao-paulo-experiencias-afetivas/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/adocao-pets-sao-paulo-experiencias-afetivas/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "gastronomia"
       ],
       "featured": false
     },
@@ -1584,6 +1628,28 @@
         "drinks",
         "dia das bruxas"
       ]
+    },
+    {
+      "id": "m41mci",
+      "title": "Halloween ganha concerto à luz de centenas de velas no Masp",
+      "description": "‘Candlelight: Canções de Halloween’ apresenta repertório com trilhas de filmes, séries e clássicos do terror",
+      "category": "festa",
+      "date": "2026-10-31T19:00:00",
+      "location": "Bela Vista",
+      "neighborhood": "Bela Vista",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/Candlelight-Halloween-_2-1-1024x683-1.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/halloween-concerto-a-luz-de-de-velas-masp/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/halloween-concerto-a-luz-de-de-velas-masp/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "festa"
+      ],
+      "featured": false
     },
     {
       "id": "arbwo0",
