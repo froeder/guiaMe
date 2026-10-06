@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-05T14:14:59.644Z",
-  "totalCount": 79,
+  "updatedAt": "2026-10-06T13:09:23.376Z",
+  "totalCount": 88,
   "sources": [
     "Veja SP",
     "Catraca Livre",
@@ -439,6 +439,116 @@
       "featured": false
     },
     {
+      "id": "327s51",
+      "title": "MIS recebe exposição gratuita que conecta fé, corpo e cultura popular no Círio de Nazaré",
+      "description": "Fé, corpos em movimento e cultura popular! O MIS recebe a exposição “Círio de Nazaré” com visitação gratuita durante todo o mês. Confira!",
+      "category": "musica",
+      "date": "2026-10-05T12:13:41.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/10/163cirio-de-nazare-scaled.jpg",
+      "ticketUrl": "https://catracalivre.com.br/gira/exposicao-cirio-de-nazare-do-sagrado-ao-profano-uma-extensao-do-brasil-fabricio-augusto-mis-sp/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/exposicao-cirio-de-nazare-do-sagrado-ao-profano-uma-extensao-do-brasil-fabricio-augusto-mis-sp/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
+        "sp",
+        "musica"
+      ],
+      "featured": true
+    },
+    {
+      "id": "jp0l3w",
+      "title": "Open Air Brasil traz maior tela de cinema a céu aberto do mundo ao Jockey Club de São Paulo",
+      "description": "Pipoca grátis, shows e a maior tela do mundo! O Open Air Brasil volta a SP com exibição de filmes icônicos e atrações musicais no Jockey Club. Veja mais!",
+      "category": "festa",
+      "date": "2026-10-05T13:55:28.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/10/unnamed-2026-10-05t134238304.jpg",
+      "ticketUrl": "https://catracalivre.com.br/gira/open-air-brasil-traz-maior-tela-de-cinema-a-ceu-aberto-do-mundo-ao-jockey-club-de-sao-paulo/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/open-air-brasil-traz-maior-tela-de-cinema-a-ceu-aberto-do-mundo-ao-jockey-club-de-sao-paulo/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
+        "sp",
+        "festa"
+      ],
+      "featured": true
+    },
+    {
+      "id": "3di7po",
+      "title": "CAIXA Cultural São Paulo homenageia os 90 anos de Tom Zé com exposição imersiva e interativa",
+      "description": "Um mergulho na genialidade do pai da Tropicália! Mostra imersiva dos 90 anos de Tom Zé ocupa a CAIXA Cultural com oficinas de graça aos finais de semana",
+      "category": "exposicao",
+      "date": "2026-10-05T14:55:00.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/10/image-26-e1791222742517.jpeg",
+      "ticketUrl": "https://catracalivre.com.br/gira/caixa-cultural-sao-paulo-homenageia-os-90-anos-de-tom-ze-com-exposicao-imersiva-e-interativa/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/caixa-cultural-sao-paulo-homenageia-os-90-anos-de-tom-ze-com-exposicao-imersiva-e-interativa/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
+        "sp",
+        "exposicao"
+      ],
+      "featured": true
+    },
+    {
+      "id": "pypbt6",
+      "title": "Water Lantern Festival ilumina as águas do Jardim Botânico de São Paulo em experiência inédita",
+      "description": "Sucesso no mundo todo! Water Lantern Festival chega a São Paulo com lanternas flutuantes, música ao vivo e gastronomia no Jardim Botânico. Garanta a sua entrada",
+      "category": "musica",
+      "date": "2026-10-05T15:40:05.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 25,
+      "isFree": false,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/10/water-lantern-festival.jpg",
+      "ticketUrl": "https://catracalivre.com.br/gira/water-lantern-festival-ilumina-as-aguas-do-jardim-botanico-de-sao-paulo-em-experiencia-inedita/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/water-lantern-festival-ilumina-as-aguas-do-jardim-botanico-de-sao-paulo-em-experiencia-inedita/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
+        "sp",
+        "musica"
+      ],
+      "featured": false
+    },
+    {
+      "id": "llxr19",
+      "title": "Exposição do britânico Martin Parr ganha praia artificial em plena Avenida Paulista",
+      "description": "Mostra “Mundo Pequeno” reúne 45 fotografias do britânico Martin Parr em São Paulo. Evento tem entrada gratuita e instalação interativa no Centro Cultural FIESP",
+      "category": "exposicao",
+      "date": "2026-10-05T20:00:47.000Z",
+      "location": "Bela Vista",
+      "neighborhood": "Bela Vista",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/10/unnamed-2026-10-05t173959778.jpg",
+      "ticketUrl": "https://catracalivre.com.br/gira/pela-primeira-vez-no-brasil-exposicao-traz-olhar-ironico-de-martin-parr-sobre-o-turismo-mundial-centro-cultural-fiesp-sp/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/pela-primeira-vez-no-brasil-exposicao-traz-olhar-ironico-de-martin-parr-sobre-o-turismo-mundial-centro-cultural-fiesp-sp/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
+        "sp",
+        "exposicao"
+      ],
+      "featured": true
+    },
+    {
       "id": "48wz4z",
       "title": "MASP — \"Histórias Paulistanas\": Obras do Acervo Permanente (Terça Grátis)",
       "description": "A fantástica expografia nos cavaletes de cristal de Lina Bo Bardi reunindo obras de Van Gogh, Cézanne e Tarsila do Amaral. Entrada gratuita toda terça-feira mediante agendamento.",
@@ -563,28 +673,6 @@
       ]
     },
     {
-      "id": "spw1pc",
-      "title": "Festival Coreano no Memorial tem K-pop, pratos típicos e lanternas no Dia das Crianças",
-      "description": "Lanternas coloridas, o ritmo do K-pop e o melhor da gastronomia asiática vão invadir o Memorial da América Latina neste feriadão de Dia das Crianças. De 10 a 12 de outubro de 2026, São Paulo recebe o Festival Coreano – Sabores e Luzes da Coreia, um evento com entrada gratuita recheado de atrações culturais, música, [&hellip;]",
-      "category": "infantil",
-      "date": "2026-10-10T10:00:00",
-      "location": "Barra Funda",
-      "neighborhood": "Barra Funda",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/10/sp_criancas_passeios_festival_coreano_02.jpeg",
-      "ticketUrl": "https://saopauloparacriancas.com.br/festival-memorial-da-america-latina-sp/",
-      "source": "SP para Crianças",
-      "sourceUrl": "https://saopauloparacriancas.com.br/festival-memorial-da-america-latina-sp/",
-      "tags": [
-        "infantil",
-        "familia",
-        "criancas",
-        "sp"
-      ],
-      "featured": true
-    },
-    {
       "id": "60xro4",
       "title": "Dia das Crianças com música, bolhas de sabão e circo: shopping de SP prepara programação gratuita",
       "description": "O Dia das Crianças ganha uma programação especial no Jardim Pamplona Shopping, em São Paulo. No dia 10 de outubro, o rooftop do empreendimento recebe o PAM Kids Day, com show da Queen Live Kids, artistas circenses, bolhas de sabão, pintura facial, meet & greet e outras atividades para crianças e adultos. Das 14h às [&hellip;]",
@@ -630,6 +718,28 @@
         "exposicao",
         "gratuito"
       ]
+    },
+    {
+      "id": "j5fc5n",
+      "title": "Festival da cultura nordestina em SP tem entrada gratuita, comida local, música e mais",
+      "description": "3º Festival Nordestino do Centro de Tradições Nordestinas acontece em outubro; confira a programação",
+      "category": "musica",
+      "date": "2026-10-10T14:00:00",
+      "location": "Centro Histórico",
+      "neighborhood": "Centro Histórico",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/unnamed-3.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/festival-nordestino-2026-centro-de-tradicoes-nordestinal-sao-paulo-programacao/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/festival-nordestino-2026-centro-de-tradicoes-nordestinal-sao-paulo-programacao/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "musica"
+      ],
+      "featured": true
     },
     {
       "id": "aytkyt",
@@ -951,6 +1061,94 @@
         "cultura",
         "sp",
         "musica"
+      ],
+      "featured": true
+    },
+    {
+      "id": "ayki1r",
+      "title": "Theatro Municipal de SP celebra o Dia das Crianças com o espetáculo Lendas Brasileiras",
+      "description": "Mula sem Cabeça, Curupira e Boto no palco do Theatro Municipal! Balé da Cidade e Orquestra Experimental apresentam o espetáculo infantil “Lendas Brasileiras”.",
+      "category": "musica",
+      "date": "2026-10-12T10:00:00",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 25,
+      "isFree": false,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2024/12/istock-alfribeiro.jpg",
+      "ticketUrl": "https://catracalivre.com.br/gira/theatro-municipal-de-sp-celebra-o-dia-das-criancas-com-o-espetaculo-lendas-brasileiras/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/theatro-municipal-de-sp-celebra-o-dia-das-criancas-com-o-espetaculo-lendas-brasileiras/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
+        "sp",
+        "musica"
+      ],
+      "featured": false
+    },
+    {
+      "id": "iihiry",
+      "title": "Sesc Itaquera celebra Dia das Crianças com show gratuito do Tiquequê e Quintal da Cultura",
+      "description": "Tiquequê e Quintal da Cultura juntos no Sesc Itaquera! Domingo de show gratuito, música e muita diversão em família no Dia das Crianças. Vem ver!",
+      "category": "musica",
+      "date": "2026-10-12T10:00:00",
+      "location": "Itaquera",
+      "neighborhood": "Itaquera",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/10/sesc-itaquera-celebra-dia-das-criancas-com-show-gratuito-do-tiqueque-e-quintal-da-cultura.jpg",
+      "ticketUrl": "https://catracalivre.com.br/gira/sesc-itaquera-celebra-dia-das-criancas-com-show-gratuito-do-tiqueque-e-quintal-da-cultura-sp/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/sesc-itaquera-celebra-dia-das-criancas-com-show-gratuito-do-tiqueque-e-quintal-da-cultura-sp/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
+        "sp",
+        "musica"
+      ],
+      "featured": true
+    },
+    {
+      "id": "4grpq1",
+      "title": "Museu da Língua Portuguesa celebra Dia das Crianças com festival gratuito em São Paulo",
+      "description": "Procurando passeio de Dia das Crianças em SP? O Museu da Língua Portuguesa recebe atrações gratuitas com brincadeiras, música e arte na Estação da Luz.",
+      "category": "musica",
+      "date": "2026-10-12T10:00:00",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/10/240805-an-badulaque-748-scaled.jpg",
+      "ticketUrl": "https://catracalivre.com.br/gira/museu-da-lingua-portuguesa-celebra-dia-das-criancas-com-festival-gratuito-em-sao-paulo/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/museu-da-lingua-portuguesa-celebra-dia-das-criancas-com-festival-gratuito-em-sao-paulo/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
+        "sp",
+        "musica"
+      ],
+      "featured": true
+    },
+    {
+      "id": "z7vzaa",
+      "title": "Festival Coreano no Memorial tem K-pop, pratos típicos e lanternas no Dia das Crianças",
+      "description": "Fãs de BTS podem sair do Festival Coreano com ingresso para ver o grupo ao vivo! Entre 10 e 12 de outubro de 2026, o Festival Coreano – Sabores e Luzes da Coreia ocupa o Memorial da América Latina, em São Paulo, com entrada gratuita, programação de K-pop, gastronomia e atrações culturais. Entre os destaques [&hellip;]",
+      "category": "infantil",
+      "date": "2026-10-12T10:00:00",
+      "location": "Barra Funda",
+      "neighborhood": "Barra Funda",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/10/sp_criancas_passeios_festival_coreano_02.jpeg",
+      "ticketUrl": "https://saopauloparacriancas.com.br/festival-memorial-da-america-latina-sp/",
+      "source": "SP para Crianças",
+      "sourceUrl": "https://saopauloparacriancas.com.br/festival-memorial-da-america-latina-sp/",
+      "tags": [
+        "infantil",
+        "familia",
+        "criancas",
+        "sp"
       ],
       "featured": true
     },
