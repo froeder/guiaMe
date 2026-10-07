@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-06T13:09:23.376Z",
-  "totalCount": 88,
+  "updatedAt": "2026-10-07T13:04:29.166Z",
+  "totalCount": 94,
   "sources": [
     "Veja SP",
     "Catraca Livre",
@@ -373,8 +373,8 @@
       "featured": false
     },
     {
-      "id": "22uj4i",
-      "title": "O que fazer na Mooca? Confira 5 endereços e dicas sobre a região",
+      "id": "2k2c8f",
+      "title": "O que fazer na Mooca? Confira 4 endereços e dicas sobre a região",
       "description": "Na zona leste, bairro de forte influência italiana oferece muitos passeios culturais e gastronômicos",
       "category": "gastronomia",
       "date": "2026-10-04T10:00:32.000Z",
@@ -575,6 +575,50 @@
       ]
     },
     {
+      "id": "xw82kw",
+      "title": "O que fazer na Vila Madalena? Confira um guia do bairro",
+      "description": "De feiras a cafés, bairro boêmio da zona oeste reúne programas clássicos e novidades para todos os gostos",
+      "category": "gastronomia",
+      "date": "2026-10-06T16:26:04.000Z",
+      "location": "Vila Madalena",
+      "neighborhood": "Vila Madalena",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2024/05/pref_sem_04-55.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/o-que-fazer-vila-madalena-guia/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/o-que-fazer-vila-madalena-guia/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "gastronomia"
+      ],
+      "featured": false
+    },
+    {
+      "id": "ddzb7w",
+      "title": "Cine Rosário será reaberto no Martinelli após 70 anos fechado",
+      "description": "Com investimento de R$ 25 milhões, Grupo Tokyo prevê reabertura para 2028",
+      "category": "cultura",
+      "date": "2026-10-06T16:58:13.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/Nova-imagem-3-1.webp",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/cine-rosario-reaberto-martinelli/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/cine-rosario-reaberto-martinelli/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "cultura"
+      ],
+      "featured": false
+    },
+    {
       "id": "z0pu6k",
       "title": "Roda de Samba Tradicional do Bixiga na Rua 13 de Maio (Gratuito)",
       "description": "O autêntico samba de raiz do tradicional bairro do Bixiga: cavaquinho, pandeiro e surdo comandados pelos baluartes da Vai-Vai. Mesas na calçada, cerveja gelada e porções de pastel com queijo canastra.",
@@ -626,8 +670,8 @@
       ]
     },
     {
-      "id": "i52cvs",
-      "title": "Com quatro dias de programação grátis, Festival Nordeste em Cena estreia em SP",
+      "id": "wxi7zb",
+      "title": "Festival Nordeste em Cena traz Silvero Pereira, rock e teatro de graça ao centro de SP",
       "description": "O festival reúne música, artes cênicas e gastronomia no centro de São Paulo. De 9 a 12 de outubro, o iBT recebe atrações nordestinas gratuitas.",
       "category": "musica",
       "date": "2026-10-09T10:00:00",
@@ -1065,6 +1109,28 @@
       "featured": true
     },
     {
+      "id": "ktfig3",
+      "title": "Dia das Crianças em SP: o que fazer com a criançada no feriadão",
+      "description": "Procurando o que fazer no Dia das Crianças em SP? Confira um roteiro especial com rolês gratuitos e pagos para curtir o feriadão na cidade",
+      "category": "infantil",
+      "date": "2026-10-12T10:00:00",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/10/dia-das-criancas-em-sp-o-que-fazer-com-a-criancada-no-feriadao.jpg",
+      "ticketUrl": "https://catracalivre.com.br/gira/o-que-fazer-dia-das-criancas-em-sp/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/o-que-fazer-dia-das-criancas-em-sp/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
+        "sp",
+        "infantil"
+      ],
+      "featured": true
+    },
+    {
       "id": "ayki1r",
       "title": "Theatro Municipal de SP celebra o Dia das Crianças com o espetáculo Lendas Brasileiras",
       "description": "Mula sem Cabeça, Curupira e Boto no palco do Theatro Municipal! Balé da Cidade e Orquestra Experimental apresentam o espetáculo infantil “Lendas Brasileiras”.",
@@ -1129,6 +1195,28 @@
         "musica"
       ],
       "featured": true
+    },
+    {
+      "id": "vousz7",
+      "title": "Dia das Crianças: Hotel em SP tem quarto temático do Snoopy",
+      "description": "O passeio não precisa terminar quando chega a hora de dormir! No Wyndham São Paulo Ibirapuera, o fim de semana do Dia das Crianças ganha suítes temáticas do Snoopy, almoço com feijoada, encontro com os personagens e atividades no Espaço Kids. A programação acontece no hotel, em Moema, na Zona Sul de São Paulo, e [&hellip;]",
+      "category": "infantil",
+      "date": "2026-10-12T10:00:00",
+      "location": "Vila Mariana",
+      "neighborhood": "Vila Mariana",
+      "price": 35,
+      "isFree": false,
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/10/sp_criancas_passeio_hotel_01.jpeg",
+      "ticketUrl": "https://saopauloparacriancas.com.br/wyndham-ibirapuera-sp/",
+      "source": "SP para Crianças",
+      "sourceUrl": "https://saopauloparacriancas.com.br/wyndham-ibirapuera-sp/",
+      "tags": [
+        "infantil",
+        "familia",
+        "criancas",
+        "sp"
+      ],
+      "featured": false
     },
     {
       "id": "z7vzaa",
@@ -1299,6 +1387,28 @@
       ]
     },
     {
+      "id": "oo72uf",
+      "title": "Dia das Crianças: Parques de São Paulo preparam programação especial e gratuita para a data",
+      "description": "Entre 10 e 18 de outubro, as atividades terão opções para todos os gostos",
+      "category": "tecnologia",
+      "date": "2026-10-18T10:00:00",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/unnamed-6.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/dia-das-criancas-parques-sao-paulo-programacao-gratuita/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/dia-das-criancas-parques-sao-paulo-programacao-gratuita/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "tecnologia"
+      ],
+      "featured": true
+    },
+    {
       "id": "60xw94",
       "title": "Pé de Sonho leva Duo Badulaque ao Teatro Bradesco em show para crianças em SP",
       "description": "Do Tiranossauro Rex ao Sistema Solar, o Pé de Sonho transforma o palco em uma viagem por músicas, bichos e histórias. A apresentação acontece em 18 de outubro de 2026, às 15h, no Teatro Bradesco, em São Paulo, como parte da programação da Semana das Crianças, com participação especial do Duo Badulaque. Com classificação livre, [&hellip;]",
@@ -1421,6 +1531,28 @@
         "humor",
         "centro"
       ]
+    },
+    {
+      "id": "z0errg",
+      "title": "Spcine e Disney promovem sessão gratuita de ‘Carros’ no CEU Taipas",
+      "description": "Cinema grátis para crianças: Carros dublado, com classificação livre, no CEU Taipas, zona norte de São Paulo, dia 21 de outubro, às 14h. Veja como retirar o ingresso.",
+      "category": "infantil",
+      "date": "2026-10-21T10:00:00",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/10/sp_criancas_passeios_spcine-1-1.jpg",
+      "ticketUrl": "https://saopauloparacriancas.com.br/sessao-gratuita-ceu-taipas/",
+      "source": "SP para Crianças",
+      "sourceUrl": "https://saopauloparacriancas.com.br/sessao-gratuita-ceu-taipas/",
+      "tags": [
+        "infantil",
+        "familia",
+        "criancas",
+        "sp"
+      ],
+      "featured": true
     },
     {
       "id": "l4zfup",
