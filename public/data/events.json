@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-07T13:04:29.166Z",
-  "totalCount": 94,
+  "updatedAt": "2026-10-08T13:11:42.447Z",
+  "totalCount": 98,
   "sources": [
     "Veja SP",
     "Catraca Livre",
@@ -417,28 +417,6 @@
       "featured": false
     },
     {
-      "id": "mv5v5t",
-      "title": "‘Roque Santeiro’ volta à TV Globo em reprise na faixa ‘Edição Especial’",
-      "description": "Quatro décadas após a estreia, clássico de Dias Gomes e Aguinaldo Silva reestreia no dia 5 de outubro nas tardes da emissora",
-      "category": "cultura",
-      "date": "2026-10-05T10:00:00",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/09/Captura-de-tela-2026-09-24-145816.png",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/roque-santeiro-volta-a-tv-globo-em-reprise-na-faixa-edicao-especial/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/roque-santeiro-volta-a-tv-globo-em-reprise-na-faixa-edicao-especial/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "cultura"
-      ],
-      "featured": false
-    },
-    {
       "id": "327s51",
       "title": "MIS recebe exposição gratuita que conecta fé, corpo e cultura popular no Círio de Nazaré",
       "description": "Fé, corpos em movimento e cultura popular! O MIS recebe a exposição “Círio de Nazaré” com visitação gratuita durante todo o mês. Confira!",
@@ -619,6 +597,94 @@
       "featured": false
     },
     {
+      "id": "l3dmtx",
+      "title": "Fenômeno infantil ‘Bluey Ao Vivo’ está de volta a SP em nova temporada no Teatro Claro",
+      "description": "Passeio imperdível em família! “Bluey Ao Vivo” tem ingressos a partir de R$ 25 no Teatro Claro SP com sessões no fim de semana e feriado.",
+      "category": "teatro",
+      "date": "2026-10-07T15:37:27.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 25,
+      "isFree": false,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/10/and-12753jpg-1.jpeg",
+      "ticketUrl": "https://catracalivre.com.br/gira/fenomeno-infantil-bluey-ao-vivo-esta-de-volta-a-sp-em-nova-temporada-no-teatro-claro/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/fenomeno-infantil-bluey-ao-vivo-esta-de-volta-a-sp-em-nova-temporada-no-teatro-claro/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
+        "sp",
+        "teatro"
+      ],
+      "featured": false
+    },
+    {
+      "id": "brmmp0",
+      "title": "Cultura Inglesa Festival 2026 reúne Agnes Nunes, TikTok no palco e programação recheada e gratuita",
+      "description": "O 29º Cultura Inglesa Festival ocupa SP com shows, cinema ao vivo, Slam no Masp e teatro bilíngue de graça ou com ingressos acessíveis. Confira a programação!",
+      "category": "musica",
+      "date": "2026-10-07T17:08:54.000Z",
+      "location": "Bela Vista",
+      "neighborhood": "Bela Vista",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/10/agnes-nunes-0390-final-02-1-scaled-e1791403727718.jpg",
+      "ticketUrl": "https://catracalivre.com.br/gira/cultura-inglesa-festival-2026-programacao-sp/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/cultura-inglesa-festival-2026-programacao-sp/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
+        "sp",
+        "musica"
+      ],
+      "featured": true
+    },
+    {
+      "id": "un433r",
+      "title": "Pinacoteca confirma grande exposição do lendário Keith Haring com obras inéditas e espaço dedicado ao Brasil! Saiba mais:",
+      "description": "O ícone da Pop Art Keith Haring ganha mega retrospectiva na Pina Contemporânea em 2027 com obras inéditas no país e espaço sobre sua relação com o Brasil",
+      "category": "musica",
+      "date": "2026-10-07T17:42:30.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 25,
+      "isFree": false,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/10/khc-0079-scaled.jpg",
+      "ticketUrl": "https://catracalivre.com.br/gira/exposicao-keith-haring-pinacoteca-contemporanea-sao-paulo/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/exposicao-keith-haring-pinacoteca-contemporanea-sao-paulo/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
+        "sp",
+        "musica"
+      ],
+      "featured": false
+    },
+    {
+      "id": "mtam5z",
+      "title": "6 lugares para dançar (e ouvir) forró em São Paulo",
+      "description": "Confira uma seleção de endereços para curtir o ritmo nordestino na capital",
+      "category": "musica",
+      "date": "2026-10-07T17:44:52.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2019/06/mg_7821.jpg.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/lugares-para-dancar-e-ouvir-forro-e-riscar-o-salao-em-sao-paulo/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/lugares-para-dancar-e-ouvir-forro-e-riscar-o-salao-em-sao-paulo/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "musica"
+      ],
+      "featured": true
+    },
+    {
       "id": "z0pu6k",
       "title": "Roda de Samba Tradicional do Bixiga na Rua 13 de Maio (Gratuito)",
       "description": "O autêntico samba de raiz do tradicional bairro do Bixiga: cavaquinho, pandeiro e surdo comandados pelos baluartes da Vai-Vai. Mesas na calçada, cerveja gelada e porções de pastel com queijo canastra.",
@@ -688,6 +754,28 @@
         "gratuito",
         "sp",
         "musica"
+      ],
+      "featured": true
+    },
+    {
+      "id": "9fyeaf",
+      "title": "Burger King e Heinz entram na brincadeira do Dia do Cabelo Maluco",
+      "description": "Ação acontece nos dias 8 e 9 de outubro e oferece quatro opções gratuitas para quem chegar às lojas participantes com um penteado caracterizado O Dia do Cabelo Maluco ganhou uma recompensa para quem gosta de entrar na brincadeira. Nos dias 8 e 9 de outubro de 2026, o Burger King, em parceria com a [&hellip;]",
+      "category": "infantil",
+      "date": "2026-10-09T10:00:00",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/10/sp_criancas_passeios_burger_king-1.jpg",
+      "ticketUrl": "https://saopauloparacriancas.com.br/cabelo_maluco_sp/",
+      "source": "SP para Crianças",
+      "sourceUrl": "https://saopauloparacriancas.com.br/cabelo_maluco_sp/",
+      "tags": [
+        "infantil",
+        "familia",
+        "criancas",
+        "sp"
       ],
       "featured": true
     },
@@ -1085,6 +1173,28 @@
         "museu",
         "planetario"
       ]
+    },
+    {
+      "id": "3i2o15",
+      "title": "Espaços culturais de SP promovem atividades gratuitas em comemoração ao Dia das Crianças",
+      "description": "Programação ocorre entre sábado (10) e segunda-feira (12) e reúne brincadeiras, espetáculos, circo e música",
+      "category": "musica",
+      "date": "2026-10-12T10:00:00",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/unnamed-1.png",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/espacos-culturais-de-sp-promovem-atividades-gratuitas-em-comemoracao-ao-dia-das-criancas/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/espacos-culturais-de-sp-promovem-atividades-gratuitas-em-comemoracao-ao-dia-das-criancas/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "musica"
+      ],
+      "featured": true
     },
     {
       "id": "g0atsq",
@@ -1533,8 +1643,8 @@
       ]
     },
     {
-      "id": "z0errg",
-      "title": "Spcine e Disney promovem sessão gratuita de ‘Carros’ no CEU Taipas",
+      "id": "gmt1um",
+      "title": "Spcine e Disney promovem sessão gratuita de cinema no CEU Taipas",
       "description": "Cinema grátis para crianças: Carros dublado, com classificação livre, no CEU Taipas, zona norte de São Paulo, dia 21 de outubro, às 14h. Veja como retirar o ingresso.",
       "category": "infantil",
       "date": "2026-10-21T10:00:00",
@@ -1995,28 +2105,6 @@
       "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/ed-rolim-ganha-escape-room-e-atracoes-especiais-de-halloween-no-centro-de-sp/",
       "source": "Veja SP",
       "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/ed-rolim-ganha-escape-room-e-atracoes-especiais-de-halloween-no-centro-de-sp/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "festa"
-      ],
-      "featured": false
-    },
-    {
-      "id": "bua434",
-      "title": "Trem da República ganha edição noturna de Halloween entre Itu e Salto",
-      "description": "Passeio temático Hallowtrain ocorre em três sábados de outubro com decoração especial, personagens, serviço de bordo e coquetel na Estação de Salto",
-      "category": "festa",
-      "date": "2026-10-31T19:00:00",
-      "location": "Centro Histórico",
-      "neighborhood": "Centro Histórico",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/09/001A3558.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/trem-da-republica-ganha-edicao-noturna-de-halloween-entre-itu-e-salto/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/trem-da-republica-ganha-edicao-noturna-de-halloween-entre-itu-e-salto/",
       "tags": [
         "vejasp",
         "cultura",
