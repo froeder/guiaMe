@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-08T13:11:42.447Z",
-  "totalCount": 98,
+  "updatedAt": "2026-10-09T12:58:29.758Z",
+  "totalCount": 106,
   "sources": [
     "Veja SP",
     "Catraca Livre",
@@ -736,6 +736,160 @@
       ]
     },
     {
+      "id": "y8vhj7",
+      "title": "Dia do Nordestino em SP tem programação gratuita com apresentação de Tierry",
+      "description": "Programação acontece nesta quinta-feira (8)",
+      "category": "gastronomia",
+      "date": "2026-10-08T18:02:12.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2025/10/JuCoutinho_41391-credito-Ju-Coutinho_Divulgacao.jpeg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/dia-do-nordestino-em-sp-tem-programacao-gratuita-com-apresentacao-de-tierry/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/dia-do-nordestino-em-sp-tem-programacao-gratuita-com-apresentacao-de-tierry/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "gastronomia"
+      ],
+      "featured": true
+    },
+    {
+      "id": "hy1kyw",
+      "title": "Chair Love: conheça o projeto que transforma arte em oportunidade",
+      "description": "Iniciativa do LAR da Bênção Divina leva exposição itinerante para onze locais de São Paulo e marca os 70 anos da associação",
+      "category": "exposicao",
+      "date": "2026-10-08T18:06:56.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/Aco-Filmes-25.09.20260137.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/chair-love-projeto-arte-lar-da-bencao-divina/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/chair-love-projeto-arte-lar-da-bencao-divina/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "exposicao"
+      ],
+      "featured": true
+    },
+    {
+      "id": "4hkxa1",
+      "title": "Após lançar filme e série, Vladimir Brichta estreia primeiro monólogo da carreira",
+      "description": "Ator fala sobre adaptação da obra do australiano Kim Crotty no solo ‘O Menor Palco do Mundo’ e revela vontade de estrear na direção",
+      "category": "teatro",
+      "date": "2026-10-09T08:00:03.000Z",
+      "location": "Centro Histórico",
+      "neighborhood": "Centro Histórico",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/Vlad-Brichta_231.tif-e1791487611526.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/vladimir-brichta-primeiro-solo-carreira-televisao-cinema/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/vladimir-brichta-primeiro-solo-carreira-televisao-cinema/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "teatro"
+      ],
+      "featured": false
+    },
+    {
+      "id": "llpxud",
+      "title": "Mural SP: Andre Barion",
+      "description": "Obras combinam desenho, costura, pintura e espaço em composição feita com materiais reaproveitados",
+      "category": "exposicao",
+      "date": "2026-10-09T08:00:07.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/Retrato_Andre_2025@AndersonCouto.jpg.jpeg.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/mural-sp-andre-barion/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/mural-sp-andre-barion/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "exposicao"
+      ],
+      "featured": true
+    },
+    {
+      "id": "66iaw5",
+      "title": "Diretor e dramaturgo de teatro infantil fala sobre impactos das telas na formação cultural das crianças",
+      "description": "Marcelo Romagnoli, fundador da Cia. Bendita, está com projetos para outubro: ‘Acreditar na inteligência das crianças é poderoso’",
+      "category": "teatro",
+      "date": "2026-10-09T08:10:07.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/FOTO_MARCELO_ROMAGNOLI.jpeg-e1791488418444.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/diretor-e-dramaturgo-de-teatro-infantil-fala-sobre-impactos-das-telas-na-formacao-cultural-das-criancas/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/diretor-e-dramaturgo-de-teatro-infantil-fala-sobre-impactos-das-telas-na-formacao-cultural-das-criancas/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "teatro"
+      ],
+      "featured": false
+    },
+    {
+      "id": "urs6vc",
+      "title": "25 programas para fazer em São Paulo no feriado prolongado",
+      "description": "De exposições inéditas a festivais gratuitos e atividades para crianças, capital paulista tem atrações para todos os gostos entre sexta (9) e segunda-feira (12)",
+      "category": "exposicao",
+      "date": "2026-10-09T09:19:58.000Z",
+      "location": "Bela Vista",
+      "neighborhood": "Bela Vista",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/08/open_air.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/25-programas-para-fazer-em-sao-paulo-no-feriado-prolongado/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/25-programas-para-fazer-em-sao-paulo-no-feriado-prolongado/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "exposicao"
+      ],
+      "featured": true
+    },
+    {
+      "id": "enayjx",
+      "title": "Brasil Game Show 2026: atrações, ingressos e horários",
+      "description": "De 9 a 12 de outubro, a feira ocupa o Distrito Anhembi com 19 jogos para testar antes do lançamento, Nintendo, Sega e torneios de esportes eletrônicos",
+      "category": "musica",
+      "date": "2026-10-09T10:00:00",
+      "location": "Santana",
+      "neighborhood": "Santana",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/BGS-Geral-2025-Cred_Quero-Fotos-03.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/brasil-game-show-2026-atracoes-ingressos-e-horarios/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/brasil-game-show-2026-atracoes-ingressos-e-horarios/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "musica"
+      ],
+      "featured": true
+    },
+    {
       "id": "wxi7zb",
       "title": "Festival Nordeste em Cena traz Silvero Pereira, rock e teatro de graça ao centro de SP",
       "description": "O festival reúne música, artes cênicas e gastronomia no centro de São Paulo. De 9 a 12 de outubro, o iBT recebe atrações nordestinas gratuitas.",
@@ -1307,6 +1461,28 @@
       "featured": true
     },
     {
+      "id": "exhlap",
+      "title": "Roda Viva recebe Ruth Rocha em edição especial de Dia das Crianças",
+      "description": "A escritora Ruth Rocha participa nesta segunda-feira (12), às 22h, de uma edição especial do Roda Viva, da TV Cultura, em comemoração ao Dia das Crianças. O programa será apresentado por Ernesto Paglia e terá transmissão pela televisão, pelo YouTube e pelo site da emissora. Nascida em São Paulo em 1931, Ruth Rocha tem mais [&hellip;]",
+      "category": "infantil",
+      "date": "2026-10-12T10:00:00",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 35,
+      "isFree": false,
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/10/sp_criancas_passeios_ruth_rocha.jpg",
+      "ticketUrl": "https://saopauloparacriancas.com.br/roda-viva-ruth-rocha/",
+      "source": "SP para Crianças",
+      "sourceUrl": "https://saopauloparacriancas.com.br/roda-viva-ruth-rocha/",
+      "tags": [
+        "infantil",
+        "familia",
+        "criancas",
+        "sp"
+      ],
+      "featured": false
+    },
+    {
       "id": "vousz7",
       "title": "Dia das Crianças: Hotel em SP tem quarto temático do Snoopy",
       "description": "O passeio não precisa terminar quando chega a hora de dormir! No Wyndham São Paulo Ibirapuera, o fim de semana do Dia das Crianças ganha suítes temáticas do Snoopy, almoço com feijoada, encontro com os personagens e atividades no Espaço Kids. A programação acontece no hotel, em Moema, na Zona Sul de São Paulo, e [&hellip;]",
@@ -1419,6 +1595,28 @@
         "estilo",
         "ibirapuera"
       ]
+    },
+    {
+      "id": "6on2sn",
+      "title": "MASP terá entrada gratuita para professores no Dia dos Professores",
+      "description": "Ação ocorre de 15 a 18 de outubro e faz parte da parceria entre o museu e a Vitru Educação",
+      "category": "exposicao",
+      "date": "2026-10-15T10:00:00",
+      "location": "Bela Vista",
+      "neighborhood": "Bela Vista",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2025/11/DSC_4374.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/masp-tera-entrada-gratuita-para-professores-no-dia-dos-professores/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/masp-tera-entrada-gratuita-para-professores-no-dia-dos-professores/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "exposicao"
+      ],
+      "featured": true
     },
     {
       "id": "e734bk",
@@ -2083,28 +2281,6 @@
       "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/halloween-concerto-a-luz-de-de-velas-masp/",
       "source": "Veja SP",
       "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/halloween-concerto-a-luz-de-de-velas-masp/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "festa"
-      ],
-      "featured": false
-    },
-    {
-      "id": "arbwo0",
-      "title": "Ed. Rolim ganha escape room e atrações especiais de Halloween no Centro de SP",
-      "description": "Maior complexo vertical de terror da América Latina lança sala focada em enigmas, teatro com contato físico e exploração noturna no prédio centenário",
-      "category": "festa",
-      "date": "2026-10-31T19:00:00",
-      "location": "Centro Histórico",
-      "neighborhood": "Centro Histórico",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/09/EdRolim.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/ed-rolim-ganha-escape-room-e-atracoes-especiais-de-halloween-no-centro-de-sp/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/ed-rolim-ganha-escape-room-e-atracoes-especiais-de-halloween-no-centro-de-sp/",
       "tags": [
         "vejasp",
         "cultura",
