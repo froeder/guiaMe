@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-09T12:58:29.758Z",
-  "totalCount": 106,
+  "updatedAt": "2026-10-10T12:16:02.308Z",
+  "totalCount": 109,
   "sources": [
     "Veja SP",
     "Catraca Livre",
@@ -934,6 +934,28 @@
       "featured": true
     },
     {
+      "id": "9l9zuj",
+      "title": "Saiba como garantir ingressos pra Mostra Internacional de Cinema",
+      "description": "Entenda as modalidades de ingressos, valores e regras",
+      "category": "cinema",
+      "date": "2026-10-09T13:52:59.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2017/01/59837_cine-olido-foto-sylvia-masini-4.jpeg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/saiba-como-garantir-ingressos-pra-mostra-internacional-de-cinema/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/saiba-como-garantir-ingressos-pra-mostra-internacional-de-cinema/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "cinema"
+      ],
+      "featured": false
+    },
+    {
       "id": "1tvg0l",
       "title": "Noite de Jazz & Vinhos no JazzB — República",
       "description": "Uma noite intimista com o sexteto de jazz paulistano homenageando Miles Davis e John Coltrane. Carta especial de vinhos de pequenos produtores nacionais e tábua de queijos artesanais da serra da Mantiqueira.",
@@ -957,6 +979,28 @@
         "vinhos",
         "republica"
       ]
+    },
+    {
+      "id": "n5k9r4",
+      "title": "Festival Coreano em SP terá K-pop e sorteio de ingressos para show do BTS",
+      "description": "Evento gratuito acontece de 10 a 12 de outubro, no Memorial da América Latina, com shows, gastronomia coreana e experiências culturais",
+      "category": "musica",
+      "date": "2026-10-10T10:00:00",
+      "location": "Barra Funda",
+      "neighborhood": "Barra Funda",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/garotas-do-K-POP-1200x650-1.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/festival-coreano-em-sp-tera-k-pop-e-sorteio-de-ingressos-para-show-do-bts/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/festival-coreano-em-sp-tera-k-pop-e-sorteio-de-ingressos-para-show-do-bts/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "musica"
+      ],
+      "featured": true
     },
     {
       "id": "60xro4",
@@ -1459,6 +1503,28 @@
         "musica"
       ],
       "featured": true
+    },
+    {
+      "id": "635yma",
+      "title": "Café do Chico Bento no Dia das Crianças! O que se sabe até agora sobre a novidade",
+      "description": "Espaço inspirado na Vila Abobrinha terá cantinhos temáticos e cardápio caipira a partir de 12 de outubro, em São Paulo O universo do Chico Bento vai ganhar um endereço em São Paulo. No dia 12 de outubro de 2026, Dia das Crianças, será inaugurado o Café do Chico Bento, no Parque da Água Branca, com [&hellip;]",
+      "category": "infantil",
+      "date": "2026-10-12T10:00:00",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 35,
+      "isFree": false,
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/10/sp_criancas_passeios_chico_bento.jpg",
+      "ticketUrl": "https://saopauloparacriancas.com.br/cafe-do-chico-bento-sp/",
+      "source": "SP para Crianças",
+      "sourceUrl": "https://saopauloparacriancas.com.br/cafe-do-chico-bento-sp/",
+      "tags": [
+        "infantil",
+        "familia",
+        "criancas",
+        "sp"
+      ],
+      "featured": false
     },
     {
       "id": "exhlap",
