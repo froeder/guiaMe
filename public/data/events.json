@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-10T12:16:02.308Z",
-  "totalCount": 109,
+  "updatedAt": "2026-10-11T12:31:18.412Z",
+  "totalCount": 110,
   "sources": [
     "Veja SP",
     "Catraca Livre",
@@ -1048,6 +1048,28 @@
         "exposicao",
         "gratuito"
       ]
+    },
+    {
+      "id": "jselt3",
+      "title": "Parque Villa-Lobos inaugura nova pista de Pump Track com 180 metros de circuito",
+      "description": "Espaço de 1 500 metros quadrados é voltado para modalidades sobre rodas",
+      "category": "infantil",
+      "date": "2026-10-10T13:00:33.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/DSC05094.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/parque-villa-lobos-inaugura-nova-pista-de-pump-track-com-180-metros-de-circuito/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/parque-villa-lobos-inaugura-nova-pista-de-pump-track-com-180-metros-de-circuito/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "infantil"
+      ],
+      "featured": false
     },
     {
       "id": "j5fc5n",
