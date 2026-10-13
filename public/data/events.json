@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-12T15:03:35.586Z",
-  "totalCount": 110,
+  "updatedAt": "2026-10-13T13:57:56.754Z",
+  "totalCount": 112,
   "sources": [
     "Veja SP",
     "Catraca Livre",
@@ -9,28 +9,6 @@
     "Instituições SP"
   ],
   "events": [
-    {
-      "id": "pa69jh",
-      "title": "Museu Catavento apresenta espetáculos e oficinas na Semana das Crianças: confira",
-      "description": "Programação especial e educativa estimula o cuidado com a natureza e o aprendizado",
-      "category": "teatro",
-      "date": "2026-10-01T12:49:39.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/03/Palacio_das_Industrias-sede-do-Museu-Catavento-Alexandre-Carvalho_-Governo-SP.jpg.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/museu-catavento-programacao-dia-das-criancas/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/museu-catavento-programacao-dia-das-criancas/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "teatro"
-      ],
-      "featured": false
-    },
     {
       "id": "t9p1dg",
       "title": "Shows infantis em São Paulo: opções para cantar, dançar e se divertir com os pequenos",
@@ -1395,6 +1373,28 @@
       ]
     },
     {
+      "id": "iuinor",
+      "title": "Dia das Crianças em SP tem passeios gratuitos para fazer com a família",
+      "description": "Museus, teatros e parques oferecem oficinas, espetáculos e atividades ao ar livre na capital e no interior durante o feriado e ao longo de outubro",
+      "category": "teatro",
+      "date": "2026-10-12T10:00:00",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/Parques-Dia-das-Criancas.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/dia-das-criancas-sp-2026/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/dia-das-criancas-sp-2026/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "teatro"
+      ],
+      "featured": true
+    },
+    {
       "id": "3i2o15",
       "title": "Espaços culturais de SP promovem atividades gratuitas em comemoração ao Dia das Crianças",
       "description": "Programação ocorre entre sábado (10) e segunda-feira (12) e reúne brincadeiras, espetáculos, circo e música",
@@ -1408,28 +1408,6 @@
       "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/espacos-culturais-de-sp-promovem-atividades-gratuitas-em-comemoracao-ao-dia-das-criancas/",
       "source": "Veja SP",
       "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/espacos-culturais-de-sp-promovem-atividades-gratuitas-em-comemoracao-ao-dia-das-criancas/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "musica"
-      ],
-      "featured": true
-    },
-    {
-      "id": "g0atsq",
-      "title": "Museu da Língua Portuguesa tem programação gratuita para Dia das Crianças: confira",
-      "description": "Festival Dia das Crianças inclui apresentação musical, instalações lúdicas e visita guiada",
-      "category": "musica",
-      "date": "2026-10-12T10:00:00",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/24.0805_AN_Badulaque-748.jpg.jpeg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/museu-da-lingua-portuguesa-programacao-gratuita-dia-das-criancas/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/museu-da-lingua-portuguesa-programacao-gratuita-dia-das-criancas/",
       "tags": [
         "vejasp",
         "cultura",
@@ -1655,6 +1633,50 @@
         "familia",
         "criancas",
         "sp"
+      ],
+      "featured": false
+    },
+    {
+      "id": "52j2ga",
+      "title": "Seedorf é o novo técnico do Corinthians após oito derrotas seguidas",
+      "description": "Ex-meio-campista tem quatro títulos da Liga dos Campeões e não trabalhava como treinador desde julho de 2019",
+      "category": "cultura",
+      "date": "2026-10-12T12:17:41.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/Captura-de-Tela-2026-10-12-as-12.16.39.png",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/seedorf-corinthians/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/seedorf-corinthians/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "cultura"
+      ],
+      "featured": false
+    },
+    {
+      "id": "ii2yxl",
+      "title": "Cine Tutu: Vila Madalena ganha seu primeiro cinema de rua!",
+      "description": "A Vila Madalena agora tem seu cinema de rua! O Cine Tutu traz sala de 114 lugares, café-bar Barouche e projeção 4K. Confira a programação e onde fica!",
+      "category": "tecnologia",
+      "date": "2026-10-13T10:44:33.000Z",
+      "location": "Vila Madalena",
+      "neighborhood": "Vila Madalena",
+      "price": 25,
+      "isFree": false,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/10/dsf8731-scaled.jpg",
+      "ticketUrl": "https://catracalivre.com.br/gira/cine-tutu-vila-madalena-ganha-seu-primeiro-cinema-de-rua/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/cine-tutu-vila-madalena-ganha-seu-primeiro-cinema-de-rua/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
+        "sp",
+        "tecnologia"
       ],
       "featured": false
     },
@@ -1927,6 +1949,28 @@
         "humor",
         "centro"
       ]
+    },
+    {
+      "id": "uflvl1",
+      "title": "Cultura Inglesa Festival tem peça de teatro, slam no Masp e show de Agnes Nunes",
+      "description": "De 21 a 31 de outubro, festival reúne teatro, batalha de poesia, cinema ao ar livre e show em Pinheiros; maior parte das atividades é gratuita",
+      "category": "musica",
+      "date": "2026-10-21T10:00:00",
+      "location": "Bela Vista",
+      "neighborhood": "Bela Vista",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/04_sarau_publico_parque_5472x3648.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/cultura-inglesa-festival-tem-peca-de-teatro-slam-no-masp-e-show-de-agnes-nunes/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/cultura-inglesa-festival-tem-peca-de-teatro-slam-no-masp-e-show-de-agnes-nunes/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "musica"
+      ],
+      "featured": true
     },
     {
       "id": "gmt1um",
