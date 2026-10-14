@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-13T13:57:56.754Z",
-  "totalCount": 112,
+  "updatedAt": "2026-10-14T11:34:56.597Z",
+  "totalCount": 117,
   "sources": [
     "Veja SP",
     "Catraca Livre",
@@ -50,72 +50,6 @@
         "gratuito",
         "sp",
         "musica"
-      ],
-      "featured": true
-    },
-    {
-      "id": "82aioh",
-      "title": "WSL agita Maresias dentro e fora do mar",
-      "description": "Com patrocínio da Corona, etapa da World Surf League movimenta o Litoral Norte paulistano com programação que vai além das ondas",
-      "category": "tecnologia",
-      "date": "2026-10-01T17:35:56.000Z",
-      "location": "Bela Vista",
-      "neighborhood": "Bela Vista",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/DJI_20260926140759_0058_D-1.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/viagem/wsl-agita-maresias-dentro-e-fora-do-mar/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/viagem/wsl-agita-maresias-dentro-e-fora-do-mar/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "tecnologia"
-      ],
-      "featured": false
-    },
-    {
-      "id": "mect0x",
-      "title": "Christian Dunker fala sobre saúde mental, inadequação e pertencimento em novo livro",
-      "description": "O psicanalista aborda os efeitos das redes sociais, da pressão por desempenho e da busca por diagnósticos na saúde mental",
-      "category": "literatura",
-      "date": "2026-10-02T08:00:05.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/CHRISTIANDUNKER13.jpg.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/christian-dunker-fala-sobre-saude-mental-inadequacao-e-pertencimento-em-novo-livro/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/christian-dunker-fala-sobre-saude-mental-inadequacao-e-pertencimento-em-novo-livro/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "literatura"
-      ],
-      "featured": false
-    },
-    {
-      "id": "ulq3ox",
-      "title": "Mural SP: Ana Paula Sirino",
-      "description": "A artista Ana Paula Sirino transforma memórias em pinturas",
-      "category": "exposicao",
-      "date": "2026-10-02T08:00:59.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/Ana-Paula-Sirino_01.jpg.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/mural-sp-ana-paula-sirino/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/mural-sp-ana-paula-sirino/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "exposicao"
       ],
       "featured": true
     },
@@ -212,28 +146,6 @@
       "featured": true
     },
     {
-      "id": "73it6t",
-      "title": "W São Paulo: conheça o hotel que aparece em ‘Quem Ama Cuida’",
-      "description": "Em uma moderna torre na Rua Funchal, na Vila Olímpia, hotel oferece vista panorâmica para a cidade e ganha projeção no horário nobre",
-      "category": "cultura",
-      "date": "2026-10-03T10:00:04.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/W-Sao-Paulo_Fachada_-Credito-Daniel-Levin-2.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/w-sao-paulo-conheca-o-hotel-que-aparece-em-quem-ama-cuida/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/w-sao-paulo-conheca-o-hotel-que-aparece-em-quem-ama-cuida/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "cultura"
-      ],
-      "featured": false
-    },
-    {
       "id": "pb0j09",
       "title": "Show: Jorge Ben Jor & Banda Zé Pretinho — Espaço Unimed",
       "description": "O mestre do samba-rock e da música brasileira em um show épico com todos os hinos atemporais: Taj Mahal, Mas Que Nada, Chove Chuva, País Tropical e Fio Maravilha. Pista e camarotes disponíveis.",
@@ -285,28 +197,6 @@
       ]
     },
     {
-      "id": "3sveg2",
-      "title": "Festival de cultura digital desembarca pela primeira vez na Praça das Artes com robótica, games e IA",
-      "description": "Edição de 10 anos do HACKTUDO estreia em São Paulo nos dias 3 e 4 de outubro;",
-      "category": "exposicao",
-      "date": "2026-10-04T10:00:00",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/684_Hacktudo_2025_11.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/hacktudo-festival-games-tecnologia-ia-gratuito/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/hacktudo-festival-games-tecnologia-ia-gratuito/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "exposicao"
-      ],
-      "featured": true
-    },
-    {
       "id": "yzekq0",
       "title": "Entrada grátis no Zoo SP, Jardim Botânico e Simba Safari: apresente o comprovante de votação para ganhar cortesia",
       "description": "Comprovante de votação dá cortesia no Zoo SP, Jardim Botânico e Simba Safari em 4 de outubro. Veja regras, preços, quanto crianças pagam e como chegar.",
@@ -347,50 +237,6 @@
         "familia",
         "criancas",
         "sp"
-      ],
-      "featured": false
-    },
-    {
-      "id": "2k2c8f",
-      "title": "O que fazer na Mooca? Confira 4 endereços e dicas sobre a região",
-      "description": "Na zona leste, bairro de forte influência italiana oferece muitos passeios culturais e gastronômicos",
-      "category": "gastronomia",
-      "date": "2026-10-04T10:00:32.000Z",
-      "location": "Mooca",
-      "neighborhood": "Mooca",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/09/a-mooca-e-um-bairro-tradicional-ligado-a-cultura-italiana-435c9.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/o-que-fazer-mooca-guia-enderecos/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/o-que-fazer-mooca-guia-enderecos/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "gastronomia"
-      ],
-      "featured": false
-    },
-    {
-      "id": "qek5cl",
-      "title": "Como São Paulo está reinventando a forma de adotar um pet",
-      "description": "Iniciativas como Puppy Yoga e cat café trocam feiras tradicionais por experiências de conexão, enquanto sistema de abrigos enfrenta sobrecarga",
-      "category": "gastronomia",
-      "date": "2026-10-04T14:00:18.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/Copia-de-Puppy-Yoga-13-42.jpg.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/adocao-pets-sao-paulo-experiencias-afetivas/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/adocao-pets-sao-paulo-experiencias-afetivas/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "gastronomia"
       ],
       "featured": false
     },
@@ -1072,26 +918,26 @@
       "featured": true
     },
     {
-      "id": "aytkyt",
-      "title": "Biblioteca de São Paulo promove saraus e programação especial gratuita para o Dia das Crianças",
-      "description": "Espaço reúne encontros literários, apresentações da Big Band do Projeto Guri, contação de histórias e sessões de cinema em outubro",
-      "category": "musica",
+      "id": "iokvfa",
+      "title": "São Paulo Restaurant Week volta em outubro com o tema ‘Brasil de Norte a Sul’ e menus a partir de R$ 59,90",
+      "description": "Quer comer bem em SP pagando pouco? Confira os restaurantes participantes da São Paulo Restaurant Week, opções de menus para almoço e jantar e garanta sua mesa.",
+      "category": "gastronomia",
       "date": "2026-10-10T14:00:00",
       "location": "São Paulo",
       "neighborhood": "São Paulo",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2024/02/Fotos-BSP_Equipe-SP-Leituras_2.jpg.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/biblioteca-de-sao-paulo-promove-saraus-e-programacao-especial-gratuita-para-o-dia-das-criancas/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/biblioteca-de-sao-paulo-promove-saraus-e-programacao-especial-gratuita-para-o-dia-das-criancas/",
+      "price": 25,
+      "isFree": false,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/10/img-20260918-wa0012-e1791912333534.jpg",
+      "ticketUrl": "https://catracalivre.com.br/gira/37a-sao-paulo-restaurant-week-2026/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/37a-sao-paulo-restaurant-week-2026/",
       "tags": [
-        "vejasp",
-        "cultura",
+        "catracalivre",
+        "gratuito",
         "sp",
-        "musica"
+        "gastronomia"
       ],
-      "featured": true
+      "featured": false
     },
     {
       "id": "c11195",
@@ -1681,6 +1527,182 @@
       "featured": false
     },
     {
+      "id": "9bmjwg",
+      "title": "50ª Mostra de Cinema de SP celebra meio século com 380 filmes, sessões gratuitas nos CEUs e Mostrinha",
+      "description": "Celebre meio século da Mostra Internacional de Cinema em São Paulo! Descubra filmes de 93 países, salas participantes e sessões gratuitas perto de você.",
+      "category": "cinema",
+      "date": "2026-10-13T11:54:51.000Z",
+      "location": "Centro Histórico",
+      "neighborhood": "Centro Histórico",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/10/unnamed-2026-10-13t115515453.jpg",
+      "ticketUrl": "https://catracalivre.com.br/gira/50a-mostra-internacional-de-cinema-em-sao-paulo-programacao-2026/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/50a-mostra-internacional-de-cinema-em-sao-paulo-programacao-2026/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
+        "sp",
+        "cinema"
+      ],
+      "featured": true
+    },
+    {
+      "id": "5hha1e",
+      "title": "Documentário sobre a Orquestra Jovem Tom Jobim estreia na Mostra de Cinema de SP",
+      "description": "‘Ensaiando o Brasil’ acompanha o encontro entre a música de concerto e ritmos populares",
+      "category": "musica",
+      "date": "2026-10-13T13:28:40.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/Captura-de-tela-2026-10-13-130351.png",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/documentario-sobre-a-orquestra-jovem-tom-jobim-estreia-na-mostra-de-cinema-de-sp/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/documentario-sobre-a-orquestra-jovem-tom-jobim-estreia-na-mostra-de-cinema-de-sp/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "musica"
+      ],
+      "featured": true
+    },
+    {
+      "id": "hhczba",
+      "title": "‘Feliz Ano Velho’ vira musical em SP com sucessos de Legião Urbana, Titãs e Barão Vermelho",
+      "description": "O livro marcante de Marcelo Rubens Paiva ganha sua 1ª versão musical no Teatro Sabesp Frei Caneca! Garanta ingressos para “Feliz Ano Velho – O Musical” com clássicos dos anos 80.",
+      "category": "musica",
+      "date": "2026-10-13T14:05:10.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 25,
+      "isFree": false,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/10/dsc8648-scaled.jpg",
+      "ticketUrl": "https://catracalivre.com.br/gira/feliz-ano-velho-vira-musical-teatro-sabesp-frei-caneca-sp/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/feliz-ano-velho-vira-musical-teatro-sabesp-frei-caneca-sp/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
+        "sp",
+        "musica"
+      ],
+      "featured": false
+    },
+    {
+      "id": "wayugu",
+      "title": "Arlete Salles leva o seu primeiro monólogo, ‘Mande Notícias do Mundo de Lá’, ao Teatro Renaissance",
+      "description": "Arlete Salles estrela “Mande Notícias do Mundo de Lá” em SP! O espetáculo une humor e emoção para falar de amizade e envelhecimento. Bora prestigiar?",
+      "category": "teatro",
+      "date": "2026-10-13T15:28:21.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 25,
+      "isFree": false,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/10/2d2a9300-scaled-e1791915840196.jpg",
+      "ticketUrl": "https://catracalivre.com.br/gira/arlete-salles-leva-o-seu-primeiro-monologo-mande-noticias-do-mundo-de-la-ao-teatro-renaissance-sp/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/arlete-salles-leva-o-seu-primeiro-monologo-mande-noticias-do-mundo-de-la-ao-teatro-renaissance-sp/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
+        "sp",
+        "teatro"
+      ],
+      "featured": false
+    },
+    {
+      "id": "q7ans",
+      "title": "São Paulo entra no clima do BTS com eventos e experiências gratuitas",
+      "description": "Com atividades gratuitas, interessados poderão conhecer a cultura coreana para além da música",
+      "category": "musica",
+      "date": "2026-10-13T16:19:25.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/04/BTS-courtesy-of-HYBE-1.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/bts-atividades-cultura-coreana-sp/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/bts-atividades-cultura-coreana-sp/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "musica"
+      ],
+      "featured": true
+    },
+    {
+      "id": "y4ste4",
+      "title": "Evento místico na Paulista reúne experiências de espiritualidade e autoconhecimento",
+      "description": "Com atividades gratuitas, nova edição do ‘Mercado das Bruxas’ conta com palestras, rituais e vivências",
+      "category": "festa",
+      "date": "2026-10-13T16:51:58.000Z",
+      "location": "Bela Vista",
+      "neighborhood": "Bela Vista",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/unnamed-7.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/evento-mistico-na-paulista-reune-experiencias-de-espiritualidade-e-autoconhecimento/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/evento-mistico-na-paulista-reune-experiencias-de-espiritualidade-e-autoconhecimento/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "festa"
+      ],
+      "featured": true
+    },
+    {
+      "id": "1djk8q",
+      "title": "Rua do Samba tem agenda gratuita com Rincón Sapiência, Batalha da Aldeia e Pagode na Lata",
+      "description": "Programação tem samba, rap e rodas de conversa na Barra Funda, além de ensaio aberto da Mocidade Unida da Mooca",
+      "category": "musica",
+      "date": "2026-10-13T18:16:04.000Z",
+      "location": "Barra Funda",
+      "neighborhood": "Barra Funda",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-13-at-17.24.50.jpeg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/rua-do-samba-tem-agenda-gratuita-com-rincon-sapiencia-batalha-da-aldeia-e-pagode-na-lata/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/rua-do-samba-tem-agenda-gratuita-com-rincon-sapiencia-batalha-da-aldeia-e-pagode-na-lata/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "musica"
+      ],
+      "featured": true
+    },
+    {
+      "id": "mzslcz",
+      "title": "Evento gratuito na República reúne slam, sarau, hip hop e samba em três dias",
+      "description": "Em sua primeira edição, o encontro Mate Masie reúne poetas, MCs, DJs e pesquisadores para promover manifestações orais afro referenciadas",
+      "category": "festa",
+      "date": "2026-10-13T18:35:12.000Z",
+      "location": "Centro Histórico",
+      "neighborhood": "Centro Histórico",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2017/01/12731_matilha-cultural.jpeg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/evento-gratuito-na-republica-reune-slam-sarau-hip-hop-e-samba-em-tres-dias/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/evento-gratuito-na-republica-reune-slam-sarau-hip-hop-e-samba-em-tres-dias/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "festa"
+      ],
+      "featured": true
+    },
+    {
       "id": "726t71",
       "title": "São Paulo Fashion Week (SPFW) — Pavilhão da Bienal",
       "description": "A semana de moda mais prestigiada do hemisfério sul. Desfiles das maiores marcas e estilistas de vanguarda, exposições de fotografia têxtil, palestras sobre sustentabilidade e pop-up stores de designers independentes.",
@@ -1780,6 +1802,28 @@
       ]
     },
     {
+      "id": "98dtey",
+      "title": "Evento de terror traz experiências imersivas e atores internacionais a SP",
+      "description": "Quinta edição do evento de cultura do terror acontece em 17 e 18 de outubro, no Expo Barra Funda, com escape rooms, labirinto, painéis e baile vampiresco",
+      "category": "festa",
+      "date": "2026-10-17T10:00:00",
+      "location": "Barra Funda",
+      "neighborhood": "Barra Funda",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/Captura-de-tela-2024-09-12-165112-1.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/horror-expo-sp-2026/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/horror-expo-sp-2026/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "festa"
+      ],
+      "featured": false
+    },
+    {
       "id": "7asr4m",
       "title": "Festival do Café e Sabores Paulistas — Museu da Imigração",
       "description": "Feira gastronômica com os melhores cafés especiais do estado de SP, baristas premiados ministrando workshops gratuitos, doces típicos da roça, queijos artesanais e apresentações musicais de choro e caipira nos jardins históricos.",
@@ -1803,6 +1847,50 @@
         "museu da imigracao",
         "feira"
       ]
+    },
+    {
+      "id": "m2lb7f",
+      "title": "Festival de Comida Árabe no Tatuapé tem oficina de dança do ventre e shows de música",
+      "description": "Evento no Parque CERET, nos dias 17 e 18 de outubro, reúne mais de 40 tendas, festival de fatias e feira de adoção de cães e gatos",
+      "category": "musica",
+      "date": "2026-10-18T10:00:00",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/DANCA-DO-VENTRE.webp",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/festival-comida-arabe-tatuape-shows-gratis/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/festival-comida-arabe-tatuape-shows-gratis/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "musica"
+      ],
+      "featured": true
+    },
+    {
+      "id": "8pp3ld",
+      "title": "Com mais de 400 atrações gratuitas, Viradinha 2026 acontece em todas as regiões de SP",
+      "description": "Programação ocorre entre os dias 16 e 18 de outubro com shows, cinema e bibliotecas itinerantes",
+      "category": "musica",
+      "date": "2026-10-18T10:00:00",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2025/05/PatatiPatata._Foto._Herivelto_Batista.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/viradinha-2026-sao-paulo-programacao-gratuita-atracoes/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/viradinha-2026-sao-paulo-programacao-gratuita-atracoes/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "musica"
+      ],
+      "featured": true
     },
     {
       "id": "oo72uf",
@@ -2190,6 +2278,28 @@
         "gratuito",
         "filmes"
       ]
+    },
+    {
+      "id": "l0kirb",
+      "title": "Mariana Aydar e Mestrinho comandam festão de forró no Memorial da América Latina",
+      "description": "A Farra tá On reúne Mariana Aydar e Mestrinho no Memorial da América Latina no dia 31 de outubro com ingressos a R$ 60. Confira a programação e saiba como ir!",
+      "category": "musica",
+      "date": "2026-10-31T10:00:00",
+      "location": "Barra Funda",
+      "neighborhood": "Barra Funda",
+      "price": 25,
+      "isFree": false,
+      "imageUrl": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=800&q=80",
+      "ticketUrl": "https://catracalivre.com.br/gira/mariana-aydar-e-mestrinho-comandam-projeto-a-farra-ta-on-no-memorial-da-america-latina/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/mariana-aydar-e-mestrinho-comandam-projeto-a-farra-ta-on-no-memorial-da-america-latina/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
+        "sp",
+        "musica"
+      ],
+      "featured": false
     },
     {
       "id": "qlh11b",
