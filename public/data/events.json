@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T11:34:56.597Z",
+  "updatedAt": "2026-10-15T11:13:39.501Z",
   "totalCount": 117,
   "sources": [
     "Veja SP",
@@ -375,28 +375,6 @@
         "exposicao",
         "gratuito"
       ]
-    },
-    {
-      "id": "xw82kw",
-      "title": "O que fazer na Vila Madalena? Confira um guia do bairro",
-      "description": "De feiras a cafés, bairro boêmio da zona oeste reúne programas clássicos e novidades para todos os gostos",
-      "category": "gastronomia",
-      "date": "2026-10-06T16:26:04.000Z",
-      "location": "Vila Madalena",
-      "neighborhood": "Vila Madalena",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2024/05/pref_sem_04-55.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/o-que-fazer-vila-madalena-guia/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/o-que-fazer-vila-madalena-guia/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "gastronomia"
-      ],
-      "featured": false
     },
     {
       "id": "ddzb7w",
@@ -894,28 +872,6 @@
         "infantil"
       ],
       "featured": false
-    },
-    {
-      "id": "j5fc5n",
-      "title": "Festival da cultura nordestina em SP tem entrada gratuita, comida local, música e mais",
-      "description": "3º Festival Nordestino do Centro de Tradições Nordestinas acontece em outubro; confira a programação",
-      "category": "musica",
-      "date": "2026-10-10T14:00:00",
-      "location": "Centro Histórico",
-      "neighborhood": "Centro Histórico",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/unnamed-3.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/festival-nordestino-2026-centro-de-tradicoes-nordestinal-sao-paulo-programacao/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/festival-nordestino-2026-centro-de-tradicoes-nordestinal-sao-paulo-programacao/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "musica"
-      ],
-      "featured": true
     },
     {
       "id": "iokvfa",
@@ -1703,6 +1659,50 @@
       "featured": true
     },
     {
+      "id": "u7eii6",
+      "title": "Trem de Natal da Maria Fumaça terá passeio noturno entre Campinas e Jaguariúna",
+      "description": "Passeio especial terá Papai Noel, trem iluminado e entrega de presentes",
+      "category": "cultura",
+      "date": "2026-10-14T12:42:29.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/1783178650228-IMG_5911-e1791992492167.jpeg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/trem-de-natal-da-maria-fumaca-tera-passeio-noturno-entre-campinas-e-jaguariuna/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/trem-de-natal-da-maria-fumaca-tera-passeio-noturno-entre-campinas-e-jaguariuna/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "cultura"
+      ],
+      "featured": false
+    },
+    {
+      "id": "k2honl",
+      "title": "Conheça os novos filhotes do Aquário de São Paulo",
+      "description": "Filhotes de lêmure e equidna são os novos moradores do Ipiranga",
+      "category": "cultura",
+      "date": "2026-10-14T14:36:26.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/07/Aquario-de-Sao-Paulo-21-2.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/conheca-os-novos-filhotes-do-aquario-de-sao-paulo/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/conheca-os-novos-filhotes-do-aquario-de-sao-paulo/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "cultura"
+      ],
+      "featured": false
+    },
+    {
       "id": "726t71",
       "title": "São Paulo Fashion Week (SPFW) — Pavilhão da Bienal",
       "description": "A semana de moda mais prestigiada do hemisfério sul. Desfiles das maiores marcas e estilistas de vanguarda, exposições de fotografia têxtil, palestras sobre sustentabilidade e pop-up stores de designers independentes.",
@@ -1727,6 +1727,28 @@
         "estilo",
         "ibirapuera"
       ]
+    },
+    {
+      "id": "ql7out",
+      "title": "Exposição gratuita revela bastidores da construção do Ibirapuera e do Mercadão",
+      "description": "Mostra usa documentos do Arquivo Histórico Municipal para contar história de operários e fica em cartaz até 2027",
+      "category": "musica",
+      "date": "2026-10-14T17:53:44.000Z",
+      "location": "Vila Mariana",
+      "neighborhood": "Vila Mariana",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/IMG_9849.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/exposicao-gratis-bom-retiro-trabalhadores/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/exposicao-gratis-bom-retiro-trabalhadores/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "musica"
+      ],
+      "featured": true
     },
     {
       "id": "6on2sn",
@@ -2508,28 +2530,6 @@
         "drinks",
         "dia das bruxas"
       ]
-    },
-    {
-      "id": "m41mci",
-      "title": "Halloween ganha concerto à luz de centenas de velas no Masp",
-      "description": "‘Candlelight: Canções de Halloween’ apresenta repertório com trilhas de filmes, séries e clássicos do terror",
-      "category": "festa",
-      "date": "2026-10-31T19:00:00",
-      "location": "Bela Vista",
-      "neighborhood": "Bela Vista",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/Candlelight-Halloween-_2-1-1024x683-1.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/halloween-concerto-a-luz-de-de-velas-masp/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/halloween-concerto-a-luz-de-de-velas-masp/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "festa"
-      ],
-      "featured": false
     },
     {
       "id": "1chsdm",
