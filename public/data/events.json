@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-15T11:13:39.501Z",
-  "totalCount": 117,
+  "updatedAt": "2026-10-16T11:08:19.578Z",
+  "totalCount": 118,
   "sources": [
     "Veja SP",
     "Catraca Livre",
@@ -377,28 +377,6 @@
       ]
     },
     {
-      "id": "ddzb7w",
-      "title": "Cine Rosário será reaberto no Martinelli após 70 anos fechado",
-      "description": "Com investimento de R$ 25 milhões, Grupo Tokyo prevê reabertura para 2028",
-      "category": "cultura",
-      "date": "2026-10-06T16:58:13.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/Nova-imagem-3-1.webp",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/cine-rosario-reaberto-martinelli/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/cine-rosario-reaberto-martinelli/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "cultura"
-      ],
-      "featured": false
-    },
-    {
       "id": "l3dmtx",
       "title": "Fenômeno infantil ‘Bluey Ao Vivo’ está de volta a SP em nova temporada no Teatro Claro",
       "description": "Passeio imperdível em família! “Bluey Ao Vivo” tem ingressos a partir de R$ 25 no Teatro Claro SP com sessões no fim de semana e feriado.",
@@ -463,28 +441,6 @@
         "musica"
       ],
       "featured": false
-    },
-    {
-      "id": "mtam5z",
-      "title": "6 lugares para dançar (e ouvir) forró em São Paulo",
-      "description": "Confira uma seleção de endereços para curtir o ritmo nordestino na capital",
-      "category": "musica",
-      "date": "2026-10-07T17:44:52.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2019/06/mg_7821.jpg.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/lugares-para-dancar-e-ouvir-forro-e-riscar-o-salao-em-sao-paulo/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/lugares-para-dancar-e-ouvir-forro-e-riscar-o-salao-em-sao-paulo/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "musica"
-      ],
-      "featured": true
     },
     {
       "id": "z0pu6k",
@@ -666,28 +622,6 @@
         "cultura",
         "sp",
         "exposicao"
-      ],
-      "featured": true
-    },
-    {
-      "id": "enayjx",
-      "title": "Brasil Game Show 2026: atrações, ingressos e horários",
-      "description": "De 9 a 12 de outubro, a feira ocupa o Distrito Anhembi com 19 jogos para testar antes do lançamento, Nintendo, Sega e torneios de esportes eletrônicos",
-      "category": "musica",
-      "date": "2026-10-09T10:00:00",
-      "location": "Santana",
-      "neighborhood": "Santana",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/BGS-Geral-2025-Cred_Quero-Fotos-03.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/brasil-game-show-2026-atracoes-ingressos-e-horarios/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/brasil-game-show-2026-atracoes-ingressos-e-horarios/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "musica"
       ],
       "featured": true
     },
@@ -1193,28 +1127,6 @@
         "cultura",
         "sp",
         "teatro"
-      ],
-      "featured": true
-    },
-    {
-      "id": "3i2o15",
-      "title": "Espaços culturais de SP promovem atividades gratuitas em comemoração ao Dia das Crianças",
-      "description": "Programação ocorre entre sábado (10) e segunda-feira (12) e reúne brincadeiras, espetáculos, circo e música",
-      "category": "musica",
-      "date": "2026-10-12T10:00:00",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/unnamed-1.png",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/espacos-culturais-de-sp-promovem-atividades-gratuitas-em-comemoracao-ao-dia-das-criancas/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/espacos-culturais-de-sp-promovem-atividades-gratuitas-em-comemoracao-ao-dia-das-criancas/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "musica"
       ],
       "featured": true
     },
@@ -1751,19 +1663,129 @@
       "featured": true
     },
     {
-      "id": "6on2sn",
-      "title": "MASP terá entrada gratuita para professores no Dia dos Professores",
-      "description": "Ação ocorre de 15 a 18 de outubro e faz parte da parceria entre o museu e a Vitru Educação",
-      "category": "exposicao",
-      "date": "2026-10-15T10:00:00",
-      "location": "Bela Vista",
-      "neighborhood": "Bela Vista",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2025/11/DSC_4374.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/masp-tera-entrada-gratuita-para-professores-no-dia-dos-professores/",
+      "id": "pp97cj",
+      "title": "Jorge Ben Jor mantém legado vivo e conquista novas gerações aos 87 anos",
+      "description": "Com ingressos esgotados no Nubank Parque, cantor inspira artistas de diferentes gerações e mantém sua obra em alta nas plataformas digitais",
+      "category": "infantil",
+      "date": "2026-10-15T14:41:12.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/jorge-ben-credito-Doce-Maravilha_divulg.jpg.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/jorge-ben-jor-show-nubank-park/",
       "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/masp-tera-entrada-gratuita-para-professores-no-dia-dos-professores/",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/jorge-ben-jor-show-nubank-park/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "infantil"
+      ],
+      "featured": false
+    },
+    {
+      "id": "jnwgnn",
+      "title": "Jorge Ben Jor é ‘exemplo brutal para todos que vieram depois dele’, diz BNegão",
+      "description": "Álbum África Brasil, clássico de 1976, completa 50 anos e ganha tributo do cantor",
+      "category": "cultura",
+      "date": "2026-10-15T14:59:26.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/DETALHE-BNEGAO-C20241115_BNegao_credito-Jozzuu-Photo_divulg.jpg.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/jorge-ben-jor-e-exemplo-brutal-para-todos-que-vieram-depois-dele-diz-bnegao/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/jorge-ben-jor-e-exemplo-brutal-para-todos-que-vieram-depois-dele-diz-bnegao/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "cultura"
+      ],
+      "featured": false
+    },
+    {
+      "id": "m6wtop",
+      "title": "BRAVO! celebra 30 anos e volta às bancas com festa em São Paulo",
+      "description": "Evento na Casa Bradesco com convidados do meio cultural e pocket show de João Camarero comemorou a nova fase da revista; confira as fotos",
+      "category": "festa",
+      "date": "2026-10-15T16:56:57.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/BRAVO-BEIJA-FLOR.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/bravo-30-anos-coquetel-festa/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/bravo-30-anos-coquetel-festa/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "festa"
+      ],
+      "featured": false
+    },
+    {
+      "id": "pgqcvv",
+      "title": "Mural SP: Anna Cunha",
+      "description": "Ilustradora de mais de quarenta livros, assina obra do Mural SP",
+      "category": "literatura",
+      "date": "2026-10-16T06:00:23.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/anna_cunha.jpg.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/mural-sp-anna-cunha/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/mural-sp-anna-cunha/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "literatura"
+      ],
+      "featured": false
+    },
+    {
+      "id": "ftg8vy",
+      "title": "“O fado pode ser um caminho de libertação”, diz Carminho",
+      "description": "A cantora portuguesa Carminho está em turnê com seu novo disco e é tema de documentário que estreia no sábado (17) na Mostra de Cinema de SP",
+      "category": "cinema",
+      "date": "2026-10-16T08:00:01.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=800&q=80",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/amarelinhas-carminho/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/amarelinhas-carminho/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "cinema"
+      ],
+      "featured": false
+    },
+    {
+      "id": "gxh01p",
+      "title": "Um passeio pelas empenas pintadas com arte urbana em São Paulo e os artistas por trás delas",
+      "description": "Do Minhocão à Consolação, essas telas gigantes definem o horizonte da capital e agora são garantidas por nova lei de fomento",
+      "category": "exposicao",
+      "date": "2026-10-16T08:00:57.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/Empenas-Niemeyer-083.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/roteiro-historia-empenas-pintadas-arte-urbana-sao-paulo-artistas/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/roteiro-historia-empenas-pintadas-arte-urbana-sao-paulo-artistas/",
       "tags": [
         "vejasp",
         "cultura",
@@ -1915,41 +1937,19 @@
       "featured": true
     },
     {
-      "id": "oo72uf",
-      "title": "Dia das Crianças: Parques de São Paulo preparam programação especial e gratuita para a data",
-      "description": "Entre 10 e 18 de outubro, as atividades terão opções para todos os gostos",
-      "category": "tecnologia",
-      "date": "2026-10-18T10:00:00",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/unnamed-6.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/dia-das-criancas-parques-sao-paulo-programacao-gratuita/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/dia-das-criancas-parques-sao-paulo-programacao-gratuita/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "tecnologia"
-      ],
-      "featured": true
-    },
-    {
-      "id": "60xw94",
-      "title": "Pé de Sonho leva Duo Badulaque ao Teatro Bradesco em show para crianças em SP",
-      "description": "Do Tiranossauro Rex ao Sistema Solar, o Pé de Sonho transforma o palco em uma viagem por músicas, bichos e histórias. A apresentação acontece em 18 de outubro de 2026, às 15h, no Teatro Bradesco, em São Paulo, como parte da programação da Semana das Crianças, com participação especial do Duo Badulaque. Com classificação livre, [&hellip;]",
+      "id": "1ql4xr",
+      "title": "Festival de comida árabe no CERET tem entrada gratuita e programação para crianças",
+      "description": "Evento acontece nos dias 17 e 18 de outubro, no Tatuapé, com gastronomia típica, shows, oficina de dança do ventre, feira de adoção de animais e espaço kids. O 1º Festival de Comida Árabe da Zona Leste acontece nos dias 17 e 18 de outubro de 2026, sábado e domingo, no Parque CERET, no Tatuapé, [&hellip;]",
       "category": "infantil",
       "date": "2026-10-18T10:00:00",
       "location": "São Paulo",
       "neighborhood": "São Paulo",
       "price": 0,
       "isFree": true,
-      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/09/sp_criancas_passeio_pe_de_sonho_01.jpeg",
-      "ticketUrl": "https://saopauloparacriancas.com.br/pe-de-sonho-teatro-sp/",
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/10/sp_criancas_passeio_arabe_01.jpeg",
+      "ticketUrl": "https://saopauloparacriancas.com.br/ceret-programacao-sp/",
       "source": "SP para Crianças",
-      "sourceUrl": "https://saopauloparacriancas.com.br/pe-de-sonho-teatro-sp/",
+      "sourceUrl": "https://saopauloparacriancas.com.br/ceret-programacao-sp/",
       "tags": [
         "infantil",
         "familia",
@@ -2738,6 +2738,28 @@
         "bela vista",
         "festa"
       ]
+    },
+    {
+      "id": "s20yvl",
+      "title": "Noel Kids Run 2026: corrida infantil terá percursos por idade e chegada do Papai Noel em São Bernardo",
+      "description": "Evento no Golden Square Shopping acontece em 14 de novembro, com distâncias de 50 a 500 metros e brinquedos infláveis  A temporada de Natal começa com esporte e brincadeiras no Golden Square Shopping, em São Bernardo do Campo, no ABC Paulista. No sábado, 14 de novembro de 2026, o empreendimento recebe a segunda edição da [&hellip;]",
+      "category": "infantil",
+      "date": "2026-11-14T10:00:00",
+      "location": "Bela Vista",
+      "neighborhood": "Bela Vista",
+      "price": 35,
+      "isFree": false,
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/10/sp_criancas_passeios_corrida-1.jpg",
+      "ticketUrl": "https://saopauloparacriancas.com.br/corrida-infantil-sp/",
+      "source": "SP para Crianças",
+      "sourceUrl": "https://saopauloparacriancas.com.br/corrida-infantil-sp/",
+      "tags": [
+        "infantil",
+        "familia",
+        "criancas",
+        "sp"
+      ],
+      "featured": false
     }
   ]
 }
