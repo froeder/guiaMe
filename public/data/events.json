@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T11:08:19.578Z",
+  "updatedAt": "2026-10-17T10:27:28.293Z",
   "totalCount": 118,
   "sources": [
     "Veja SP",
@@ -217,28 +217,6 @@
         "sp"
       ],
       "featured": true
-    },
-    {
-      "id": "sxg0s8",
-      "title": "Circo Di Napoli fica em Osasco até 4 de outubro",
-      "description": "O Circo Di Napoli está em temporada em Osasco, na Grande São Paulo, até 4 de outubro. Instalado no estacionamento do Carrefour Vila Yara, o espetáculo reúne números de acrobacia, malabarismo, mágica, palhaços e atrações como o Globo da Morte e o Flecha Humana. As apresentações acontecem de terça a sexta-feira, às 20h30; aos sábados, [&hellip;]",
-      "category": "infantil",
-      "date": "2026-10-04T10:00:00",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 35,
-      "isFree": false,
-      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/09/sp_criancas_passeios_circo_di_napoli_02.jpeg",
-      "ticketUrl": "https://saopauloparacriancas.com.br/circo-di-napoli-sp/",
-      "source": "SP para Crianças",
-      "sourceUrl": "https://saopauloparacriancas.com.br/circo-di-napoli-sp/",
-      "tags": [
-        "infantil",
-        "familia",
-        "criancas",
-        "sp"
-      ],
-      "featured": false
     },
     {
       "id": "327s51",
@@ -494,72 +472,6 @@
       ]
     },
     {
-      "id": "y8vhj7",
-      "title": "Dia do Nordestino em SP tem programação gratuita com apresentação de Tierry",
-      "description": "Programação acontece nesta quinta-feira (8)",
-      "category": "gastronomia",
-      "date": "2026-10-08T18:02:12.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2025/10/JuCoutinho_41391-credito-Ju-Coutinho_Divulgacao.jpeg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/dia-do-nordestino-em-sp-tem-programacao-gratuita-com-apresentacao-de-tierry/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/dia-do-nordestino-em-sp-tem-programacao-gratuita-com-apresentacao-de-tierry/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "gastronomia"
-      ],
-      "featured": true
-    },
-    {
-      "id": "hy1kyw",
-      "title": "Chair Love: conheça o projeto que transforma arte em oportunidade",
-      "description": "Iniciativa do LAR da Bênção Divina leva exposição itinerante para onze locais de São Paulo e marca os 70 anos da associação",
-      "category": "exposicao",
-      "date": "2026-10-08T18:06:56.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/Aco-Filmes-25.09.20260137.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/chair-love-projeto-arte-lar-da-bencao-divina/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/chair-love-projeto-arte-lar-da-bencao-divina/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "exposicao"
-      ],
-      "featured": true
-    },
-    {
-      "id": "4hkxa1",
-      "title": "Após lançar filme e série, Vladimir Brichta estreia primeiro monólogo da carreira",
-      "description": "Ator fala sobre adaptação da obra do australiano Kim Crotty no solo ‘O Menor Palco do Mundo’ e revela vontade de estrear na direção",
-      "category": "teatro",
-      "date": "2026-10-09T08:00:03.000Z",
-      "location": "Centro Histórico",
-      "neighborhood": "Centro Histórico",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/Vlad-Brichta_231.tif-e1791487611526.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/vladimir-brichta-primeiro-solo-carreira-televisao-cinema/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/vladimir-brichta-primeiro-solo-carreira-televisao-cinema/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "teatro"
-      ],
-      "featured": false
-    },
-    {
       "id": "llpxud",
       "title": "Mural SP: Andre Barion",
       "description": "Obras combinam desenho, costura, pintura e espaço em composição feita com materiais reaproveitados",
@@ -808,6 +720,28 @@
       "featured": false
     },
     {
+      "id": "t0btuk",
+      "title": "Cinemark tem ingressos para filmes de terror a partir de R$ 13 em outubro",
+      "description": "Temporada do Terror exibe clássicos como ‘O Exorcista’ e ‘Carrie, A Estranha’",
+      "category": "festa",
+      "date": "2026-10-10T14:00:00",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2017/01/1551_19905389.jpeg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/cinemark-tem-ingressos-de-terror-a-partir-de-r-13-em-outubro/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/cinemark-tem-ingressos-de-terror-a-partir-de-r-13-em-outubro/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "festa"
+      ],
+      "featured": false
+    },
+    {
       "id": "iokvfa",
       "title": "São Paulo Restaurant Week volta em outubro com o tema ‘Brasil de Norte a Sul’ e menus a partir de R$ 59,90",
       "description": "Quer comer bem em SP pagando pouco? Confira os restaurantes participantes da São Paulo Restaurant Week, opções de menus para almoço e jantar e garanta sua mesa.",
@@ -931,28 +865,6 @@
       "ticketUrl": "https://saopauloparacriancas.com.br/tv-cultura-criancas-sp/",
       "source": "SP para Crianças",
       "sourceUrl": "https://saopauloparacriancas.com.br/tv-cultura-criancas-sp/",
-      "tags": [
-        "infantil",
-        "familia",
-        "criancas",
-        "sp"
-      ],
-      "featured": false
-    },
-    {
-      "id": "grqpdb",
-      "title": "Crianças não pagam: hotel em São José dos Campos tem piscina climatizada, espaço kids e atividades em outubro",
-      "description": "Em São José dos Campos, o Novotel São José dos Campos reúne hospedagem, lazer e atividades para famílias com crianças. Além de servir como ponto de partida para conhecer a cidade e outros destinos do Vale do Paraíba, o hotel oferece opções para quem prefere passar mais tempo dentro da própria estrutura. A programação inclui [&hellip;]",
-      "category": "infantil",
-      "date": "2026-10-10T14:00:00",
-      "location": "Centro Histórico",
-      "neighborhood": "Centro Histórico",
-      "price": 35,
-      "isFree": false,
-      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/09/sp_criancas_passeio_novotel_27.jpeg",
-      "ticketUrl": "https://saopauloparacriancas.com.br/novotel-sao-jose-dos-campos-sp/",
-      "source": "SP para Crianças",
-      "sourceUrl": "https://saopauloparacriancas.com.br/novotel-sao-jose-dos-campos-sp/",
       "tags": [
         "infantil",
         "familia",
@@ -1320,28 +1232,6 @@
       "ticketUrl": "https://saopauloparacriancas.com.br/chiki-toonz-em-sp/",
       "source": "SP para Crianças",
       "sourceUrl": "https://saopauloparacriancas.com.br/chiki-toonz-em-sp/",
-      "tags": [
-        "infantil",
-        "familia",
-        "criancas",
-        "sp"
-      ],
-      "featured": false
-    },
-    {
-      "id": "siplqn",
-      "title": "Hotel em São Roque transforma crianças em Guardiões da Floresta no feriado do Dia das Crianças",
-      "description": "Que tal trocar a rotina da cidade por uma verdadeira missão na floresta? No feriado do Dia das Crianças, o Hotel Villa Rossa, em São Roque, a cerca de 50 quilômetros de São Paulo, prepara uma programação especial que transforma os pequenos hóspedes em Guardiões da Floresta. Diversão no feriado do Dia das Crianças A [&hellip;]",
-      "category": "infantil",
-      "date": "2026-10-12T10:00:00",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 35,
-      "isFree": false,
-      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2020/11/sp_criancas_villa-rossa-hotel-1.jpg",
-      "ticketUrl": "https://saopauloparacriancas.com.br/hotel-villa-rossa-sao-roque-sp/",
-      "source": "SP para Crianças",
-      "sourceUrl": "https://saopauloparacriancas.com.br/hotel-villa-rossa-sao-roque-sp/",
       "tags": [
         "infantil",
         "familia",
@@ -1760,7 +1650,7 @@
       "neighborhood": "São Paulo",
       "price": 30,
       "isFree": false,
-      "imageUrl": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=800&q=80",
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/Design-sem-nome-5.jpg",
       "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/amarelinhas-carminho/",
       "source": "Veja SP",
       "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/amarelinhas-carminho/",
@@ -1791,6 +1681,28 @@
         "cultura",
         "sp",
         "exposicao"
+      ],
+      "featured": true
+    },
+    {
+      "id": "bm2373",
+      "title": "Mostra de Cinema de SP tem sessões gratuitas; veja onde assistir",
+      "description": "Festival reúne centenas de filmes de mais de 90 países em 57 salas da capital; programação também tem ingressos a partir de R$ 2",
+      "category": "tecnologia",
+      "date": "2026-10-16T11:26:28.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/20261003_105455.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/mostra-de-cinema-de-sp-gratis/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/mostra-de-cinema-de-sp-gratis/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "tecnologia"
       ],
       "featured": true
     },
@@ -1846,6 +1758,28 @@
       ]
     },
     {
+      "id": "begtl4",
+      "title": "O que fazer em São Paulo no fim de semana de 17 e 18 de outubro? Confira 5 programas",
+      "description": "Mostra Internacional de Cinema, Viradinha Cultural e festival gratuito de samba estão entre os destaques da programação",
+      "category": "musica",
+      "date": "2026-10-17T10:00:00",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/20261003_105455.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/o-que-fazer-em-sao-paulo-no-fim-de-semana-de-17-e-18-de-outubro-confira-5-programas/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/o-que-fazer-em-sao-paulo-no-fim-de-semana-de-17-e-18-de-outubro-confira-5-programas/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "musica"
+      ],
+      "featured": true
+    },
+    {
       "id": "98dtey",
       "title": "Evento de terror traz experiências imersivas e atores internacionais a SP",
       "description": "Quinta edição do evento de cultura do terror acontece em 17 e 18 de outubro, no Expo Barra Funda, com escape rooms, labirinto, painéis e baile vampiresco",
@@ -1866,6 +1800,28 @@
         "festa"
       ],
       "featured": false
+    },
+    {
+      "id": "sw0734",
+      "title": "Turma da Mônica: encontro gratuito com Mônica, Cebolinha e Milena acontece neste sábado em SP",
+      "description": "Atração no Centro Cultural São Paulo tem três horários e faz parte da Viradinha 2026, festival infantil com cerca de 400 atividades gratuitas pela cidade Quem quer encontrar personagens da Turma da Mônica tem um programa gratuito neste sábado, 17 de outubro, em São Paulo. Mônica, Cebolinha e Milena participam de três encontros presenciais no [&hellip;]",
+      "category": "infantil",
+      "date": "2026-10-17T10:00:00",
+      "location": "Centro Histórico",
+      "neighborhood": "Centro Histórico",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/10/sp_criancas_passeio_monica.jpg",
+      "ticketUrl": "https://saopauloparacriancas.com.br/turma-da-monica-sp/",
+      "source": "SP para Crianças",
+      "sourceUrl": "https://saopauloparacriancas.com.br/turma-da-monica-sp/",
+      "tags": [
+        "infantil",
+        "familia",
+        "criancas",
+        "sp"
+      ],
+      "featured": true
     },
     {
       "id": "7asr4m",
@@ -2151,6 +2107,28 @@
         "mirante",
         "centro"
       ]
+    },
+    {
+      "id": "a9kr4q",
+      "title": "Clash Royale grátis no Metrô: Estação Sé recebe arena gamer até 23 de outubro",
+      "description": "Atração gratuita em São Paulo celebra os 10 anos do jogo com partidas interativas durante a semana e campeonatos com influenciadores aos fins de semana. Quem gosta de videogame pode encontrar uma arena de Clash Royale no caminho pelo centro de São Paulo. Até 23 de outubro de 2026, a Estação Sé do Metrô recebe [&hellip;]",
+      "category": "infantil",
+      "date": "2026-10-23T10:00:00",
+      "location": "Centro Histórico",
+      "neighborhood": "Centro Histórico",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/10/sp_criancas_passeio_royale-2.jpg",
+      "ticketUrl": "https://saopauloparacriancas.com.br/ativacao-metro-sp/",
+      "source": "SP para Crianças",
+      "sourceUrl": "https://saopauloparacriancas.com.br/ativacao-metro-sp/",
+      "tags": [
+        "infantil",
+        "familia",
+        "criancas",
+        "sp"
+      ],
+      "featured": true
     },
     {
       "id": "7lxhcc",
@@ -2738,6 +2716,28 @@
         "bela vista",
         "festa"
       ]
+    },
+    {
+      "id": "odty7i",
+      "title": "Concurso gratuito da ONU convida crianças e jovens a criar cartazes sobre o futuro da alimentação",
+      "description": "Competição internacional da FAO é voltada a participantes de 5 a 19 anos; inscrições vão até 6 de novembro de 2026 e permitem desenhos feitos à mão ou digitalmente E se um desenho pudesse ajudar a imaginar um mundo com mais alimentos e menos desperdício? A Organização das Nações Unidas para a Alimentação e a [&hellip;]",
+      "category": "infantil",
+      "date": "2026-11-06T10:00:00",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/10/sp_criancas_passeio_onu_desenho-1.jpg",
+      "ticketUrl": "https://saopauloparacriancas.com.br/onu-alimentacao/",
+      "source": "SP para Crianças",
+      "sourceUrl": "https://saopauloparacriancas.com.br/onu-alimentacao/",
+      "tags": [
+        "infantil",
+        "familia",
+        "criancas",
+        "sp"
+      ],
+      "featured": true
     },
     {
       "id": "s20yvl",
