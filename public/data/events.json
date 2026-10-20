@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-19T12:47:04.924Z",
-  "totalCount": 118,
+  "updatedAt": "2026-10-20T11:17:11.703Z",
+  "totalCount": 122,
   "sources": [
     "Veja SP",
     "Catraca Livre",
@@ -100,28 +100,6 @@
         "festa",
         "gastronomia"
       ]
-    },
-    {
-      "id": "c7f6g8",
-      "title": "Villa-Lobos terá manhã de wellness ao ar livre com aulas de yoga, funcional e até corrida",
-      "description": "Evento gratuito para alunos da Bio Ritmo e convidados reúne aulas ao ar livre, recovery e experiências de marcas parceiras no dia 3 de outubro",
-      "category": "esporte",
-      "date": "2026-10-03T10:00:00",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/10/villalobos-210525-fotodanieldeak-0789-scaled-1.jpg",
-      "ticketUrl": "https://catracalivre.com.br/gira/villa-lobos-tera-manha-de-wellness-ao-ar-livre-com-aulas-de-yoga-funcional-e-ate-corrida/",
-      "source": "Catraca Livre",
-      "sourceUrl": "https://catracalivre.com.br/gira/villa-lobos-tera-manha-de-wellness-ao-ar-livre-com-aulas-de-yoga-funcional-e-ate-corrida/",
-      "tags": [
-        "catracalivre",
-        "gratuito",
-        "sp",
-        "esporte"
-      ],
-      "featured": true
     },
     {
       "id": "r5j5dk",
@@ -472,28 +450,6 @@
       ]
     },
     {
-      "id": "llpxud",
-      "title": "Mural SP: Andre Barion",
-      "description": "Obras combinam desenho, costura, pintura e espaço em composição feita com materiais reaproveitados",
-      "category": "exposicao",
-      "date": "2026-10-09T08:00:07.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/Retrato_Andre_2025@AndersonCouto.jpg.jpeg.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/mural-sp-andre-barion/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/mural-sp-andre-barion/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "exposicao"
-      ],
-      "featured": true
-    },
-    {
       "id": "66iaw5",
       "title": "Diretor e dramaturgo de teatro infantil fala sobre impactos das telas na formação cultural das crianças",
       "description": "Marcelo Romagnoli, fundador da Cia. Bendita, está com projetos para outubro: ‘Acreditar na inteligência das crianças é poderoso’",
@@ -534,28 +490,6 @@
         "cultura",
         "sp",
         "exposicao"
-      ],
-      "featured": true
-    },
-    {
-      "id": "wxi7zb",
-      "title": "Festival Nordeste em Cena traz Silvero Pereira, rock e teatro de graça ao centro de SP",
-      "description": "O festival reúne música, artes cênicas e gastronomia no centro de São Paulo. De 9 a 12 de outubro, o iBT recebe atrações nordestinas gratuitas.",
-      "category": "musica",
-      "date": "2026-10-09T10:00:00",
-      "location": "Centro Histórico",
-      "neighborhood": "Centro Histórico",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/09/saveclipapp-590421822-18545827780012328-7335183066162547201-n-e1790186984319.webp",
-      "ticketUrl": "https://catracalivre.com.br/gira/centro-cultural-ibt-e-banco-do-nordeste-apresentam-o-festival-nordeste-em-cena-2026-sp/",
-      "source": "Catraca Livre",
-      "sourceUrl": "https://catracalivre.com.br/gira/centro-cultural-ibt-e-banco-do-nordeste-apresentam-o-festival-nordeste-em-cena-2026-sp/",
-      "tags": [
-        "catracalivre",
-        "gratuito",
-        "sp",
-        "musica"
       ],
       "featured": true
     },
@@ -782,72 +716,6 @@
         "gratuito",
         "sp",
         "musica"
-      ],
-      "featured": true
-    },
-    {
-      "id": "1nalpo",
-      "title": "Casa de Cultura do Parque abre novas exposições gratuitas e oficinas em outubro",
-      "description": "Novas exposições de arte e oficinas de xilogravura de graça na Zona Oeste! A Casa de Cultura do Parque movimenta o Alto de Pinheiros em outubro. Veja a programação",
-      "category": "exposicao",
-      "date": "2026-10-10T14:00:00",
-      "location": "Pinheiros",
-      "neighborhood": "Pinheiros",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/10/ccp-no-quintal-boneco-articulado-scaled-e1790874832962.jpg",
-      "ticketUrl": "https://catracalivre.com.br/gira/casa-de-cultura-do-parque-abre-novas-exposicoes-gratuitas-e-oficinas-em-outubro/",
-      "source": "Catraca Livre",
-      "sourceUrl": "https://catracalivre.com.br/gira/casa-de-cultura-do-parque-abre-novas-exposicoes-gratuitas-e-oficinas-em-outubro/",
-      "tags": [
-        "catracalivre",
-        "gratuito",
-        "sp",
-        "exposicao"
-      ],
-      "featured": true
-    },
-    {
-      "id": "ebm2n0",
-      "title": "Guia de teatro em SP: Confira as peças, musicais e comédias em cartaz em outubro",
-      "description": ": Descubra o que assistir nos palcos paulistanos neste mês. De superproduções musicais a peças gratuitas e infantis, montamos um roteiro completo de teatro em São Paulo.",
-      "category": "musica",
-      "date": "2026-10-10T14:00:00",
-      "location": "Bela Vista",
-      "neighborhood": "Bela Vista",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/09/guia-de-teatro-em-sp-confira-as-pecas-musicais-e-comedias-em-cartaz-em-outubro.jpg",
-      "ticketUrl": "https://catracalivre.com.br/gira/guia-de-teatro-em-sp/",
-      "source": "Catraca Livre",
-      "sourceUrl": "https://catracalivre.com.br/gira/guia-de-teatro-em-sp/",
-      "tags": [
-        "catracalivre",
-        "gratuito",
-        "sp",
-        "musica"
-      ],
-      "featured": true
-    },
-    {
-      "id": "xv7r1u",
-      "title": "Cine na Praça promove especial de Halloween gratuito no Jardim Suspenso do CCSP em outubro",
-      "description": "Cinema de graça ao ar livre! O Cine na Praça exibe 15 filmes de terror no CCSP com concurso de fantasias e microfone aberto. Confira a lista completa!",
-      "category": "festa",
-      "date": "2026-10-10T14:00:00",
-      "location": "Butantã",
-      "neighborhood": "Butantã",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/09/5-curiosidades-sobre-o-iluminado-que-completa-45-anos-em-2025.jpg",
-      "ticketUrl": "https://catracalivre.com.br/gira/cine-na-praca-promove-especial-de-halloween-gratuito-no-jardim-suspenso-do-ccsp-em-outubro/",
-      "source": "Catraca Livre",
-      "sourceUrl": "https://catracalivre.com.br/gira/cine-na-praca-promove-especial-de-halloween-gratuito-no-jardim-suspenso-do-ccsp-em-outubro/",
-      "tags": [
-        "catracalivre",
-        "gratuito",
-        "sp",
-        "festa"
       ],
       "featured": true
     },
@@ -1992,6 +1860,182 @@
       ]
     },
     {
+      "id": "4ye4d3",
+      "title": "MASP recebe ‘O museu da antiga colônia’, primeira exposição individual do porto-riquenho Pablo Delano no Brasil",
+      "description": "A instalação ‘O museu da antiga colônia’, de Pablo Delano, ocupa o 1º andar do MASP reunindo fotos históricas, objetos e documentos que questionam a história colonial de Porto Rico.",
+      "category": "exposicao",
+      "date": "2026-10-19T10:26:42.000Z",
+      "location": "Bela Vista",
+      "neighborhood": "Bela Vista",
+      "price": 25,
+      "isFree": false,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/10/pablo-delano-pablo-delano-as-duas-bandeiras-2020-o-museu-da-antiga-colonia.jpg",
+      "ticketUrl": "https://catracalivre.com.br/gira/masp-recebe-o-museu-da-antiga-colonia-exposicao-de-pablo-delano/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/masp-recebe-o-museu-da-antiga-colonia-exposicao-de-pablo-delano/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
+        "sp",
+        "exposicao"
+      ],
+      "featured": false
+    },
+    {
+      "id": "1nhkq3",
+      "title": "CCBB SP recebe 2ª Mostra Violas Brasileiras com 12 shows gratuitos, oficina e masterclass",
+      "description": "A 2ª Mostra Violas Brasileiras reúne 14 atrações gratuitas no CCBB SP, celebrando a viola caipira, fandango e novas linguagens com shows, oficina e masterclass.",
+      "category": "musica",
+      "date": "2026-10-19T10:45:21.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/10/53687973921-0c09cde100-o-scaled.jpg",
+      "ticketUrl": "https://catracalivre.com.br/gira/ccbb-sp-recebe-2a-mostra-violas-brasileiras-com-12-shows-gratuitos-oficina-e-masterclass/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/ccbb-sp-recebe-2a-mostra-violas-brasileiras-com-12-shows-gratuitos-oficina-e-masterclass/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
+        "sp",
+        "musica"
+      ],
+      "featured": true
+    },
+    {
+      "id": "6okmgv",
+      "title": "‘O Ovo e a Galinha’ ganha temporada no Teatro Oficina com Ana Hartmann na pele de Clarice Lispector",
+      "description": "Baseado em célebre conto de Clarice Lispector, o espetáculo “O Ovo e a Galinha” estreia no Teatro Oficina em SP, combinando teatro, vídeo ao vivo e filosofia.",
+      "category": "teatro",
+      "date": "2026-10-19T11:30:49.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 25,
+      "isFree": false,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/10/o-ovo-e-a-galinha-foto-03-ana-alexandrino-scaled-e1792419488869.jpg",
+      "ticketUrl": "https://catracalivre.com.br/gira/o-ovo-e-a-galinha-ganha-temporada-no-teatro-oficina-com-ana-hartmann-na-pele-de-clarice-lispector/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/o-ovo-e-a-galinha-ganha-temporada-no-teatro-oficina-com-ana-hartmann-na-pele-de-clarice-lispector/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
+        "sp",
+        "teatro"
+      ],
+      "featured": false
+    },
+    {
+      "id": "bbzeib",
+      "title": "Julia Mestre traz show da turnê ‘Maravilhosamente Bem’ ao Sesc Pompeia",
+      "description": "A cantora e compositora Julia Mestre apresenta o show do álbum “Maravilhosamente Bem” no Sesc Pompeia, reunindo pop contemporâneo, bossa nova e anos 80.",
+      "category": "musica",
+      "date": "2026-10-19T12:30:57.000Z",
+      "location": "Pompeia",
+      "neighborhood": "Pompeia",
+      "price": 25,
+      "isFree": false,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/10/unnamed-2026-10-19t115247915.jpg",
+      "ticketUrl": "https://catracalivre.com.br/gira/julia-mestre-traz-show-da-turne-maravilhosamente-bem-ao-sesc-pompeia/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/julia-mestre-traz-show-da-turne-maravilhosamente-bem-ao-sesc-pompeia/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
+        "sp",
+        "musica"
+      ],
+      "featured": false
+    },
+    {
+      "id": "n323s6",
+      "title": "‘Um Dia Muito Especial’ faz temporada de despedida em SP com Reynaldo Gianecchini e Maria Casadevall",
+      "description": "Drama emocionante retrata a amizade transformadora entre um ex-radialista e uma dona de casa em 1938. Temporada final em cartaz de outubro a janeiro!",
+      "category": "cultura",
+      "date": "2026-10-19T13:28:46.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 25,
+      "isFree": false,
+      "imageUrl": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=800&q=80",
+      "ticketUrl": "https://catracalivre.com.br/gira/um-dia-muito-especial-faz-temporada-de-despedida-em-sp-com-reynaldo-gianecchini-e-maria-casadevall/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/um-dia-muito-especial-faz-temporada-de-despedida-em-sp-com-reynaldo-gianecchini-e-maria-casadevall/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
+        "sp",
+        "cultura"
+      ],
+      "featured": false
+    },
+    {
+      "id": "p19pam",
+      "title": "Festa da cultura paulista: Revelando SP reúne gastronomia típica, artesanato e shows no Parque do Trote",
+      "description": "O Revelando SP ocupa o Parque do Trote com pratos típicos, feira de artesanato de mais de 100 cidades, congadas, folia de reis e shows de Zé Ramalho e Edson &#038; Hudson.",
+      "category": "festa",
+      "date": "2026-10-19T15:01:11.000Z",
+      "location": "Bela Vista",
+      "neighborhood": "Bela Vista",
+      "price": 25,
+      "isFree": false,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/10/espac-807o-unimed-12-09-26-ze-769-ramalho-fotos-marcos-oliveira-marcosoliveirapht-54-scaled.jpg",
+      "ticketUrl": "https://catracalivre.com.br/gira/revelando-sp-reune-gastronomia-tipica-artesanato-e-shows-no-parque-do-trote-2026/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/revelando-sp-reune-gastronomia-tipica-artesanato-e-shows-no-parque-do-trote-2026/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
+        "sp",
+        "festa"
+      ],
+      "featured": false
+    },
+    {
+      "id": "9krrhl",
+      "title": "Inédita, ‘Sarah Bernhardt em São Paulo’ reconstitui no Sesc Santana a visita da lendária atriz francesa ao Brasil em 1886",
+      "description": "Dirigido por Ulysses Cruz e estrelado por Arietha Corrêa, o espetáculo no Sesc Santana aborda o chocante encontro da diva francesa com abolicionistas paulistas.",
+      "category": "teatro",
+      "date": "2026-10-19T15:50:29.000Z",
+      "location": "Bela Vista",
+      "neighborhood": "Bela Vista",
+      "price": 25,
+      "isFree": false,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/10/bl3a1655-editarsepia-1-scaled-e1792432532528.jpg",
+      "ticketUrl": "https://catracalivre.com.br/gira/inedita-sarah-bernhardt-em-sao-paulo-reconstitui-no-sesc-santana-a-visita-da-lendaria-atriz-francesa-ao-brasil-em-1886/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/inedita-sarah-bernhardt-em-sao-paulo-reconstitui-no-sesc-santana-a-visita-da-lendaria-atriz-francesa-ao-brasil-em-1886/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
+        "sp",
+        "teatro"
+      ],
+      "featured": false
+    },
+    {
+      "id": "e2vkj",
+      "title": "Ópera com adolescentes? Mozart leva romance, ciúmes e intrigas ao palco em SP",
+      "description": "“As Bodas de Fígaro” terá apresentações no Teatro Bradesco entre novembro e dezembro, com música ao vivo e legendas em português Quem gosta de música clássica e histórias cheias de confusões amorosas pode incluir uma ópera na programação cultural com as crianças. “As Bodas de Fígaro”, de Wolfgang Amadeus Mozart, será apresentada no Teatro Bradesco, [&hellip;]",
+      "category": "infantil",
+      "date": "2026-10-19T17:20:51.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 35,
+      "isFree": false,
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/10/sp_criancas_passeio_figaro_01.jpeg",
+      "ticketUrl": "https://saopauloparacriancas.com.br/opera-teatro-sp/",
+      "source": "SP para Crianças",
+      "sourceUrl": "https://saopauloparacriancas.com.br/opera-teatro-sp/",
+      "tags": [
+        "infantil",
+        "familia",
+        "criancas",
+        "sp"
+      ],
+      "featured": false
+    },
+    {
       "id": "9t7y34",
       "title": "Stand-Up Comedy All-Stars — Clube do Minhoca",
       "description": "Noite com os 5 maiores nomes da nova geração do humor stand-up nacional em um dos clubes de comédia mais charmosos do centro de SP. Risadas garantidas e drinks artesanais.",
@@ -2230,6 +2274,28 @@
       ]
     },
     {
+      "id": "jlns6u",
+      "title": "LOVE vira hotel mal-assombrado com noites de terror e sensualidade em SP",
+      "description": "LOVEWEEN H(M)OTEL ocupa a casa na República de 29 a 31 de outubro com performances de terror, mistério e sensualidade",
+      "category": "festa",
+      "date": "2026-10-29T10:00:00",
+      "location": "Centro Histórico",
+      "neighborhood": "Centro Histórico",
+      "price": 25,
+      "isFree": false,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/10/love-na-republica-se-transforma-no-loveween-hmotel-uma-experiencia-que-mistura-historias-macabras-misterio-e-sensualidade-em-tres-noites-de-performances-scaled.jpeg",
+      "ticketUrl": "https://catracalivre.com.br/gira/love-vira-hotel-mal-assombrado-com-noites-de-terror-e-sensualidade-em-sp/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/love-vira-hotel-mal-assombrado-com-noites-de-terror-e-sensualidade-em-sp/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
+        "sp",
+        "festa"
+      ],
+      "featured": false
+    },
+    {
       "id": "1hozdl",
       "title": "Hopi Hari: Noite dos Horrores Especial Pré-Halloween",
       "description": "O maior parque temático da região de SP com túneis assustadores, dezenas de atores caracterizados, shows musicais de abertura e montanhas-russas funcionando até altas horas da noite. Transporte especial saindo do Terminal Barra Funda.",
@@ -2278,6 +2344,50 @@
         "gratuito",
         "filmes"
       ]
+    },
+    {
+      "id": "v9sd7j",
+      "title": "Día de Muertos: festival gratuito em SP tem shows e comida mexicana",
+      "description": "Evento no Memorial da América Latina acontece de 31 de outubro a 2 de novembro, com concurso de fantasias, apresentações culturais e atrações",
+      "category": "festa",
+      "date": "2026-10-31T10:00:00",
+      "location": "Barra Funda",
+      "neighborhood": "Barra Funda",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/CORTEJO-DIA-DE-MUERTOS-3.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/dia-de-muertos-memorial-da-america-latina/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/dia-de-muertos-memorial-da-america-latina/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "festa"
+      ],
+      "featured": true
+    },
+    {
+      "id": "o4ak4z",
+      "title": "Memorial da América Latina recebe o maior Festival Día de Muertos do Brasil com entrada gratuita",
+      "description": "Com altares ornamentados, tacos e churros, a celebração da cultura mexicana ocupa o Memorial nos dias 31 de outubro, 1 e 2 de novembro, das 11h às 21h.",
+      "category": "cultura",
+      "date": "2026-10-31T10:00:00",
+      "location": "Barra Funda",
+      "neighborhood": "Barra Funda",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2023/10/festival-de-dia-de-muertos-no-memorial-celebra-a-cultura-mexicana-scaled.jpg",
+      "ticketUrl": "https://catracalivre.com.br/gira/memorial-da-america-latina-recebe-o-maior-festival-dia-de-muertos-do-brasil-com-entrada-gratuita/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/memorial-da-america-latina-recebe-o-maior-festival-dia-de-muertos-do-brasil-com-entrada-gratuita/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
+        "sp",
+        "cultura"
+      ],
+      "featured": true
     },
     {
       "id": "l0kirb",
@@ -2508,28 +2618,6 @@
         "drinks",
         "dia das bruxas"
       ]
-    },
-    {
-      "id": "1chsdm",
-      "title": "Para os fãs de terror: Edifício Rolim anuncia programação de Halloween e lança nova atração imersiva",
-      "description": "Prédio centenário no centro de São Paulo lança escape room focado em investigação e cria experiências inéditas para a temporada de Dia das Bruxas",
-      "category": "festa",
-      "date": "2026-10-31T19:00:00",
-      "location": "Centro Histórico",
-      "neighborhood": "Centro Histórico",
-      "price": 25,
-      "isFree": false,
-      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/09/25fe3bfe-7cf5-4114-80dc-d5236b716914.png",
-      "ticketUrl": "https://catracalivre.com.br/gira/para-os-fas-de-terror-edificio-rolim-anuncia-programacao-de-halloween-e-lanca-nova-atracao-imersiva/",
-      "source": "Catraca Livre",
-      "sourceUrl": "https://catracalivre.com.br/gira/para-os-fas-de-terror-edificio-rolim-anuncia-programacao-de-halloween-e-lanca-nova-atracao-imersiva/",
-      "tags": [
-        "catracalivre",
-        "gratuito",
-        "sp",
-        "festa"
-      ],
-      "featured": false
     },
     {
       "id": "chnf2o",
