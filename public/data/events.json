@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T11:17:11.703Z",
+  "updatedAt": "2026-10-21T11:32:56.149Z",
   "totalCount": 122,
   "sources": [
     "Veja SP",
@@ -450,50 +450,6 @@
       ]
     },
     {
-      "id": "66iaw5",
-      "title": "Diretor e dramaturgo de teatro infantil fala sobre impactos das telas na formação cultural das crianças",
-      "description": "Marcelo Romagnoli, fundador da Cia. Bendita, está com projetos para outubro: ‘Acreditar na inteligência das crianças é poderoso’",
-      "category": "teatro",
-      "date": "2026-10-09T08:10:07.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/FOTO_MARCELO_ROMAGNOLI.jpeg-e1791488418444.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/diretor-e-dramaturgo-de-teatro-infantil-fala-sobre-impactos-das-telas-na-formacao-cultural-das-criancas/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/diretor-e-dramaturgo-de-teatro-infantil-fala-sobre-impactos-das-telas-na-formacao-cultural-das-criancas/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "teatro"
-      ],
-      "featured": false
-    },
-    {
-      "id": "urs6vc",
-      "title": "25 programas para fazer em São Paulo no feriado prolongado",
-      "description": "De exposições inéditas a festivais gratuitos e atividades para crianças, capital paulista tem atrações para todos os gostos entre sexta (9) e segunda-feira (12)",
-      "category": "exposicao",
-      "date": "2026-10-09T09:19:58.000Z",
-      "location": "Bela Vista",
-      "neighborhood": "Bela Vista",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/08/open_air.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/25-programas-para-fazer-em-sao-paulo-no-feriado-prolongado/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/25-programas-para-fazer-em-sao-paulo-no-feriado-prolongado/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "exposicao"
-      ],
-      "featured": true
-    },
-    {
       "id": "9fyeaf",
       "title": "Burger King e Heinz entram na brincadeira do Dia do Cabelo Maluco",
       "description": "Ação acontece nos dias 8 e 9 de outubro e oferece quatro opções gratuitas para quem chegar às lojas participantes com um penteado caracterizado O Dia do Cabelo Maluco ganhou uma recompensa para quem gosta de entrar na brincadeira. Nos dias 8 e 9 de outubro de 2026, o Burger King, em parceria com a [&hellip;]",
@@ -561,28 +517,6 @@
         "vinhos",
         "republica"
       ]
-    },
-    {
-      "id": "n5k9r4",
-      "title": "Festival Coreano em SP terá K-pop e sorteio de ingressos para show do BTS",
-      "description": "Evento gratuito acontece de 10 a 12 de outubro, no Memorial da América Latina, com shows, gastronomia coreana e experiências culturais",
-      "category": "musica",
-      "date": "2026-10-10T10:00:00",
-      "location": "Barra Funda",
-      "neighborhood": "Barra Funda",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/garotas-do-K-POP-1200x650-1.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/festival-coreano-em-sp-tera-k-pop-e-sorteio-de-ingressos-para-show-do-bts/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/festival-coreano-em-sp-tera-k-pop-e-sorteio-de-ingressos-para-show-do-bts/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "musica"
-      ],
-      "featured": true
     },
     {
       "id": "60xro4",
@@ -2036,6 +1970,28 @@
       "featured": false
     },
     {
+      "id": "420fv8",
+      "title": "A ONG paulistana que leva livros à Amazônia há 25 anos",
+      "description": "Criada por três amigas, a Vaga Lume ganha nova marca, inaugura bibliotecas para bebês no Pará e vê escolas com seus acervos liderarem o Ideb em Mato Grosso",
+      "category": "exposicao",
+      "date": "2026-10-20T18:57:40.000Z",
+      "location": "Bela Vista",
+      "neighborhood": "Bela Vista",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/prg-2-2.pdf.png",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/vaga-lume-ong-paulistana-livros-amazonia/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/vaga-lume-ong-paulistana-livros-amazonia/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "exposicao"
+      ],
+      "featured": true
+    },
+    {
       "id": "9t7y34",
       "title": "Stand-Up Comedy All-Stars — Clube do Minhoca",
       "description": "Noite com os 5 maiores nomes da nova geração do humor stand-up nacional em um dos clubes de comédia mais charmosos do centro de SP. Risadas garantidas e drinks artesanais.",
@@ -2618,6 +2574,50 @@
         "drinks",
         "dia das bruxas"
       ]
+    },
+    {
+      "id": "rked17",
+      "title": "Halloween em São Paulo: Roda Rico tem oficina e atrações de terror",
+      "description": "Parte da programação é gratuita; abertura no sábado (24) tem concurso de fantasias e shows",
+      "category": "festa",
+      "date": "2026-10-31T19:00:00",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/04/Roda-Rico-opcao-roda-gigate.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/halloween-em-sao-paulo-roda-rico-tem-oficina-e-atracoes-de-terror/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/halloween-em-sao-paulo-roda-rico-tem-oficina-e-atracoes-de-terror/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "festa"
+      ],
+      "featured": true
+    },
+    {
+      "id": "wyta0t",
+      "title": "Festival de Halloween em Moema terá shows gratuitos e circuito de doces",
+      "description": "Em sua 11ª edição, o evento aberto ao público acontece na Praça David Nasser",
+      "category": "festa",
+      "date": "2026-10-31T19:00:00",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/SaveClip.App_570349304_18401703067191223_5543389865165279144_n.webp",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/festival-halloween-moema-2026-sao-paulo/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/festival-halloween-moema-2026-sao-paulo/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "festa"
+      ],
+      "featured": true
     },
     {
       "id": "chnf2o",
