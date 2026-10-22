@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-21T11:32:56.149Z",
-  "totalCount": 122,
+  "updatedAt": "2026-10-22T11:33:13.932Z",
+  "totalCount": 123,
   "sources": [
     "Veja SP",
     "Catraca Livre",
@@ -100,28 +100,6 @@
         "festa",
         "gastronomia"
       ]
-    },
-    {
-      "id": "r5j5dk",
-      "title": "Dia das Crianças no Estádio do Red Bull Bragantino tem entrada gratuita, brinquedos infláveis e arena gamer",
-      "description": "Para comemorar o mês das crianças com uma experiência diferente, o Red Bull Bragantino realiza o evento “Toro Loko no Mundo da Diversão”. A atração acontece no sábado, dia 3 de outubro de 2026, das 9h às 16h, no Estádio Municipal Cícero de Souza Marques, em Bragança Paulista. A programação é totalmente gratuita, aberta ao [&hellip;]",
-      "category": "infantil",
-      "date": "2026-10-03T10:00:00",
-      "location": "Bela Vista",
-      "neighborhood": "Bela Vista",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-29-at-18.12.15-.jpeg",
-      "ticketUrl": "https://saopauloparacriancas.com.br/red-bull-bragantino-dia-das-criancas/",
-      "source": "SP para Crianças",
-      "sourceUrl": "https://saopauloparacriancas.com.br/red-bull-bragantino-dia-das-criancas/",
-      "tags": [
-        "infantil",
-        "familia",
-        "criancas",
-        "sp"
-      ],
-      "featured": true
     },
     {
       "id": "pb0j09",
@@ -472,28 +450,6 @@
       "featured": true
     },
     {
-      "id": "9l9zuj",
-      "title": "Saiba como garantir ingressos pra Mostra Internacional de Cinema",
-      "description": "Entenda as modalidades de ingressos, valores e regras",
-      "category": "cinema",
-      "date": "2026-10-09T13:52:59.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2017/01/59837_cine-olido-foto-sylvia-masini-4.jpeg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/saiba-como-garantir-ingressos-pra-mostra-internacional-de-cinema/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/saiba-como-garantir-ingressos-pra-mostra-internacional-de-cinema/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "cinema"
-      ],
-      "featured": false
-    },
-    {
       "id": "1tvg0l",
       "title": "Noite de Jazz & Vinhos no JazzB — República",
       "description": "Uma noite intimista com o sexteto de jazz paulistano homenageando Miles Davis e John Coltrane. Carta especial de vinhos de pequenos produtores nacionais e tábua de queijos artesanais da serra da Mantiqueira.",
@@ -519,28 +475,6 @@
       ]
     },
     {
-      "id": "60xro4",
-      "title": "Dia das Crianças com música, bolhas de sabão e circo: shopping de SP prepara programação gratuita",
-      "description": "O Dia das Crianças ganha uma programação especial no Jardim Pamplona Shopping, em São Paulo. No dia 10 de outubro, o rooftop do empreendimento recebe o PAM Kids Day, com show da Queen Live Kids, artistas circenses, bolhas de sabão, pintura facial, meet & greet e outras atividades para crianças e adultos. Das 14h às [&hellip;]",
-      "category": "infantil",
-      "date": "2026-10-10T10:00:00",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/09/sp_criancas_passeios_pamplona_shopping_02.jpeg",
-      "ticketUrl": "https://saopauloparacriancas.com.br/jardim-pamplona-shopping-sp/",
-      "source": "SP para Crianças",
-      "sourceUrl": "https://saopauloparacriancas.com.br/jardim-pamplona-shopping-sp/",
-      "tags": [
-        "infantil",
-        "familia",
-        "criancas",
-        "sp"
-      ],
-      "featured": true
-    },
-    {
       "id": "1mj8jl",
       "title": "Pinacoteca de São Paulo — Arte Brasileira dos Séculos XIX e XX (Sábado Grátis)",
       "description": "A mais antiga instituição de arte de São Paulo apresenta seu acervo magistral, incluindo obras icônicas como O Mestiço e Saudade. Entrada franca aos sábados.",
@@ -564,28 +498,6 @@
         "exposicao",
         "gratuito"
       ]
-    },
-    {
-      "id": "jselt3",
-      "title": "Parque Villa-Lobos inaugura nova pista de Pump Track com 180 metros de circuito",
-      "description": "Espaço de 1 500 metros quadrados é voltado para modalidades sobre rodas",
-      "category": "infantil",
-      "date": "2026-10-10T13:00:33.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/DSC05094.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/parque-villa-lobos-inaugura-nova-pista-de-pump-track-com-180-metros-de-circuito/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/parque-villa-lobos-inaugura-nova-pista-de-pump-track-com-180-metros-de-circuito/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "infantil"
-      ],
-      "featured": false
     },
     {
       "id": "t0btuk",
@@ -652,28 +564,6 @@
         "musica"
       ],
       "featured": true
-    },
-    {
-      "id": "m8jj4j",
-      "title": "TV Cultura leva Quintal da Cultura para seis cidades de SP em programação especial para crianças",
-      "description": "Nova fase do programa estreia em outubro e passa por Santos, São Bernardo do Campo, Jundiaí, Itu, Campinas e Sorocaba. Emissora também terá filmes, séries, música e programas especiais A TV Cultura estreia na segunda-feira (5) uma programação especial para o Mês das Crianças. A principal novidade é Quintal no Interior, nova fase de Quintal [&hellip;]",
-      "category": "infantil",
-      "date": "2026-10-10T14:00:00",
-      "location": "Centro Histórico",
-      "neighborhood": "Centro Histórico",
-      "price": 35,
-      "isFree": false,
-      "imageUrl": "https://images.unsplash.com/photo-1508873696983-2df5293cb32f?w=800&q=80",
-      "ticketUrl": "https://saopauloparacriancas.com.br/tv-cultura-criancas-sp/",
-      "source": "SP para Crianças",
-      "sourceUrl": "https://saopauloparacriancas.com.br/tv-cultura-criancas-sp/",
-      "tags": [
-        "infantil",
-        "familia",
-        "criancas",
-        "sp"
-      ],
-      "featured": false
     },
     {
       "id": "f7cl2y",
@@ -1039,28 +929,6 @@
         "familia",
         "criancas",
         "sp"
-      ],
-      "featured": false
-    },
-    {
-      "id": "52j2ga",
-      "title": "Seedorf é o novo técnico do Corinthians após oito derrotas seguidas",
-      "description": "Ex-meio-campista tem quatro títulos da Liga dos Campeões e não trabalhava como treinador desde julho de 2019",
-      "category": "cultura",
-      "date": "2026-10-12T12:17:41.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/Captura-de-Tela-2026-10-12-as-12.16.39.png",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/seedorf-corinthians/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/seedorf-corinthians/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "cultura"
       ],
       "featured": false
     },
@@ -2017,6 +1885,28 @@
       ]
     },
     {
+      "id": "t7rnk2",
+      "title": "Sorvete chega pelas patas de urso e crianças escolhem quem vai servir",
+      "description": "Na Vila Madalena, a Ursaria Beco dos Ursos tem sorvetes temáticos a partir de R$30, milk-shakes e uma feijoadinha doce para compartilhar. Uma patinha aparece por um buraco na parede e entrega o pedido. Na Ursaria Beco dos Ursos, na Vila Madalena, em São Paulo, os visitantes escolhem qual dos cinco personagens vai servir o [&hellip;]",
+      "category": "infantil",
+      "date": "2026-10-21T09:13:32.000Z",
+      "location": "Vila Madalena",
+      "neighborhood": "Vila Madalena",
+      "price": 35,
+      "isFree": false,
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/10/sp_criancas_passeio_dona_ursa_07.jpeg",
+      "ticketUrl": "https://saopauloparacriancas.com.br/ursaria-beco-dos-ursos-sp/",
+      "source": "SP para Crianças",
+      "sourceUrl": "https://saopauloparacriancas.com.br/ursaria-beco-dos-ursos-sp/",
+      "tags": [
+        "infantil",
+        "familia",
+        "criancas",
+        "sp"
+      ],
+      "featured": false
+    },
+    {
       "id": "uflvl1",
       "title": "Cultura Inglesa Festival tem peça de teatro, slam no Masp e show de Agnes Nunes",
       "description": "De 21 a 31 de outubro, festival reúne teatro, batalha de poesia, cinema ao ar livre e show em Pinheiros; maior parte das atividades é gratuita",
@@ -2057,6 +1947,50 @@
         "familia",
         "criancas",
         "sp"
+      ],
+      "featured": true
+    },
+    {
+      "id": "2w9rxb",
+      "title": "Feira de artesanato ocupa o Viaduto Santa Ifigênia a partir desta quinta-feira (22)",
+      "description": "Com atrações de artesanato e gastronomia, feira acontece até sábado (24) e contará com apoio a empreendedores",
+      "category": "exposicao",
+      "date": "2026-10-21T15:38:43.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/feira-3.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/feira-de-artesanato-viaduto-santa-ifigenia/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/feira-de-artesanato-viaduto-santa-ifigenia/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "exposicao"
+      ],
+      "featured": true
+    },
+    {
+      "id": "m8wfo2",
+      "title": "Museu das Favelas promove concurso de sósias de Alcione no sábado (24)",
+      "description": "Atividade gratuita premiará os primeiros colocados com ingressos para espetáculos",
+      "category": "teatro",
+      "date": "2026-10-21T15:40:21.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2025/11/Alcione-2024-Vinicius-Mochizuki-06.jpeg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/museu-das-favelas-concurso-sosias-alcione-sao-paulo-sabado/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/museu-das-favelas-concurso-sosias-alcione-sao-paulo-sabado/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "teatro"
       ],
       "featured": true
     },
@@ -2368,6 +2302,28 @@
       "featured": false
     },
     {
+      "id": "gt7trt",
+      "title": "TV Cultura exibe animações no Dia do Saci com histórias do folclore brasileiro e aventura na biblioteca",
+      "description": "A TV Cultura encerra a programação especial do Mês das Crianças no sábado, 31 de outubro, com duas animações na faixa Matinê Cultura. A sessão começa às 13h30 com Além da Lenda – O Filme, aventura inspirada no folclore brasileiro. Na sequência, às 15h, a emissora exibe, de forma inédita, Teca e Tuti: Uma Noite [&hellip;]",
+      "category": "infantil",
+      "date": "2026-10-31T10:00:00",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 35,
+      "isFree": false,
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/10/sp_criancas_passeio_Alem-da-Lenda.jpg",
+      "ticketUrl": "https://saopauloparacriancas.com.br/tv-cultura-criancas-sp/",
+      "source": "SP para Crianças",
+      "sourceUrl": "https://saopauloparacriancas.com.br/tv-cultura-criancas-sp/",
+      "tags": [
+        "infantil",
+        "familia",
+        "criancas",
+        "sp"
+      ],
+      "featured": false
+    },
+    {
       "id": "qlh11b",
       "title": "Parque Villa-Lobos: Caça aos Doces ou Travessuras & Halloween Pet (Gratuito)",
       "description": "Grande celebração diurna de Dia das Bruxas para famílias, crianças e seus pets! Trilha do \"Doces ou Travessuras\", pintura facial de monstrinhos, concurso de fantasias infantil e de pets, contação de causos assustadores e oficinas de artesanato. Grátis.",
@@ -2574,6 +2530,50 @@
         "drinks",
         "dia das bruxas"
       ]
+    },
+    {
+      "id": "tamj4v",
+      "title": "UCI Day Terror tem ingressos de cinema a R$ 12 no fim de semana do Halloween",
+      "description": "Promoção inclui sessões de clássicos do cinema de horror, lançamentos e animação",
+      "category": "festa",
+      "date": "2026-10-31T19:00:00",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2016/12/img_5560-uci.jpeg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/uci-day-terror-tem-ingressos-de-cinema-a-r-12-no-fim-de-semana-do-halloween/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/uci-day-terror-tem-ingressos-de-cinema-a-r-12-no-fim-de-semana-do-halloween/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "festa"
+      ],
+      "featured": false
+    },
+    {
+      "id": "anvgz0",
+      "title": "Quinta do beijo do vampiro: Cinesystem faz promoção de Halloween para casais",
+      "description": "Rede de cinemas dá desconto no par de ingressos para quem beijar na bilheteria; confira as regras",
+      "category": "festa",
+      "date": "2026-10-31T19:00:00",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=800&q=80",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/quinta-do-beijo-do-vampiro-cinesystem-promocao-halloween-para-casais/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/quinta-do-beijo-do-vampiro-cinesystem-promocao-halloween-para-casais/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "festa"
+      ],
+      "featured": false
     },
     {
       "id": "rked17",
@@ -2819,6 +2819,28 @@
       "ticketUrl": "https://saopauloparacriancas.com.br/onu-alimentacao/",
       "source": "SP para Crianças",
       "sourceUrl": "https://saopauloparacriancas.com.br/onu-alimentacao/",
+      "tags": [
+        "infantil",
+        "familia",
+        "criancas",
+        "sp"
+      ],
+      "featured": true
+    },
+    {
+      "id": "996qgo",
+      "title": "Palavra Cantada, POIN, brincadeiras e shows gratuitos agitam festival infantil do GRAACC em SP",
+      "description": "Que tal curtir um sábado com música e brincadeiras com as crianças? No dia 7 de novembro de 2026, o Festival de Música GRAACC acontece no Parque do Povo, em São Paulo, com entrada gratuita. O evento celebra os 35 anos do GRAACC, instituição especializada no tratamento do câncer infantojuvenil. Das 11h às 16h, a [&hellip;]",
+      "category": "infantil",
+      "date": "2026-11-07T10:00:00",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/10/sp_criancas_passeio_graacc-5-1.jpg",
+      "ticketUrl": "https://saopauloparacriancas.com.br/festival-de-musica-graacc-sp/",
+      "source": "SP para Crianças",
+      "sourceUrl": "https://saopauloparacriancas.com.br/festival-de-musica-graacc-sp/",
       "tags": [
         "infantil",
         "familia",
