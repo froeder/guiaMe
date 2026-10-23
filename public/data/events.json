@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-22T11:33:13.932Z",
-  "totalCount": 123,
+  "updatedAt": "2026-10-23T11:22:38.964Z",
+  "totalCount": 124,
   "sources": [
     "Veja SP",
     "Catraca Livre",
@@ -9,28 +9,6 @@
     "Instituições SP"
   ],
   "events": [
-    {
-      "id": "t9p1dg",
-      "title": "Shows infantis em São Paulo: opções para cantar, dançar e se divertir com os pequenos",
-      "description": "Tem criança que não perde a chance de cantar, dançar e acompanhar seus personagens favoritos no palco? Para quem está procurando um programa diferente para fazer em família, reunimos neste guia shows infantis em São Paulo que prometem colocar a criançada para cantar, dançar e se divertir. Tem espetáculos musicais, personagens conhecidos, apresentações cheias de [&hellip;]",
-      "category": "infantil",
-      "date": "2026-10-01T14:46:34.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 35,
-      "isFree": false,
-      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2025/09/sp_criancas_passeio_bluey_teatro_02.jpeg",
-      "ticketUrl": "https://saopauloparacriancas.com.br/shows-infantis-em-sao-paulo/",
-      "source": "SP para Crianças",
-      "sourceUrl": "https://saopauloparacriancas.com.br/shows-infantis-em-sao-paulo/",
-      "tags": [
-        "infantil",
-        "familia",
-        "criancas",
-        "sp"
-      ],
-      "featured": false
-    },
     {
       "id": "614bq4",
       "title": "CAIXA Cultural São Paulo recebe 7ª Feira do Cordel Brasileiro de graça no centro de SP",
@@ -151,28 +129,6 @@
         "primavera",
         "gratuito"
       ]
-    },
-    {
-      "id": "yzekq0",
-      "title": "Entrada grátis no Zoo SP, Jardim Botânico e Simba Safari: apresente o comprovante de votação para ganhar cortesia",
-      "description": "Comprovante de votação dá cortesia no Zoo SP, Jardim Botânico e Simba Safari em 4 de outubro. Veja regras, preços, quanto crianças pagam e como chegar.",
-      "category": "infantil",
-      "date": "2026-10-04T10:00:00",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/10/SP-criancas_cred_Divulgação-Zoo-São-Paulo.jpg",
-      "ticketUrl": "https://saopauloparacriancas.com.br/zoo-sp-jardim-botanico-simba-safari-comprovante-votacao/",
-      "source": "SP para Crianças",
-      "sourceUrl": "https://saopauloparacriancas.com.br/zoo-sp-jardim-botanico-simba-safari-comprovante-votacao/",
-      "tags": [
-        "infantil",
-        "familia",
-        "criancas",
-        "sp"
-      ],
-      "featured": true
     },
     {
       "id": "327s51",
@@ -617,28 +573,6 @@
       ]
     },
     {
-      "id": "6qpmcr",
-      "title": "Rafa e Luiz trocam as férias por uma missão cheia de mistérios em novo show em SP",
-      "description": "E se aquelas férias que deveriam ser tranquilas acabassem virando uma missão cheia de mistérios, viagens e confusões? É o que acontece com Rafa e Luiz em “Missão Férias”, espetáculo que chega a São Paulo no dia 11 de outubro, às 17h, no Tokio Marine Hall. A apresentação faz parte da programação do Mês das [&hellip;]",
-      "category": "infantil",
-      "date": "2026-10-11T10:00:00",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 35,
-      "isFree": false,
-      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/09/sp_criancas_passeios_rafa_e_luiz_01.jpg",
-      "ticketUrl": "https://saopauloparacriancas.com.br/rafa-e-luiz-show-sp/",
-      "source": "SP para Crianças",
-      "sourceUrl": "https://saopauloparacriancas.com.br/rafa-e-luiz-show-sp/",
-      "tags": [
-        "infantil",
-        "familia",
-        "criancas",
-        "sp"
-      ],
-      "featured": false
-    },
-    {
       "id": "l0o4vn",
       "title": "Festival das Crianças no Parque Ibirapuera (Gratuito)",
       "description": "Especial Semana e Dia das Crianças (12/10)! Três palcos com espetáculos circenses, teatro de bonecos, contação de fábulas, shows de mágica e oficinas científicas. Piquenique aberto e atrações 100% gratuitas.",
@@ -711,28 +645,6 @@
         "museu",
         "planetario"
       ]
-    },
-    {
-      "id": "iuinor",
-      "title": "Dia das Crianças em SP tem passeios gratuitos para fazer com a família",
-      "description": "Museus, teatros e parques oferecem oficinas, espetáculos e atividades ao ar livre na capital e no interior durante o feriado e ao longo de outubro",
-      "category": "teatro",
-      "date": "2026-10-12T10:00:00",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/Parques-Dia-das-Criancas.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/dia-das-criancas-sp-2026/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/dia-das-criancas-sp-2026/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "teatro"
-      ],
-      "featured": true
     },
     {
       "id": "ktfig3",
@@ -889,50 +801,6 @@
       "featured": false
     },
     {
-      "id": "z7vzaa",
-      "title": "Festival Coreano no Memorial tem K-pop, pratos típicos e lanternas no Dia das Crianças",
-      "description": "Fãs de BTS podem sair do Festival Coreano com ingresso para ver o grupo ao vivo! Entre 10 e 12 de outubro de 2026, o Festival Coreano – Sabores e Luzes da Coreia ocupa o Memorial da América Latina, em São Paulo, com entrada gratuita, programação de K-pop, gastronomia e atrações culturais. Entre os destaques [&hellip;]",
-      "category": "infantil",
-      "date": "2026-10-12T10:00:00",
-      "location": "Barra Funda",
-      "neighborhood": "Barra Funda",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/10/sp_criancas_passeios_festival_coreano_02.jpeg",
-      "ticketUrl": "https://saopauloparacriancas.com.br/festival-memorial-da-america-latina-sp/",
-      "source": "SP para Crianças",
-      "sourceUrl": "https://saopauloparacriancas.com.br/festival-memorial-da-america-latina-sp/",
-      "tags": [
-        "infantil",
-        "familia",
-        "criancas",
-        "sp"
-      ],
-      "featured": true
-    },
-    {
-      "id": "1ahvd3",
-      "title": "Chiki Toonz estreia no Brasil com espetáculo de Dia das Crianças em São Paulo",
-      "description": "As cores desapareceram de Chiki Town, e a missão de recuperá-las vai contar com uma ajuda especial: a das crianças. É nesse clima que o Chiki Toonz estreia no Brasil com um espetáculo no Dia das Crianças. Criado no Peru, o Chiki Toonz reúne música, dança, aprendizado e interação com as crianças. No palco estarão [&hellip;]",
-      "category": "infantil",
-      "date": "2026-10-12T10:00:00",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 35,
-      "isFree": false,
-      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/09/sp_criancas_passeios_chiki_2.jpeg",
-      "ticketUrl": "https://saopauloparacriancas.com.br/chiki-toonz-em-sp/",
-      "source": "SP para Crianças",
-      "sourceUrl": "https://saopauloparacriancas.com.br/chiki-toonz-em-sp/",
-      "tags": [
-        "infantil",
-        "familia",
-        "criancas",
-        "sp"
-      ],
-      "featured": false
-    },
-    {
       "id": "ii2yxl",
       "title": "Cine Tutu: Vila Madalena ganha seu primeiro cinema de rua!",
       "description": "A Vila Madalena agora tem seu cinema de rua! O Cine Tutu traz sala de 114 lugares, café-bar Barouche e projeção 4K. Confira a programação e onde fica!",
@@ -973,28 +841,6 @@
         "gratuito",
         "sp",
         "cinema"
-      ],
-      "featured": true
-    },
-    {
-      "id": "5hha1e",
-      "title": "Documentário sobre a Orquestra Jovem Tom Jobim estreia na Mostra de Cinema de SP",
-      "description": "‘Ensaiando o Brasil’ acompanha o encontro entre a música de concerto e ritmos populares",
-      "category": "musica",
-      "date": "2026-10-13T13:28:40.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/Captura-de-tela-2026-10-13-130351.png",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/documentario-sobre-a-orquestra-jovem-tom-jobim-estreia-na-mostra-de-cinema-de-sp/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/documentario-sobre-a-orquestra-jovem-tom-jobim-estreia-na-mostra-de-cinema-de-sp/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "musica"
       ],
       "featured": true
     },
@@ -1041,28 +887,6 @@
         "teatro"
       ],
       "featured": false
-    },
-    {
-      "id": "q7ans",
-      "title": "São Paulo entra no clima do BTS com eventos e experiências gratuitas",
-      "description": "Com atividades gratuitas, interessados poderão conhecer a cultura coreana para além da música",
-      "category": "musica",
-      "date": "2026-10-13T16:19:25.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/04/BTS-courtesy-of-HYBE-1.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/bts-atividades-cultura-coreana-sp/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/bts-atividades-cultura-coreana-sp/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "musica"
-      ],
-      "featured": true
     },
     {
       "id": "y4ste4",
@@ -1907,28 +1731,6 @@
       "featured": false
     },
     {
-      "id": "uflvl1",
-      "title": "Cultura Inglesa Festival tem peça de teatro, slam no Masp e show de Agnes Nunes",
-      "description": "De 21 a 31 de outubro, festival reúne teatro, batalha de poesia, cinema ao ar livre e show em Pinheiros; maior parte das atividades é gratuita",
-      "category": "musica",
-      "date": "2026-10-21T10:00:00",
-      "location": "Bela Vista",
-      "neighborhood": "Bela Vista",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/04_sarau_publico_parque_5472x3648.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/cultura-inglesa-festival-tem-peca-de-teatro-slam-no-masp-e-show-de-agnes-nunes/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/cultura-inglesa-festival-tem-peca-de-teatro-slam-no-masp-e-show-de-agnes-nunes/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "musica"
-      ],
-      "featured": true
-    },
-    {
       "id": "gmt1um",
       "title": "Spcine e Disney promovem sessão gratuita de cinema no CEU Taipas",
       "description": "Cinema grátis para crianças: Carros dublado, com classificação livre, no CEU Taipas, zona norte de São Paulo, dia 21 de outubro, às 14h. Veja como retirar o ingresso.",
@@ -2041,6 +1843,160 @@
         "mirante",
         "centro"
       ]
+    },
+    {
+      "id": "7wj50l",
+      "title": "Seja Luz Kids leva circo, música e fé para crianças em São Paulo",
+      "description": "Espetáculo de 70 minutos reúne acrobacias, malabarismo, canções e personagens que apresentam valores como amor, amizade e coragem; apresentações acontecem aos sábados, no Belenzinho, com ingressos a partir de R$30 e ação promocional de até 25% de desconto no ingresso inteiro por tempo limitado. O que acontece quando o circo encontra a música e uma [&hellip;]",
+      "category": "infantil",
+      "date": "2026-10-22T11:51:51.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 35,
+      "isFree": false,
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/10/sp_criancas_passeios_seja_luz_05.jpeg",
+      "ticketUrl": "https://saopauloparacriancas.com.br/seja-luz-kids-sp/",
+      "source": "SP para Crianças",
+      "sourceUrl": "https://saopauloparacriancas.com.br/seja-luz-kids-sp/",
+      "tags": [
+        "infantil",
+        "familia",
+        "criancas",
+        "sp"
+      ],
+      "featured": false
+    },
+    {
+      "id": "xht4xr",
+      "title": "Instituto Baccarelli celebra 30 anos com concertos em Heliópolis",
+      "description": "Orquestra e corais se apresentam nesta quinta, e no sábado a programação inclui uma apresentação dos alunos do instituto",
+      "category": "musica",
+      "date": "2026-10-22T15:20:49.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/baccarelli-93.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/instituto-baccarelli-celebra-30-anos-com-concertos-em-heliopolis/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/instituto-baccarelli-celebra-30-anos-com-concertos-em-heliopolis/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "musica"
+      ],
+      "featured": true
+    },
+    {
+      "id": "nj7fzu",
+      "title": "A adolescência bate à porta! Comédia “Imagina na Adolescência” estreia em SP",
+      "description": "Com Priscila Assum, comédia inspirada no livro de Thaís Vilarinho fala sobre limites, privacidade e autonomia dos adolescentes A relação entre mães e filhos muda quando chega a adolescência. Esse é o tema de Imagina na Adolescência, comédia em cartaz no Teatro Multiplan MorumbiShopping, na Zona Sul de São Paulo. Estrelado por Priscila Assum, o [&hellip;]",
+      "category": "infantil",
+      "date": "2026-10-22T15:42:29.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 35,
+      "isFree": false,
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/10/sp_criancas_passeios_adolescente-1-1.jpg",
+      "ticketUrl": "https://saopauloparacriancas.com.br/teatro-adolescencia-sp/",
+      "source": "SP para Crianças",
+      "sourceUrl": "https://saopauloparacriancas.com.br/teatro-adolescencia-sp/",
+      "tags": [
+        "infantil",
+        "familia",
+        "criancas",
+        "sp"
+      ],
+      "featured": false
+    },
+    {
+      "id": "48uwb5",
+      "title": "São Paulo ganha Museu Presbiteriano dedicado à memória evangélica na Bela Vista",
+      "description": "Instalado na sede da Fatipi, o espaço reúne peças litúrgicas e documentos raros",
+      "category": "teatro",
+      "date": "2026-10-22T16:01:28.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/not_22-10-26_museu_1.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/sao-paulo-ganha-museu-presbiteriano-dedicado-a-memoria-evangelica-na-bela-vista/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/sao-paulo-ganha-museu-presbiteriano-dedicado-a-memoria-evangelica-na-bela-vista/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "teatro"
+      ],
+      "featured": false
+    },
+    {
+      "id": "94wov",
+      "title": "Pequenos mundos, grandes descobertas: exposição no Farol Santander encanta crianças com miniaturas",
+      "description": "Mostra reúne brinquedos, objetos em miniatura, obras de artistas brasileiros e instalações interativas que brincam com a percepção de tamanho Já imaginou encontrar um mundo inteiro em objetos que cabem na palma da mão? A exposição Pequenos Afetos, no Farol Santander, no Centro de São Paulo, convida crianças e adultos a descobrir o universo das [&hellip;]",
+      "category": "infantil",
+      "date": "2026-10-22T16:07:34.000Z",
+      "location": "Centro Histórico",
+      "neighborhood": "Centro Histórico",
+      "price": 35,
+      "isFree": false,
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/10/sp_criancas_passeios_santander-1.jpg",
+      "ticketUrl": "https://saopauloparacriancas.com.br/exposicao-no-farol-santander-sp/",
+      "source": "SP para Crianças",
+      "sourceUrl": "https://saopauloparacriancas.com.br/exposicao-no-farol-santander-sp/",
+      "tags": [
+        "infantil",
+        "familia",
+        "criancas",
+        "sp"
+      ],
+      "featured": false
+    },
+    {
+      "id": "aecfbe",
+      "title": "Fulvio Pennacchi: entenda o destino das obras do artista após demolição de casa no Jardim Europa",
+      "description": "Um dos maiores artistas da segunda fase do modernismo brasileiro terá legado preservado em museu no Paraná e possui outras obras espalhadas por São Paulo",
+      "category": "exposicao",
+      "date": "2026-10-23T08:00:22.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/ABRE-Afresco-sala-de-jantar-por-Romulo-Fialdini.jpg.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/fulvio-pennacchi-entenda-destino-obras-artista-apos-demolicao-casa-jardim-europa/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/fulvio-pennacchi-entenda-destino-obras-artista-apos-demolicao-casa-jardim-europa/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "exposicao"
+      ],
+      "featured": true
+    },
+    {
+      "id": "87ybxf",
+      "title": "Mural SP: Marlene Barros",
+      "description": "Artista, pesquisadora e produtora cultural está em cartaz no CCBB com a exposição ‘Tecitura do Feminino’",
+      "category": "exposicao",
+      "date": "2026-10-23T08:00:41.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/Marlene-Barros-1.jpeg-1.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/mural-sp-marlene-barros/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/mural-sp-marlene-barros/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "exposicao"
+      ],
+      "featured": true
     },
     {
       "id": "a9kr4q",
@@ -2298,28 +2254,6 @@
         "gratuito",
         "sp",
         "musica"
-      ],
-      "featured": false
-    },
-    {
-      "id": "gt7trt",
-      "title": "TV Cultura exibe animações no Dia do Saci com histórias do folclore brasileiro e aventura na biblioteca",
-      "description": "A TV Cultura encerra a programação especial do Mês das Crianças no sábado, 31 de outubro, com duas animações na faixa Matinê Cultura. A sessão começa às 13h30 com Além da Lenda – O Filme, aventura inspirada no folclore brasileiro. Na sequência, às 15h, a emissora exibe, de forma inédita, Teca e Tuti: Uma Noite [&hellip;]",
-      "category": "infantil",
-      "date": "2026-10-31T10:00:00",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 35,
-      "isFree": false,
-      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/10/sp_criancas_passeio_Alem-da-Lenda.jpg",
-      "ticketUrl": "https://saopauloparacriancas.com.br/tv-cultura-criancas-sp/",
-      "source": "SP para Crianças",
-      "sourceUrl": "https://saopauloparacriancas.com.br/tv-cultura-criancas-sp/",
-      "tags": [
-        "infantil",
-        "familia",
-        "criancas",
-        "sp"
       ],
       "featured": false
     },
@@ -2620,6 +2554,28 @@
       "featured": true
     },
     {
+      "id": "kjrf9b",
+      "title": "Halloween no Parque Caminhos do Mar tem passeio noturno com mistérios e sustos",
+      "description": "O Parque Caminhos do Mar, na Serra do Mar, recebe o público para uma experiência noturna de suspense com histórias misteriosas, enigmas e sustos em construções históricas. A atração Lendas da Serra: A Origem é uma opção para famílias com crianças maiores e adolescentes que gostam de histórias de terror. A experiência acontece em três [&hellip;]",
+      "category": "infantil",
+      "date": "2026-10-31T19:00:00",
+      "location": "Butantã",
+      "neighborhood": "Butantã",
+      "price": 35,
+      "isFree": false,
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/10/sp_criancas_passeios_lendas.jpeg",
+      "ticketUrl": "https://saopauloparacriancas.com.br/programacao-parque-caminhos-do-mar-sp/",
+      "source": "SP para Crianças",
+      "sourceUrl": "https://saopauloparacriancas.com.br/programacao-parque-caminhos-do-mar-sp/",
+      "tags": [
+        "infantil",
+        "familia",
+        "criancas",
+        "sp"
+      ],
+      "featured": false
+    },
+    {
       "id": "chnf2o",
       "title": "MIS SP: Maratona Cine Horror Especial Madrugada de Halloween",
       "description": "Noite inteira com clássicos do terror nas salas do Museu da Imagem e do Som. Exibição de O Iluminado, Suspiria e A Bruxa em cópias restauradas, lounge com DJs tocando synth horror, food trucks e concurso de cosplay macabro.",
@@ -2806,6 +2762,28 @@
       ]
     },
     {
+      "id": "5zp7mu",
+      "title": "Menino Maluquinho ganha versão grafitada em exposição gratuita no Anhangabaú",
+      "description": "Mostra “Maluquinho na Quebrada” homenageia Ziraldo e conecta literatura infantil e arte urbana até 4 de novembro O Menino Maluquinho, personagem criado por Ziraldo, é homenageado na exposição gratuita “Maluquinho na Quebrada”, no Novo Anhangabaú, no centro de São Paulo. A mostra fica em cartaz até 4 de novembro de 2026 e utiliza o grafite [&hellip;]",
+      "category": "infantil",
+      "date": "2026-11-04T10:00:00",
+      "location": "Centro Histórico",
+      "neighborhood": "Centro Histórico",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/10/sp_criancas_passeio_ziraldo.jpeg",
+      "ticketUrl": "https://saopauloparacriancas.com.br/menino-maluquinho-sp/",
+      "source": "SP para Crianças",
+      "sourceUrl": "https://saopauloparacriancas.com.br/menino-maluquinho-sp/",
+      "tags": [
+        "infantil",
+        "familia",
+        "criancas",
+        "sp"
+      ],
+      "featured": true
+    },
+    {
       "id": "odty7i",
       "title": "Concurso gratuito da ONU convida crianças e jovens a criar cartazes sobre o futuro da alimentação",
       "description": "Competição internacional da FAO é voltada a participantes de 5 a 19 anos; inscrições vão até 6 de novembro de 2026 e permitem desenhos feitos à mão ou digitalmente E se um desenho pudesse ajudar a imaginar um mundo com mais alimentos e menos desperdício? A Organização das Nações Unidas para a Alimentação e a [&hellip;]",
@@ -2863,6 +2841,50 @@
       "ticketUrl": "https://saopauloparacriancas.com.br/corrida-infantil-sp/",
       "source": "SP para Crianças",
       "sourceUrl": "https://saopauloparacriancas.com.br/corrida-infantil-sp/",
+      "tags": [
+        "infantil",
+        "familia",
+        "criancas",
+        "sp"
+      ],
+      "featured": false
+    },
+    {
+      "id": "425tc5",
+      "title": "A Christmas Carol: musical clássico de Natal chega a São Paulo",
+      "description": "Montagem inspirada no clássico de Charles Dickens reúne 70 artistas, com música, dança e cenários que recriam a Londres do século XIX O musical A Christmas Carol, conhecido no Brasil como Um Conto de Natal, terá duas apresentações em São Paulo nos dias 24 e 25 de novembro de 2026, às 20h30, no Teatro Liberdade. [&hellip;]",
+      "category": "infantil",
+      "date": "2026-11-25T10:00:00",
+      "location": "Centro Histórico",
+      "neighborhood": "Centro Histórico",
+      "price": 35,
+      "isFree": false,
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/10/sp_criancas_passeios_Christmas_-3.jpg",
+      "ticketUrl": "https://saopauloparacriancas.com.br/a-christmas-carol-musical-sp/",
+      "source": "SP para Crianças",
+      "sourceUrl": "https://saopauloparacriancas.com.br/a-christmas-carol-musical-sp/",
+      "tags": [
+        "infantil",
+        "familia",
+        "criancas",
+        "sp"
+      ],
+      "featured": false
+    },
+    {
+      "id": "41l9n6",
+      "title": "Mar na Paulista: exposição leva crianças a um mergulho pelo fundo do oceano",
+      "description": "Exposição estreia no Brasil em novembro, com projeções em 360°, animais marinhos em grande escala e percurso por quatro ecossistemas oceânicos A exposição imersiva Pixel Zoo Ocean estreia no Brasil em 26 de novembro de 2026, no Nubank Arte Lab, localizado no Conjunto Nacional, na Avenida Paulista, em São Paulo. Com projeções em 360°, luz [&hellip;]",
+      "category": "infantil",
+      "date": "2026-11-26T10:00:00",
+      "location": "Bela Vista",
+      "neighborhood": "Bela Vista",
+      "price": 35,
+      "isFree": false,
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/10/sp_criancas_passeio_mar-1.jpg",
+      "ticketUrl": "https://saopauloparacriancas.com.br/na-paulista-exposicao-sp/",
+      "source": "SP para Crianças",
+      "sourceUrl": "https://saopauloparacriancas.com.br/na-paulista-exposicao-sp/",
       "tags": [
         "infantil",
         "familia",
