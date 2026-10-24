@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-23T11:22:38.964Z",
-  "totalCount": 124,
+  "updatedAt": "2026-10-24T10:41:30.759Z",
+  "totalCount": 123,
   "sources": [
     "Veja SP",
     "Catraca Livre",
@@ -779,28 +779,6 @@
       "featured": false
     },
     {
-      "id": "vousz7",
-      "title": "Dia das Crianças: Hotel em SP tem quarto temático do Snoopy",
-      "description": "O passeio não precisa terminar quando chega a hora de dormir! No Wyndham São Paulo Ibirapuera, o fim de semana do Dia das Crianças ganha suítes temáticas do Snoopy, almoço com feijoada, encontro com os personagens e atividades no Espaço Kids. A programação acontece no hotel, em Moema, na Zona Sul de São Paulo, e [&hellip;]",
-      "category": "infantil",
-      "date": "2026-10-12T10:00:00",
-      "location": "Vila Mariana",
-      "neighborhood": "Vila Mariana",
-      "price": 35,
-      "isFree": false,
-      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/10/sp_criancas_passeio_hotel_01.jpeg",
-      "ticketUrl": "https://saopauloparacriancas.com.br/wyndham-ibirapuera-sp/",
-      "source": "SP para Crianças",
-      "sourceUrl": "https://saopauloparacriancas.com.br/wyndham-ibirapuera-sp/",
-      "tags": [
-        "infantil",
-        "familia",
-        "criancas",
-        "sp"
-      ],
-      "featured": false
-    },
-    {
       "id": "ii2yxl",
       "title": "Cine Tutu: Vila Madalena ganha seu primeiro cinema de rua!",
       "description": "A Vila Madalena agora tem seu cinema de rua! O Cine Tutu traz sala de 114 lugares, café-bar Barouche e projeção 4K. Confira a programação e onde fica!",
@@ -887,50 +865,6 @@
         "teatro"
       ],
       "featured": false
-    },
-    {
-      "id": "y4ste4",
-      "title": "Evento místico na Paulista reúne experiências de espiritualidade e autoconhecimento",
-      "description": "Com atividades gratuitas, nova edição do ‘Mercado das Bruxas’ conta com palestras, rituais e vivências",
-      "category": "festa",
-      "date": "2026-10-13T16:51:58.000Z",
-      "location": "Bela Vista",
-      "neighborhood": "Bela Vista",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/unnamed-7.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/evento-mistico-na-paulista-reune-experiencias-de-espiritualidade-e-autoconhecimento/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/evento-mistico-na-paulista-reune-experiencias-de-espiritualidade-e-autoconhecimento/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "festa"
-      ],
-      "featured": true
-    },
-    {
-      "id": "1djk8q",
-      "title": "Rua do Samba tem agenda gratuita com Rincón Sapiência, Batalha da Aldeia e Pagode na Lata",
-      "description": "Programação tem samba, rap e rodas de conversa na Barra Funda, além de ensaio aberto da Mocidade Unida da Mooca",
-      "category": "musica",
-      "date": "2026-10-13T18:16:04.000Z",
-      "location": "Barra Funda",
-      "neighborhood": "Barra Funda",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-13-at-17.24.50.jpeg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/rua-do-samba-tem-agenda-gratuita-com-rincon-sapiencia-batalha-da-aldeia-e-pagode-na-lata/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/rua-do-samba-tem-agenda-gratuita-com-rincon-sapiencia-batalha-da-aldeia-e-pagode-na-lata/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "musica"
-      ],
-      "featured": true
     },
     {
       "id": "mzslcz",
@@ -1356,28 +1290,6 @@
       "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/festival-comida-arabe-tatuape-shows-gratis/",
       "source": "Veja SP",
       "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/festival-comida-arabe-tatuape-shows-gratis/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "musica"
-      ],
-      "featured": true
-    },
-    {
-      "id": "8pp3ld",
-      "title": "Com mais de 400 atrações gratuitas, Viradinha 2026 acontece em todas as regiões de SP",
-      "description": "Programação ocorre entre os dias 16 e 18 de outubro com shows, cinema e bibliotecas itinerantes",
-      "category": "musica",
-      "date": "2026-10-18T10:00:00",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2025/05/PatatiPatata._Foto._Herivelto_Batista.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/viradinha-2026-sao-paulo-programacao-gratuita-atracoes/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/viradinha-2026-sao-paulo-programacao-gratuita-atracoes/",
       "tags": [
         "vejasp",
         "cultura",
@@ -2021,6 +1933,50 @@
       "featured": true
     },
     {
+      "id": "qjcmv4",
+      "title": "CCXP terá ‘Dia da Marvel’ com atrações especiais",
+      "description": "Programação, ainda não confirmada, vai ocupar três palcos",
+      "category": "teatro",
+      "date": "2026-10-23T12:10:38.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2025/07/LISTA-2-FILME-QUARTETO-FANTASTICO-Credito-Marvel-Studios-Divulgacao.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/ccxp-tera-dia-da-marvel-com-atracoes-especiais/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/ccxp-tera-dia-da-marvel-com-atracoes-especiais/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "teatro"
+      ],
+      "featured": false
+    },
+    {
+      "id": "60xzzc",
+      "title": "Por que não vai passar ‘Quem Ama Cuida’ nesta sexta-feira (23)?",
+      "description": "Entenda a mudança na programação da TV Globo",
+      "category": "gastronomia",
+      "date": "2026-10-23T15:23:29.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/pilar-encontra-adriana-na-sala-da-presidencia-da-joalheria-em-quem-ama-cuida-c0bb21ce2e9d.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/por-que-nao-vai-passar-quem-ama-cuida-nesta-sexta-feira-23/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/por-que-nao-vai-passar-quem-ama-cuida-nesta-sexta-feira-23/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "gastronomia"
+      ],
+      "featured": false
+    },
+    {
       "id": "7lxhcc",
       "title": "SESC Pinheiros — Festival de Jazz Contemporâneo",
       "description": "Três noites de jazz com instrumentistas nacionais e internacionais. Masterclasses gratuitas e jam sessions abertas ao público após as apresentações principais.",
@@ -2044,6 +2000,28 @@
         "musica",
         "gratuito"
       ]
+    },
+    {
+      "id": "op8d6s",
+      "title": "O que fazer em São Paulo em 24 e 25 de outubro? Veja 16 programas",
+      "description": "Festival de Halloween, Mostra Internacional de Cinema, show do Iron Maiden e atrações gratuitas estão entre os destaques do fim de semana",
+      "category": "festa",
+      "date": "2026-10-24T10:00:00",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/SaveClip.App_570349304_18401703067191223_5543389865165279144_n.webp",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/programacao-fim-de-semana-24-25-outubro/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/programacao-fim-de-semana-24-25-outubro/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "festa"
+      ],
+      "featured": true
     },
     {
       "id": "h6qrvx",
