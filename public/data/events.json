@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T10:41:30.759Z",
+  "updatedAt": "2026-10-25T11:06:32.284Z",
   "totalCount": 123,
   "sources": [
     "Veja SP",
@@ -867,50 +867,6 @@
       "featured": false
     },
     {
-      "id": "mzslcz",
-      "title": "Evento gratuito na República reúne slam, sarau, hip hop e samba em três dias",
-      "description": "Em sua primeira edição, o encontro Mate Masie reúne poetas, MCs, DJs e pesquisadores para promover manifestações orais afro referenciadas",
-      "category": "festa",
-      "date": "2026-10-13T18:35:12.000Z",
-      "location": "Centro Histórico",
-      "neighborhood": "Centro Histórico",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2017/01/12731_matilha-cultural.jpeg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/evento-gratuito-na-republica-reune-slam-sarau-hip-hop-e-samba-em-tres-dias/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/evento-gratuito-na-republica-reune-slam-sarau-hip-hop-e-samba-em-tres-dias/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "festa"
-      ],
-      "featured": true
-    },
-    {
-      "id": "u7eii6",
-      "title": "Trem de Natal da Maria Fumaça terá passeio noturno entre Campinas e Jaguariúna",
-      "description": "Passeio especial terá Papai Noel, trem iluminado e entrega de presentes",
-      "category": "cultura",
-      "date": "2026-10-14T12:42:29.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/1783178650228-IMG_5911-e1791992492167.jpeg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/trem-de-natal-da-maria-fumaca-tera-passeio-noturno-entre-campinas-e-jaguariuna/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/trem-de-natal-da-maria-fumaca-tera-passeio-noturno-entre-campinas-e-jaguariuna/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "cultura"
-      ],
-      "featured": false
-    },
-    {
       "id": "k2honl",
       "title": "Conheça os novos filhotes do Aquário de São Paulo",
       "description": "Filhotes de lêmure e equidna são os novos moradores do Ipiranga",
@@ -1208,28 +1164,6 @@
       "featured": true
     },
     {
-      "id": "98dtey",
-      "title": "Evento de terror traz experiências imersivas e atores internacionais a SP",
-      "description": "Quinta edição do evento de cultura do terror acontece em 17 e 18 de outubro, no Expo Barra Funda, com escape rooms, labirinto, painéis e baile vampiresco",
-      "category": "festa",
-      "date": "2026-10-17T10:00:00",
-      "location": "Barra Funda",
-      "neighborhood": "Barra Funda",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/Captura-de-tela-2024-09-12-165112-1.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/horror-expo-sp-2026/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/horror-expo-sp-2026/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "festa"
-      ],
-      "featured": false
-    },
-    {
       "id": "sw0734",
       "title": "Turma da Mônica: encontro gratuito com Mônica, Cebolinha e Milena acontece neste sábado em SP",
       "description": "Atração no Centro Cultural São Paulo tem três horários e faz parte da Viradinha 2026, festival infantil com cerca de 400 atividades gratuitas pela cidade Quem quer encontrar personagens da Turma da Mônica tem um programa gratuito neste sábado, 17 de outubro, em São Paulo. Mônica, Cebolinha e Milena participam de três encontros presenciais no [&hellip;]",
@@ -1275,28 +1209,6 @@
         "museu da imigracao",
         "feira"
       ]
-    },
-    {
-      "id": "m2lb7f",
-      "title": "Festival de Comida Árabe no Tatuapé tem oficina de dança do ventre e shows de música",
-      "description": "Evento no Parque CERET, nos dias 17 e 18 de outubro, reúne mais de 40 tendas, festival de fatias e feira de adoção de cães e gatos",
-      "category": "musica",
-      "date": "2026-10-18T10:00:00",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/DANCA-DO-VENTRE.webp",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/festival-comida-arabe-tatuape-shows-gratis/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/festival-comida-arabe-tatuape-shows-gratis/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "musica"
-      ],
-      "featured": true
     },
     {
       "id": "1ql4xr",
@@ -2002,6 +1914,28 @@
       ]
     },
     {
+      "id": "2chy3o",
+      "title": "Chef Gerônimo Athuel lança coleção de design em madeira em São Paulo",
+      "description": "Criador do restaurante Ocyá, no Rio, e do estúdio PATSÜ, ele exibe peças feitas com madeira descartada, de 24 a 31 de outubro, na Galeria Objeto Particular",
+      "category": "teatro",
+      "date": "2026-10-24T10:00:00",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/patsu-26-por-Mollica-1.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/chef-geronimo-athuel-lanca-colecao-de-design-em-madeira-em-sao-paulo/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/chef-geronimo-athuel-lanca-colecao-de-design-em-madeira-em-sao-paulo/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "teatro"
+      ],
+      "featured": false
+    },
+    {
       "id": "op8d6s",
       "title": "O que fazer em São Paulo em 24 e 25 de outubro? Veja 16 programas",
       "description": "Festival de Halloween, Mostra Internacional de Cinema, show do Iron Maiden e atrações gratuitas estão entre os destaques do fim de semana",
@@ -2020,6 +1954,28 @@
         "cultura",
         "sp",
         "festa"
+      ],
+      "featured": true
+    },
+    {
+      "id": "8qbmwy",
+      "title": "Dia Municipal do Reggae terá shows gratuitos na Praça da Luz",
+      "description": "Mato Seco e Planta &#038; Raiz se apresentam no domingo (1º)",
+      "category": "musica",
+      "date": "2026-10-24T10:00:07.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/Mato_Seco_banda-de-reggae_Divulgacao_Credito-Marcos_Alonso-.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/dia-municipal-do-reggae-tera-shows-gratuitos-na-praca-da-luz/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/dia-municipal-do-reggae-tera-shows-gratuitos-na-praca-da-luz/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "musica"
       ],
       "featured": true
     },
@@ -2444,6 +2400,28 @@
       ]
     },
     {
+      "id": "dg9qc8",
+      "title": "No Halloween, ‘Caminhada Assombrada’ desvenda lendas e histórias sobrenaturais do centro de SP",
+      "description": "Quarta edição de passeio noturno traz histórias de assombração e mistérios por trás de lugares emblemáticos da região",
+      "category": "festa",
+      "date": "2026-10-31T19:00:00",
+      "location": "Centro Histórico",
+      "neighborhood": "Centro Histórico",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=800&q=80",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/halloween-caminhada-assombrada-lendas-historias-sobrenaturais-centro-sp/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/halloween-caminhada-assombrada-lendas-historias-sobrenaturais-centro-sp/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "festa"
+      ],
+      "featured": false
+    },
+    {
       "id": "tamj4v",
       "title": "UCI Day Terror tem ingressos de cinema a R$ 12 no fim de semana do Halloween",
       "description": "Promoção inclui sessões de clássicos do cinema de horror, lançamentos e animação",
@@ -2826,6 +2804,28 @@
         "sp"
       ],
       "featured": false
+    },
+    {
+      "id": "blg03i",
+      "title": "Tattoo Week 2026 tem shows de Matuê, Fresno e Dead Fish em SP",
+      "description": "Convenção de tatuagem acontece de 20 a 22 de novembro, no Expo Center Norte, com shows, concursos e workshop",
+      "category": "musica",
+      "date": "2026-11-20T10:00:00",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/Imagem1_5a9865.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/tattoo-week-2026-tem-shows-de-matue-fresno-e-dead-fish-em-sp/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/tattoo-week-2026-tem-shows-de-matue-fresno-e-dead-fish-em-sp/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "musica"
+      ],
+      "featured": true
     },
     {
       "id": "425tc5",
