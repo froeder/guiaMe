@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T12:40:04.469Z",
+  "updatedAt": "2026-10-27T11:55:54.810Z",
   "totalCount": 123,
   "sources": [
     "Veja SP",
@@ -9,50 +9,6 @@
     "Instituições SP"
   ],
   "events": [
-    {
-      "id": "614bq4",
-      "title": "CAIXA Cultural São Paulo recebe 7ª Feira do Cordel Brasileiro de graça no centro de SP",
-      "description": "Literatura, xilogravura e muita música na Praça da Sé! A 7ª Feira do Cordel Brasileiro traz atrações gratuitas para todas as idades no centro de SP. Veja as datas!",
-      "category": "musica",
-      "date": "2026-10-01T15:26:46.000Z",
-      "location": "Centro Histórico",
-      "neighborhood": "Centro Histórico",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/10/unnamed-2026-10-01t152702594.jpg",
-      "ticketUrl": "https://catracalivre.com.br/gira/caixa-cultural-sao-paulo-recebe-a-7a-feira-do-cordel-brasileiro-no-dia-do-nordestino-sp/",
-      "source": "Catraca Livre",
-      "sourceUrl": "https://catracalivre.com.br/gira/caixa-cultural-sao-paulo-recebe-a-7a-feira-do-cordel-brasileiro-no-dia-do-nordestino-sp/",
-      "tags": [
-        "catracalivre",
-        "gratuito",
-        "sp",
-        "musica"
-      ],
-      "featured": true
-    },
-    {
-      "id": "foxsgb",
-      "title": "SP Food Film Fest une cinema e comida de graça com degustações após as sessões",
-      "description": "De moqueca em Dona Flor a bolo de chocolate em Matilda! O SP Food Film Fest traz 42 filmes com degustação gratuita na capital. Veja os destaques!",
-      "category": "gastronomia",
-      "date": "2026-10-02T14:04:29.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/10/sp-food-film-fest-une-cinema-e-comida-de-graca-com-degustacoes-apos-as-sessoes.jpg",
-      "ticketUrl": "https://catracalivre.com.br/gira/sp-food-film-fest-une-cinema-e-comida-de-graca-com-degustacoes-apos-as-sessoes-2026/",
-      "source": "Catraca Livre",
-      "sourceUrl": "https://catracalivre.com.br/gira/sp-food-film-fest-une-cinema-e-comida-de-graca-com-degustacoes-apos-as-sessoes-2026/",
-      "tags": [
-        "catracalivre",
-        "gratuito",
-        "sp",
-        "gastronomia"
-      ],
-      "featured": true
-    },
     {
       "id": "fyp7lc",
       "title": "São Paulo Oktoberfest 2026 — Parque Villa-Lobos",
@@ -500,28 +456,6 @@
       "featured": false
     },
     {
-      "id": "c11195",
-      "title": "Festival ỌmỌdé celebra o Mês das Crianças com Fat Family, Samba de Dandara e Marina Íris no Sesc Bom Retiro",
-      "description": "Cultura afro-brasileira para a molecada! Festival ỌmỌdé traz Fat Family, Samba de Dandara, oficinas e jogos com atrações gratuitas no Sesc Bom Retiro.",
-      "category": "musica",
-      "date": "2026-10-10T14:00:00",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/10/samba-de-dandara-creditos-sofia-colluci.jpg",
-      "ticketUrl": "https://catracalivre.com.br/gira/omode-festival-sesc-de-arte-e-cultura-negra-para-a-molecada-sesc-bom-retiro-2026-sp/",
-      "source": "Catraca Livre",
-      "sourceUrl": "https://catracalivre.com.br/gira/omode-festival-sesc-de-arte-e-cultura-negra-para-a-molecada-sesc-bom-retiro-2026-sp/",
-      "tags": [
-        "catracalivre",
-        "gratuito",
-        "sp",
-        "musica"
-      ],
-      "featured": true
-    },
-    {
       "id": "f7cl2y",
       "title": "Circo Stankowich — Especial Mês das Crianças",
       "description": "O mais antigo e consagrado circo tradicional do Brasil apresenta um super espetáculo com trapezistas voadores, o incrível Globo da Morte com 6 motos, águas dançantes e palhaços premiados mundialmente.",
@@ -867,28 +801,6 @@
       "featured": false
     },
     {
-      "id": "k2honl",
-      "title": "Conheça os novos filhotes do Aquário de São Paulo",
-      "description": "Filhotes de lêmure e equidna são os novos moradores do Ipiranga",
-      "category": "cultura",
-      "date": "2026-10-14T14:36:26.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/07/Aquario-de-Sao-Paulo-21-2.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/conheca-os-novos-filhotes-do-aquario-de-sao-paulo/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/conheca-os-novos-filhotes-do-aquario-de-sao-paulo/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "cultura"
-      ],
-      "featured": false
-    },
-    {
       "id": "726t71",
       "title": "São Paulo Fashion Week (SPFW) — Pavilhão da Bienal",
       "description": "A semana de moda mais prestigiada do hemisfério sul. Desfiles das maiores marcas e estilistas de vanguarda, exposições de fotografia têxtil, palestras sobre sustentabilidade e pop-up stores de designers independentes.",
@@ -913,28 +825,6 @@
         "estilo",
         "ibirapuera"
       ]
-    },
-    {
-      "id": "ql7out",
-      "title": "Exposição gratuita revela bastidores da construção do Ibirapuera e do Mercadão",
-      "description": "Mostra usa documentos do Arquivo Histórico Municipal para contar história de operários e fica em cartaz até 2027",
-      "category": "musica",
-      "date": "2026-10-14T17:53:44.000Z",
-      "location": "Vila Mariana",
-      "neighborhood": "Vila Mariana",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/IMG_9849.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/exposicao-gratis-bom-retiro-trabalhadores/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/exposicao-gratis-bom-retiro-trabalhadores/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "musica"
-      ],
-      "featured": true
     },
     {
       "id": "pp97cj",
@@ -1555,28 +1445,6 @@
       "featured": false
     },
     {
-      "id": "gmt1um",
-      "title": "Spcine e Disney promovem sessão gratuita de cinema no CEU Taipas",
-      "description": "Cinema grátis para crianças: Carros dublado, com classificação livre, no CEU Taipas, zona norte de São Paulo, dia 21 de outubro, às 14h. Veja como retirar o ingresso.",
-      "category": "infantil",
-      "date": "2026-10-21T10:00:00",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/10/sp_criancas_passeios_spcine-1-1.jpg",
-      "ticketUrl": "https://saopauloparacriancas.com.br/sessao-gratuita-ceu-taipas/",
-      "source": "SP para Crianças",
-      "sourceUrl": "https://saopauloparacriancas.com.br/sessao-gratuita-ceu-taipas/",
-      "tags": [
-        "infantil",
-        "familia",
-        "criancas",
-        "sp"
-      ],
-      "featured": true
-    },
-    {
       "id": "2w9rxb",
       "title": "Feira de artesanato ocupa o Viaduto Santa Ifigênia a partir desta quinta-feira (22)",
       "description": "Com atrações de artesanato e gastronomia, feira acontece até sábado (24) e contará com apoio a empreendedores",
@@ -2054,6 +1922,116 @@
       ]
     },
     {
+      "id": "21nauc",
+      "title": "Museu das Favelas celebra a pioneira do graffiti Nenesurreal em sua primeira grande mostra individual",
+      "description": "A mostra “Antes de Surreal, Nene” reúne mais de três décadas de arte urbana, esculturas em aço cirúrgico e as icônicas Cabeçudas no Centro de São Paulo.",
+      "category": "exposicao",
+      "date": "2026-10-26T10:39:47.000Z",
+      "location": "Centro Histórico",
+      "neighborhood": "Centro Histórico",
+      "price": 25,
+      "isFree": false,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/10/nene-surreal-credito-luan-batista-luanbatistaph-scaled.jpg",
+      "ticketUrl": "https://catracalivre.com.br/gira/museu-das-favelas-celebra-a-pioneira-do-graffiti-nenesurreal-exposicao-antes-de-surreal-nene/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/museu-das-favelas-celebra-a-pioneira-do-graffiti-nenesurreal-exposicao-antes-de-surreal-nene/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
+        "sp",
+        "exposicao"
+      ],
+      "featured": false
+    },
+    {
+      "id": "aky6yh",
+      "title": "Villa de Natal SP 2026: mais de 30 atrações de Natal chegam ao Jockey Club",
+      "description": "A Villa de Natal São Paulo 2026 reúne mais de 30 atrações para famílias que querem aproveitar a programação natalina na capital. O evento conta com Casa do Papai Noel, parada temática, teatro, parque de diversões, oficinas criativas, Museu do Brinquedo e opções gastronômicas. A terceira edição acontece no Jockey Club de São Paulo, entre [&hellip;]",
+      "category": "infantil",
+      "date": "2026-10-26T11:28:49.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 35,
+      "isFree": false,
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/10/sp_criancas_passeios_VL_Natal.jpg",
+      "ticketUrl": "https://saopauloparacriancas.com.br/villa-de-natal-sp/",
+      "source": "SP para Crianças",
+      "sourceUrl": "https://saopauloparacriancas.com.br/villa-de-natal-sp/",
+      "tags": [
+        "infantil",
+        "familia",
+        "criancas",
+        "sp"
+      ],
+      "featured": false
+    },
+    {
+      "id": "poqtpg",
+      "title": "Festival do Cinema Brasileiro leva produções nacionais às telonas de todo o país por R$ 12",
+      "description": "Filmes nacionais por R$ 12! Festival reúne grandes redes de cinema em todo o país com ingressos promocionais e descontos especiais nos combos de pipoca.",
+      "category": "cinema",
+      "date": "2026-10-26T11:44:50.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 25,
+      "isFree": false,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/07/cinema.jpg",
+      "ticketUrl": "https://catracalivre.com.br/gira/festival-do-cinema-brasileiro-leva-producoes-nacionais-as-telonas-de-todo-o-pais-por-r-12/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/festival-do-cinema-brasileiro-leva-producoes-nacionais-as-telonas-de-todo-o-pais-por-r-12/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
+        "sp",
+        "cinema"
+      ],
+      "featured": false
+    },
+    {
+      "id": "k04i6w",
+      "title": "Dia Municipal do Reggae reúne shows gratuitos de Planta e Raiz e Mato Seco na Praça da Luz",
+      "description": "O centro de São Paulo celebra a cultura rastafári no domingo (1/11) com apresentações ao ar livre, sound systems e grandes sucessos do reggae nacional.",
+      "category": "musica",
+      "date": "2026-10-26T13:03:43.000Z",
+      "location": "Centro Histórico",
+      "neighborhood": "Centro Histórico",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/10/saveclipapp-827677799-18631634575053052-6006894883875186201-n.jpg",
+      "ticketUrl": "https://catracalivre.com.br/gira/dia-municipal-do-reggae-reune-shows-gratuitos-de-planta-e-raiz-e-mato-seco-na-praca-da-luz/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/dia-municipal-do-reggae-reune-shows-gratuitos-de-planta-e-raiz-e-mato-seco-na-praca-da-luz/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
+        "sp",
+        "musica"
+      ],
+      "featured": true
+    },
+    {
+      "id": "dw2hoy",
+      "title": "Evento gratuito na paulista reúne comida africana e afro-brasileira",
+      "description": "Feira gastronômica grátis do Itaú Cultural ocupa o Bulevar do Rádio no domingo (1º) com 12 expositores e pratos típicos",
+      "category": "gastronomia",
+      "date": "2026-10-26T14:49:55.000Z",
+      "location": "Bela Vista",
+      "neighborhood": "Bela Vista",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/Casa-da-Ieda_divulgacao.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/evento-gratuito-na-paulista-reune-comida-africana-e-afro-brasileira/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/evento-gratuito-na-paulista-reune-comida-africana-e-afro-brasileira/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "gastronomia"
+      ],
+      "featured": true
+    },
+    {
       "id": "jlns6u",
       "title": "LOVE vira hotel mal-assombrado com noites de terror e sensualidade em SP",
       "description": "LOVEWEEN H(M)OTEL ocupa a casa na República de 29 a 31 de outubro com performances de terror, mistério e sensualidade",
@@ -2398,6 +2376,28 @@
         "drinks",
         "dia das bruxas"
       ]
+    },
+    {
+      "id": "kaydl3",
+      "title": "Halloween no Largo da Batata tem shows grátis e concurso de fantasias",
+      "description": "Programação gratuita no fim de semana tem concurso de fantasias, personagens assustadores, comida temática, artesanato e área pet friendly",
+      "category": "festa",
+      "date": "2026-10-31T19:00:00",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/morta-viva.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/halloween-no-largo-da-batata-tem-shows-gratis-e-concurso-de-fantasias/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/halloween-no-largo-da-batata-tem-shows-gratis-e-concurso-de-fantasias/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "festa"
+      ],
+      "featured": true
     },
     {
       "id": "dg9qc8",
