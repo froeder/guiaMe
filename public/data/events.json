@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T11:55:54.810Z",
+  "updatedAt": "2026-10-28T12:32:55.034Z",
   "totalCount": 123,
   "sources": [
     "Veja SP",
@@ -85,94 +85,6 @@
         "primavera",
         "gratuito"
       ]
-    },
-    {
-      "id": "327s51",
-      "title": "MIS recebe exposição gratuita que conecta fé, corpo e cultura popular no Círio de Nazaré",
-      "description": "Fé, corpos em movimento e cultura popular! O MIS recebe a exposição “Círio de Nazaré” com visitação gratuita durante todo o mês. Confira!",
-      "category": "musica",
-      "date": "2026-10-05T12:13:41.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/10/163cirio-de-nazare-scaled.jpg",
-      "ticketUrl": "https://catracalivre.com.br/gira/exposicao-cirio-de-nazare-do-sagrado-ao-profano-uma-extensao-do-brasil-fabricio-augusto-mis-sp/",
-      "source": "Catraca Livre",
-      "sourceUrl": "https://catracalivre.com.br/gira/exposicao-cirio-de-nazare-do-sagrado-ao-profano-uma-extensao-do-brasil-fabricio-augusto-mis-sp/",
-      "tags": [
-        "catracalivre",
-        "gratuito",
-        "sp",
-        "musica"
-      ],
-      "featured": true
-    },
-    {
-      "id": "jp0l3w",
-      "title": "Open Air Brasil traz maior tela de cinema a céu aberto do mundo ao Jockey Club de São Paulo",
-      "description": "Pipoca grátis, shows e a maior tela do mundo! O Open Air Brasil volta a SP com exibição de filmes icônicos e atrações musicais no Jockey Club. Veja mais!",
-      "category": "festa",
-      "date": "2026-10-05T13:55:28.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/10/unnamed-2026-10-05t134238304.jpg",
-      "ticketUrl": "https://catracalivre.com.br/gira/open-air-brasil-traz-maior-tela-de-cinema-a-ceu-aberto-do-mundo-ao-jockey-club-de-sao-paulo/",
-      "source": "Catraca Livre",
-      "sourceUrl": "https://catracalivre.com.br/gira/open-air-brasil-traz-maior-tela-de-cinema-a-ceu-aberto-do-mundo-ao-jockey-club-de-sao-paulo/",
-      "tags": [
-        "catracalivre",
-        "gratuito",
-        "sp",
-        "festa"
-      ],
-      "featured": true
-    },
-    {
-      "id": "3di7po",
-      "title": "CAIXA Cultural São Paulo homenageia os 90 anos de Tom Zé com exposição imersiva e interativa",
-      "description": "Um mergulho na genialidade do pai da Tropicália! Mostra imersiva dos 90 anos de Tom Zé ocupa a CAIXA Cultural com oficinas de graça aos finais de semana",
-      "category": "exposicao",
-      "date": "2026-10-05T14:55:00.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/10/image-26-e1791222742517.jpeg",
-      "ticketUrl": "https://catracalivre.com.br/gira/caixa-cultural-sao-paulo-homenageia-os-90-anos-de-tom-ze-com-exposicao-imersiva-e-interativa/",
-      "source": "Catraca Livre",
-      "sourceUrl": "https://catracalivre.com.br/gira/caixa-cultural-sao-paulo-homenageia-os-90-anos-de-tom-ze-com-exposicao-imersiva-e-interativa/",
-      "tags": [
-        "catracalivre",
-        "gratuito",
-        "sp",
-        "exposicao"
-      ],
-      "featured": true
-    },
-    {
-      "id": "pypbt6",
-      "title": "Water Lantern Festival ilumina as águas do Jardim Botânico de São Paulo em experiência inédita",
-      "description": "Sucesso no mundo todo! Water Lantern Festival chega a São Paulo com lanternas flutuantes, música ao vivo e gastronomia no Jardim Botânico. Garanta a sua entrada",
-      "category": "musica",
-      "date": "2026-10-05T15:40:05.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 25,
-      "isFree": false,
-      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/10/water-lantern-festival.jpg",
-      "ticketUrl": "https://catracalivre.com.br/gira/water-lantern-festival-ilumina-as-aguas-do-jardim-botanico-de-sao-paulo-em-experiencia-inedita/",
-      "source": "Catraca Livre",
-      "sourceUrl": "https://catracalivre.com.br/gira/water-lantern-festival-ilumina-as-aguas-do-jardim-botanico-de-sao-paulo-em-experiencia-inedita/",
-      "tags": [
-        "catracalivre",
-        "gratuito",
-        "sp",
-        "musica"
-      ],
-      "featured": false
     },
     {
       "id": "llxr19",
@@ -338,28 +250,6 @@
         "esports",
         "cosplay"
       ]
-    },
-    {
-      "id": "9fyeaf",
-      "title": "Burger King e Heinz entram na brincadeira do Dia do Cabelo Maluco",
-      "description": "Ação acontece nos dias 8 e 9 de outubro e oferece quatro opções gratuitas para quem chegar às lojas participantes com um penteado caracterizado O Dia do Cabelo Maluco ganhou uma recompensa para quem gosta de entrar na brincadeira. Nos dias 8 e 9 de outubro de 2026, o Burger King, em parceria com a [&hellip;]",
-      "category": "infantil",
-      "date": "2026-10-09T10:00:00",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/10/sp_criancas_passeios_burger_king-1.jpg",
-      "ticketUrl": "https://saopauloparacriancas.com.br/cabelo_maluco_sp/",
-      "source": "SP para Crianças",
-      "sourceUrl": "https://saopauloparacriancas.com.br/cabelo_maluco_sp/",
-      "tags": [
-        "infantil",
-        "familia",
-        "criancas",
-        "sp"
-      ],
-      "featured": true
     },
     {
       "id": "1tvg0l",
@@ -669,50 +559,6 @@
       "featured": true
     },
     {
-      "id": "ngocu7",
-      "title": "Café do Chico Bento chega a SP no mês das crianças!",
-      "description": "O universo do Chico Bento ganhou um endereço em São Paulo. No dia 12 de outubro de 2026, foi inaugurado o Café do Chico Bento, no Parque da Água Branca, com ambientes inspirados nas histórias do personagem e quitutes da culinária caipira. Instalado na Casa do Caboclo, o espaço tem cenários temáticos, como o picnic da [&hellip;]",
-      "category": "infantil",
-      "date": "2026-10-12T10:00:00",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 35,
-      "isFree": false,
-      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/10/sp_criancas_passeios_chico_bento.jpg",
-      "ticketUrl": "https://saopauloparacriancas.com.br/cafe-do-chico-bento-sp/",
-      "source": "SP para Crianças",
-      "sourceUrl": "https://saopauloparacriancas.com.br/cafe-do-chico-bento-sp/",
-      "tags": [
-        "infantil",
-        "familia",
-        "criancas",
-        "sp"
-      ],
-      "featured": false
-    },
-    {
-      "id": "exhlap",
-      "title": "Roda Viva recebe Ruth Rocha em edição especial de Dia das Crianças",
-      "description": "A escritora Ruth Rocha participa nesta segunda-feira (12), às 22h, de uma edição especial do Roda Viva, da TV Cultura, em comemoração ao Dia das Crianças. O programa será apresentado por Ernesto Paglia e terá transmissão pela televisão, pelo YouTube e pelo site da emissora. Nascida em São Paulo em 1931, Ruth Rocha tem mais [&hellip;]",
-      "category": "infantil",
-      "date": "2026-10-12T10:00:00",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 35,
-      "isFree": false,
-      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/10/sp_criancas_passeios_ruth_rocha.jpg",
-      "ticketUrl": "https://saopauloparacriancas.com.br/roda-viva-ruth-rocha/",
-      "source": "SP para Crianças",
-      "sourceUrl": "https://saopauloparacriancas.com.br/roda-viva-ruth-rocha/",
-      "tags": [
-        "infantil",
-        "familia",
-        "criancas",
-        "sp"
-      ],
-      "featured": false
-    },
-    {
       "id": "ii2yxl",
       "title": "Cine Tutu: Vila Madalena ganha seu primeiro cinema de rua!",
       "description": "A Vila Madalena agora tem seu cinema de rua! O Cine Tutu traz sala de 114 lugares, café-bar Barouche e projeção 4K. Confira a programação e onde fica!",
@@ -825,116 +671,6 @@
         "estilo",
         "ibirapuera"
       ]
-    },
-    {
-      "id": "pp97cj",
-      "title": "Jorge Ben Jor mantém legado vivo e conquista novas gerações aos 87 anos",
-      "description": "Com ingressos esgotados no Nubank Parque, cantor inspira artistas de diferentes gerações e mantém sua obra em alta nas plataformas digitais",
-      "category": "infantil",
-      "date": "2026-10-15T14:41:12.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/jorge-ben-credito-Doce-Maravilha_divulg.jpg.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/jorge-ben-jor-show-nubank-park/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/jorge-ben-jor-show-nubank-park/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "infantil"
-      ],
-      "featured": false
-    },
-    {
-      "id": "jnwgnn",
-      "title": "Jorge Ben Jor é ‘exemplo brutal para todos que vieram depois dele’, diz BNegão",
-      "description": "Álbum África Brasil, clássico de 1976, completa 50 anos e ganha tributo do cantor",
-      "category": "cultura",
-      "date": "2026-10-15T14:59:26.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/DETALHE-BNEGAO-C20241115_BNegao_credito-Jozzuu-Photo_divulg.jpg.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/jorge-ben-jor-e-exemplo-brutal-para-todos-que-vieram-depois-dele-diz-bnegao/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/jorge-ben-jor-e-exemplo-brutal-para-todos-que-vieram-depois-dele-diz-bnegao/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "cultura"
-      ],
-      "featured": false
-    },
-    {
-      "id": "m6wtop",
-      "title": "BRAVO! celebra 30 anos e volta às bancas com festa em São Paulo",
-      "description": "Evento na Casa Bradesco com convidados do meio cultural e pocket show de João Camarero comemorou a nova fase da revista; confira as fotos",
-      "category": "festa",
-      "date": "2026-10-15T16:56:57.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/BRAVO-BEIJA-FLOR.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/bravo-30-anos-coquetel-festa/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/bravo-30-anos-coquetel-festa/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "festa"
-      ],
-      "featured": false
-    },
-    {
-      "id": "pgqcvv",
-      "title": "Mural SP: Anna Cunha",
-      "description": "Ilustradora de mais de quarenta livros, assina obra do Mural SP",
-      "category": "literatura",
-      "date": "2026-10-16T06:00:23.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/anna_cunha.jpg.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/mural-sp-anna-cunha/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/mural-sp-anna-cunha/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "literatura"
-      ],
-      "featured": false
-    },
-    {
-      "id": "ftg8vy",
-      "title": "“O fado pode ser um caminho de libertação”, diz Carminho",
-      "description": "A cantora portuguesa Carminho está em turnê com seu novo disco e é tema de documentário que estreia no sábado (17) na Mostra de Cinema de SP",
-      "category": "cinema",
-      "date": "2026-10-16T08:00:01.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/Design-sem-nome-5.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/amarelinhas-carminho/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/amarelinhas-carminho/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "cinema"
-      ],
-      "featured": false
     },
     {
       "id": "gxh01p",
@@ -1997,7 +1733,7 @@
       "neighborhood": "Centro Histórico",
       "price": 0,
       "isFree": true,
-      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/10/saveclipapp-827677799-18631634575053052-6006894883875186201-n.jpg",
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/10/saveclipapp-827677799-18631634575053052-6006894883875186201-n-e1793117268776.jpg",
       "ticketUrl": "https://catracalivre.com.br/gira/dia-municipal-do-reggae-reune-shows-gratuitos-de-planta-e-raiz-e-mato-seco-na-praca-da-luz/",
       "source": "Catraca Livre",
       "sourceUrl": "https://catracalivre.com.br/gira/dia-municipal-do-reggae-reune-shows-gratuitos-de-planta-e-raiz-e-mato-seco-na-praca-da-luz/",
@@ -2030,6 +1766,182 @@
         "gastronomia"
       ],
       "featured": true
+    },
+    {
+      "id": "5rvm5r",
+      "title": "Caravana da Coca Cola 2026 anuncia roteiro pelas primeiras cidades de SP",
+      "description": "Turnê paulista passa por cidades na Região Metropolitana e segue até Americana",
+      "category": "cultura",
+      "date": "2026-10-27T12:50:59.000Z",
+      "location": "Bela Vista",
+      "neighborhood": "Bela Vista",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2023/12/Natal-Coca-Cola_3-1.jpg-1.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/caravana-da-coca-cola-2026-anuncia-roteiro-pelas-primeiras-cidades-de-sp/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/caravana-da-coca-cola-2026-anuncia-roteiro-pelas-primeiras-cidades-de-sp/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "cultura"
+      ],
+      "featured": false
+    },
+    {
+      "id": "id3fp5",
+      "title": "‘O Céu de Durvalina’ homenageia causos de Rolando Boldrin em temporada no Sesc Belenzinho",
+      "description": "Inspirada na rotina de trabalhadores paulistanos, a peça retrata a saudade, a cultura popular e a força da migração em sessões de quinta a domingo.",
+      "category": "musica",
+      "date": "2026-10-27T13:07:30.000Z",
+      "location": "Bela Vista",
+      "neighborhood": "Bela Vista",
+      "price": 25,
+      "isFree": false,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/10/o-ceu-de-durvalina-foto-de-ariane-artioli-4-scaled-e1793117207685.jpg",
+      "ticketUrl": "https://catracalivre.com.br/gira/o-ceu-de-durvalina-homenageia-causos-de-rolando-boldrin-em-temporada-no-sesc-belenzinho/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/o-ceu-de-durvalina-homenageia-causos-de-rolando-boldrin-em-temporada-no-sesc-belenzinho/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
+        "sp",
+        "musica"
+      ],
+      "featured": false
+    },
+    {
+      "id": "ch0k0a",
+      "title": "Teatro Oficina faz curta temporada de ‘Rasga Coração’, musical antropofágico que celebra Villa-Lobos",
+      "description": "O espetáculo celebra o centenário do célebre Choros nº 10 com banda ao vivo, coro polifônico e clássicos de Heitor Villa-Lobos na pista do Oficina.",
+      "category": "musica",
+      "date": "2026-10-27T13:34:53.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 25,
+      "isFree": false,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/10/2025-05-14-rasga-coracao-teatro-oficina-foto-igor-marotti-1n7c6081-0004-scaled.jpg",
+      "ticketUrl": "https://catracalivre.com.br/gira/teatro-oficina-faz-curta-temporada-de-rasga-coracao-musical-antropofagico-que-celebra-villa-lobos/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/teatro-oficina-faz-curta-temporada-de-rasga-coracao-musical-antropofagico-que-celebra-villa-lobos/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
+        "sp",
+        "musica"
+      ],
+      "featured": false
+    },
+    {
+      "id": "k40j3k",
+      "title": "Brasil Jazz Sinfônica toca Rita Lee, Milton Nascimento e Cartola com ingressos a R$ 2 no Teatro Sérgio Cardoso",
+      "description": "O espetáculo “Arroz com Feijão, Retratos do Brasil” reúne versões orquestrais de clássicos da MPB no Bixiga sob regência de Luís Gustavo Petri.",
+      "category": "musica",
+      "date": "2026-10-27T14:33:48.000Z",
+      "location": "Centro Histórico",
+      "neighborhood": "Centro Histórico",
+      "price": 25,
+      "isFree": false,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/10/brasil-jazz-sinfonica-2026-arroz-com-feijao-teatro-baccarelli-foto-nadja-kouchi-acervo-tv-cultura-58.jpg",
+      "ticketUrl": "https://catracalivre.com.br/gira/brasil-jazz-sinfonica-toca-rita-lee-milton-nascimento-e-cartola-com-ingressos-a-r-2-no-teatro-sergio-cardoso/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/brasil-jazz-sinfonica-toca-rita-lee-milton-nascimento-e-cartola-com-ingressos-a-r-2-no-teatro-sergio-cardoso/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
+        "sp",
+        "musica"
+      ],
+      "featured": false
+    },
+    {
+      "id": "gz0nmq",
+      "title": "Harry Potter: 7 presentes para fãs da saga",
+      "description": "Procurando presentes de Harry Potter para crianças, adolescentes ou adultos que cresceram acompanhando a saga? A Amazon Brasil reúne opções que vão dos livros da série a varinhas mágicas, brinquedos de montar e objetos de decoração inspirados no universo de Hogwarts. A seleção inclui sugestões para diferentes perfis e orçamentos, seja para incentivar a leitura, [&hellip;]",
+      "category": "infantil",
+      "date": "2026-10-27T16:11:39.000Z",
+      "location": "Centro Histórico",
+      "neighborhood": "Centro Histórico",
+      "price": 35,
+      "isFree": false,
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/10/sp_criancas_compras_harry.jpg",
+      "ticketUrl": "https://saopauloparacriancas.com.br/harry-potter-7-presentes/",
+      "source": "SP para Crianças",
+      "sourceUrl": "https://saopauloparacriancas.com.br/harry-potter-7-presentes/",
+      "tags": [
+        "infantil",
+        "familia",
+        "criancas",
+        "sp"
+      ],
+      "featured": false
+    },
+    {
+      "id": "t3gqkd",
+      "title": "Mamãe Tarifa Zero: quem tem direito ao ônibus gratuito para levar crianças à creche em São Paulo?",
+      "description": "Programa da Prefeitura oferece gratuidade no trajeto de ida e volta para responsáveis por crianças matriculadas em creches municipais; veja os critérios e como solicitar o Bilhete Único Famílias com crianças pequenas matriculadas em creches municipais de São Paulo podem ter direito a transporte gratuito nos ônibus da cidade por meio do programa Mamãe Tarifa [&hellip;]",
+      "category": "infantil",
+      "date": "2026-10-27T18:11:07.000Z",
+      "location": "Vila Mariana",
+      "neighborhood": "Vila Mariana",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/10/sp_criancas_compras_mamae_tarifa_zero.jpg",
+      "ticketUrl": "https://saopauloparacriancas.com.br/mamae-tarifa-zero-sp/",
+      "source": "SP para Crianças",
+      "sourceUrl": "https://saopauloparacriancas.com.br/mamae-tarifa-zero-sp/",
+      "tags": [
+        "infantil",
+        "familia",
+        "criancas",
+        "sp"
+      ],
+      "featured": true
+    },
+    {
+      "id": "5sseiv",
+      "title": "Simple Plan em São Paulo: confira datas, ingressos e local do show",
+      "description": "Banda canadense celebra 25 anos de carreira no Nubank Parque em maio de 2027",
+      "category": "musica",
+      "date": "2026-10-27T18:33:08.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2024/01/SIMPLE-PLAN-credito-Chapman-Baehler_Divulgacao.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/simple-plan-em-sao-paulo-confira-datas-ingressos-e-local-do-show/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/simple-plan-em-sao-paulo-confira-datas-ingressos-e-local-do-show/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "musica"
+      ],
+      "featured": true
+    },
+    {
+      "id": "sd5bgo",
+      "title": "Cinemark participa do Festival do Cinema Brasileiro com ingressos a 12 reais",
+      "description": "Promoção acontece entre 29 de outubro e 4 de novembro",
+      "category": "cinema",
+      "date": "2026-10-29T10:00:00",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/09/Lazaro-Ramos-e-Yuri-Gomes__Foto_JamilleQueiroz.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/cinemark-festival-do-cinema-brasileiro-ingressos-promocao-sao-paulo/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/cinemark-festival-do-cinema-brasileiro-ingressos-promocao-sao-paulo/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "cinema"
+      ],
+      "featured": false
     },
     {
       "id": "jlns6u",
@@ -2102,6 +2014,28 @@
         "gratuito",
         "filmes"
       ]
+    },
+    {
+      "id": "3qj982",
+      "title": "Cinesystem realiza Sessão Misteriosa com filme de terror inédito no Halloween",
+      "description": "Exibição especial acontece no dia 31 de outubro, às 22h",
+      "category": "festa",
+      "date": "2026-10-31T10:00:00",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2022/01/creep.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/cinesystem-sessao-misteriosa-terror-inedito-halloween-ingressos/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/cinesystem-sessao-misteriosa-terror-inedito-halloween-ingressos/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "festa"
+      ],
+      "featured": false
     },
     {
       "id": "v9sd7j",
@@ -2376,6 +2310,28 @@
         "drinks",
         "dia das bruxas"
       ]
+    },
+    {
+      "id": "hcch4a",
+      "title": "Halloween: shoppings de SP têm caça aos doces e labirinto de terror",
+      "description": "Oficinas gratuitas e atividade para pets estão entre as atrações até 1º de novembro",
+      "category": "festa",
+      "date": "2026-10-31T19:00:00",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-20-at-2.54.12-PM-2.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/halloween-shoppings-de-sp-tem-caca-aos-doces-e-labirinto-de-terror/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/halloween-shoppings-de-sp-tem-caca-aos-doces-e-labirinto-de-terror/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "festa"
+      ],
+      "featured": true
     },
     {
       "id": "kaydl3",
@@ -2718,6 +2674,28 @@
       ]
     },
     {
+      "id": "9e7wv8",
+      "title": "CEUs de São Paulo abrem no feriado de Finados com piscinas, bibliotecas e atividades gratuitas",
+      "description": "Unidades funcionam das 8h às 18h na segunda-feira (2); programação inclui opções culturais, esportivas e de lazer para famílias Os 63 Centros Educacionais Unificados (CEUs) de São Paulo estarão abertos no feriado de Finados, na segunda-feira (2 de novembro), das 8h às 18h. As unidades oferecem atividades culturais, esportivas e de lazer gratuitas para famílias, [&hellip;]",
+      "category": "infantil",
+      "date": "2026-11-02T10:00:00",
+      "location": "Centro Histórico",
+      "neighborhood": "Centro Histórico",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/05/sp_criancas_passeio_brincar.jpg",
+      "ticketUrl": "https://saopauloparacriancas.com.br/ceus-de-sao-paulo-programacao/",
+      "source": "SP para Crianças",
+      "sourceUrl": "https://saopauloparacriancas.com.br/ceus-de-sao-paulo-programacao/",
+      "tags": [
+        "infantil",
+        "familia",
+        "criancas",
+        "sp"
+      ],
+      "featured": true
+    },
+    {
       "id": "5zp7mu",
       "title": "Menino Maluquinho ganha versão grafitada em exposição gratuita no Anhangabaú",
       "description": "Mostra “Maluquinho na Quebrada” homenageia Ziraldo e conecta literatura infantil e arte urbana até 4 de novembro O Menino Maluquinho, personagem criado por Ziraldo, é homenageado na exposição gratuita “Maluquinho na Quebrada”, no Novo Anhangabaú, no centro de São Paulo. A mostra fica em cartaz até 4 de novembro de 2026 e utiliza o grafite [&hellip;]",
@@ -2824,6 +2802,28 @@
         "cultura",
         "sp",
         "musica"
+      ],
+      "featured": true
+    },
+    {
+      "id": "3npj05",
+      "title": "Festa do Livro da USP reúne 245 editoras com desconto mínimo de 50% na Cidade Universitária",
+      "description": "A 28ª edição da Feira do Livro da USP reúne mais de 260 mil exemplares de literatura, HQs e obras acadêmicas de 25 a 29 de novembro com entrada franca.",
+      "category": "festa",
+      "date": "2026-11-25T10:00:00",
+      "location": "Butantã",
+      "neighborhood": "Butantã",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=800&q=80",
+      "ticketUrl": "https://catracalivre.com.br/gira/festa-do-livro-da-usp-reune-245-editoras-com-desconto-minimo-de-50-na-cidade-universitaria/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/festa-do-livro-da-usp-reune-245-editoras-com-desconto-minimo-de-50-na-cidade-universitaria/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
+        "sp",
+        "festa"
       ],
       "featured": true
     },
