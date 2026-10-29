@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T12:32:55.034Z",
+  "updatedAt": "2026-10-29T12:43:32.102Z",
   "totalCount": 123,
   "sources": [
     "Veja SP",
@@ -300,28 +300,6 @@
         "exposicao",
         "gratuito"
       ]
-    },
-    {
-      "id": "t0btuk",
-      "title": "Cinemark tem ingressos para filmes de terror a partir de R$ 13 em outubro",
-      "description": "Temporada do Terror exibe clássicos como ‘O Exorcista’ e ‘Carrie, A Estranha’",
-      "category": "festa",
-      "date": "2026-10-10T14:00:00",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2017/01/1551_19905389.jpeg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/cinemark-tem-ingressos-de-terror-a-partir-de-r-13-em-outubro/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/cinemark-tem-ingressos-de-terror-a-partir-de-r-13-em-outubro/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "festa"
-      ],
-      "featured": false
     },
     {
       "id": "iokvfa",
@@ -673,50 +651,6 @@
       ]
     },
     {
-      "id": "gxh01p",
-      "title": "Um passeio pelas empenas pintadas com arte urbana em São Paulo e os artistas por trás delas",
-      "description": "Do Minhocão à Consolação, essas telas gigantes definem o horizonte da capital e agora são garantidas por nova lei de fomento",
-      "category": "exposicao",
-      "date": "2026-10-16T08:00:57.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/Empenas-Niemeyer-083.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/roteiro-historia-empenas-pintadas-arte-urbana-sao-paulo-artistas/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/roteiro-historia-empenas-pintadas-arte-urbana-sao-paulo-artistas/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "exposicao"
-      ],
-      "featured": true
-    },
-    {
-      "id": "bm2373",
-      "title": "Mostra de Cinema de SP tem sessões gratuitas; veja onde assistir",
-      "description": "Festival reúne centenas de filmes de mais de 90 países em 57 salas da capital; programação também tem ingressos a partir de R$ 2",
-      "category": "tecnologia",
-      "date": "2026-10-16T11:26:28.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/20261003_105455.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/mostra-de-cinema-de-sp-gratis/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/mostra-de-cinema-de-sp-gratis/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "tecnologia"
-      ],
-      "featured": true
-    },
-    {
       "id": "e734bk",
       "title": "Balé Bolshoi: Gala Clássica — Theatro Municipal de São Paulo",
       "description": "Solistas consagrados da Escola do Teatro Bolshoi executam trechos de O Quebra-Nozes, Don Quixote e Spartacus, acompanhados ao vivo pela Orquestra Sinfônica Municipal. Cenários suntuosos e técnica impecável.",
@@ -768,28 +702,6 @@
       ]
     },
     {
-      "id": "begtl4",
-      "title": "O que fazer em São Paulo no fim de semana de 17 e 18 de outubro? Confira 5 programas",
-      "description": "Mostra Internacional de Cinema, Viradinha Cultural e festival gratuito de samba estão entre os destaques da programação",
-      "category": "musica",
-      "date": "2026-10-17T10:00:00",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/20261003_105455.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/o-que-fazer-em-sao-paulo-no-fim-de-semana-de-17-e-18-de-outubro-confira-5-programas/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/o-que-fazer-em-sao-paulo-no-fim-de-semana-de-17-e-18-de-outubro-confira-5-programas/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "musica"
-      ],
-      "featured": true
-    },
-    {
       "id": "sw0734",
       "title": "Turma da Mônica: encontro gratuito com Mônica, Cebolinha e Milena acontece neste sábado em SP",
       "description": "Atração no Centro Cultural São Paulo tem três horários e faz parte da Viradinha 2026, festival infantil com cerca de 400 atividades gratuitas pela cidade Quem quer encontrar personagens da Turma da Mônica tem um programa gratuito neste sábado, 17 de outubro, em São Paulo. Mônica, Cebolinha e Milena participam de três encontros presenciais no [&hellip;]",
@@ -835,28 +747,6 @@
         "museu da imigracao",
         "feira"
       ]
-    },
-    {
-      "id": "1ql4xr",
-      "title": "Festival de comida árabe no CERET tem entrada gratuita e programação para crianças",
-      "description": "Evento acontece nos dias 17 e 18 de outubro, no Tatuapé, com gastronomia típica, shows, oficina de dança do ventre, feira de adoção de animais e espaço kids. O 1º Festival de Comida Árabe da Zona Leste acontece nos dias 17 e 18 de outubro de 2026, sábado e domingo, no Parque CERET, no Tatuapé, [&hellip;]",
-      "category": "infantil",
-      "date": "2026-10-18T10:00:00",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/10/sp_criancas_passeio_arabe_01.jpeg",
-      "ticketUrl": "https://saopauloparacriancas.com.br/ceret-programacao-sp/",
-      "source": "SP para Crianças",
-      "sourceUrl": "https://saopauloparacriancas.com.br/ceret-programacao-sp/",
-      "tags": [
-        "infantil",
-        "familia",
-        "criancas",
-        "sp"
-      ],
-      "featured": true
     },
     {
       "id": "v7r98",
@@ -1110,28 +1000,6 @@
         "sp"
       ],
       "featured": false
-    },
-    {
-      "id": "420fv8",
-      "title": "A ONG paulistana que leva livros à Amazônia há 25 anos",
-      "description": "Criada por três amigas, a Vaga Lume ganha nova marca, inaugura bibliotecas para bebês no Pará e vê escolas com seus acervos liderarem o Ideb em Mato Grosso",
-      "category": "exposicao",
-      "date": "2026-10-20T18:57:40.000Z",
-      "location": "Bela Vista",
-      "neighborhood": "Bela Vista",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/prg-2-2.pdf.png",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/vaga-lume-ong-paulistana-livros-amazonia/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/vaga-lume-ong-paulistana-livros-amazonia/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "exposicao"
-      ],
-      "featured": true
     },
     {
       "id": "9t7y34",
@@ -1922,6 +1790,160 @@
       "featured": true
     },
     {
+      "id": "1oxmgn",
+      "title": "Orquestra Brasil Jazz Sinfônica apresenta concerto de música brasileira com ingressos a R$ 2",
+      "description": "Apresentação reúne obras de Milton Nascimento, Cartola, Moacyr Luz e outros clássicos",
+      "category": "musica",
+      "date": "2026-10-28T12:34:16.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/unnamed-2026-10-26T114107.701.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/orquestra-brasil-jazz-sinfonica-apresenta-concerto-de-musica-brasileira-com-ingressos-a-r-2/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/orquestra-brasil-jazz-sinfonica-apresenta-concerto-de-musica-brasileira-com-ingressos-a-r-2/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "musica"
+      ],
+      "featured": true
+    },
+    {
+      "id": "u0m5z0",
+      "title": "Qual será o setlist do BTS nos shows em São Paulo? Confira as apostas e surpresas",
+      "description": "Repertório de 23 faixas combina novidades do álbum ‘ARIRANG’, clássicos da carreira e surpresas",
+      "category": "musica",
+      "date": "2026-10-28T12:46:41.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2019/05/bts_sy_0525sp-4-crc3a9dito-bighit-entertainmente28099-.jpeg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/qual-sera-o-setlist-do-bts-nos-shows-em-sao-paulo-confira-as-apostas-e-surpresas/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/qual-sera-o-setlist-do-bts-nos-shows-em-sao-paulo-confira-as-apostas-e-surpresas/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "musica"
+      ],
+      "featured": true
+    },
+    {
+      "id": "coifhp",
+      "title": "Morre o ator e apresentador Roberto Maya, voz do ‘Documento Especial’, aos 91 anos",
+      "description": "Pioneiro da televisão, radioator e dublador marcou época no comando do jornalístico nos anos 1990 e deu voz a clássicos como o tigre Shere Khan em ‘Mogli’",
+      "category": "cultura",
+      "date": "2026-10-28T15:47:52.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/Roberto_Maya2.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/morre-o-ator-e-apresentador-roberto-maya-voz-do-documento-especial-aos-91-anos/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/morre-o-ator-e-apresentador-roberto-maya-voz-do-documento-especial-aos-91-anos/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "cultura"
+      ],
+      "featured": false
+    },
+    {
+      "id": "xapusf",
+      "title": "Exposição imersiva sobre o fundo do mar chega à Avenida Paulista",
+      "description": "Exposição inédita transforma o Nubank Arte Lab, em São Paulo, em um oceano de luzes, sons e projeções monumentais",
+      "category": "exposicao",
+      "date": "2026-10-28T16:04:03.000Z",
+      "location": "Bela Vista",
+      "neighborhood": "Bela Vista",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/PixelZooOcean_c-Jean-Cristophe-Dupasquier_01.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/exposicao-imersiva-sobre-o-fundo-do-mar-chega-a-avenida-paulista/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/exposicao-imersiva-sobre-o-fundo-do-mar-chega-a-avenida-paulista/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "exposicao"
+      ],
+      "featured": true
+    },
+    {
+      "id": "b3u35t",
+      "title": "São Paulo recebe 28 feiras de artesanato em novembro; veja onde ir",
+      "description": "Durante o mês, diferentes partes da cidade receberão vendas com artigos de decoração, moda, papelaria e arte, valorizando a economia criativa",
+      "category": "exposicao",
+      "date": "2026-10-28T17:36:52.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-13-at-15.13.12.jpeg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/feiras-artesanato-novembro-sao-paulo/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/feiras-artesanato-novembro-sao-paulo/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "exposicao"
+      ],
+      "featured": true
+    },
+    {
+      "id": "iudofb",
+      "title": "Veja como ficou Luisa Arraes como Cássia Eller em novo filme",
+      "description": "Imagem exclusiva foi divulgada nesta semana",
+      "category": "cinema",
+      "date": "2026-10-28T18:46:27.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=800&q=80",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/veja-como-ficou-luisa-arraes-como-cassia-eller-em-novo-filme/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/veja-como-ficou-luisa-arraes-como-cassia-eller-em-novo-filme/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "cinema"
+      ],
+      "featured": false
+    },
+    {
+      "id": "cs5kn2",
+      "title": "Rita Cadillac e Drauzio Varella participam de sessão gratuita em SP",
+      "description": "Mostra dedicada ao cineasta Toni Venturi reúne exibições de filmes, debates e palestras",
+      "category": "cinema",
+      "date": "2026-10-28T19:42:20.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2017/01/47530_cinema-02.jpeg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/rita-cadillac-e-drauzio-varella-participam-de-sessao-gratuita-em-sp/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/rita-cadillac-e-drauzio-varella-participam-de-sessao-gratuita-em-sp/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "cinema"
+      ],
+      "featured": true
+    },
+    {
       "id": "sd5bgo",
       "title": "Cinemark participa do Festival do Cinema Brasileiro com ingressos a 12 reais",
       "description": "Promoção acontece entre 29 de outubro e 4 de novembro",
@@ -1964,6 +1986,50 @@
         "festa"
       ],
       "featured": false
+    },
+    {
+      "id": "cd55lj",
+      "title": "Festival do Cinema Brasileiro tem ingressos a partir de R$12",
+      "description": "De 29 de outubro a 4 de novembro de 2026, o público poderá aproveitar preços promocionais para assistir a filmes brasileiros em redes de cinema participantes. O Festival do Cinema Brasileiro é uma iniciativa da Federação Nacional das Empresas Exibidoras Cinematográficas (FENEEC), com apoio da Associação Brasileira das Empresas Exibidoras Cinematográficas Operadoras de Multiplex (ABRAPLEX), [&hellip;]",
+      "category": "infantil",
+      "date": "2026-10-29T10:00:00",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 35,
+      "isFree": false,
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/10/sp_criancas_passeio_cinema.jpeg",
+      "ticketUrl": "https://saopauloparacriancas.com.br/festival-do-cinema-brasileiro/",
+      "source": "SP para Crianças",
+      "sourceUrl": "https://saopauloparacriancas.com.br/festival-do-cinema-brasileiro/",
+      "tags": [
+        "infantil",
+        "familia",
+        "criancas",
+        "sp"
+      ],
+      "featured": false
+    },
+    {
+      "id": "wwea4w",
+      "title": "Turma da Mônica participa de projeto de incentivo à leitura na Estação Luz, em São Paulo",
+      "description": "Iniciativa gratuita começa em 29 de outubro e prevê mais de 140 atividades de leitura nas estações de trem e metrô ao longo de 12 meses Crianças que gostam da Turma da Mônica terão a oportunidade de encontrar Mônica, Cebolinha e Milena em uma ação de incentivo à leitura na Estação Luz, no centro de [&hellip;]",
+      "category": "infantil",
+      "date": "2026-10-29T10:00:00",
+      "location": "Centro Histórico",
+      "neighborhood": "Centro Histórico",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/10/sp_criancas_passeio_monica-1.jpg",
+      "ticketUrl": "https://saopauloparacriancas.com.br/turma-da-monica-leitura-sp/",
+      "source": "SP para Crianças",
+      "sourceUrl": "https://saopauloparacriancas.com.br/turma-da-monica-leitura-sp/",
+      "tags": [
+        "infantil",
+        "familia",
+        "criancas",
+        "sp"
+      ],
+      "featured": true
     },
     {
       "id": "1hozdl",
@@ -2036,28 +2102,6 @@
         "festa"
       ],
       "featured": false
-    },
-    {
-      "id": "v9sd7j",
-      "title": "Día de Muertos: festival gratuito em SP tem shows e comida mexicana",
-      "description": "Evento no Memorial da América Latina acontece de 31 de outubro a 2 de novembro, com concurso de fantasias, apresentações culturais e atrações",
-      "category": "festa",
-      "date": "2026-10-31T10:00:00",
-      "location": "Barra Funda",
-      "neighborhood": "Barra Funda",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/CORTEJO-DIA-DE-MUERTOS-3.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/dia-de-muertos-memorial-da-america-latina/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/dia-de-muertos-memorial-da-america-latina/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "festa"
-      ],
-      "featured": true
     },
     {
       "id": "o4ak4z",
@@ -2312,6 +2356,50 @@
       ]
     },
     {
+      "id": "4zi4u3",
+      "title": "Museu Catavento realiza edição especial de Halloween com funcionamento noturno",
+      "description": "Evento ‘Uma Noite no Museu’ terá observação de Saturno via telescópio, caça aos doces, teatro temático e transporte gratuito a partir do metrô",
+      "category": "festa",
+      "date": "2026-10-31T19:00:00",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/unnamed-6-1.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/museu-catavento-realiza-edicao-especial-de-halloween-com-funcionamento-noturno/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/museu-catavento-realiza-edicao-especial-de-halloween-com-funcionamento-noturno/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "festa"
+      ],
+      "featured": true
+    },
+    {
+      "id": "6jv91b",
+      "title": "Festa de Halloween em Pinheiros arrecada fundos para ONG de gatos",
+      "description": "Evento acontece no sábado (31), na Casa Fradique, com concurso de fantasias, tarot, flash tattoo e bingo",
+      "category": "festa",
+      "date": "2026-10-31T19:00:00",
+      "location": "Pinheiros",
+      "neighborhood": "Pinheiros",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/Miaulloween-99.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/festa-de-halloween-em-pinheiros-arrecada-fundos-para-ong-de-gatos/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/festa-de-halloween-em-pinheiros-arrecada-fundos-para-ong-de-gatos/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "festa"
+      ],
+      "featured": false
+    },
+    {
       "id": "hcch4a",
       "title": "Halloween: shoppings de SP têm caça aos doces e labirinto de terror",
       "description": "Oficinas gratuitas e atividade para pets estão entre as atrações até 1º de novembro",
@@ -2398,72 +2486,6 @@
         "festa"
       ],
       "featured": false
-    },
-    {
-      "id": "anvgz0",
-      "title": "Quinta do beijo do vampiro: Cinesystem faz promoção de Halloween para casais",
-      "description": "Rede de cinemas dá desconto no par de ingressos para quem beijar na bilheteria; confira as regras",
-      "category": "festa",
-      "date": "2026-10-31T19:00:00",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=800&q=80",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/quinta-do-beijo-do-vampiro-cinesystem-promocao-halloween-para-casais/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/quinta-do-beijo-do-vampiro-cinesystem-promocao-halloween-para-casais/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "festa"
-      ],
-      "featured": false
-    },
-    {
-      "id": "rked17",
-      "title": "Halloween em São Paulo: Roda Rico tem oficina e atrações de terror",
-      "description": "Parte da programação é gratuita; abertura no sábado (24) tem concurso de fantasias e shows",
-      "category": "festa",
-      "date": "2026-10-31T19:00:00",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/04/Roda-Rico-opcao-roda-gigate.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/halloween-em-sao-paulo-roda-rico-tem-oficina-e-atracoes-de-terror/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/halloween-em-sao-paulo-roda-rico-tem-oficina-e-atracoes-de-terror/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "festa"
-      ],
-      "featured": true
-    },
-    {
-      "id": "wyta0t",
-      "title": "Festival de Halloween em Moema terá shows gratuitos e circuito de doces",
-      "description": "Em sua 11ª edição, o evento aberto ao público acontece na Praça David Nasser",
-      "category": "festa",
-      "date": "2026-10-31T19:00:00",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/SaveClip.App_570349304_18401703067191223_5543389865165279144_n.webp",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/festival-halloween-moema-2026-sao-paulo/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/festival-halloween-moema-2026-sao-paulo/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "festa"
-      ],
-      "featured": true
     },
     {
       "id": "kjrf9b",
@@ -2760,28 +2782,6 @@
         "sp"
       ],
       "featured": true
-    },
-    {
-      "id": "s20yvl",
-      "title": "Noel Kids Run 2026: corrida infantil terá percursos por idade e chegada do Papai Noel em São Bernardo",
-      "description": "Evento no Golden Square Shopping acontece em 14 de novembro, com distâncias de 50 a 500 metros e brinquedos infláveis  A temporada de Natal começa com esporte e brincadeiras no Golden Square Shopping, em São Bernardo do Campo, no ABC Paulista. No sábado, 14 de novembro de 2026, o empreendimento recebe a segunda edição da [&hellip;]",
-      "category": "infantil",
-      "date": "2026-11-14T10:00:00",
-      "location": "Bela Vista",
-      "neighborhood": "Bela Vista",
-      "price": 35,
-      "isFree": false,
-      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/10/sp_criancas_passeios_corrida-1.jpg",
-      "ticketUrl": "https://saopauloparacriancas.com.br/corrida-infantil-sp/",
-      "source": "SP para Crianças",
-      "sourceUrl": "https://saopauloparacriancas.com.br/corrida-infantil-sp/",
-      "tags": [
-        "infantil",
-        "familia",
-        "criancas",
-        "sp"
-      ],
-      "featured": false
     },
     {
       "id": "blg03i",
