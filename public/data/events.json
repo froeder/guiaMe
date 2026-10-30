@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T12:43:32.102Z",
+  "updatedAt": "2026-10-30T12:35:12.101Z",
   "totalCount": 123,
   "sources": [
     "Veja SP",
@@ -491,50 +491,6 @@
         "musica"
       ],
       "featured": false
-    },
-    {
-      "id": "iihiry",
-      "title": "Sesc Itaquera celebra Dia das Crianças com show gratuito do Tiquequê e Quintal da Cultura",
-      "description": "Tiquequê e Quintal da Cultura juntos no Sesc Itaquera! Domingo de show gratuito, música e muita diversão em família no Dia das Crianças. Vem ver!",
-      "category": "musica",
-      "date": "2026-10-12T10:00:00",
-      "location": "Itaquera",
-      "neighborhood": "Itaquera",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/10/sesc-itaquera-celebra-dia-das-criancas-com-show-gratuito-do-tiqueque-e-quintal-da-cultura.jpg",
-      "ticketUrl": "https://catracalivre.com.br/gira/sesc-itaquera-celebra-dia-das-criancas-com-show-gratuito-do-tiqueque-e-quintal-da-cultura-sp/",
-      "source": "Catraca Livre",
-      "sourceUrl": "https://catracalivre.com.br/gira/sesc-itaquera-celebra-dia-das-criancas-com-show-gratuito-do-tiqueque-e-quintal-da-cultura-sp/",
-      "tags": [
-        "catracalivre",
-        "gratuito",
-        "sp",
-        "musica"
-      ],
-      "featured": true
-    },
-    {
-      "id": "4grpq1",
-      "title": "Museu da Língua Portuguesa celebra Dia das Crianças com festival gratuito em São Paulo",
-      "description": "Procurando passeio de Dia das Crianças em SP? O Museu da Língua Portuguesa recebe atrações gratuitas com brincadeiras, música e arte na Estação da Luz.",
-      "category": "musica",
-      "date": "2026-10-12T10:00:00",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/10/240805-an-badulaque-748-scaled.jpg",
-      "ticketUrl": "https://catracalivre.com.br/gira/museu-da-lingua-portuguesa-celebra-dia-das-criancas-com-festival-gratuito-em-sao-paulo/",
-      "source": "Catraca Livre",
-      "sourceUrl": "https://catracalivre.com.br/gira/museu-da-lingua-portuguesa-celebra-dia-das-criancas-com-festival-gratuito-em-sao-paulo/",
-      "tags": [
-        "catracalivre",
-        "gratuito",
-        "sp",
-        "musica"
-      ],
-      "featured": true
     },
     {
       "id": "ii2yxl",
@@ -1049,50 +1005,6 @@
       "featured": false
     },
     {
-      "id": "2w9rxb",
-      "title": "Feira de artesanato ocupa o Viaduto Santa Ifigênia a partir desta quinta-feira (22)",
-      "description": "Com atrações de artesanato e gastronomia, feira acontece até sábado (24) e contará com apoio a empreendedores",
-      "category": "exposicao",
-      "date": "2026-10-21T15:38:43.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/feira-3.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/feira-de-artesanato-viaduto-santa-ifigenia/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/feira-de-artesanato-viaduto-santa-ifigenia/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "exposicao"
-      ],
-      "featured": true
-    },
-    {
-      "id": "m8wfo2",
-      "title": "Museu das Favelas promove concurso de sósias de Alcione no sábado (24)",
-      "description": "Atividade gratuita premiará os primeiros colocados com ingressos para espetáculos",
-      "category": "teatro",
-      "date": "2026-10-21T15:40:21.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2025/11/Alcione-2024-Vinicius-Mochizuki-06.jpeg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/museu-das-favelas-concurso-sosias-alcione-sao-paulo-sabado/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/museu-das-favelas-concurso-sosias-alcione-sao-paulo-sabado/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "teatro"
-      ],
-      "featured": true
-    },
-    {
       "id": "l4zfup",
       "title": "Passeio Ciclístico Noturno de São Paulo (Gratuito)",
       "description": "Passeio ciclístico de 15km pelas vias icônicas de SP iluminadas à noite: Av. Paulista, Minhocão, Praça Roosevelt e Vale do Anhangabaú. Apoio mecânico, batedores da CET e ritmo leve para ciclistas de todas as idades.",
@@ -1163,28 +1075,6 @@
       "featured": false
     },
     {
-      "id": "xht4xr",
-      "title": "Instituto Baccarelli celebra 30 anos com concertos em Heliópolis",
-      "description": "Orquestra e corais se apresentam nesta quinta, e no sábado a programação inclui uma apresentação dos alunos do instituto",
-      "category": "musica",
-      "date": "2026-10-22T15:20:49.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/baccarelli-93.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/instituto-baccarelli-celebra-30-anos-com-concertos-em-heliopolis/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/instituto-baccarelli-celebra-30-anos-com-concertos-em-heliopolis/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "musica"
-      ],
-      "featured": true
-    },
-    {
       "id": "nj7fzu",
       "title": "A adolescência bate à porta! Comédia “Imagina na Adolescência” estreia em SP",
       "description": "Com Priscila Assum, comédia inspirada no livro de Thaís Vilarinho fala sobre limites, privacidade e autonomia dos adolescentes A relação entre mães e filhos muda quando chega a adolescência. Esse é o tema de Imagina na Adolescência, comédia em cartaz no Teatro Multiplan MorumbiShopping, na Zona Sul de São Paulo. Estrelado por Priscila Assum, o [&hellip;]",
@@ -1203,28 +1093,6 @@
         "familia",
         "criancas",
         "sp"
-      ],
-      "featured": false
-    },
-    {
-      "id": "48uwb5",
-      "title": "São Paulo ganha Museu Presbiteriano dedicado à memória evangélica na Bela Vista",
-      "description": "Instalado na sede da Fatipi, o espaço reúne peças litúrgicas e documentos raros",
-      "category": "teatro",
-      "date": "2026-10-22T16:01:28.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/not_22-10-26_museu_1.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/sao-paulo-ganha-museu-presbiteriano-dedicado-a-memoria-evangelica-na-bela-vista/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/sao-paulo-ganha-museu-presbiteriano-dedicado-a-memoria-evangelica-na-bela-vista/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "teatro"
       ],
       "featured": false
     },
@@ -1249,72 +1117,6 @@
         "sp"
       ],
       "featured": false
-    },
-    {
-      "id": "aecfbe",
-      "title": "Fulvio Pennacchi: entenda o destino das obras do artista após demolição de casa no Jardim Europa",
-      "description": "Um dos maiores artistas da segunda fase do modernismo brasileiro terá legado preservado em museu no Paraná e possui outras obras espalhadas por São Paulo",
-      "category": "exposicao",
-      "date": "2026-10-23T08:00:22.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/ABRE-Afresco-sala-de-jantar-por-Romulo-Fialdini.jpg.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/fulvio-pennacchi-entenda-destino-obras-artista-apos-demolicao-casa-jardim-europa/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/fulvio-pennacchi-entenda-destino-obras-artista-apos-demolicao-casa-jardim-europa/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "exposicao"
-      ],
-      "featured": true
-    },
-    {
-      "id": "87ybxf",
-      "title": "Mural SP: Marlene Barros",
-      "description": "Artista, pesquisadora e produtora cultural está em cartaz no CCBB com a exposição ‘Tecitura do Feminino’",
-      "category": "exposicao",
-      "date": "2026-10-23T08:00:41.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/Marlene-Barros-1.jpeg-1.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/mural-sp-marlene-barros/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/mural-sp-marlene-barros/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "exposicao"
-      ],
-      "featured": true
-    },
-    {
-      "id": "a9kr4q",
-      "title": "Clash Royale grátis no Metrô: Estação Sé recebe arena gamer até 23 de outubro",
-      "description": "Atração gratuita em São Paulo celebra os 10 anos do jogo com partidas interativas durante a semana e campeonatos com influenciadores aos fins de semana. Quem gosta de videogame pode encontrar uma arena de Clash Royale no caminho pelo centro de São Paulo. Até 23 de outubro de 2026, a Estação Sé do Metrô recebe [&hellip;]",
-      "category": "infantil",
-      "date": "2026-10-23T10:00:00",
-      "location": "Centro Histórico",
-      "neighborhood": "Centro Histórico",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/10/sp_criancas_passeio_royale-2.jpg",
-      "ticketUrl": "https://saopauloparacriancas.com.br/ativacao-metro-sp/",
-      "source": "SP para Crianças",
-      "sourceUrl": "https://saopauloparacriancas.com.br/ativacao-metro-sp/",
-      "tags": [
-        "infantil",
-        "familia",
-        "criancas",
-        "sp"
-      ],
-      "featured": true
     },
     {
       "id": "qjcmv4",
@@ -1406,28 +1208,6 @@
         "teatro"
       ],
       "featured": false
-    },
-    {
-      "id": "op8d6s",
-      "title": "O que fazer em São Paulo em 24 e 25 de outubro? Veja 16 programas",
-      "description": "Festival de Halloween, Mostra Internacional de Cinema, show do Iron Maiden e atrações gratuitas estão entre os destaques do fim de semana",
-      "category": "festa",
-      "date": "2026-10-24T10:00:00",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/SaveClip.App_570349304_18401703067191223_5543389865165279144_n.webp",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/programacao-fim-de-semana-24-25-outubro/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/programacao-fim-de-semana-24-25-outubro/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "festa"
-      ],
-      "featured": true
     },
     {
       "id": "8qbmwy",
@@ -2032,6 +1812,182 @@
       "featured": true
     },
     {
+      "id": "mtwf5a",
+      "title": "‘Feliz Ano Velho’: musical em SP reúne hits do rock nacional dos anos 80",
+      "description": "Adaptação do romance autobiográfico de Marcelo Rubens Paiva tem canções de Legião Urbana, Titãs, Cazuza e Rita Lee e fica em cartaz até novembro",
+      "category": "musica",
+      "date": "2026-10-29T11:59:21.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/CGF9405.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/feliz-ano-velho-musical/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/feliz-ano-velho-musical/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "musica"
+      ],
+      "featured": true
+    },
+    {
+      "id": "m2yqvw",
+      "title": "Johnny Massaro: “tenho cada vez menos necessidade de me enquadrar”",
+      "description": "Em cartaz em São Paulo com o primeiro solo da carreira, o astro de “Delegado” e “O Diário de Um Mago” fala sobre o momento profissional, amor e outros temas",
+      "category": "cultura",
+      "date": "2026-10-29T13:03:25.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/Johnny-Massaro_cred-Alexandre-Tofolli.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/johnny-massaro-tenho-cada-vez-menos-necessidade-de-me-enquadrar/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/johnny-massaro-tenho-cada-vez-menos-necessidade-de-me-enquadrar/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "cultura"
+      ],
+      "featured": false
+    },
+    {
+      "id": "8u2n6a",
+      "title": "Museu da Imigração celebra 30 anos da Festa do Imigrante com entrada solidária e culturas de mais de 50 países",
+      "description": "O evento na Mooca reúne danças típicas, pratos de 40 nações, oficinas, passeio de maria-fumaça e feira artesanal mediante a doação de 1 kg de alimento.",
+      "category": "festa",
+      "date": "2026-10-29T13:38:25.000Z",
+      "location": "Mooca",
+      "neighborhood": "Mooca",
+      "price": 25,
+      "isFree": false,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/10/gemini-generated-image-negrjgnegrjgnegr.jpg",
+      "ticketUrl": "https://catracalivre.com.br/gira/museu-da-imigracao-celebra-30-anos-da-festa-do-imigrante-sp/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/museu-da-imigracao-celebra-30-anos-da-festa-do-imigrante-sp/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
+        "sp",
+        "festa"
+      ],
+      "featured": false
+    },
+    {
+      "id": "3mxo4m",
+      "title": "Casa da Don’Anna tem visita guiada, brunch e espaços com natureza em São Paulo",
+      "description": "Casarão centenário nos Campos Elíseos reúne história, arquitetura e gastronomia; veja como organizar o passeio com crianças Que tal conhecer um casarão centenário, descobrir histórias de São Paulo e terminar o passeio com um brunch na varanda? A Casa da Don’Anna, no bairro dos Campos Elíseos, região central da capital, é cenário de visitas guiadas [&hellip;]",
+      "category": "infantil",
+      "date": "2026-10-29T14:12:55.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 35,
+      "isFree": false,
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/10/sp_criancas_passeio_casa_donana-1.jpg",
+      "ticketUrl": "https://saopauloparacriancas.com.br/casa-da-donanna-sp/",
+      "source": "SP para Crianças",
+      "sourceUrl": "https://saopauloparacriancas.com.br/casa-da-donanna-sp/",
+      "tags": [
+        "infantil",
+        "familia",
+        "criancas",
+        "sp"
+      ],
+      "featured": false
+    },
+    {
+      "id": "tdollf",
+      "title": "Caverna de SP reabre após 15 anos; passeio dura 8 horas",
+      "description": "Em Iporanga, no Vale do Ribeira, roteiro tem cerca de 10 km de trilha",
+      "category": "cultura",
+      "date": "2026-10-29T16:50:43.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/whatsapp-image-2026-10-28-at-19-55-371-768x1024-1.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/caverna-de-sp-reabre-apos-15-anos-passeio-dura-8-horas/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/caverna-de-sp-reabre-apos-15-anos-passeio-dura-8-horas/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "cultura"
+      ],
+      "featured": false
+    },
+    {
+      "id": "rt8k82",
+      "title": "São Paulo terá festival gratuito de Día de los Muertos no feriado de Finados",
+      "description": "Festa inspirada na festividade ocupa praças e ruas com mariachis, DJs e cardápios temáticos",
+      "category": "festa",
+      "date": "2026-10-29T17:00:47.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/Banda-Viva-Noite.jpeg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/sao-paulo-tera-festival-gratuito-de-dia-de-los-muertos-no-feriado-de-finados/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/sao-paulo-tera-festival-gratuito-de-dia-de-los-muertos-no-feriado-de-finados/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "festa"
+      ],
+      "featured": true
+    },
+    {
+      "id": "dtk35r",
+      "title": "Ronnie Wood abre o jogo sobre saúde e Rolling Stones: “Enfrentei o câncer duas vezes”",
+      "description": "O imparável guitarrista volta ao Brasil em turnê solo e fala de sobriedade, dos conflitos entre Mick Jagger e Keith Richards e de suas pinturas",
+      "category": "exposicao",
+      "date": "2026-10-30T07:00:59.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/RW_Press-Shot-1.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/ronnie-wood-rolling-stones-cancer-entrevista/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/ronnie-wood-rolling-stones-cancer-entrevista/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "exposicao"
+      ],
+      "featured": true
+    },
+    {
+      "id": "89dk4v",
+      "title": "Mural SP: Ronnie Wood",
+      "description": "Em paralelo à música, cantor dedica-se à pintura e realiza exposições frequentes na Europa",
+      "category": "musica",
+      "date": "2026-10-30T08:00:53.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/RW_Press-Shot.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/mural-sp-ronnie-wood/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/mural-sp-ronnie-wood/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "musica"
+      ],
+      "featured": true
+    },
+    {
       "id": "1hozdl",
       "title": "Hopi Hari: Noite dos Horrores Especial Pré-Halloween",
       "description": "O maior parque temático da região de SP com túneis assustadores, dezenas de atores caracterizados, shows musicais de abertura e montanhas-russas funcionando até altas horas da noite. Transporte especial saindo do Terminal Barra Funda.",
@@ -2080,6 +2036,28 @@
         "gratuito",
         "filmes"
       ]
+    },
+    {
+      "id": "pczun3",
+      "title": "Halloween em SP: veja 16 programas para o fim de semana",
+      "description": "Festas gratuitas, sessões de terror, passeios assombrados e atividades para crianças estão entre as atrações de 31 de outubro e 1º de novembro",
+      "category": "festa",
+      "date": "2026-10-31T10:00:00",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/09/001A3654.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/halloween-em-sp-veja-16-programas-para-o-fim-de-semana/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/halloween-em-sp-veja-16-programas-para-o-fim-de-semana/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "festa"
+      ],
+      "featured": true
     },
     {
       "id": "3qj982",
@@ -2466,22 +2444,22 @@
       "featured": false
     },
     {
-      "id": "tamj4v",
-      "title": "UCI Day Terror tem ingressos de cinema a R$ 12 no fim de semana do Halloween",
-      "description": "Promoção inclui sessões de clássicos do cinema de horror, lançamentos e animação",
+      "id": "waeztm",
+      "title": "Chapeiro zumbi do Bullguer invade Edifício Rolim às 3h33 levando terror aos visitantes durante o Halloween",
+      "description": "Parceria leva sustos, DJs e encontros inesperados à experiência de Halloween que convida o público a explorar o prédio durante a madrugada",
       "category": "festa",
       "date": "2026-10-31T19:00:00",
       "location": "São Paulo",
       "neighborhood": "São Paulo",
-      "price": 30,
+      "price": 25,
       "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2016/12/img_5560-uci.jpeg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/uci-day-terror-tem-ingressos-de-cinema-a-r-12-no-fim-de-semana-do-halloween/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/uci-day-terror-tem-ingressos-de-cinema-a-r-12-no-fim-de-semana-do-halloween/",
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/10/rolim-scaled-e1793287418264.jpeg",
+      "ticketUrl": "https://catracalivre.com.br/gira/chapeiro-zumbi-do-bullguer-invade-edificio-rolim-as-3h33-levando-terror-aos-visitantes-durante-o-halloween/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/chapeiro-zumbi-do-bullguer-invade-edificio-rolim-as-3h33-levando-terror-aos-visitantes-durante-o-halloween/",
       "tags": [
-        "vejasp",
-        "cultura",
+        "catracalivre",
+        "gratuito",
         "sp",
         "festa"
       ],
@@ -2782,6 +2760,28 @@
         "sp"
       ],
       "featured": true
+    },
+    {
+      "id": "2ilero",
+      "title": "Ana Castela vai cantar Hino Nacional no GP de São Paulo de Fórmula 1",
+      "description": "Cantora sertaneja se apresenta no Autódromo de Interlagos no dia 8 de novembro, antes da largada da corrida",
+      "category": "esporte",
+      "date": "2026-11-08T10:00:00",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2025/01/6f49a152-1e87-471a-8092-594b1890cbe1.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/ana-castela-vai-cantar-hino-nacional-no-gp-de-sao-paulo-de-formula-1/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/ana-castela-vai-cantar-hino-nacional-no-gp-de-sao-paulo-de-formula-1/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "esporte"
+      ],
+      "featured": false
     },
     {
       "id": "blg03i",
