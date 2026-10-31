@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T12:35:12.101Z",
+  "updatedAt": "2026-10-31T12:00:36.177Z",
   "totalCount": 123,
   "sources": [
     "Veja SP",
@@ -1119,50 +1119,6 @@
       "featured": false
     },
     {
-      "id": "qjcmv4",
-      "title": "CCXP terá ‘Dia da Marvel’ com atrações especiais",
-      "description": "Programação, ainda não confirmada, vai ocupar três palcos",
-      "category": "teatro",
-      "date": "2026-10-23T12:10:38.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2025/07/LISTA-2-FILME-QUARTETO-FANTASTICO-Credito-Marvel-Studios-Divulgacao.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/ccxp-tera-dia-da-marvel-com-atracoes-especiais/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/ccxp-tera-dia-da-marvel-com-atracoes-especiais/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "teatro"
-      ],
-      "featured": false
-    },
-    {
-      "id": "60xzzc",
-      "title": "Por que não vai passar ‘Quem Ama Cuida’ nesta sexta-feira (23)?",
-      "description": "Entenda a mudança na programação da TV Globo",
-      "category": "gastronomia",
-      "date": "2026-10-23T15:23:29.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/pilar-encontra-adriana-na-sala-da-presidencia-da-joalheria-em-quem-ama-cuida-c0bb21ce2e9d.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/por-que-nao-vai-passar-quem-ama-cuida-nesta-sexta-feira-23/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/por-que-nao-vai-passar-quem-ama-cuida-nesta-sexta-feira-23/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "gastronomia"
-      ],
-      "featured": false
-    },
-    {
       "id": "7lxhcc",
       "title": "SESC Pinheiros — Festival de Jazz Contemporâneo",
       "description": "Três noites de jazz com instrumentistas nacionais e internacionais. Masterclasses gratuitas e jam sessions abertas ao público após as apresentações principais.",
@@ -1186,50 +1142,6 @@
         "musica",
         "gratuito"
       ]
-    },
-    {
-      "id": "2chy3o",
-      "title": "Chef Gerônimo Athuel lança coleção de design em madeira em São Paulo",
-      "description": "Criador do restaurante Ocyá, no Rio, e do estúdio PATSÜ, ele exibe peças feitas com madeira descartada, de 24 a 31 de outubro, na Galeria Objeto Particular",
-      "category": "teatro",
-      "date": "2026-10-24T10:00:00",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/patsu-26-por-Mollica-1.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/chef-geronimo-athuel-lanca-colecao-de-design-em-madeira-em-sao-paulo/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/chef-geronimo-athuel-lanca-colecao-de-design-em-madeira-em-sao-paulo/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "teatro"
-      ],
-      "featured": false
-    },
-    {
-      "id": "8qbmwy",
-      "title": "Dia Municipal do Reggae terá shows gratuitos na Praça da Luz",
-      "description": "Mato Seco e Planta &#038; Raiz se apresentam no domingo (1º)",
-      "category": "musica",
-      "date": "2026-10-24T10:00:07.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/Mato_Seco_banda-de-reggae_Divulgacao_Credito-Marcos_Alonso-.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/dia-municipal-do-reggae-tera-shows-gratuitos-na-praca-da-luz/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/dia-municipal-do-reggae-tera-shows-gratuitos-na-praca-da-luz/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "musica"
-      ],
-      "featured": true
     },
     {
       "id": "h6qrvx",
@@ -1902,7 +1814,7 @@
     {
       "id": "tdollf",
       "title": "Caverna de SP reabre após 15 anos; passeio dura 8 horas",
-      "description": "Em Iporanga, no Vale do Ribeira, roteiro tem cerca de 10 km de trilha",
+      "description": "Em Apiaí, no Vale do Ribeira, roteiro tem cerca de 10 km de trilha",
       "category": "cultura",
       "date": "2026-10-29T16:50:43.000Z",
       "location": "São Paulo",
@@ -1988,6 +1900,72 @@
       "featured": true
     },
     {
+      "id": "t6azty",
+      "title": "Ronnie Wood e Ivald Granato: a amizade que uniu rock e pintura",
+      "description": "Guitarrista dos Rolling Stones e artista plástico brasileiro compartilharam mais de três décadas de parceria",
+      "category": "musica",
+      "date": "2026-10-30T09:00:35.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-22-at-17.28.51-1.jpeg.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/ronnie-wood-ivald-granato/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/ronnie-wood-ivald-granato/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "musica"
+      ],
+      "featured": true
+    },
+    {
+      "id": "x8ei8d",
+      "title": "Quem era Matheus Sabbá, ator e diretor teatral que morreu aos 30 anos",
+      "description": "Artista amazonense teve destaque no teatro musical e na ópera, com passagens pelo Theatro Municipal de São Paulo e Theatro São Pedro",
+      "category": "musica",
+      "date": "2026-10-30T09:51:17.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/Mateus.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/quem-era-matheus-sabba-ator-e-diretor-teatral-que-morreu-aos-30-anos/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/quem-era-matheus-sabba-ator-e-diretor-teatral-que-morreu-aos-30-anos/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "musica"
+      ],
+      "featured": true
+    },
+    {
+      "id": "rrepda",
+      "title": "O que fazer em São Paulo no feriado? Veja 15 programas de 31/10 a 2/11",
+      "description": "Festivais gratuitos, shows, exposições, teatro e atividades para crianças estão entre as atrações do fim de semana prolongado",
+      "category": "musica",
+      "date": "2026-10-30T10:37:34.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/CREDITO_-RAFA-GUIRRO.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/o-que-fazer-em-sao-paulo-no-feriado-veja-15-programas-de-31-10-a-2-11/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/o-que-fazer-em-sao-paulo-no-feriado-veja-15-programas-de-31-10-a-2-11/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "musica"
+      ],
+      "featured": true
+    },
+    {
       "id": "1hozdl",
       "title": "Hopi Hari: Noite dos Horrores Especial Pré-Halloween",
       "description": "O maior parque temático da região de SP com túneis assustadores, dezenas de atores caracterizados, shows musicais de abertura e montanhas-russas funcionando até altas horas da noite. Transporte especial saindo do Terminal Barra Funda.",
@@ -2013,6 +1991,28 @@
       ]
     },
     {
+      "id": "5h6245",
+      "title": "Craque Neto pede desculpas aos fãs do BTS e anuncia que irá ao show",
+      "description": "Apresentador afirmou que não conhecia o grupo e reconheceu que os sul-coreanos “cantam bem”. Críticas começaram por causa do trânsito",
+      "category": "musica",
+      "date": "2026-10-30T18:52:33.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/651019012-craque-neto-foto-reproducao-youtube.webp",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/craque-neto-pede-desculpas-aos-fas-do-bts-e-anuncia-que-ira-ao-show/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/craque-neto-pede-desculpas-aos-fas-do-bts-e-anuncia-que-ira-ao-show/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "musica"
+      ],
+      "featured": true
+    },
+    {
       "id": "8oitj4",
       "title": "Cinemateca Brasileira: Ciclo Cinema Macabro e Clássicos de Horror (Gratuito)",
       "description": "Projeção ao ar livre nos jardins da Cinemateca com clássicos do terror mundial: Drácula de Bela Lugosi, Nosferatu com acompanhamento de piano ao vivo e O Bebê de Rosemary. Entrada gratuita com retirada de senha 1h antes.",
@@ -2036,6 +2036,28 @@
         "gratuito",
         "filmes"
       ]
+    },
+    {
+      "id": "ou21fi",
+      "title": "Conheça 7 lugares de São Paulo cercados por histórias de fantasmas",
+      "description": "Edifícios Martinelli e Joelma estão entre os endereços em que tragédias deram origem a histórias; veja o que se conta sobre cada um e como visitar",
+      "category": "cultura",
+      "date": "2026-10-31T07:00:25.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2025/07/EdMartinelli.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/conheca-7-lugares-de-sao-paulo-cercados-por-historias-de-fantasmas/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/conheca-7-lugares-de-sao-paulo-cercados-por-historias-de-fantasmas/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "cultura"
+      ],
+      "featured": false
     },
     {
       "id": "pczun3",
@@ -2420,28 +2442,6 @@
         "festa"
       ],
       "featured": true
-    },
-    {
-      "id": "dg9qc8",
-      "title": "No Halloween, ‘Caminhada Assombrada’ desvenda lendas e histórias sobrenaturais do centro de SP",
-      "description": "Quarta edição de passeio noturno traz histórias de assombração e mistérios por trás de lugares emblemáticos da região",
-      "category": "festa",
-      "date": "2026-10-31T19:00:00",
-      "location": "Centro Histórico",
-      "neighborhood": "Centro Histórico",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=800&q=80",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/halloween-caminhada-assombrada-lendas-historias-sobrenaturais-centro-sp/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/halloween-caminhada-assombrada-lendas-historias-sobrenaturais-centro-sp/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "festa"
-      ],
-      "featured": false
     },
     {
       "id": "waeztm",
