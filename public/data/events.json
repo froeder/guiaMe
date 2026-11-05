@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-04T14:11:32.853Z",
-  "totalCount": 34,
+  "updatedAt": "2026-11-05T14:27:23.738Z",
+  "totalCount": 40,
   "sources": [
     "Veja SP",
     "Catraca Livre",
@@ -538,6 +538,160 @@
       "featured": true
     },
     {
+      "id": "6mwyyx",
+      "title": "Krispy Kreme distribui donuts grátis em São Paulo; veja onde",
+      "description": "Ação revela pontos de entrega pelas redes sociais e esconde cupons dourados que dão direito a uma visita à nova loja da marca, na Zona Leste",
+      "category": "cultura",
+      "date": "2026-11-04T12:55:51.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-14-at-17.57.44.jpeg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/krispy-kreme-donuts-gratis-sp/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/krispy-kreme-donuts-gratis-sp/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "cultura"
+      ],
+      "featured": true
+    },
+    {
+      "id": "n19hvg",
+      "title": "Você pode escolher o nome de uma nova espécie de besouro em SP",
+      "description": "Exposição no Museu de Zoologia da USP apresenta três opções para batizar inseto recém-descoberto na Amazônia e revela curiosidades sobre a floresta",
+      "category": "exposicao",
+      "date": "2026-11-04T13:23:22.000Z",
+      "location": "Butantã",
+      "neighborhood": "Butantã",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/20260616_exposicao-amazonia-descobertas-besouro36-1024x538-1.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/museu-zoologia-amazonia-besouro-nome/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/museu-zoologia-amazonia-besouro-nome/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "exposicao"
+      ],
+      "featured": true
+    },
+    {
+      "id": "cl40cx",
+      "title": "Morre aos 48 anos a ex-apresentadora Janaína Barbosa",
+      "description": "Conhecida pelo trabalho no ‘TV Fama’ nos anos 2000, ela se afastou da televisão e atuava como psicanalista e pesquisadora na USP",
+      "category": "cultura",
+      "date": "2026-11-04T14:43:36.000Z",
+      "location": "Butantã",
+      "neighborhood": "Butantã",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/Janaina.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/morre-aos-48-anos-a-ex-apresentadora-janaina-barbosa/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/morre-aos-48-anos-a-ex-apresentadora-janaina-barbosa/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "cultura"
+      ],
+      "featured": false
+    },
+    {
+      "id": "5d3lml",
+      "title": "Quem é Lucas Jagger, filho de Mick Jagger com Luciana Gimenez",
+      "description": "Formado pela Universidade de Nova York, jovem de 27 anos chamou Ronnie Wood, guitarrista dos Rolling Stones, de ‘tio’ em post no domingo (1º)",
+      "category": "cultura",
+      "date": "2026-11-04T15:04:29.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/Lucas-Jagger.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/quem-e-lucas-jagger-filho-de-mick-jagger-com-luciana-gimenez/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/quem-e-lucas-jagger-filho-de-mick-jagger-com-luciana-gimenez/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "cultura"
+      ],
+      "featured": false
+    },
+    {
+      "id": "49n4st",
+      "title": "Marina Ruy Barbosa e Abdul Fares terminaram o noivado? Entenda rumores",
+      "description": "Segundo o jornal Extra, casal está separado há pelo menos dois meses",
+      "category": "cultura",
+      "date": "2026-11-04T16:26:03.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/Marina-Ruy-Barbosa-e-Abdul-Fares_3.webp",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/marina-ruy-barbosa-e-abdul-fares-terminaram-o-noivado-entenda-rumores/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/marina-ruy-barbosa-e-abdul-fares-terminaram-o-noivado-entenda-rumores/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "cultura"
+      ],
+      "featured": false
+    },
+    {
+      "id": "sxgehc",
+      "title": "Guga Kuerten relembra conquistas, desafios da carreira e histórias vividas em São Paulo",
+      "description": "Tricampeão de Roland Garros fala sobre os aprendizados de sua trajetória e conta história curiosa de quando ficou hospedado no dormitório do Clube Pinheiros",
+      "category": "festa",
+      "date": "2026-11-04T16:47:02.000Z",
+      "location": "Pinheiros",
+      "neighborhood": "Pinheiros",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/snapinsta-1793821322136-e1793821392557.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/guga-kuerten-relembra-conquistas-desafios-da-carreira-e-historias-vividas-em-sao-paulo/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/guga-kuerten-relembra-conquistas-desafios-da-carreira-e-historias-vividas-em-sao-paulo/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "festa"
+      ],
+      "featured": false
+    },
+    {
+      "id": "bnt98t",
+      "title": "Exposição de carros em SP tem simuladores de corrida, realidade virtual e desconto para famílias",
+      "description": "AutoMotor Experience reúne mais de 150 itens históricos no Shopping Vila Olímpia, com carros icônicos e atrações interativas; leitores do São Paulo para Crianças têm 20% de desconto no ingresso inteiro Crianças que gostam de carros, velocidade e tecnologia podem embarcar em uma viagem pela história do automobilismo na AutoMotor Experience, exposição em cartaz no [&hellip;]",
+      "category": "infantil",
+      "date": "2026-11-05T11:06:19.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 35,
+      "isFree": false,
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/11/sp_crianas_passeio_carros_6.jpeg",
+      "ticketUrl": "https://saopauloparacriancas.com.br/exposicao-de-carros-sp/",
+      "source": "SP para Crianças",
+      "sourceUrl": "https://saopauloparacriancas.com.br/exposicao-de-carros-sp/",
+      "tags": [
+        "infantil",
+        "familia",
+        "criancas",
+        "sp"
+      ],
+      "featured": false
+    },
+    {
       "id": "996qgo",
       "title": "Palavra Cantada, POIN, brincadeiras e shows gratuitos agitam festival infantil do GRAACC em SP",
       "description": "Que tal curtir um sábado com música e brincadeiras com as crianças? No dia 7 de novembro de 2026, o Festival de Música GRAACC acontece no Parque do Povo, em São Paulo, com entrada gratuita. O evento celebra os 35 anos do GRAACC, instituição especializada no tratamento do câncer infantojuvenil. Das 11h às 16h, a [&hellip;]",
@@ -558,28 +712,6 @@
         "sp"
       ],
       "featured": true
-    },
-    {
-      "id": "2ilero",
-      "title": "Ana Castela vai cantar Hino Nacional no GP de São Paulo de Fórmula 1",
-      "description": "Cantora sertaneja se apresenta no Autódromo de Interlagos no dia 8 de novembro, antes da largada da corrida",
-      "category": "esporte",
-      "date": "2026-11-08T10:00:00",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2025/01/6f49a152-1e87-471a-8092-594b1890cbe1.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/ana-castela-vai-cantar-hino-nacional-no-gp-de-sao-paulo-de-formula-1/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/ana-castela-vai-cantar-hino-nacional-no-gp-de-sao-paulo-de-formula-1/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "esporte"
-      ],
-      "featured": false
     },
     {
       "id": "ymql4s",
