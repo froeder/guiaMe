@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-06T14:02:56.489Z",
-  "totalCount": 49,
+  "updatedAt": "2026-11-07T12:46:53.363Z",
+  "totalCount": 52,
   "sources": [
     "Veja SP",
     "Catraca Livre",
@@ -118,50 +118,6 @@
         "musica"
       ],
       "featured": true
-    },
-    {
-      "id": "ktcvv",
-      "title": "Desfile de zumbis vai tomar as ruas do centro de SP; veja como participar",
-      "description": "Zombie Walk SP completa 20 anos com edição no dia 2 de novembro",
-      "category": "cultura",
-      "date": "2026-11-02T10:00:00",
-      "location": "Centro Histórico",
-      "neighborhood": "Centro Histórico",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/thumbnail-youtube-1280x720-1.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/desfile-de-zumbis-vai-tomar-as-ruas-do-centro-de-sp-veja-como-participar/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/desfile-de-zumbis-vai-tomar-as-ruas-do-centro-de-sp-veja-como-participar/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "cultura"
-      ],
-      "featured": false
-    },
-    {
-      "id": "fs31l1",
-      "title": "Planetário Ibirapuera promove sessão especial de Halloween",
-      "description": "Experiência temática acontece no feriado de 2 de novembro e reúne fenômenos astronômicos, mitologia e clima de terror",
-      "category": "festa",
-      "date": "2026-11-02T10:00:00",
-      "location": "Vila Mariana",
-      "neighborhood": "Vila Mariana",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/08/Planetario-Ibirapuera-Interno.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/planetario-ibirapuera-promove-sessao-especial-de-halloween/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/planetario-ibirapuera-promove-sessao-especial-de-halloween/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "festa"
-      ],
-      "featured": false
     },
     {
       "id": "9e7wv8",
@@ -679,7 +635,7 @@
       "neighborhood": "São Paulo",
       "price": 35,
       "isFree": false,
-      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/11/sp_crianas_passeio_carros_6.jpeg",
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/11/sp_criancas_passeios_automotor_05.jpeg",
       "ticketUrl": "https://saopauloparacriancas.com.br/exposicao-de-carros-sp/",
       "source": "SP para Crianças",
       "sourceUrl": "https://saopauloparacriancas.com.br/exposicao-de-carros-sp/",
@@ -890,26 +846,136 @@
       "featured": false
     },
     {
-      "id": "996qgo",
-      "title": "Palavra Cantada, POIN, brincadeiras e shows gratuitos agitam festival infantil do GRAACC em SP",
-      "description": "Que tal curtir um sábado com música e brincadeiras com as crianças? No dia 7 de novembro de 2026, o Festival de Música GRAACC acontece no Parque do Povo, em São Paulo, com entrada gratuita. O evento celebra os 35 anos do GRAACC, instituição especializada no tratamento do câncer infantojuvenil. Das 11h às 16h, a [&hellip;]",
-      "category": "infantil",
-      "date": "2026-11-07T10:00:00",
+      "id": "mviov7",
+      "title": "CCXP26 terá Marvel Day com elenco e diretores de ‘Vingadores: Doutor Destino’",
+      "description": "Evento em São Paulo faz parte da turnê global do novo longa do Marvel Studios, que chega aos cinemas em dezembro de 2026",
+      "category": "exposicao",
+      "date": "2026-11-06T11:44:16.000Z",
       "location": "São Paulo",
       "neighborhood": "São Paulo",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/10/sp_criancas_passeio_graacc-5-1.jpg",
-      "ticketUrl": "https://saopauloparacriancas.com.br/festival-de-musica-graacc-sp/",
-      "source": "SP para Crianças",
-      "sourceUrl": "https://saopauloparacriancas.com.br/festival-de-musica-graacc-sp/",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/Vingadores_2.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/ccxp26-tera-marvel-day-com-elenco-e-diretores-de-vingadores-doutor-destino/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/ccxp26-tera-marvel-day-com-elenco-e-diretores-de-vingadores-doutor-destino/",
       "tags": [
-        "infantil",
-        "familia",
-        "criancas",
-        "sp"
+        "vejasp",
+        "cultura",
+        "sp",
+        "exposicao"
       ],
       "featured": true
+    },
+    {
+      "id": "w8a0nl",
+      "title": "Museu Afro Brasil seleciona artistas para a residência ‘Futuros Pretos’",
+      "description": "Cinco nomes de diferentes regiões do país vão criar obras inéditas para exposição que abre no Dia da Consciência Negra",
+      "category": "exposicao",
+      "date": "2026-11-06T12:55:48.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2022/10/122164055_3663220273710852_5496354890499051813_n.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/museu-afro-brasil-seleciona-artistas-para-a-residencia-futuros-pretos/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/museu-afro-brasil-seleciona-artistas-para-a-residencia-futuros-pretos/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "exposicao"
+      ],
+      "featured": true
+    },
+    {
+      "id": "50906m",
+      "title": "Daniel Ávila é desligado de grupo de teatro após denúncia de violência",
+      "description": "Ator que viveu o personagem Dudu, em ‘A Viagem’, é investigado pela Polícia Civil do RJ; companhia Tá na Rua anunciou hoje a sua demissão",
+      "category": "teatro",
+      "date": "2026-11-06T15:59:09.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/Daniel.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/daniel-avila-e-desligado-de-grupo-de-teatro-apos-denuncia-de-violencia/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/daniel-avila-e-desligado-de-grupo-de-teatro-apos-denuncia-de-violencia/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "teatro"
+      ],
+      "featured": false
+    },
+    {
+      "id": "cwsm5j",
+      "title": "Projeto reúne sets de Pedro Sampaio e MU540 no YouTube para ‘esquenta’ em casa",
+      "description": "Beats Esquenta Fest lança apresentações inéditas ao longo de novembro para garantir a animação antes de uma ‘noitada’",
+      "category": "cultura",
+      "date": "2026-11-06T19:35:02.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/FOTO_PR_PEDRO.jpg.jpeg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/projeto-beats-esquenta-fest-pedro-sampaio-mu540-youtube/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/projeto-beats-esquenta-fest-pedro-sampaio-mu540-youtube/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "cultura"
+      ],
+      "featured": false
+    },
+    {
+      "id": "38uerw",
+      "title": "Morre o diretor Nilton Travesso, pioneiro da televisão brasileira, aos 92 anos",
+      "description": "Nome por trás de atrações históricas como ‘TV Mulher’ e ‘Fantástico’, profissional participou da fundação da TV Record e manteve escola de atores em Pinheiros",
+      "category": "cultura",
+      "date": "2026-11-06T19:55:40.000Z",
+      "location": "Pinheiros",
+      "neighborhood": "Pinheiros",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/Nilton_2.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/morre-o-diretor-nilton-travesso-pioneiro-da-televisao-brasileira-aos-92-anos/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/morre-o-diretor-nilton-travesso-pioneiro-da-televisao-brasileira-aos-92-anos/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "cultura"
+      ],
+      "featured": false
+    },
+    {
+      "id": "d001vy",
+      "title": "Pedro Pacífico abre inscrições para clube com livros de doze países",
+      "description": "Depois de 5 000 e 7 000 assinaturas nas primeiras edições, o Bookster pelo Mundo passa de 9 000 na pré-venda de 2027, segundo o criador",
+      "category": "festa",
+      "date": "2026-11-07T07:00:20.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/TAG-Livros_-Divulgacao.png.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/pedro-pacifico-abre-inscricoes-para-clube-com-livros-de-doze-paises/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/pedro-pacifico-abre-inscricoes-para-clube-com-livros-de-doze-paises/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "festa"
+      ],
+      "featured": false
     },
     {
       "id": "ymql4s",
@@ -934,48 +1000,26 @@
       "featured": true
     },
     {
-      "id": "2gszv3",
-      "title": "Caravana de Natal da Coca-Cola começa em 9 de novembro; veja o roteiro em SP",
-      "description": "A atração reúne cinco caminhões iluminados, com cenários temáticos, personagens e recursos audiovisuais",
-      "category": "cultura",
-      "date": "2026-11-09T10:00:00",
-      "location": "Barra Funda",
-      "neighborhood": "Barra Funda",
+      "id": "v6u2dh",
+      "title": "Festival de teatro negro Melanina Acentuada volta a São Paulo após 14 anos",
+      "description": "Com peças como ‘Macacos’ e a adaptação do ‘Pequeno Manual Antirracista’, evento ocupa o CCBB SP de 12 a 15 de novembro com espetáculos e debates",
+      "category": "teatro",
+      "date": "2026-11-12T10:00:00",
+      "location": "Vila Mariana",
+      "neighborhood": "Vila Mariana",
       "price": 30,
       "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/Coca-Caravana-Natal_Credito-Wess-Thug-Divulgacao.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/caravana-de-natal-da-coca-cola-comeca-em-9-de-novembro-veja-o-roteiro-em-sp/",
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/Manual.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/festival-de-teatro-negro-melanina-acentuada-volta-a-sao-paulo-apos-14-anos/",
       "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/caravana-de-natal-da-coca-cola-comeca-em-9-de-novembro-veja-o-roteiro-em-sp/",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/festival-de-teatro-negro-melanina-acentuada-volta-a-sao-paulo-apos-14-anos/",
       "tags": [
         "vejasp",
         "cultura",
         "sp",
-        "cultura"
+        "teatro"
       ],
       "featured": false
-    },
-    {
-      "id": "hxcs4",
-      "title": "Museu da Imigração celebra 30 anos da Festa do Imigrante com entrada gratuita",
-      "description": "Edição especial reunirá gastronomia, dança e oficinas de mais de 50 países nos dias 14 e 15 de novembro; público deve levar 1 kg de alimento não perecível",
-      "category": "festa",
-      "date": "2026-11-15T10:00:00",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/unnamed-5.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/museu-da-imigracao-celebra-30-anos-da-festa-do-imigrante-com-entrada-gratuita/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/museu-da-imigracao-celebra-30-anos-da-festa-do-imigrante-com-entrada-gratuita/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "festa"
-      ],
-      "featured": true
     },
     {
       "id": "dku9oa",
@@ -996,6 +1040,50 @@
         "gratuito",
         "sp",
         "musica"
+      ],
+      "featured": false
+    },
+    {
+      "id": "o2ac8y",
+      "title": "Tributo K-pop no Shopping Tamboré tem show inspirado nas guerreiras do pop coreano",
+      "description": "Apresentação acontece em 15 de novembro, em Barueri, com coreografias, maquiagem artística e personagens para fotos; crianças de até 4 anos não pagam Quem gosta de música, dança e personagens vai encontrar um programa diferente para curtir em família! No dia 15 de novembro, o Shopping Tamboré, em Barueri, recebe o Tributo K-pop, um espetáculo [&hellip;]",
+      "category": "infantil",
+      "date": "2026-11-15T10:00:00",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 35,
+      "isFree": false,
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/11/sp_criancas_passeios_kpop-Copia.jpeg",
+      "ticketUrl": "https://saopauloparacriancas.com.br/k-pop-sp/",
+      "source": "SP para Crianças",
+      "sourceUrl": "https://saopauloparacriancas.com.br/k-pop-sp/",
+      "tags": [
+        "infantil",
+        "familia",
+        "criancas",
+        "sp"
+      ],
+      "featured": false
+    },
+    {
+      "id": "855pk9",
+      "title": "Natal perto de São Paulo: cidades e passeios para curtir a programação natalina",
+      "description": "Quem quer entrar no clima de Natal sem ir muito longe de São Paulo encontra opções em cidades do interior e da região metropolitana. Há eventos com decoração iluminada, desfiles, personagens, passeios de trem e atividades para as crianças. Em São Pedro, a programação natalina acontece de 20 de novembro de 2026 a 3 de [&hellip;]",
+      "category": "infantil",
+      "date": "2026-11-20T10:00:00",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 35,
+      "isFree": false,
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2025/11/sp_criancas_passeios_pullman_natal_01.jpeg",
+      "ticketUrl": "https://saopauloparacriancas.com.br/natal-perto-de-sp/",
+      "source": "SP para Crianças",
+      "sourceUrl": "https://saopauloparacriancas.com.br/natal-perto-de-sp/",
+      "tags": [
+        "infantil",
+        "familia",
+        "criancas",
+        "sp"
       ],
       "featured": false
     },
@@ -1057,28 +1145,6 @@
       "ticketUrl": "https://saopauloparacriancas.com.br/a-christmas-carol-musical-sp/",
       "source": "SP para Crianças",
       "sourceUrl": "https://saopauloparacriancas.com.br/a-christmas-carol-musical-sp/",
-      "tags": [
-        "infantil",
-        "familia",
-        "criancas",
-        "sp"
-      ],
-      "featured": false
-    },
-    {
-      "id": "41l9n6",
-      "title": "Mar na Paulista: exposição leva crianças a um mergulho pelo fundo do oceano",
-      "description": "Exposição estreia no Brasil em novembro, com projeções em 360°, animais marinhos em grande escala e percurso por quatro ecossistemas oceânicos A exposição imersiva Pixel Zoo Ocean estreia no Brasil em 26 de novembro de 2026, no Nubank Arte Lab, localizado no Conjunto Nacional, na Avenida Paulista, em São Paulo. Com projeções em 360°, luz [&hellip;]",
-      "category": "infantil",
-      "date": "2026-11-26T10:00:00",
-      "location": "Bela Vista",
-      "neighborhood": "Bela Vista",
-      "price": 35,
-      "isFree": false,
-      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/10/sp_criancas_passeio_mar-1.jpg",
-      "ticketUrl": "https://saopauloparacriancas.com.br/na-paulista-exposicao-sp/",
-      "source": "SP para Crianças",
-      "sourceUrl": "https://saopauloparacriancas.com.br/na-paulista-exposicao-sp/",
       "tags": [
         "infantil",
         "familia",
