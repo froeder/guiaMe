@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T12:46:53.363Z",
+  "updatedAt": "2026-11-08T13:06:18.672Z",
   "totalCount": 52,
   "sources": [
     "Veja SP",
@@ -9,116 +9,6 @@
     "Instituições SP"
   ],
   "events": [
-    {
-      "id": "acpal4",
-      "title": "A Magnífica Orchestra de Músicas do Mundo faz show inédito",
-      "description": "Pela primeira vez em um teatro, no Espaço Cia da Revista, coletivo apresenta espetáculo cênico e contemplativo com repertório global",
-      "category": "musica",
-      "date": "2026-11-01T08:00:57.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/MAGNIFICA-ORCHESTRA-02-COR.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/a-magnifica-orchestra-de-musicas-do-mundo-faz-show-inedito/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/a-magnifica-orchestra-de-musicas-do-mundo-faz-show-inedito/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "musica"
-      ],
-      "featured": true
-    },
-    {
-      "id": "hhwlia",
-      "title": "Cia. LaMínima celebra 30 anos com apresentações gratuitas na Grande SP",
-      "description": "Grupo fundado por Domingos Montagner e Fernando Sampaio leva espetáculo ‘Cabaré LaMínima ao Máximo’ a Cotia, Itapevi, Embu das Artes e Mairiporã",
-      "category": "teatro",
-      "date": "2026-11-02T08:00:01.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/LaMinima.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/cia-laminima-celebra-30-anos-com-apresentacoes-gratuitas-na-grande-sp/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/cia-laminima-celebra-30-anos-com-apresentacoes-gratuitas-na-grande-sp/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "teatro"
-      ],
-      "featured": true
-    },
-    {
-      "id": "brnnvg",
-      "title": "Corrida no Campo de Marte tem shows e prova de 5 km",
-      "description": "Corrida do After, em que participantes correm em equipes de cantores sertanejos, também terá caminhada de 2,5 quilômetros",
-      "category": "musica",
-      "date": "2026-11-02T08:00:41.000Z",
-      "location": "Santana",
-      "neighborhood": "Santana",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2025/01/20250122_Aeroporto-Campo-de-Marte_ELJ-2-6.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/corrida-do-after-campo-de-marte-shows-sertanejo/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/corrida-do-after-campo-de-marte-shows-sertanejo/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "musica"
-      ],
-      "featured": true
-    },
-    {
-      "id": "rqtjco",
-      "title": "Parque do Povo recebe festival de 35 anos do GRAACC com Palavra Cantada",
-      "description": "Evento gratuito e aberto ao público celebra mais de três décadas da instituição com shows infantis, oficinas, gincanas e apresentações culturais",
-      "category": "musica",
-      "date": "2026-11-02T08:00:46.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2020/12/1-122-of-141.jpg.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/parque-do-povo-recebe-festival-de-35-anos-do-graacc-com-palavra-cantada/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/parque-do-povo-recebe-festival-de-35-anos-do-graacc-com-palavra-cantada/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "musica"
-      ],
-      "featured": true
-    },
-    {
-      "id": "b0mr7g",
-      "title": "Virada Sustentável ocupa SP com shows, ioga e oficinas gratuitas",
-      "description": "Com o CCSP como ponto central, 16ª edição do festival reúne apresentações de Mãeana e Marie Gabriella, sessões de meditação e outras atrações",
-      "category": "musica",
-      "date": "2026-11-02T08:00:58.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/unnamed-7-1.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/virada-sustentavel-ocupa-sp-com-shows-ioga-e-oficinas-gratuitas/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/virada-sustentavel-ocupa-sp-com-shows-ioga-e-oficinas-gratuitas/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "musica"
-      ],
-      "featured": true
-    },
     {
       "id": "9e7wv8",
       "title": "CEUs de São Paulo abrem no feriado de Finados com piscinas, bibliotecas e atividades gratuitas",
@@ -736,8 +626,8 @@
       "featured": true
     },
     {
-      "id": "up3ofa",
-      "title": "‘Feito Pipa’ estreia nos cinemas, em campanha para levar o Brasil novamente ao Oscar",
+      "id": "w0nqry",
+      "title": "‘Feito Pipa’ estreia nos cinemas com missão de levar Brasil ao Oscar novamente",
       "description": "Premiado em festivais, o novo longa de Allan Deberton aborda afeto, diversidade e desafios familiares; Lázaro Ramos, Teca Pereira e Yuri Gomes no elenco",
       "category": "cinema",
       "date": "2026-11-05T15:47:57.000Z",
@@ -974,6 +864,116 @@
         "cultura",
         "sp",
         "festa"
+      ],
+      "featured": false
+    },
+    {
+      "id": "55r213",
+      "title": "Camila Fremder relembra como começou a amizade com Pedro Pacífico, o Bookster",
+      "description": "Parceiros no podcast ‘E os Namoradinhos?’, que volta em vídeo na DiaTV, os dois se conheceram em 2018, quando ele mandou a ela um livro",
+      "category": "literatura",
+      "date": "2026-11-08T07:00:27.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/@cami.marzano_-Divulgacao.jpg.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/camila-fremder-relembra-como-comecou-a-amizade-com-pedro-pacifico-o-bookster/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/camila-fremder-relembra-como-comecou-a-amizade-com-pedro-pacifico-o-bookster/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "literatura"
+      ],
+      "featured": false
+    },
+    {
+      "id": "d578ok",
+      "title": "Demônios da Garoa fazem show no Bar Guanabara, no Centro Histórico de SP",
+      "description": "Apresentação em clima intimista celebra os 116 anos da casa e conta com jantar especial assinado pelo chef Rafa Spencer; ingressos já estão à venda",
+      "category": "musica",
+      "date": "2026-11-08T08:00:07.000Z",
+      "location": "Centro Histórico",
+      "neighborhood": "Centro Histórico",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/unnamed-3.png",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/demonios-da-garoa-fazem-show-no-bar-guanabara-no-centro-historico-de-sp/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/demonios-da-garoa-fazem-show-no-bar-guanabara-no-centro-historico-de-sp/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "musica"
+      ],
+      "featured": true
+    },
+    {
+      "id": "jbla5x",
+      "title": "Celso Cardoso apresenta tributo a Renato Russo na Unibes Cultural",
+      "description": "Jornalista e cantor sobe ao palco acompanhado da banda Os Impossíveis para homenagear os 30 anos do legado do líder da Legião Urbana",
+      "category": "musica",
+      "date": "2026-11-08T08:00:31.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/IMG_4163.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/celso-cardoso-apresenta-tributo-a-renato-russo-na-unibes-cultural/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/celso-cardoso-apresenta-tributo-a-renato-russo-na-unibes-cultural/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "musica"
+      ],
+      "featured": true
+    },
+    {
+      "id": "vuxbgn",
+      "title": "Cultura Artística recebe festival internacional de flamenco em homenagem a Paco de Lucía",
+      "description": "Espetáculo ‘Diálogos Flamencos’ reúne sobrinho do lendário violonista espanhol, Jaques Morelenbaum e bailaoras em apresentação única na capital paulista",
+      "category": "teatro",
+      "date": "2026-11-08T08:00:47.000Z",
+      "location": "Bela Vista",
+      "neighborhood": "Bela Vista",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/Vera-Alejandra-foto-ana-nicolau.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/cultura-artistica-recebe-festival-internacional-de-flamenco-em-homenagem-a-paco-de-lucia/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/cultura-artistica-recebe-festival-internacional-de-flamenco-em-homenagem-a-paco-de-lucia/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "teatro"
+      ],
+      "featured": false
+    },
+    {
+      "id": "fw69pp",
+      "title": "Pedro Pacífico, o Bookster, revela seus 6 endereços favoritos em São Paulo",
+      "description": "De livrarias aconchegantes a bibliotecas e cinemas de rua, conheça os lugares imperdíveis para quem ama literatura e cultura na capital",
+      "category": "cinema",
+      "date": "2026-11-08T09:00:58.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/NJ26812-Edit-Edit.jpg.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/pedro-pacifico-o-bookster-revela-seus-6-enderecos-favoritos-em-sao-paulo/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/pedro-pacifico-o-bookster-revela-seus-6-enderecos-favoritos-em-sao-paulo/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "cinema"
       ],
       "featured": false
     },
