@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-08T13:06:18.672Z",
-  "totalCount": 52,
+  "updatedAt": "2026-11-09T15:50:21.809Z",
+  "totalCount": 55,
   "sources": [
     "Veja SP",
     "Catraca Livre",
@@ -9,6 +9,28 @@
     "Instituições SP"
   ],
   "events": [
+    {
+      "id": "b0mr7g",
+      "title": "Virada Sustentável ocupa SP com shows, ioga e oficinas gratuitas",
+      "description": "Com o CCSP como ponto central, 16ª edição do festival reúne apresentações de Mãeana e Marie Gabriella, sessões de meditação e outras atrações",
+      "category": "musica",
+      "date": "2026-11-02T08:00:58.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/unnamed-7-1.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/virada-sustentavel-ocupa-sp-com-shows-ioga-e-oficinas-gratuitas/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/virada-sustentavel-ocupa-sp-com-shows-ioga-e-oficinas-gratuitas/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "musica"
+      ],
+      "featured": true
+    },
     {
       "id": "9e7wv8",
       "title": "CEUs de São Paulo abrem no feriado de Finados com piscinas, bibliotecas e atividades gratuitas",
@@ -736,28 +758,6 @@
       "featured": false
     },
     {
-      "id": "mviov7",
-      "title": "CCXP26 terá Marvel Day com elenco e diretores de ‘Vingadores: Doutor Destino’",
-      "description": "Evento em São Paulo faz parte da turnê global do novo longa do Marvel Studios, que chega aos cinemas em dezembro de 2026",
-      "category": "exposicao",
-      "date": "2026-11-06T11:44:16.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/Vingadores_2.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/ccxp26-tera-marvel-day-com-elenco-e-diretores-de-vingadores-doutor-destino/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/ccxp26-tera-marvel-day-com-elenco-e-diretores-de-vingadores-doutor-destino/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "exposicao"
-      ],
-      "featured": true
-    },
-    {
       "id": "w8a0nl",
       "title": "Museu Afro Brasil seleciona artistas para a residência ‘Futuros Pretos’",
       "description": "Cinco nomes de diferentes regiões do país vão criar obras inéditas para exposição que abre no Dia da Consciência Negra",
@@ -1000,6 +1000,50 @@
       "featured": true
     },
     {
+      "id": "shplot",
+      "title": "Sesc e Cinemateca Brasileira completam 80 anos com circuito de cinema gratuito em SP",
+      "description": "Comemoração conjunta traz filmes em 35mm, sessões ao ar livre com música ao vivo, oficinas e mostra online da Vera Cruz de novembro a dezembro em SP.",
+      "category": "musica",
+      "date": "2026-11-09T11:44:24.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/11/20250605-garotas-do-abc-2003-papo-de-cinema-banner.png",
+      "ticketUrl": "https://catracalivre.com.br/gira/sesc-e-cinemateca-brasileira-completam-80-anos-com-circuito-de-cinema-gratuito-em-sp/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/sesc-e-cinemateca-brasileira-completam-80-anos-com-circuito-de-cinema-gratuito-em-sp/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
+        "sp",
+        "musica"
+      ],
+      "featured": true
+    },
+    {
+      "id": "7qqyu4",
+      "title": "MixBrasil 2026: maior festival LGBTQIA+ do país invade SP com 84 filmes nacionais",
+      "description": "O festival exibe 84 filmes nacionais de 16 estados em salas de cinema de SP, com mostras de docs, séries e debates de 11 a 22 de novembro.",
+      "category": "cinema",
+      "date": "2026-11-11T10:00:00",
+      "location": "Centro Histórico",
+      "neighborhood": "Centro Histórico",
+      "price": 25,
+      "isFree": false,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/11/1ad3cd2b-984c-47a6-8407-4be5cf43ecdd-scaled.jpg",
+      "ticketUrl": "https://catracalivre.com.br/gira/mixbrasil-2026-maior-festival-lgbtqia-do-pais-invade-sp-com-84-filmes-nacionais/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/mixbrasil-2026-maior-festival-lgbtqia-do-pais-invade-sp-com-84-filmes-nacionais/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
+        "sp",
+        "cinema"
+      ],
+      "featured": false
+    },
+    {
       "id": "v6u2dh",
       "title": "Festival de teatro negro Melanina Acentuada volta a São Paulo após 14 anos",
       "description": "Com peças como ‘Macacos’ e a adaptação do ‘Pequeno Manual Antirracista’, evento ocupa o CCBB SP de 12 a 15 de novembro com espetáculos e debates",
@@ -1016,6 +1060,28 @@
       "tags": [
         "vejasp",
         "cultura",
+        "sp",
+        "teatro"
+      ],
+      "featured": false
+    },
+    {
+      "id": "bp5xgj",
+      "title": "Festival Melanina Acentuada volta a SP após 14 anos com peças consagradas no CCBB",
+      "description": "De 12 a 15 de novembro, evento celebra 80 anos do Teatro Experimental do Negro com espetáculos de Clayton Nascimento e Djamila Ribeiro no Centro de SP.",
+      "category": "teatro",
+      "date": "2026-11-12T10:00:00",
+      "location": "Centro Histórico",
+      "neighborhood": "Centro Histórico",
+      "price": 25,
+      "isFree": false,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/11/credito-noelia-najera-1-e1794233334383.jpg",
+      "ticketUrl": "https://catracalivre.com.br/gira/festival-melanina-acentuada-volta-a-sp-apos-14-anos-com-pecas-consagradas-no-ccbb/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/festival-melanina-acentuada-volta-a-sp-apos-14-anos-com-pecas-consagradas-no-ccbb/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
         "sp",
         "teatro"
       ],
