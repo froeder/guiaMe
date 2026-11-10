@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-09T15:50:21.809Z",
-  "totalCount": 55,
+  "updatedAt": "2026-11-10T14:40:44.026Z",
+  "totalCount": 62,
   "sources": [
     "Veja SP",
     "Catraca Livre",
@@ -9,28 +9,6 @@
     "Instituições SP"
   ],
   "events": [
-    {
-      "id": "b0mr7g",
-      "title": "Virada Sustentável ocupa SP com shows, ioga e oficinas gratuitas",
-      "description": "Com o CCSP como ponto central, 16ª edição do festival reúne apresentações de Mãeana e Marie Gabriella, sessões de meditação e outras atrações",
-      "category": "musica",
-      "date": "2026-11-02T08:00:58.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/10/unnamed-7-1.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/virada-sustentavel-ocupa-sp-com-shows-ioga-e-oficinas-gratuitas/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/virada-sustentavel-ocupa-sp-com-shows-ioga-e-oficinas-gratuitas/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "musica"
-      ],
-      "featured": true
-    },
     {
       "id": "9e7wv8",
       "title": "CEUs de São Paulo abrem no feriado de Finados com piscinas, bibliotecas e atividades gratuitas",
@@ -50,28 +28,6 @@
         "familia",
         "criancas",
         "sp"
-      ],
-      "featured": true
-    },
-    {
-      "id": "o5j1gv",
-      "title": "Fim de semana do GP de Interlagos: 6 programas para fazer em SP",
-      "description": "Gastronomia de excelência no Comer &#038; Beber Experience, exposições, shows e concertos agitam São Paulo no fim de semana do GP",
-      "category": "musica",
-      "date": "2026-11-02T14:29:11.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2017/01/8814_sebastian-vettel-largada-gp-brasil-f1-05-jpg.jpeg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/fim-de-semana-do-gp-de-interlagos-6-programas-para-fazer-em-sp/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/fim-de-semana-do-gp-de-interlagos-6-programas-para-fazer-em-sp/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "musica"
       ],
       "featured": true
     },
@@ -142,28 +98,6 @@
       "featured": true
     },
     {
-      "id": "6mlqzy",
-      "title": "RuPaul confirma apresentação única em SP com DJ set inédito",
-      "description": "Ícone drag global e apresentador do ‘Drag Race’ se apresenta no Vibra São Paulo em janeiro de 2027; vendas e detalhes do show foram anunciados",
-      "category": "musica",
-      "date": "2026-11-03T14:09:29.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2017/01/7807_rupaulsdraf.jpeg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/rupaul-confirma-apresentacao-unica-em-sp-com-dj-set-inedito/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/rupaul-confirma-apresentacao-unica-em-sp-com-dj-set-inedito/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "musica"
-      ],
-      "featured": true
-    },
-    {
       "id": "kjbv0t",
       "title": "Presentes de Natal para crianças: ideias para brincar, descobrir e viver bons momentos em família",
       "description": "No São Paulo para Crianças, adoramos descobrir programas, lugares e experiências que fazem os olhos dos pequenos brilharem. Mas também sabemos que algumas aventuras começam dentro de casa: uma caixa de papelão que vira foguete, uma tarde chuvosa que termina em campeonato de jogos ou um livro que leva a família inteira para mundos que [&hellip;]",
@@ -208,28 +142,6 @@
       "featured": true
     },
     {
-      "id": "npug4a",
-      "title": "Filho de Mick Jagger e Luciana Gimenez recebe Ronnie Wood, dos Rolling Stones, em SP",
-      "description": "Filho do cantor com a brasileira publicou registro do encontro no domingo (1º), dia do show solo do guitarrista em SP",
-      "category": "musica",
-      "date": "2026-11-03T17:31:28.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/salvador-niver-2026-1.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/filho-de-mick-jagger-recebe-ronnie-wood-dos-rolling-stones-em-sp/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/filho-de-mick-jagger-recebe-ronnie-wood-dos-rolling-stones-em-sp/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "musica"
-      ],
-      "featured": true
-    },
-    {
       "id": "xt68yk",
       "title": "Festival Sesc Culturas Negras celebra herança afro-brasileira com Sandra Sá, Velha Guarda da Mangueira e bailes black",
       "description": "De 5 a 15/11, o festival ocupa várias unidades do Sesc em SP com debates sobre ancestralidade, rituais de lavagem, oficinas, cinema e literatura africana.",
@@ -248,28 +160,6 @@
         "gratuito",
         "sp",
         "festa"
-      ],
-      "featured": false
-    },
-    {
-      "id": "h0bvx6",
-      "title": "Kinoplex anuncia combo exclusivo de Jogos Vorazes",
-      "description": "A promoção estará disponível para compra em todas as unidades de rede por tempo limitado",
-      "category": "cultura",
-      "date": "2026-11-03T18:12:06.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/Design-sem-nome-12.png",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/kinoplex-anuncia-combo-exclusivo-de-jogos-vorazes/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/kinoplex-anuncia-combo-exclusivo-de-jogos-vorazes/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "cultura"
       ],
       "featured": false
     },
@@ -316,28 +206,6 @@
         "teatro"
       ],
       "featured": false
-    },
-    {
-      "id": "5zp7mu",
-      "title": "Menino Maluquinho ganha versão grafitada em exposição gratuita no Anhangabaú",
-      "description": "Mostra “Maluquinho na Quebrada” homenageia Ziraldo e conecta literatura infantil e arte urbana até 4 de novembro O Menino Maluquinho, personagem criado por Ziraldo, é homenageado na exposição gratuita “Maluquinho na Quebrada”, no Novo Anhangabaú, no centro de São Paulo. A mostra fica em cartaz até 4 de novembro de 2026 e utiliza o grafite [&hellip;]",
-      "category": "infantil",
-      "date": "2026-11-04T10:00:00",
-      "location": "Centro Histórico",
-      "neighborhood": "Centro Histórico",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/10/sp_criancas_passeio_ziraldo.jpeg",
-      "ticketUrl": "https://saopauloparacriancas.com.br/menino-maluquinho-sp/",
-      "source": "SP para Crianças",
-      "sourceUrl": "https://saopauloparacriancas.com.br/menino-maluquinho-sp/",
-      "tags": [
-        "infantil",
-        "familia",
-        "criancas",
-        "sp"
-      ],
-      "featured": true
     },
     {
       "id": "g8lz2e",
@@ -1022,6 +890,248 @@
       "featured": true
     },
     {
+      "id": "vgosbh",
+      "title": "Gilsons faz show gratuito e ao ar livre no Sesc Itaquera pelo programa Bem Brasil",
+      "description": "Trio carioca se apresenta neste domingo (15/11) ao meio-dia na Zona Leste; evento ao ar livre tem entrada franca sem retirada prévia de ingressos no Sesc.",
+      "category": "musica",
+      "date": "2026-11-09T13:38:34.000Z",
+      "location": "Itaquera",
+      "neighborhood": "Itaquera",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/11/saveclipapp-876208704-18336567157263771-8058315181269093149-n-e1794242044269.jpg",
+      "ticketUrl": "https://catracalivre.com.br/gira/gilsons-faz-show-gratuito-e-ao-ar-livre-no-sesc-itaquera-pelo-programa-bem-brasil/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/gilsons-faz-show-gratuito-e-ao-ar-livre-no-sesc-itaquera-pelo-programa-bem-brasil/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
+        "sp",
+        "musica"
+      ],
+      "featured": true
+    },
+    {
+      "id": "1cjt1o",
+      "title": "Mariah Carey desembarca para show em São Paulo e atende fãs no hotel",
+      "description": "Conhecida como Rainha do Natal, a diva pop atendeu admiradores e abriu a temporada de apresentações no país",
+      "category": "musica",
+      "date": "2026-11-09T13:48:49.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/HWoHGZkXMAA38yv.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/mariah-carey-desembarca-para-show-em-sao-paulo-e-atende-fas-no-hotel/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/mariah-carey-desembarca-para-show-em-sao-paulo-e-atende-fas-no-hotel/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "musica"
+      ],
+      "featured": true
+    },
+    {
+      "id": "swnbc8",
+      "title": "Lando Norris faz comemoração desastrada no pódio no GP de São Paulo",
+      "description": "O piloto venceu a corrida mas quebrou a garrafa de champanhe no chão e ainda queimou o rosto com faíscas de fogos de artifício",
+      "category": "esporte",
+      "date": "2026-11-09T13:57:32.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-09-at-13.35.40.jpeg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/lando-norris-faz-comemoracao-desastrada-no-podio-no-gp-de-sao-paulo/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/lando-norris-faz-comemoracao-desastrada-no-podio-no-gp-de-sao-paulo/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "esporte"
+      ],
+      "featured": false
+    },
+    {
+      "id": "ogkqzn",
+      "title": "3ª Festa da Padroeira de Santa Cecília reúne Charanga do França, forró e feiras na rua",
+      "description": "A 3ª Festa da Padroeira de Santa Cecília reúne cortejo, forró em vinil e mais de 80 feirantes neste sábado (14/11), na saída do metrô, com entrada franca.",
+      "category": "festa",
+      "date": "2026-11-09T14:13:05.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/11/saveclipapp-532151705-17906405166213265-6512045854021460972-n.jpg",
+      "ticketUrl": "https://catracalivre.com.br/gira/3a-festa-da-padroeira-de-santa-cecilia/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/3a-festa-da-padroeira-de-santa-cecilia/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
+        "sp",
+        "festa"
+      ],
+      "featured": true
+    },
+    {
+      "id": "pcf4qq",
+      "title": "Centenário de Moacir Santos ganha espetáculo inédito no Sesc Pinheiros",
+      "description": "Espetáculo reúne dez instrumentistas e convidadas como Xênia França e Eliana Pittman para homenagear Moacir Santos de 20 a 22/11 no Sesc Pinheiros.",
+      "category": "teatro",
+      "date": "2026-11-09T15:05:41.000Z",
+      "location": "Pinheiros",
+      "neighborhood": "Pinheiros",
+      "price": 25,
+      "isFree": false,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/11/moacir-santos-scaled.png",
+      "ticketUrl": "https://catracalivre.com.br/gira/centenario-de-moacir-santos-ganha-espetaculo-inedito-no-sesc-pinheiros/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/centenario-de-moacir-santos-ganha-espetaculo-inedito-no-sesc-pinheiros/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
+        "sp",
+        "teatro"
+      ],
+      "featured": false
+    },
+    {
+      "id": "qqjmgt",
+      "title": "Pina Estação abre maior mostra de Sara Ramo no Brasil com 90 obras sobre a memória dos descartes",
+      "description": "Em cartaz até abril de 2027 ao lado da Sala São Paulo, mostra de Sara Ramo ocupa o 4º andar com instalações sensoriais e entrada livre aos sábados.",
+      "category": "exposicao",
+      "date": "2026-11-09T15:51:34.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 25,
+      "isFree": false,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/11/pina-estacao-abre-maior-mostra-de-sara-ramo-no-brasil-com-90-obras-sobre-a-memoria-dos-descartes.jpg",
+      "ticketUrl": "https://catracalivre.com.br/gira/exposicao-sara-ramo-a-furia-dos-restos-vivos-pinacoteca-sp/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/exposicao-sara-ramo-a-furia-dos-restos-vivos-pinacoteca-sp/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
+        "sp",
+        "exposicao"
+      ],
+      "featured": false
+    },
+    {
+      "id": "ppd9ro",
+      "title": "Ator de Chuck Bass, de Gossip Girl, está em São Paulo; saiba o motivo",
+      "description": "Ed Westwick foi ao GP de Fórmula 1 no domingo (8) e participa de evento exclusivo nesta segunda (9)",
+      "category": "cultura",
+      "date": "2026-11-09T16:26:59.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/Ed-Westwick.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/ator-de-chuck-bass-de-gossip-girl-esta-em-sao-paulo-saiba-o-motivo/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/ator-de-chuck-bass-de-gossip-girl-esta-em-sao-paulo-saiba-o-motivo/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "cultura"
+      ],
+      "featured": false
+    },
+    {
+      "id": "ijwxak",
+      "title": "Museu Judaico abre mostra panorâmica com cinco décadas de arte feminista de Gretta Sarfaty",
+      "description": "Com entrada grátis aos sábados, exposição Diáfana reúne mais de 60 obras de Gretta Sarfaty entre fotografia, vídeo e performance no centro de SP.",
+      "category": "exposicao",
+      "date": "2026-11-09T17:41:57.000Z",
+      "location": "Centro Histórico",
+      "neighborhood": "Centro Histórico",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/11/image001-3.jpg",
+      "ticketUrl": "https://catracalivre.com.br/gira/museu-judaico-abre-mostra-panoramica-com-cinco-decadas-de-arte-feminista-de-gretta-sarfaty/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/museu-judaico-abre-mostra-panoramica-com-cinco-decadas-de-arte-feminista-de-gretta-sarfaty/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
+        "sp",
+        "exposicao"
+      ],
+      "featured": true
+    },
+    {
+      "id": "wg1zc",
+      "title": "Quantos filhos Mick Jagger tem? Conheça os herdeiros do cantor",
+      "description": "Vocalista dos Rolling Stones teve filho com cinco mulheres diferentes; um deles é Lucas Jagger, filho da apresentadora Luciana Gimenez",
+      "category": "cultura",
+      "date": "2026-11-09T17:44:12.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/Lucas-Jagger.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/quantos-filhos-mick-jagger-tem-conheca-os-oito-herdeiros-do-cantor/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/quantos-filhos-mick-jagger-tem-conheca-os-oito-herdeiros-do-cantor/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "cultura"
+      ],
+      "featured": false
+    },
+    {
+      "id": "t877wd",
+      "title": "Cinesystem dará ingressos grátis para quem tem o sobrenome Pinto",
+      "description": "Ação promocional do filme ‘Entrando Numa Grande Fria’ é válida no dia 23, na pré-estreia do longa que traz Ben Stiller, Robert De Niro e Ariana Grande",
+      "category": "cinema",
+      "date": "2026-11-09T18:21:54.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/Entrando_fria.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/cinesystem-dara-ingressos-gratis-para-quem-tem-o-sobrenome-pinto/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/cinesystem-dara-ingressos-gratis-para-quem-tem-o-sobrenome-pinto/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "cinema"
+      ],
+      "featured": true
+    },
+    {
+      "id": "70n0e2",
+      "title": "Festival do Acarajé e Camarão estreia no Parque CERET com pratos típicos deliciosos e entrada gratuita",
+      "description": "Com entrada grátis no Tatuapé neste fim de semana (14 e 15/11), evento reúne mais de 35 expositores, pratos típicos baianos, capoeira e espaço kids.",
+      "category": "infantil",
+      "date": "2026-11-09T18:26:16.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/11/acaraje-brasil-3-scaled.jpg",
+      "ticketUrl": "https://catracalivre.com.br/gira/festival-do-acaraje-e-camarao-estreia-no-parque-ceret-com-pratos-tipicos-deliciosos-e-entrada-gratuita/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/festival-do-acaraje-e-camarao-estreia-no-parque-ceret-com-pratos-tipicos-deliciosos-e-entrada-gratuita/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
+        "sp",
+        "infantil"
+      ],
+      "featured": true
+    },
+    {
       "id": "7qqyu4",
       "title": "MixBrasil 2026: maior festival LGBTQIA+ do país invade SP com 84 filmes nacionais",
       "description": "O festival exibe 84 filmes nacionais de 16 estados em salas de cinema de SP, com mostras de docs, séries e debates de 11 a 22 de novembro.",
@@ -1088,6 +1198,28 @@
       "featured": false
     },
     {
+      "id": "c7tafe",
+      "title": "Revelando SP 2026 tem oficinas, brincadeiras e contação de histórias gratuitas para crianças",
+      "description": "Pintura de rosto, contação de histórias, atividades circenses, oficinas de artesanato indígena, bordado, crochê, modelagem em argila e vivência de jongo estão entre as atrações infantis do Revelando SP 2026. O festival acontece de 12 a 15 de novembro, no Parque do Trote, na Vila Guilherme, Zona Norte de São Paulo, com entrada gratuita. As [&hellip;]",
+      "category": "infantil",
+      "date": "2026-11-12T10:00:00",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/11/sp_criancas_passeio_revelando_-5.jpeg",
+      "ticketUrl": "https://saopauloparacriancas.com.br/revelando-sp/",
+      "source": "SP para Crianças",
+      "sourceUrl": "https://saopauloparacriancas.com.br/revelando-sp/",
+      "tags": [
+        "infantil",
+        "familia",
+        "criancas",
+        "sp"
+      ],
+      "featured": true
+    },
+    {
       "id": "dku9oa",
       "title": "Folha Gourmet Festival leva 20 restaurantes estrelados e shows do Blue Note ao Parque Villa-Lobos",
       "description": "Evento nos dias 7, 8, 14 e 15 de novembro reúne aulas com chefs, mercado de produtores, áreas de vinho e churrasco, além de shows de Paula Lima e Tony Gordon.",
@@ -1152,6 +1284,28 @@
         "sp"
       ],
       "featured": false
+    },
+    {
+      "id": "fr6try",
+      "title": "Festival da Consciência Negra terá 300 atrações gratuitas no centro de SP",
+      "description": "Primeira edição do evento ocupa avenidas e praças históricas entre 14 e 21 de novembro com grandes bailes nostálgicos, rodas de samba e shows",
+      "category": "festa",
+      "date": "2026-11-21T10:00:00",
+      "location": "Centro Histórico",
+      "neighborhood": "Centro Histórico",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/unnamed-5.png",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/festival-da-consciencia-negra-tera-300-atracoes-gratuitas-no-centro-de-sp/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/festival-da-consciencia-negra-tera-300-atracoes-gratuitas-no-centro-de-sp/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "festa"
+      ],
+      "featured": true
     },
     {
       "id": "cmknpn",
