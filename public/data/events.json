@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-10T14:40:44.026Z",
-  "totalCount": 62,
+  "updatedAt": "2026-11-11T13:56:03.790Z",
+  "totalCount": 64,
   "sources": [
     "Veja SP",
     "Catraca Livre",
@@ -208,6 +208,28 @@
       "featured": false
     },
     {
+      "id": "5zp7mu",
+      "title": "Menino Maluquinho ganha versão grafitada em exposição gratuita no Anhangabaú",
+      "description": "Mostra “Maluquinho na Quebrada” homenageia Ziraldo e conecta literatura infantil e arte urbana até 4 de novembro O Menino Maluquinho, personagem criado por Ziraldo, é homenageado na exposição gratuita “Maluquinho na Quebrada”, no Novo Anhangabaú, no centro de São Paulo. A mostra fica em cartaz até 4 de novembro de 2026 e utiliza o grafite [&hellip;]",
+      "category": "infantil",
+      "date": "2026-11-04T10:00:00",
+      "location": "Centro Histórico",
+      "neighborhood": "Centro Histórico",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/10/sp_criancas_passeio_ziraldo.jpeg",
+      "ticketUrl": "https://saopauloparacriancas.com.br/menino-maluquinho-sp/",
+      "source": "SP para Crianças",
+      "sourceUrl": "https://saopauloparacriancas.com.br/menino-maluquinho-sp/",
+      "tags": [
+        "infantil",
+        "familia",
+        "criancas",
+        "sp"
+      ],
+      "featured": true
+    },
+    {
       "id": "g8lz2e",
       "title": "Festival de Cinema Italiano chega à 21ª edição com sessões gratuitas no CCBB São Paulo",
       "description": "Com 21 longas em cartaz até 30/11, o evento no Centro Histórico de SP reúne obras recém-saídas de Veneza, streaming gratuito e clássicos de Fellini na telona.",
@@ -230,28 +252,6 @@
       "featured": true
     },
     {
-      "id": "leklur",
-      "title": "Atriz Eliana Rocha, a Luz Divina de ‘Pé na Cova’, morre aos 82 anos",
-      "description": "Homenageada por Miguel Falabella nas redes sociais, artista será velada hoje (4), a partir das 11h, no Pacaembu",
-      "category": "cultura",
-      "date": "2026-11-04T10:12:28.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/Eliana_Rocha.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/atriz-eliana-rocha-a-luz-divina-de-pe-na-cova-morre-aos-82-anos/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/atriz-eliana-rocha-a-luz-divina-de-pe-na-cova-morre-aos-82-anos/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "cultura"
-      ],
-      "featured": false
-    },
-    {
       "id": "c8x628",
       "title": "IMS Paulista abre mostra inédita de Ara Güler, fotojornalista que revelou a alma de Istambul",
       "description": "Com 187 fotos em P&#038;B e entrada franca até março de 2027, o IMS Paulista resgata o olhar íntimo de Ara Güler sobre as transformações da metrópole turca.",
@@ -272,116 +272,6 @@
         "cinema"
       ],
       "featured": true
-    },
-    {
-      "id": "6mwyyx",
-      "title": "Krispy Kreme distribui donuts grátis em São Paulo; veja onde",
-      "description": "Ação revela pontos de entrega pelas redes sociais e esconde cupons dourados que dão direito a uma visita à nova loja da marca, na Zona Leste",
-      "category": "cultura",
-      "date": "2026-11-04T12:55:51.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-14-at-17.57.44.jpeg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/krispy-kreme-donuts-gratis-sp/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/krispy-kreme-donuts-gratis-sp/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "cultura"
-      ],
-      "featured": true
-    },
-    {
-      "id": "n19hvg",
-      "title": "Você pode escolher o nome de uma nova espécie de besouro em SP",
-      "description": "Exposição no Museu de Zoologia da USP apresenta três opções para batizar inseto recém-descoberto na Amazônia e revela curiosidades sobre a floresta",
-      "category": "exposicao",
-      "date": "2026-11-04T13:23:22.000Z",
-      "location": "Butantã",
-      "neighborhood": "Butantã",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/20260616_exposicao-amazonia-descobertas-besouro36-1024x538-1.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/museu-zoologia-amazonia-besouro-nome/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/museu-zoologia-amazonia-besouro-nome/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "exposicao"
-      ],
-      "featured": true
-    },
-    {
-      "id": "cl40cx",
-      "title": "Morre aos 48 anos a ex-apresentadora Janaína Barbosa",
-      "description": "Conhecida pelo trabalho no ‘TV Fama’ nos anos 2000, ela se afastou da televisão e atuava como psicanalista e pesquisadora na USP",
-      "category": "cultura",
-      "date": "2026-11-04T14:43:36.000Z",
-      "location": "Butantã",
-      "neighborhood": "Butantã",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/Janaina.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/morre-aos-48-anos-a-ex-apresentadora-janaina-barbosa/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/morre-aos-48-anos-a-ex-apresentadora-janaina-barbosa/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "cultura"
-      ],
-      "featured": false
-    },
-    {
-      "id": "5d3lml",
-      "title": "Quem é Lucas Jagger, filho de Mick Jagger com Luciana Gimenez",
-      "description": "Formado pela Universidade de Nova York, jovem de 27 anos chamou Ronnie Wood, guitarrista dos Rolling Stones, de ‘tio’ em post no domingo (1º)",
-      "category": "cultura",
-      "date": "2026-11-04T15:04:29.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/Lucas-Jagger.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/quem-e-lucas-jagger-filho-de-mick-jagger-com-luciana-gimenez/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/quem-e-lucas-jagger-filho-de-mick-jagger-com-luciana-gimenez/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "cultura"
-      ],
-      "featured": false
-    },
-    {
-      "id": "49n4st",
-      "title": "Marina Ruy Barbosa e Abdul Fares terminaram o noivado? Entenda rumores",
-      "description": "Segundo o jornal Extra, casal está separado há pelo menos dois meses",
-      "category": "cultura",
-      "date": "2026-11-04T16:26:03.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/Marina-Ruy-Barbosa-e-Abdul-Fares_3.webp",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/marina-ruy-barbosa-e-abdul-fares-terminaram-o-noivado-entenda-rumores/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/marina-ruy-barbosa-e-abdul-fares-terminaram-o-noivado-entenda-rumores/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "cultura"
-      ],
-      "featured": false
     },
     {
       "id": "sxgehc",
@@ -1132,6 +1022,160 @@
       "featured": true
     },
     {
+      "id": "miyqey",
+      "title": "BikeCine exibe filmes gratuitos em São Paulo com energia gerada por bicicletas",
+      "description": "Cinema itinerante sustentável chega à capital em novembro com sessões de ‘O Auto da Compadecida 2’ e ‘Zootopia 2’",
+      "category": "esporte",
+      "date": "2026-11-10T12:28:24.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/bikecine-1920x1280-1.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/bikecine-exibe-filmes-gratuitos-em-sao-paulo-com-energia-gerada-por-bicicletas/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/bikecine-exibe-filmes-gratuitos-em-sao-paulo-com-energia-gerada-por-bicicletas/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "esporte"
+      ],
+      "featured": true
+    },
+    {
+      "id": "t80pf1",
+      "title": "Cinesystem lança promoção do 11/11 com combos de ingressos e pipoca",
+      "description": "Venda exclusiva acontece nesta quarta-feira (11) pela internet",
+      "category": "gastronomia",
+      "date": "2026-11-10T12:47:05.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=800&q=80",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/cinesystem-lanca-promocao-do-11-11-com-combos-de-ingressos-e-pipoca/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/cinesystem-lanca-promocao-do-11-11-com-combos-de-ingressos-e-pipoca/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "gastronomia"
+      ],
+      "featured": false
+    },
+    {
+      "id": "j2dmwm",
+      "title": "Festival da Consciência Negra traz shows gratuitos de Seu Jorge, Samba de Dandara, Os Prettos e mais ao Centro de SP",
+      "description": "Programação ocupa a Av. São João, Viaduto do Chá e Praça Dom José Gaspar com atrações gratuitas; festival terá mais de 300 atividades por toda a cidade.",
+      "category": "musica",
+      "date": "2026-11-10T13:33:25.000Z",
+      "location": "Centro Histórico",
+      "neighborhood": "Centro Histórico",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/11/festival-da-consciencia-negra.jpg",
+      "ticketUrl": "https://catracalivre.com.br/gira/festival-da-consciencia-negra-traz-shows-gratuitos-de-seu-jorge-samba-de-dandara-os-prettos-e-mais-ao-centro-de-sp/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/festival-da-consciencia-negra-traz-shows-gratuitos-de-seu-jorge-samba-de-dandara-os-prettos-e-mais-ao-centro-de-sp/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
+        "sp",
+        "musica"
+      ],
+      "featured": true
+    },
+    {
+      "id": "5478h7",
+      "title": "Cabaret da Cecília estreia na Consolação ocupando o histórico prédio da antiga Kilt",
+      "description": "Com capacidade para 500 pessoas, casa noturna abre na Rua Nestor Pestana com festas, jazz, performances drag, strip-tease e pole dance no Centro de SP.",
+      "category": "festa",
+      "date": "2026-11-10T13:57:08.000Z",
+      "location": "Centro Histórico",
+      "neighborhood": "Centro Histórico",
+      "price": 25,
+      "isFree": false,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/11/ig-cdc-6.jpg",
+      "ticketUrl": "https://catracalivre.com.br/gira/cabaret-da-cecilia-estreia-na-consolacao-ocupando-o-historico-predio-da-antiga-kilt/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/cabaret-da-cecilia-estreia-na-consolacao-ocupando-o-historico-predio-da-antiga-kilt/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
+        "sp",
+        "festa"
+      ],
+      "featured": false
+    },
+    {
+      "id": "bnncxk",
+      "title": "Clínica de SP que internou famosos é tema de nova série do Globoplay",
+      "description": "Série documental reúne relatos de famosos sobre internações, tratamentos e denúncias envolvendo a clínica Maxwell, em Atibaia",
+      "category": "cultura",
+      "date": "2026-11-10T17:53:09.000Z",
+      "location": "Centro Histórico",
+      "neighborhood": "Centro Histórico",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/design-sem-nome-12-.png",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/clinica-famosos-serie-globoplay/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/clinica-famosos-serie-globoplay/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "cultura"
+      ],
+      "featured": false
+    },
+    {
+      "id": "aixyjs",
+      "title": "Brasil Eco Fashion Week tem desfile e oficinas grátis na Oca do Ibirapuera",
+      "description": "Semana de moda sustentável chega à 10ª edição nesta quinta (12) com desfiles, palestras, oficinas e feira criativa; evento vai até sábado (14)",
+      "category": "musica",
+      "date": "2026-11-10T20:13:48.000Z",
+      "location": "Vila Mariana",
+      "neighborhood": "Vila Mariana",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/DivulgacaoBEFW_AgenciaFotosite.webp",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/brasil-eco-fashion-week-tem-desfile-e-oficinas-gratis-na-oca-do-ibirapuera/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/brasil-eco-fashion-week-tem-desfile-e-oficinas-gratis-na-oca-do-ibirapuera/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "musica"
+      ],
+      "featured": true
+    },
+    {
+      "id": "cf3ofw",
+      "title": "Quatro atrações de Natal que chegam à capital entre novembro e dezembro",
+      "description": "Musicais e espetáculos de dança para entrar no clima de final de ano; destaque para o espetáculo ‘O Quebra-Nozes’, com Ana Botafogo",
+      "category": "musica",
+      "date": "2026-11-11T09:51:00.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/O-Quebra-Nozes.-Foto-Reginaldo-Azevedo6.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/quatro-atracoes-de-natal-que-chegam-a-capital-entre-novembro-e-dezembro/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/quatro-atracoes-de-natal-que-chegam-a-capital-entre-novembro-e-dezembro/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "musica"
+      ],
+      "featured": true
+    },
+    {
       "id": "7qqyu4",
       "title": "MixBrasil 2026: maior festival LGBTQIA+ do país invade SP com 84 filmes nacionais",
       "description": "O festival exibe 84 filmes nacionais de 16 estados em salas de cinema de SP, com mostras de docs, séries e debates de 11 a 22 de novembro.",
@@ -1200,14 +1244,14 @@
     {
       "id": "c7tafe",
       "title": "Revelando SP 2026 tem oficinas, brincadeiras e contação de histórias gratuitas para crianças",
-      "description": "Pintura de rosto, contação de histórias, atividades circenses, oficinas de artesanato indígena, bordado, crochê, modelagem em argila e vivência de jongo estão entre as atrações infantis do Revelando SP 2026. O festival acontece de 12 a 15 de novembro, no Parque do Trote, na Vila Guilherme, Zona Norte de São Paulo, com entrada gratuita. As [&hellip;]",
+      "description": "Pintura facial, contação de histórias, brincadeiras, palhaçaria, atividades circenses, oficinas de artesanato indígena, bordado, crochê, modelagem em argila e vivência de jongo estão entre as atrações infantis do Revelando SP 2026. O festival acontece de 12 a 15 de novembro, no Parque do Trote, na Vila Guilherme, Zona Norte de São Paulo, com entrada gratuita. [&hellip;]",
       "category": "infantil",
       "date": "2026-11-12T10:00:00",
       "location": "São Paulo",
       "neighborhood": "São Paulo",
       "price": 0,
       "isFree": true,
-      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/11/sp_criancas_passeio_revelando_-5.jpeg",
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/11/sp_criancas_passeio_revelando.jpeg",
       "ticketUrl": "https://saopauloparacriancas.com.br/revelando-sp/",
       "source": "SP para Crianças",
       "sourceUrl": "https://saopauloparacriancas.com.br/revelando-sp/",
@@ -1238,28 +1282,6 @@
         "gratuito",
         "sp",
         "musica"
-      ],
-      "featured": false
-    },
-    {
-      "id": "o2ac8y",
-      "title": "Tributo K-pop no Shopping Tamboré tem show inspirado nas guerreiras do pop coreano",
-      "description": "Apresentação acontece em 15 de novembro, em Barueri, com coreografias, maquiagem artística e personagens para fotos; crianças de até 4 anos não pagam Quem gosta de música, dança e personagens vai encontrar um programa diferente para curtir em família! No dia 15 de novembro, o Shopping Tamboré, em Barueri, recebe o Tributo K-pop, um espetáculo [&hellip;]",
-      "category": "infantil",
-      "date": "2026-11-15T10:00:00",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 35,
-      "isFree": false,
-      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/11/sp_criancas_passeios_kpop-Copia.jpeg",
-      "ticketUrl": "https://saopauloparacriancas.com.br/k-pop-sp/",
-      "source": "SP para Crianças",
-      "sourceUrl": "https://saopauloparacriancas.com.br/k-pop-sp/",
-      "tags": [
-        "infantil",
-        "familia",
-        "criancas",
-        "sp"
       ],
       "featured": false
     },
@@ -1372,6 +1394,28 @@
         "sp"
       ],
       "featured": false
+    },
+    {
+      "id": "dwu5xp",
+      "title": "Passeio de ônibus com guia em SP: saiba como participar do roteiro grátis",
+      "description": "Profissionais credenciados acompanham três partidas de cada um dos cinco circuitos nos dias 29 de novembro e 27 de dezembro",
+      "category": "cultura",
+      "date": "2026-11-29T10:00:00",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/Paulistar.jpeg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/onibus-turisticos-de-sp-terao-passeios-gratuitos-com-guias-saiba-como-participar/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/onibus-turisticos-de-sp-terao-passeios-gratuitos-com-guias-saiba-como-participar/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "cultura"
+      ],
+      "featured": true
     }
   ]
 }
