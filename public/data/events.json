@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-11T13:56:03.790Z",
-  "totalCount": 64,
+  "updatedAt": "2026-11-12T14:57:21.135Z",
+  "totalCount": 66,
   "sources": [
     "Veja SP",
     "Catraca Livre",
@@ -208,28 +208,6 @@
       "featured": false
     },
     {
-      "id": "5zp7mu",
-      "title": "Menino Maluquinho ganha versão grafitada em exposição gratuita no Anhangabaú",
-      "description": "Mostra “Maluquinho na Quebrada” homenageia Ziraldo e conecta literatura infantil e arte urbana até 4 de novembro O Menino Maluquinho, personagem criado por Ziraldo, é homenageado na exposição gratuita “Maluquinho na Quebrada”, no Novo Anhangabaú, no centro de São Paulo. A mostra fica em cartaz até 4 de novembro de 2026 e utiliza o grafite [&hellip;]",
-      "category": "infantil",
-      "date": "2026-11-04T10:00:00",
-      "location": "Centro Histórico",
-      "neighborhood": "Centro Histórico",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/10/sp_criancas_passeio_ziraldo.jpeg",
-      "ticketUrl": "https://saopauloparacriancas.com.br/menino-maluquinho-sp/",
-      "source": "SP para Crianças",
-      "sourceUrl": "https://saopauloparacriancas.com.br/menino-maluquinho-sp/",
-      "tags": [
-        "infantil",
-        "familia",
-        "criancas",
-        "sp"
-      ],
-      "featured": true
-    },
-    {
       "id": "g8lz2e",
       "title": "Festival de Cinema Italiano chega à 21ª edição com sessões gratuitas no CCBB São Paulo",
       "description": "Com 21 longas em cartaz até 30/11, o evento no Centro Histórico de SP reúne obras recém-saídas de Veneza, streaming gratuito e clássicos de Fellini na telona.",
@@ -274,28 +252,6 @@
       "featured": true
     },
     {
-      "id": "sxgehc",
-      "title": "Guga Kuerten relembra conquistas, desafios da carreira e histórias vividas em São Paulo",
-      "description": "Tricampeão de Roland Garros fala sobre os aprendizados de sua trajetória e conta história curiosa de quando ficou hospedado no dormitório do Clube Pinheiros",
-      "category": "festa",
-      "date": "2026-11-04T16:47:02.000Z",
-      "location": "Pinheiros",
-      "neighborhood": "Pinheiros",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/snapinsta-1793821322136-e1793821392557.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/guga-kuerten-relembra-conquistas-desafios-da-carreira-e-historias-vividas-em-sao-paulo/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/guga-kuerten-relembra-conquistas-desafios-da-carreira-e-historias-vividas-em-sao-paulo/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "festa"
-      ],
-      "featured": false
-    },
-    {
       "id": "bnt98t",
       "title": "Exposição de carros em SP tem simuladores de corrida, realidade virtual e desconto para famílias",
       "description": "AutoMotor Experience reúne mais de 150 itens históricos no Shopping Vila Olímpia, com carros icônicos e atrações interativas; leitores do São Paulo para Crianças têm 20% de desconto no ingresso inteiro Crianças que gostam de carros, velocidade e tecnologia podem embarcar em uma viagem pela história do automobilismo na AutoMotor Experience, exposição em cartaz no [&hellip;]",
@@ -316,28 +272,6 @@
         "sp"
       ],
       "featured": false
-    },
-    {
-      "id": "pc4g4j",
-      "title": "Pai homenageia filha falecida durante show do BTS em São Paulo e emociona fãs",
-      "description": "Marcos levou ao MorumBIS um cartaz feito pela outra filha para lembrar Mariana, que era fã do grupo",
-      "category": "musica",
-      "date": "2026-11-05T12:39:10.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/THUMB.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/bts-pai-homenageia-filha-falecida-show-morumbis-sp/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/bts-pai-homenageia-filha-falecida-show-morumbis-sp/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "musica"
-      ],
-      "featured": true
     },
     {
       "id": "8lp4rn",
@@ -362,72 +296,6 @@
       "featured": true
     },
     {
-      "id": "8vijpx",
-      "title": "Família confirma que choque anafilático causou a morte de Janaína Barbosa",
-      "description": "Ex-apresentadora de 48 anos sofreu reação alérgica grave a uma nova medicação; especialistas alertam para o subdiagnóstico da condição no Brasil",
-      "category": "infantil",
-      "date": "2026-11-05T14:03:34.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/Janaina_2.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/familia-confirma-que-choque-anafilatico-causou-a-morte-de-janaina-barbosa/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/familia-confirma-que-choque-anafilatico-causou-a-morte-de-janaina-barbosa/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "infantil"
-      ],
-      "featured": false
-    },
-    {
-      "id": "itsydz",
-      "title": "Após polêmica, Ed Sheeran anuncia novo artista para show de abertura em São Paulo",
-      "description": "O cantor confirmou Isaac Slade nos dois concertos na capital paulista após a saída de FINNEAS e a repercussão da demissão do rapper Macklemore",
-      "category": "musica",
-      "date": "2026-11-05T14:04:33.000Z",
-      "location": "Bela Vista",
-      "neighborhood": "Bela Vista",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/04/Design-sem-nome-2026-04-28T125619.431.png",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/ed-sheeran-novo-artista-abertura-shows-sao-paulo-polemica/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/ed-sheeran-novo-artista-abertura-shows-sao-paulo-polemica/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "musica"
-      ],
-      "featured": true
-    },
-    {
-      "id": "w0nqry",
-      "title": "‘Feito Pipa’ estreia nos cinemas com missão de levar Brasil ao Oscar novamente",
-      "description": "Premiado em festivais, o novo longa de Allan Deberton aborda afeto, diversidade e desafios familiares; Lázaro Ramos, Teca Pereira e Yuri Gomes no elenco",
-      "category": "cinema",
-      "date": "2026-11-05T15:47:57.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/Yuri-Gomes_©JamilleQueiroz-2.jpg.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/feito-pipa-estreia-nos-cinemas-em-campanha-para-levar-o-brasil-novamente-ao-oscar/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/feito-pipa-estreia-nos-cinemas-em-campanha-para-levar-o-brasil-novamente-ao-oscar/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "cinema"
-      ],
-      "featured": false
-    },
-    {
       "id": "8wzc26",
       "title": "Desconto Gira: Saiba como garantir 40% OFF nos shows da Casa Natura Musical",
       "description": "A Casa Natura Musical é um dos palcos mais potentes de São Paulo, e quem se cadastra na Gira Catraca Livre garante 40% de desconto nos ingressos!",
@@ -446,50 +314,6 @@
         "gratuito",
         "sp",
         "musica"
-      ],
-      "featured": false
-    },
-    {
-      "id": "fwsb05",
-      "title": "Bookster: como um advogado formado pela USP vira um dos maiores influenciadores literários do país",
-      "description": "Com 1,1 milhão de seguidores no Instagram, Pedro Pacífico conquistou o Prêmio Jabuti na estreia da categoria dedicada ao incentivo à leitura no ambiente digital",
-      "category": "tecnologia",
-      "date": "2026-11-06T08:00:10.000Z",
-      "location": "Butantã",
-      "neighborhood": "Butantã",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/NJ26541.jpg.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/bookster-pedro-pacifico-capa/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/bookster-pedro-pacifico-capa/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "tecnologia"
-      ],
-      "featured": false
-    },
-    {
-      "id": "eyl2vp",
-      "title": "Mural SP: Sarah Morris",
-      "description": "Tela da britânica Sarah Morris, em cartaz a partir da quinta (12), homenageia Mirthes Bernardes, criadora do piso paulista",
-      "category": "cultura",
-      "date": "2026-11-06T08:00:14.000Z",
-      "location": "Bela Vista",
-      "neighborhood": "Bela Vista",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-10-29-at-14.24.05.jpeg.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/mural-sp-sarah-morris/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/mural-sp-sarah-morris/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "cultura"
       ],
       "featured": false
     },
@@ -514,28 +338,6 @@
         "sp"
       ],
       "featured": false
-    },
-    {
-      "id": "w8a0nl",
-      "title": "Museu Afro Brasil seleciona artistas para a residência ‘Futuros Pretos’",
-      "description": "Cinco nomes de diferentes regiões do país vão criar obras inéditas para exposição que abre no Dia da Consciência Negra",
-      "category": "exposicao",
-      "date": "2026-11-06T12:55:48.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2022/10/122164055_3663220273710852_5496354890499051813_n.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/museu-afro-brasil-seleciona-artistas-para-a-residencia-futuros-pretos/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/museu-afro-brasil-seleciona-artistas-para-a-residencia-futuros-pretos/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "exposicao"
-      ],
-      "featured": true
     },
     {
       "id": "50906m",
@@ -846,8 +648,8 @@
       "featured": false
     },
     {
-      "id": "ogkqzn",
-      "title": "3ª Festa da Padroeira de Santa Cecília reúne Charanga do França, forró e feiras na rua",
+      "id": "do3tuh",
+      "title": "3ª Festa da Padroeira da Santa Cecília reúne Charanga do França, forró e feiras na rua",
       "description": "A 3ª Festa da Padroeira de Santa Cecília reúne cortejo, forró em vinil e mais de 80 feirantes neste sábado (14/11), na saída do metrô, com entrada franca.",
       "category": "festa",
       "date": "2026-11-09T14:13:05.000Z",
@@ -856,9 +658,9 @@
       "price": 0,
       "isFree": true,
       "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/11/saveclipapp-532151705-17906405166213265-6512045854021460972-n.jpg",
-      "ticketUrl": "https://catracalivre.com.br/gira/3a-festa-da-padroeira-de-santa-cecilia/",
+      "ticketUrl": "https://catracalivre.com.br/gira/3a-festa-da-padroeira-da-santa-cecilia/",
       "source": "Catraca Livre",
-      "sourceUrl": "https://catracalivre.com.br/gira/3a-festa-da-padroeira-de-santa-cecilia/",
+      "sourceUrl": "https://catracalivre.com.br/gira/3a-festa-da-padroeira-da-santa-cecilia/",
       "tags": [
         "catracalivre",
         "gratuito",
@@ -1198,6 +1000,160 @@
       "featured": false
     },
     {
+      "id": "fevedt",
+      "title": "CAIXA Cultural abre retrospectiva de Francisco Galeno com 70 obras e entrada gratuita",
+      "description": "Com curadoria de Paulo Herkenhoff, mostra na Praça da Sé reúne 70 obras, sala em homenagem a Niemeyer e a última tela pintada por Galeno até fevereiro.",
+      "category": "cinema",
+      "date": "2026-11-11T11:23:45.000Z",
+      "location": "Centro Histórico",
+      "neighborhood": "Centro Histórico",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/11/gemini-generated-image-7koka27koka27kok.jpg",
+      "ticketUrl": "https://catracalivre.com.br/gira/caixa-cultural-abre-retrospectiva-de-francisco-galeno-com-70-obras-e-entrada-gratuita/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/caixa-cultural-abre-retrospectiva-de-francisco-galeno-com-70-obras-e-entrada-gratuita/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
+        "sp",
+        "cinema"
+      ],
+      "featured": true
+    },
+    {
+      "id": "3lrro",
+      "title": "Orgulho Nerd SP 2026: confira a programação completa com cosplay, filmes e shows",
+      "description": "Evento gratuito celebra a cultura pop com bate-papos, apresentações, oficinas e concursos na Mercado Livre Arena Pacaembu",
+      "category": "musica",
+      "date": "2026-11-11T13:09:47.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/whatsapp-image-2026-11-04-at-12-20-32.webp",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/orgulho-nerd-sp-2026-programacao-completa/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/orgulho-nerd-sp-2026-programacao-completa/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "musica"
+      ],
+      "featured": true
+    },
+    {
+      "id": "4qzunz",
+      "title": "Exposição gratuita em SP permite experimentar fantasias de Carnaval",
+      "description": "Mostra em homenagem à carnavalesca Rosa Magalhães reúne figurinos, desenhos e uma alegoria de mais de quatro metros de altura",
+      "category": "festa",
+      "date": "2026-11-11T13:38:36.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/IMG_7518.webp",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/exposicao-gratuita-em-sp-permite-experimentar-fantasias-de-carnaval/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/exposicao-gratuita-em-sp-permite-experimentar-fantasias-de-carnaval/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "festa"
+      ],
+      "featured": true
+    },
+    {
+      "id": "wnj8te",
+      "title": "Feira de Natal gratuita em SP terá panetones, shows e atrações para pets",
+      "description": "Brooklin Taste ocupa a Praça Lions Monções neste fim de semana com parada natalina, Papai Noel, caminhada com cães e apresentações musicais",
+      "category": "musica",
+      "date": "2026-11-11T16:22:42.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-11-at-17.41.42.jpeg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/feira-de-natal-gratuita-em-sp-tera-panetones-shows-e-atracoes-para-pets/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/feira-de-natal-gratuita-em-sp-tera-panetones-shows-e-atracoes-para-pets/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "musica"
+      ],
+      "featured": true
+    },
+    {
+      "id": "5g9umk",
+      "title": "Estação Vila das Belezas tem ação gratuita de leitura com a Turma da Mônica",
+      "description": "Projeto promovido pelo Instituto Mauricio de Sousa e Instituto Motiva distribui gibis e promove mediação de histórias para crianças no metrô",
+      "category": "literatura",
+      "date": "2026-11-11T16:30:41.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/unnamed-10.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/estacao-vila-das-belezas-tem-acao-gratuita-de-leitura-com-a-turma-da-monica/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/estacao-vila-das-belezas-tem-acao-gratuita-de-leitura-com-a-turma-da-monica/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "literatura"
+      ],
+      "featured": true
+    },
+    {
+      "id": "ptq8jd",
+      "title": "Orquestra da USP faz concerto gratuito inspirado em encontro de Mahler e Freud",
+      "description": "Evento neste sábado (14) convida Ivo Assad Ibri, doutor em Filosofia pela USP e professor da PUC-SP",
+      "category": "musica",
+      "date": "2026-11-11T17:50:43.000Z",
+      "location": "Butantã",
+      "neighborhood": "Butantã",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/20231129_osusp_guarnieri.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/orquestra-da-usp-faz-concerto-gratuito-inspirado-em-encontro-de-mahler-e-freud/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/orquestra-da-usp-faz-concerto-gratuito-inspirado-em-encontro-de-mahler-e-freud/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "musica"
+      ],
+      "featured": true
+    },
+    {
+      "id": "y7ddp6",
+      "title": "Betty Milan, Djamila Ribeiro e José Renato Nalini debatem amor e machismo em SP",
+      "description": "Encontro gratuito na Academia Paulista de Letras, nesta quinta (12), parte da obra da psicanalista sobre a liberdade feminina nas relações amorosas",
+      "category": "exposicao",
+      "date": "2026-11-11T19:08:06.000Z",
+      "location": "Bela Vista",
+      "neighborhood": "Bela Vista",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/Betty_Milan_Marcio-Scavone-1.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/betty-milan-djamila-ribeiro-e-jose-renato-nalini-debatem-amor-e-machismo-em-sp/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/betty-milan-djamila-ribeiro-e-jose-renato-nalini-debatem-amor-e-machismo-em-sp/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "exposicao"
+      ],
+      "featured": true
+    },
+    {
       "id": "v6u2dh",
       "title": "Festival de teatro negro Melanina Acentuada volta a São Paulo após 14 anos",
       "description": "Com peças como ‘Macacos’ e a adaptação do ‘Pequeno Manual Antirracista’, evento ocupa o CCBB SP de 12 a 15 de novembro com espetáculos e debates",
@@ -1242,6 +1198,28 @@
       "featured": false
     },
     {
+      "id": "73yyjh",
+      "title": "Júlio Verne de graça em SP? Exposição na Avenida Paulista tem entrada grátis às terças e para crianças até 7 anos todos os dias",
+      "description": "Uma viagem pelo fundo do mar e pelo universo da ficção científica espera os visitantes da Casa das Rosas, na Avenida Paulista. De 12 de novembro a 13 de dezembro de 2026, o espaço recebe a exposição imersiva 20 Mil Léguas Submarinas e Outras Viagens Extraordinárias, inspirada nas obras do escritor francês Júlio Verne. A [&hellip;]",
+      "category": "infantil",
+      "date": "2026-11-12T10:00:00",
+      "location": "Bela Vista",
+      "neighborhood": "Bela Vista",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2018/03/sp_criancas_passeios_20_mil_leguas_submarinas_-4.jpeg",
+      "ticketUrl": "https://saopauloparacriancas.com.br/exposicao-casa-das-rosas-sp/",
+      "source": "SP para Crianças",
+      "sourceUrl": "https://saopauloparacriancas.com.br/exposicao-casa-das-rosas-sp/",
+      "tags": [
+        "infantil",
+        "familia",
+        "criancas",
+        "sp"
+      ],
+      "featured": true
+    },
+    {
       "id": "c7tafe",
       "title": "Revelando SP 2026 tem oficinas, brincadeiras e contação de histórias gratuitas para crianças",
       "description": "Pintura facial, contação de histórias, brincadeiras, palhaçaria, atividades circenses, oficinas de artesanato indígena, bordado, crochê, modelagem em argila e vivência de jongo estão entre as atrações infantis do Revelando SP 2026. O festival acontece de 12 a 15 de novembro, no Parque do Trote, na Vila Guilherme, Zona Norte de São Paulo, com entrada gratuita. [&hellip;]",
@@ -1260,6 +1238,50 @@
         "familia",
         "criancas",
         "sp"
+      ],
+      "featured": true
+    },
+    {
+      "id": "h0tqi5",
+      "title": "Prêmio Bibi Ferreira consagra ‘Ópera do Malandro’ e emociona com vitória de Analu Pimenta",
+      "description": "Cerimônia no Teatro Renault teve musical sobre Tina Turner entre os destaques da noite, além de vitórias de Andrea Beltrão e Dan Stulbach nas peças de prosa",
+      "category": "musica",
+      "date": "2026-11-12T11:09:50.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/02/odm-8.jpg.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/premio-bibi-ferreira-consagra-opera-do-malandro-e-emociona-com-vitoria-de-analu-pimenta/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/premio-bibi-ferreira-consagra-opera-do-malandro-e-emociona-com-vitoria-de-analu-pimenta/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "musica"
+      ],
+      "featured": true
+    },
+    {
+      "id": "rg3kgb",
+      "title": "Edição geek do Red Bull Ladeira Abaixo acontece neste domingo (15) na Pompeia",
+      "description": "Com carrinhos sem motor inspirados na cultura pop, corrida maluca reúne 37 equipes de todo o país com entrada gratuita",
+      "category": "musica",
+      "date": "2026-11-12T11:43:30.000Z",
+      "location": "Pompeia",
+      "neighborhood": "Pompeia",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=800&q=80",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/edicao-geek-red-bull-ladeira-abaixo-2026/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/edicao-geek-red-bull-ladeira-abaixo-2026/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "musica"
       ],
       "featured": true
     },
@@ -1326,6 +1348,28 @@
         "cultura",
         "sp",
         "festa"
+      ],
+      "featured": true
+    },
+    {
+      "id": "exxk7p",
+      "title": "12ª Mostra Mosfilm de Cinema Soviético e Russo chega à Cinemateca Brasileira com entrada gratuita",
+      "description": "Cinemateca recebe festival de cinema russo com 12 longas, projeção ao ar livre, música ao vivo e feira típica com entrada franca até 22 de novembro.",
+      "category": "musica",
+      "date": "2026-11-22T10:00:00",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/11/unnamed-2026-11-11t115632512.jpg",
+      "ticketUrl": "https://catracalivre.com.br/gira/12a-mostra-mosfilm-de-cinema-sovietico-e-russo-chega-a-cinemateca-brasileira/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/12a-mostra-mosfilm-de-cinema-sovietico-e-russo-chega-a-cinemateca-brasileira/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
+        "sp",
+        "musica"
       ],
       "featured": true
     },
