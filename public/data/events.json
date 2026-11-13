@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-12T14:57:21.135Z",
-  "totalCount": 66,
+  "updatedAt": "2026-11-13T14:22:59.689Z",
+  "totalCount": 65,
   "sources": [
     "Veja SP",
     "Catraca Livre",
@@ -338,160 +338,6 @@
         "sp"
       ],
       "featured": false
-    },
-    {
-      "id": "50906m",
-      "title": "Daniel Ávila é desligado de grupo de teatro após denúncia de violência",
-      "description": "Ator que viveu o personagem Dudu, em ‘A Viagem’, é investigado pela Polícia Civil do RJ; companhia Tá na Rua anunciou hoje a sua demissão",
-      "category": "teatro",
-      "date": "2026-11-06T15:59:09.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/Daniel.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/daniel-avila-e-desligado-de-grupo-de-teatro-apos-denuncia-de-violencia/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/daniel-avila-e-desligado-de-grupo-de-teatro-apos-denuncia-de-violencia/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "teatro"
-      ],
-      "featured": false
-    },
-    {
-      "id": "cwsm5j",
-      "title": "Projeto reúne sets de Pedro Sampaio e MU540 no YouTube para ‘esquenta’ em casa",
-      "description": "Beats Esquenta Fest lança apresentações inéditas ao longo de novembro para garantir a animação antes de uma ‘noitada’",
-      "category": "cultura",
-      "date": "2026-11-06T19:35:02.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/FOTO_PR_PEDRO.jpg.jpeg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/projeto-beats-esquenta-fest-pedro-sampaio-mu540-youtube/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/projeto-beats-esquenta-fest-pedro-sampaio-mu540-youtube/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "cultura"
-      ],
-      "featured": false
-    },
-    {
-      "id": "38uerw",
-      "title": "Morre o diretor Nilton Travesso, pioneiro da televisão brasileira, aos 92 anos",
-      "description": "Nome por trás de atrações históricas como ‘TV Mulher’ e ‘Fantástico’, profissional participou da fundação da TV Record e manteve escola de atores em Pinheiros",
-      "category": "cultura",
-      "date": "2026-11-06T19:55:40.000Z",
-      "location": "Pinheiros",
-      "neighborhood": "Pinheiros",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/Nilton_2.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/morre-o-diretor-nilton-travesso-pioneiro-da-televisao-brasileira-aos-92-anos/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/morre-o-diretor-nilton-travesso-pioneiro-da-televisao-brasileira-aos-92-anos/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "cultura"
-      ],
-      "featured": false
-    },
-    {
-      "id": "d001vy",
-      "title": "Pedro Pacífico abre inscrições para clube com livros de doze países",
-      "description": "Depois de 5 000 e 7 000 assinaturas nas primeiras edições, o Bookster pelo Mundo passa de 9 000 na pré-venda de 2027, segundo o criador",
-      "category": "festa",
-      "date": "2026-11-07T07:00:20.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/TAG-Livros_-Divulgacao.png.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/pedro-pacifico-abre-inscricoes-para-clube-com-livros-de-doze-paises/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/pedro-pacifico-abre-inscricoes-para-clube-com-livros-de-doze-paises/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "festa"
-      ],
-      "featured": false
-    },
-    {
-      "id": "55r213",
-      "title": "Camila Fremder relembra como começou a amizade com Pedro Pacífico, o Bookster",
-      "description": "Parceiros no podcast ‘E os Namoradinhos?’, que volta em vídeo na DiaTV, os dois se conheceram em 2018, quando ele mandou a ela um livro",
-      "category": "literatura",
-      "date": "2026-11-08T07:00:27.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/@cami.marzano_-Divulgacao.jpg.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/camila-fremder-relembra-como-comecou-a-amizade-com-pedro-pacifico-o-bookster/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/camila-fremder-relembra-como-comecou-a-amizade-com-pedro-pacifico-o-bookster/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "literatura"
-      ],
-      "featured": false
-    },
-    {
-      "id": "d578ok",
-      "title": "Demônios da Garoa fazem show no Bar Guanabara, no Centro Histórico de SP",
-      "description": "Apresentação em clima intimista celebra os 116 anos da casa e conta com jantar especial assinado pelo chef Rafa Spencer; ingressos já estão à venda",
-      "category": "musica",
-      "date": "2026-11-08T08:00:07.000Z",
-      "location": "Centro Histórico",
-      "neighborhood": "Centro Histórico",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/unnamed-3.png",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/demonios-da-garoa-fazem-show-no-bar-guanabara-no-centro-historico-de-sp/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/demonios-da-garoa-fazem-show-no-bar-guanabara-no-centro-historico-de-sp/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "musica"
-      ],
-      "featured": true
-    },
-    {
-      "id": "jbla5x",
-      "title": "Celso Cardoso apresenta tributo a Renato Russo na Unibes Cultural",
-      "description": "Jornalista e cantor sobe ao palco acompanhado da banda Os Impossíveis para homenagear os 30 anos do legado do líder da Legião Urbana",
-      "category": "musica",
-      "date": "2026-11-08T08:00:31.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/IMG_4163.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/celso-cardoso-apresenta-tributo-a-renato-russo-na-unibes-cultural/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/celso-cardoso-apresenta-tributo-a-renato-russo-na-unibes-cultural/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "musica"
-      ],
-      "featured": true
     },
     {
       "id": "vuxbgn",
@@ -1154,28 +1000,6 @@
       "featured": true
     },
     {
-      "id": "v6u2dh",
-      "title": "Festival de teatro negro Melanina Acentuada volta a São Paulo após 14 anos",
-      "description": "Com peças como ‘Macacos’ e a adaptação do ‘Pequeno Manual Antirracista’, evento ocupa o CCBB SP de 12 a 15 de novembro com espetáculos e debates",
-      "category": "teatro",
-      "date": "2026-11-12T10:00:00",
-      "location": "Vila Mariana",
-      "neighborhood": "Vila Mariana",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/Manual.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/festival-de-teatro-negro-melanina-acentuada-volta-a-sao-paulo-apos-14-anos/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/festival-de-teatro-negro-melanina-acentuada-volta-a-sao-paulo-apos-14-anos/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "teatro"
-      ],
-      "featured": false
-    },
-    {
       "id": "bp5xgj",
       "title": "Festival Melanina Acentuada volta a SP após 14 anos com peças consagradas no CCBB",
       "description": "De 12 a 15 de novembro, evento celebra 80 anos do Teatro Experimental do Negro com espetáculos de Clayton Nascimento e Djamila Ribeiro no Centro de SP.",
@@ -1282,6 +1106,160 @@
         "cultura",
         "sp",
         "musica"
+      ],
+      "featured": true
+    },
+    {
+      "id": "kxesvv",
+      "title": "Cinemark celebra Dia do Cinema Nacional com ingressos a R$ 10: confira",
+      "description": "A rede de cinemas dedica 100% da sua programação a produções brasileiras na próxima segunda-feira (16)",
+      "category": "gastronomia",
+      "date": "2026-11-12T12:57:56.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2025/10/CINEMARK-Credito-Divulgacao.jpg.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/cinemark-celebra-dia-do-cinema-nacional-com-ingressos-a-r-10-confira/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/cinemark-celebra-dia-do-cinema-nacional-com-ingressos-a-r-10-confira/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "gastronomia"
+      ],
+      "featured": false
+    },
+    {
+      "id": "tmer6c",
+      "title": "De mirante a livraria: 5 lugares para conhecer no Copan",
+      "description": "Edifício de Oscar Niemeyer no centro de SP reúne visitas ao terraço, livraria, locadora de filmes, floricultura e o Bar da Dona Onça",
+      "category": "cinema",
+      "date": "2026-11-12T14:50:09.000Z",
+      "location": "Centro Histórico",
+      "neighborhood": "Centro Histórico",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/COPAN-5.jpg.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/de-mirante-a-livraria-5-lugares-para-conhecer-no-copan/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/de-mirante-a-livraria-5-lugares-para-conhecer-no-copan/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "cinema"
+      ],
+      "featured": false
+    },
+    {
+      "id": "tuwa7f",
+      "title": "Castelo Rá-Tim-Bum volta ao cinema em sessões especiais em SP",
+      "description": "Longa de 1999 será exibido em película 35mm no CineSesc, com ingressos gratuitos para crianças de até 12 anos",
+      "category": "cinema",
+      "date": "2026-11-12T15:08:31.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/unnamed-1.webp",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/castelo-ra-tim-bum-cinema-sessoes/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/castelo-ra-tim-bum-cinema-sessoes/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "cinema"
+      ],
+      "featured": true
+    },
+    {
+      "id": "kl7n8s",
+      "title": "Sesc inaugura nova unidade com mais de 80 atrações gratuitas em SP",
+      "description": "Elba Ramalho, Renato Teixeira e São Paulo Companhia de Dança estão entre os destaques da programação de abertura do Sesc Marília, neste fim de semana",
+      "category": "tecnologia",
+      "date": "2026-11-12T18:39:59.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2025/07/unnamed-23.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/sesc-marilia-inauguracao-programacao/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/sesc-marilia-inauguracao-programacao/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "tecnologia"
+      ],
+      "featured": true
+    },
+    {
+      "id": "xftat7",
+      "title": "Mural SP: Barrão",
+      "description": "Sua produção explora a transformação de objetos cotidianos por meio de esculturas que combinam fragmentos de cerâmica e porcelana",
+      "category": "exposicao",
+      "date": "2026-11-13T08:00:49.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/2025_Retrato-Barrao_Ph.-Eduardo-Ortega_DDM_1.jpg.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/mural-sp-barrao/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/mural-sp-barrao/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "exposicao"
+      ],
+      "featured": true
+    },
+    {
+      "id": "xjvw8w",
+      "title": "Hayley Williams surpreende fãs em SP ao cantar com Seu Jorge",
+      "description": "Dupla apresentou versão em português de clássico de David Bowie; confira o vídeo do encontro no palco",
+      "category": "teatro",
+      "date": "2026-11-13T10:29:49.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/Captura-de-Tela-2026-11-13-as-10.28.57.png",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/hayley-williams-seu-jorge-video/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/hayley-williams-seu-jorge-video/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "teatro"
+      ],
+      "featured": false
+    },
+    {
+      "id": "flo5v7",
+      "title": "O que fazer em São Paulo neste fim de semana: 14 programas para 14 e 15 de novembro",
+      "description": "Festivais gratuitos, corrida maluca geek, feiras de artesanato e exposições estão entre as atrações na capital paulista",
+      "category": "exposicao",
+      "date": "2026-11-15T10:00:00",
+      "location": "Bela Vista",
+      "neighborhood": "Bela Vista",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2025/09/Revelando-SP-5.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/o-que-fazer-em-sao-paulo-neste-fim-de-semana-14-programas-para-14-e-15-de-novembro/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/o-que-fazer-em-sao-paulo-neste-fim-de-semana-14-programas-para-14-e-15-de-novembro/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "exposicao"
       ],
       "featured": true
     },
