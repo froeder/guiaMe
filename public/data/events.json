@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T14:22:59.689Z",
+  "updatedAt": "2026-11-14T13:19:05.060Z",
   "totalCount": 65,
   "sources": [
     "Veja SP",
@@ -340,50 +340,6 @@
       "featured": false
     },
     {
-      "id": "vuxbgn",
-      "title": "Cultura Artística recebe festival internacional de flamenco em homenagem a Paco de Lucía",
-      "description": "Espetáculo ‘Diálogos Flamencos’ reúne sobrinho do lendário violonista espanhol, Jaques Morelenbaum e bailaoras em apresentação única na capital paulista",
-      "category": "teatro",
-      "date": "2026-11-08T08:00:47.000Z",
-      "location": "Bela Vista",
-      "neighborhood": "Bela Vista",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/Vera-Alejandra-foto-ana-nicolau.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/cultura-artistica-recebe-festival-internacional-de-flamenco-em-homenagem-a-paco-de-lucia/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/cultura-artistica-recebe-festival-internacional-de-flamenco-em-homenagem-a-paco-de-lucia/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "teatro"
-      ],
-      "featured": false
-    },
-    {
-      "id": "fw69pp",
-      "title": "Pedro Pacífico, o Bookster, revela seus 6 endereços favoritos em São Paulo",
-      "description": "De livrarias aconchegantes a bibliotecas e cinemas de rua, conheça os lugares imperdíveis para quem ama literatura e cultura na capital",
-      "category": "cinema",
-      "date": "2026-11-08T09:00:58.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/NJ26812-Edit-Edit.jpg.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/pedro-pacifico-o-bookster-revela-seus-6-enderecos-favoritos-em-sao-paulo/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/pedro-pacifico-o-bookster-revela-seus-6-enderecos-favoritos-em-sao-paulo/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "cinema"
-      ],
-      "featured": false
-    },
-    {
       "id": "ymql4s",
       "title": "Festival ZUM traz Carrie Mae Weems pela primeira vez ao Brasil em fim de semana gratuito no IMS Paulista",
       "description": "Com debates entre Anna Muylaert e Adirley Queirós, feira de fotolivros e nova edição da revista ZUM, o evento ocupa o IMS Paulista nos dias 7 e 8 de novembro",
@@ -448,50 +404,6 @@
         "musica"
       ],
       "featured": true
-    },
-    {
-      "id": "1cjt1o",
-      "title": "Mariah Carey desembarca para show em São Paulo e atende fãs no hotel",
-      "description": "Conhecida como Rainha do Natal, a diva pop atendeu admiradores e abriu a temporada de apresentações no país",
-      "category": "musica",
-      "date": "2026-11-09T13:48:49.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/HWoHGZkXMAA38yv.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/mariah-carey-desembarca-para-show-em-sao-paulo-e-atende-fas-no-hotel/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/mariah-carey-desembarca-para-show-em-sao-paulo-e-atende-fas-no-hotel/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "musica"
-      ],
-      "featured": true
-    },
-    {
-      "id": "swnbc8",
-      "title": "Lando Norris faz comemoração desastrada no pódio no GP de São Paulo",
-      "description": "O piloto venceu a corrida mas quebrou a garrafa de champanhe no chão e ainda queimou o rosto com faíscas de fogos de artifício",
-      "category": "esporte",
-      "date": "2026-11-09T13:57:32.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-09-at-13.35.40.jpeg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/lando-norris-faz-comemoracao-desastrada-no-podio-no-gp-de-sao-paulo/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/lando-norris-faz-comemoracao-desastrada-no-podio-no-gp-de-sao-paulo/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "esporte"
-      ],
-      "featured": false
     },
     {
       "id": "do3tuh",
@@ -1242,6 +1154,72 @@
       "featured": false
     },
     {
+      "id": "pbec5l",
+      "title": "Quem era o promotor acusado por Suzane von Richthofen de assédio?",
+      "description": "Documentário da Netflix resgata episódio ocorrido durante a prisão de Suzane, que acusou Eliseu Gonçalves de tentar seduzi-la; ele nega as acusações",
+      "category": "cultura",
+      "date": "2026-11-13T16:25:49.000Z",
+      "location": "Centro Histórico",
+      "neighborhood": "Centro Histórico",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/Suzane_von_Richthofen__O_que_o_Tempo_Nao_Apaga_n_01_24_27_05.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cidades/promotor-acusado-assedio-suzane-von-richthofen/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cidades/promotor-acusado-assedio-suzane-von-richthofen/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "cultura"
+      ],
+      "featured": false
+    },
+    {
+      "id": "mklp05",
+      "title": "Exposição de grafite, samba-rock e festas gratuitas ocupam o Novo Anhangabaú",
+      "description": "Programação do Mês da Consciência Negra destaca a cultura afro-brasileira com homenagem a mulheres marcantes da história e resgate da música preta",
+      "category": "festa",
+      "date": "2026-11-14T08:00:10.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=800&q=80",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/exposicao-de-grafite-samba-rock-e-festas-gratuitas-ocupam-o-novo-anhangabau/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/exposicao-de-grafite-samba-rock-e-festas-gratuitas-ocupam-o-novo-anhangabau/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "festa"
+      ],
+      "featured": true
+    },
+    {
+      "id": "vhxxkt",
+      "title": "MAC-USP realiza oficinas gratuitas de dança inspiradas em obras de performance",
+      "description": "Encontros abertos ao público exploram como o corpo interage com a arte e vão resultar em publicação impressa e digital",
+      "category": "exposicao",
+      "date": "2026-11-14T08:00:38.000Z",
+      "location": "Vila Mariana",
+      "neighborhood": "Vila Mariana",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/Oficina_danca.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/mac-usp-realiza-oficinas-gratuitas-de-danca-inspiradas-em-obras-de-performance/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/mac-usp-realiza-oficinas-gratuitas-de-danca-inspiradas-em-obras-de-performance/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "exposicao"
+      ],
+      "featured": true
+    },
+    {
       "id": "flo5v7",
       "title": "O que fazer em São Paulo neste fim de semana: 14 programas para 14 e 15 de novembro",
       "description": "Festivais gratuitos, corrida maluca geek, feiras de artesanato e exposições estão entre as atrações na capital paulista",
@@ -1306,6 +1284,28 @@
         "sp"
       ],
       "featured": false
+    },
+    {
+      "id": "a2u245",
+      "title": "Praça das Artes recebe 6ª Expo Internacional Dia da Consciência Negra com entrada gratuita",
+      "description": "Evento focado no protagonismo feminino debate mercado de trabalho, inteligência artificial, saúde e racismo ambiental nos dias 20 e 21 de novembro",
+      "category": "exposicao",
+      "date": "2026-11-21T10:00:00",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/Praca_das_Artes.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/praca-das-artes-recebe-6a-expo-internacional-dia-da-consciencia-negra-com-entrada-gratuita/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/praca-das-artes-recebe-6a-expo-internacional-dia-da-consciencia-negra-com-entrada-gratuita/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "exposicao"
+      ],
+      "featured": true
     },
     {
       "id": "fr6try",
