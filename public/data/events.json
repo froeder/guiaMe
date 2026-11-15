@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-14T13:19:05.060Z",
-  "totalCount": 65,
+  "updatedAt": "2026-11-15T13:47:08.149Z",
+  "totalCount": 66,
   "sources": [
     "Veja SP",
     "Catraca Livre",
@@ -472,28 +472,6 @@
       "featured": false
     },
     {
-      "id": "ppd9ro",
-      "title": "Ator de Chuck Bass, de Gossip Girl, está em São Paulo; saiba o motivo",
-      "description": "Ed Westwick foi ao GP de Fórmula 1 no domingo (8) e participa de evento exclusivo nesta segunda (9)",
-      "category": "cultura",
-      "date": "2026-11-09T16:26:59.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/Ed-Westwick.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/ator-de-chuck-bass-de-gossip-girl-esta-em-sao-paulo-saiba-o-motivo/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/ator-de-chuck-bass-de-gossip-girl-esta-em-sao-paulo-saiba-o-motivo/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "cultura"
-      ],
-      "featured": false
-    },
-    {
       "id": "ijwxak",
       "title": "Museu Judaico abre mostra panorâmica com cinco décadas de arte feminista de Gretta Sarfaty",
       "description": "Com entrada grátis aos sábados, exposição Diáfana reúne mais de 60 obras de Gretta Sarfaty entre fotografia, vídeo e performance no centro de SP.",
@@ -514,28 +492,6 @@
         "exposicao"
       ],
       "featured": true
-    },
-    {
-      "id": "wg1zc",
-      "title": "Quantos filhos Mick Jagger tem? Conheça os herdeiros do cantor",
-      "description": "Vocalista dos Rolling Stones teve filho com cinco mulheres diferentes; um deles é Lucas Jagger, filho da apresentadora Luciana Gimenez",
-      "category": "cultura",
-      "date": "2026-11-09T17:44:12.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/Lucas-Jagger.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/quantos-filhos-mick-jagger-tem-conheca-os-oito-herdeiros-do-cantor/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/quantos-filhos-mick-jagger-tem-conheca-os-oito-herdeiros-do-cantor/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "cultura"
-      ],
-      "featured": false
     },
     {
       "id": "t877wd",
@@ -1330,6 +1286,50 @@
       "featured": true
     },
     {
+      "id": "ce004w",
+      "title": "Natal gratuito em Osasco tem show de Maria Clara &#038; JP e chegada do Papai Noel de helicóptero",
+      "description": "A Fantástica Fábrica de Natal reúne personagens animatrônicos, observatório interativo e cenários para fotos. No dia 21 de novembro, Maria Clara & JP fazem show gratuito antes da chegada do Bom Velhinho. O Shopping União de Osasco apresenta a decoração de Natal 2026 com o tema A Fantástica Fábrica de Natal. A cenografia reúne personagens, [&hellip;]",
+      "category": "infantil",
+      "date": "2026-11-21T10:00:00",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2025/10/sp_criancas_passeio_maria_clara-e_jp_01.jpg",
+      "ticketUrl": "https://saopauloparacriancas.com.br/uniao-de_osasco-sp/",
+      "source": "SP para Crianças",
+      "sourceUrl": "https://saopauloparacriancas.com.br/uniao-de_osasco-sp/",
+      "tags": [
+        "infantil",
+        "familia",
+        "criancas",
+        "sp"
+      ],
+      "featured": true
+    },
+    {
+      "id": "u82tvk",
+      "title": "Concurso de cosplay do Orgulho Nerd SP abre inscrições para desfiles e performances",
+      "description": "Evento gratuito nos dias 21 e 22 de novembro terá categorias de figurino e apresentações; vagas são limitadas para inscrições online e presenciais",
+      "category": "cultura",
+      "date": "2026-11-22T10:00:00",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/Concurso-Cosplay_13_0917.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/concurso-de-cosplay-do-orgulho-nerd-sp-abre-inscricoes-para-desfiles-e-performances/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/concurso-de-cosplay-do-orgulho-nerd-sp-abre-inscricoes-para-desfiles-e-performances/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "cultura"
+      ],
+      "featured": true
+    },
+    {
       "id": "exxk7p",
       "title": "12ª Mostra Mosfilm de Cinema Soviético e Russo chega à Cinemateca Brasileira com entrada gratuita",
       "description": "Cinemateca recebe festival de cinema russo com 12 longas, projeção ao ar livre, música ao vivo e feira típica com entrada franca até 22 de novembro.",
@@ -1438,6 +1438,28 @@
         "cultura"
       ],
       "featured": true
+    },
+    {
+      "id": "syrqw1",
+      "title": "Shopping Vila Olímpia tem árvore de Natal com escorregador e encontro de shih-tzus",
+      "description": "Decoração fica montada até 25 de dezembro; em novembro, a programação inclui paradas natalinas e fotos com o Papai Noel para crianças e pets",
+      "category": "tecnologia",
+      "date": "2026-12-25T10:00:00",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/unnamed_3b710b.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/shopping-vila-olimpia-tem-arvore-de-natal-com-escorregador-e-encontro-de-shih-tzus/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/shopping-vila-olimpia-tem-arvore-de-natal-com-escorregador-e-encontro-de-shih-tzus/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "tecnologia"
+      ],
+      "featured": false
     }
   ]
 }
