@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-15T13:47:08.149Z",
-  "totalCount": 66,
+  "updatedAt": "2026-11-16T15:27:10.409Z",
+  "totalCount": 68,
   "sources": [
     "Veja SP",
     "Catraca Livre",
@@ -28,50 +28,6 @@
         "familia",
         "criancas",
         "sp"
-      ],
-      "featured": true
-    },
-    {
-      "id": "rtvfys",
-      "title": "Casa de Cultura do Parque abre novas mostras de arte e oficinas gratuitas em novembro",
-      "description": "Espaço cultural no Alto de Pinheiros reúne grafismos indígenas, mural coletivo, debate sobre a Av. Paulista e práticas criativas para toda a família.",
-      "category": "exposicao",
-      "date": "2026-11-03T11:30:34.000Z",
-      "location": "Bela Vista",
-      "neighborhood": "Bela Vista",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/11/261003-dando-bandeira-o-tudo-e-o-todo-cred-raphaela-campano-26-scaled.jpg",
-      "ticketUrl": "https://catracalivre.com.br/gira/casa-de-cultura-do-parque-abre-novas-mostras-de-arte-e-oficinas-gratuitas-em-novembro/",
-      "source": "Catraca Livre",
-      "sourceUrl": "https://catracalivre.com.br/gira/casa-de-cultura-do-parque-abre-novas-mostras-de-arte-e-oficinas-gratuitas-em-novembro/",
-      "tags": [
-        "catracalivre",
-        "gratuito",
-        "sp",
-        "exposicao"
-      ],
-      "featured": true
-    },
-    {
-      "id": "bzvr4c",
-      "title": "Coral armênio mais antigo de SP celebra 100 anos com concerto gratuito e distribuição de livro",
-      "description": "Criado por sobreviventes do genocídio armênio em 1926, o conjunto ocupa o Teatro Maria Imaculada no domingo (8/11) com entrega da obra de Sônia de Freitas.",
-      "category": "musica",
-      "date": "2026-11-03T11:51:24.000Z",
-      "location": "Vila Mariana",
-      "neighborhood": "Vila Mariana",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/11/photo-2026-11-03-12-01-23.jpg",
-      "ticketUrl": "https://catracalivre.com.br/gira/coral-armenio-mais-antigo-de-sp-celebra-100-anos-com-concerto-gratuito-e-distribuicao-de-livro/",
-      "source": "Catraca Livre",
-      "sourceUrl": "https://catracalivre.com.br/gira/coral-armenio-mais-antigo-de-sp-celebra-100-anos-com-concerto-gratuito-e-distribuicao-de-livro/",
-      "tags": [
-        "catracalivre",
-        "gratuito",
-        "sp",
-        "musica"
       ],
       "featured": true
     },
@@ -490,28 +446,6 @@
         "gratuito",
         "sp",
         "exposicao"
-      ],
-      "featured": true
-    },
-    {
-      "id": "t877wd",
-      "title": "Cinesystem dará ingressos grátis para quem tem o sobrenome Pinto",
-      "description": "Ação promocional do filme ‘Entrando Numa Grande Fria’ é válida no dia 23, na pré-estreia do longa que traz Ben Stiller, Robert De Niro e Ariana Grande",
-      "category": "cinema",
-      "date": "2026-11-09T18:21:54.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/Entrando_fria.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/cinesystem-dara-ingressos-gratis-para-quem-tem-o-sobrenome-pinto/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/cinesystem-dara-ingressos-gratis-para-quem-tem-o-sobrenome-pinto/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "cinema"
       ],
       "featured": true
     },
@@ -1198,26 +1132,158 @@
       "featured": true
     },
     {
-      "id": "dku9oa",
-      "title": "Folha Gourmet Festival leva 20 restaurantes estrelados e shows do Blue Note ao Parque Villa-Lobos",
-      "description": "Evento nos dias 7, 8, 14 e 15 de novembro reúne aulas com chefs, mercado de produtores, áreas de vinho e churrasco, além de shows de Paula Lima e Tony Gordon.",
+      "id": "dufxrt",
+      "title": "Palco Matriarcas do Samba celebra o protagonismo feminino no Festival da Consciência Negra",
+      "description": "Com shows gratuitos de Graça Braga, Grazzi Brasil e Samba que Elas Querem, programação ocupa a Praça do Patriarca na sexta (20) e no sábado (21)",
       "category": "musica",
-      "date": "2026-11-15T10:00:00",
+      "date": "2026-11-16T09:48:37.000Z",
+      "location": "Centro Histórico",
+      "neighborhood": "Centro Histórico",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/unnamed-6.png",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/palco-matriarcas-do-samba-celebra-o-protagonismo-feminino-no-festival-da-consciencia-negra/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/palco-matriarcas-do-samba-celebra-o-protagonismo-feminino-no-festival-da-consciencia-negra/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "musica"
+      ],
+      "featured": true
+    },
+    {
+      "id": "k06x2x",
+      "title": "8º Festival Nicho ocupa espaços culturais de SP com cinema negro gratuito e premiado",
+      "description": "De 20 a 27/11, evento exibe clássicos e obras inéditas no CCSP, Cinemateca Brasileira, Museu das Favelas e Vão Livre do MASP com entrada franca em SP.",
+      "category": "exposicao",
+      "date": "2026-11-16T10:24:27.000Z",
+      "location": "Bela Vista",
+      "neighborhood": "Bela Vista",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/11/8o-festival-nicho-ocupa-espacos-culturais-de-sp-com-cinema-negro-gratuito-e-premiado.jpg",
+      "ticketUrl": "https://catracalivre.com.br/gira/8o-festival-nicho-ocupa-espacos-culturais-de-sp-com-cinema-negro-gratuito-e-premiado/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/8o-festival-nicho-ocupa-espacos-culturais-de-sp-com-cinema-negro-gratuito-e-premiado/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
+        "sp",
+        "exposicao"
+      ],
+      "featured": true
+    },
+    {
+      "id": "nko2ou",
+      "title": "Japan House São Paulo abre exposição gratuita sobre a história e o design dos pictogramas",
+      "description": "Já pensou como surgiram os emojis e placas que usamos todo dia? Mostra gratuita na Av. Paulista conta essa história com áreas interativas até 2027",
+      "category": "exposicao",
+      "date": "2026-11-16T10:48:51.000Z",
+      "location": "Bela Vista",
+      "neighborhood": "Bela Vista",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/11/pictograms-exhibition-photography-jeremie-souteyrat-japan-house-london-3.jpg",
+      "ticketUrl": "https://catracalivre.com.br/gira/exposicao-pictogramas-japao-em-simbolos-japan-house-sao-paulo/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/exposicao-pictogramas-japao-em-simbolos-japan-house-sao-paulo/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
+        "sp",
+        "exposicao"
+      ],
+      "featured": true
+    },
+    {
+      "id": "b5ajpz",
+      "title": "Instituto Tomie Ohtake abre grande retrospectiva gratuita da artista em celebração aos seus 25 anos",
+      "description": "De 18/11 a 21/02, “Tomie Ohtake – O sol daqui” reúne 150 obras, documentos inéditos e inaugura espaço permanente em Pinheiros com entrada franca.",
+      "category": "cultura",
+      "date": "2026-11-16T10:56:44.000Z",
+      "location": "Pinheiros",
+      "neighborhood": "Pinheiros",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/11/1953-54x53cm-scaled.jpg",
+      "ticketUrl": "https://catracalivre.com.br/gira/instituto-tomie-ohtake-abre-grande-retrospectiva-gratuita-da-artista-em-celebracao-aos-seus-25-anos/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/instituto-tomie-ohtake-abre-grande-retrospectiva-gratuita-da-artista-em-celebracao-aos-seus-25-anos/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
+        "sp",
+        "cultura"
+      ],
+      "featured": true
+    },
+    {
+      "id": "ox4ndx",
+      "title": "‘Peça para os homens’ leva casos Epstein, Klein e Pelicot ao palco do Sesc Ipiranga",
+      "description": "Sob o olhar de uma menina de 8 anos, solo documental de Natasha Corbelino expõe a violência sexual e convoca os homens ao debate no Sesc Ipiranga.",
+      "category": "teatro",
+      "date": "2026-11-16T11:27:02.000Z",
       "location": "São Paulo",
       "neighborhood": "São Paulo",
       "price": 25,
       "isFree": false,
-      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/11/saveclipapp-851129325-18635147857051666-102490753212000115-n-scaled-e1793714231794.jpg",
-      "ticketUrl": "https://catracalivre.com.br/gira/folha-gourmet-festival-leva-20-restaurantes-estrelados-e-shows-do-blue-note-ao-parque-villa-lobos/",
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/11/pecaparaoshomens-foto-de-khazar-masoumi-5-scaled.jpg",
+      "ticketUrl": "https://catracalivre.com.br/gira/peca-para-os-homens-leva-casos-epstein-klein-e-pelicot-ao-palco-do-sesc-ipiranga/",
       "source": "Catraca Livre",
-      "sourceUrl": "https://catracalivre.com.br/gira/folha-gourmet-festival-leva-20-restaurantes-estrelados-e-shows-do-blue-note-ao-parque-villa-lobos/",
+      "sourceUrl": "https://catracalivre.com.br/gira/peca-para-os-homens-leva-casos-epstein-klein-e-pelicot-ao-palco-do-sesc-ipiranga/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
+        "sp",
+        "teatro"
+      ],
+      "featured": false
+    },
+    {
+      "id": "6qwolc",
+      "title": "Zéh Palito ocupa o Sesc Belenzinho com obras inéditas, instalações gigantes e entrada gratuita",
+      "description": "Em cartaz até 27/06, “Do pranto o oceano, e nadamos no amor” reúne 23 pinturas, instalações na piscina e fuxicos bordados pela mãe do artista em SP.",
+      "category": "exposicao",
+      "date": "2026-11-16T11:53:09.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/11/zeh-palitocreditos-youknowmyface2.jpg",
+      "ticketUrl": "https://catracalivre.com.br/gira/zeh-palito-ocupa-o-sesc-belenzinho-com-obras-ineditas-instalacoes-gigantes-e-entrada-gratuita/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/zeh-palito-ocupa-o-sesc-belenzinho-com-obras-ineditas-instalacoes-gigantes-e-entrada-gratuita/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
+        "sp",
+        "exposicao"
+      ],
+      "featured": true
+    },
+    {
+      "id": "btbv2d",
+      "title": "Leci Brandão faz show gratuito no Sesc Itaquera neste domingo pelo projeto Bem Brasil",
+      "description": "Celebrando 50 anos de carreira e o Grammy Latino, cantora leva clássicos do samba ao Sesc Itaquera às 12h; acesso livre e exibição pelo SescTV.",
+      "category": "musica",
+      "date": "2026-11-16T12:20:06.000Z",
+      "location": "Itaquera",
+      "neighborhood": "Itaquera",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/11/leci-brandao-faz-show-gratuito-no-sesc-itaquera-neste-domingo-pelo-projeto-bem-brasil.jpg",
+      "ticketUrl": "https://catracalivre.com.br/gira/leci-brandao-faz-show-gratuito-no-sesc-itaquera-neste-domingo-pelo-projeto-bem-brasil/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/leci-brandao-faz-show-gratuito-no-sesc-itaquera-neste-domingo-pelo-projeto-bem-brasil/",
       "tags": [
         "catracalivre",
         "gratuito",
         "sp",
         "musica"
       ],
-      "featured": false
+      "featured": true
     },
     {
       "id": "855pk9",
@@ -1264,31 +1330,9 @@
       "featured": true
     },
     {
-      "id": "fr6try",
-      "title": "Festival da Consciência Negra terá 300 atrações gratuitas no centro de SP",
-      "description": "Primeira edição do evento ocupa avenidas e praças históricas entre 14 e 21 de novembro com grandes bailes nostálgicos, rodas de samba e shows",
-      "category": "festa",
-      "date": "2026-11-21T10:00:00",
-      "location": "Centro Histórico",
-      "neighborhood": "Centro Histórico",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/unnamed-5.png",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/festival-da-consciencia-negra-tera-300-atracoes-gratuitas-no-centro-de-sp/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/festival-da-consciencia-negra-tera-300-atracoes-gratuitas-no-centro-de-sp/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "festa"
-      ],
-      "featured": true
-    },
-    {
       "id": "ce004w",
       "title": "Natal gratuito em Osasco tem show de Maria Clara &#038; JP e chegada do Papai Noel de helicóptero",
-      "description": "A Fantástica Fábrica de Natal reúne personagens animatrônicos, observatório interativo e cenários para fotos. No dia 21 de novembro, Maria Clara & JP fazem show gratuito antes da chegada do Bom Velhinho. O Shopping União de Osasco apresenta a decoração de Natal 2026 com o tema A Fantástica Fábrica de Natal. A cenografia reúne personagens, [&hellip;]",
+      "description": "A Fantástica Fábrica de Natal reúne personagens animatrônicos, observatório interativo e cenários para fotos. No dia 21 de novembro, Maria Clara & JP fazem show gratuito, seguido da chegada do Papai Noel de helicóptero e de uma Parada de Natal. O Shopping União de Osasco apresenta a decoração de Natal 2026 com o tema A [&hellip;]",
       "category": "infantil",
       "date": "2026-11-21T10:00:00",
       "location": "São Paulo",
@@ -1374,28 +1418,6 @@
       "featured": true
     },
     {
-      "id": "3npj05",
-      "title": "Festa do Livro da USP reúne 245 editoras com desconto mínimo de 50% na Cidade Universitária",
-      "description": "A 28ª edição da Feira do Livro da USP reúne mais de 260 mil exemplares de literatura, HQs e obras acadêmicas de 25 a 29 de novembro com entrada franca.",
-      "category": "festa",
-      "date": "2026-11-25T10:00:00",
-      "location": "Butantã",
-      "neighborhood": "Butantã",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=800&q=80",
-      "ticketUrl": "https://catracalivre.com.br/gira/festa-do-livro-da-usp-reune-245-editoras-com-desconto-minimo-de-50-na-cidade-universitaria/",
-      "source": "Catraca Livre",
-      "sourceUrl": "https://catracalivre.com.br/gira/festa-do-livro-da-usp-reune-245-editoras-com-desconto-minimo-de-50-na-cidade-universitaria/",
-      "tags": [
-        "catracalivre",
-        "gratuito",
-        "sp",
-        "festa"
-      ],
-      "featured": true
-    },
-    {
       "id": "425tc5",
       "title": "A Christmas Carol: musical clássico de Natal chega a São Paulo",
       "description": "Montagem inspirada no clássico de Charles Dickens reúne 70 artistas, com música, dança e cenários que recriam a Londres do século XIX O musical A Christmas Carol, conhecido no Brasil como Um Conto de Natal, terá duas apresentações em São Paulo nos dias 24 e 25 de novembro de 2026, às 20h30, no Teatro Liberdade. [&hellip;]",
@@ -1416,6 +1438,28 @@
         "sp"
       ],
       "featured": false
+    },
+    {
+      "id": "pml3ss",
+      "title": "Evento literário gratuito com Tati Bernardi e Julián Fuks reúne crianças e adultos em SP",
+      "description": "Primeira edição da Festa Cosmopopeia tem mesas com escritores, oficinas, contação de histórias e show no dia 28 de novembro",
+      "category": "festa",
+      "date": "2026-11-28T10:00:00",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/46692eda-ff94-4e59-81e2-cc57ed85f5b0.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/evento-literario-gratuito-com-tati-bernardi-e-julian-fuks-reune-criancas-e-adultos-em-sp/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/evento-literario-gratuito-com-tati-bernardi-e-julian-fuks-reune-criancas-e-adultos-em-sp/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "festa"
+      ],
+      "featured": true
     },
     {
       "id": "dwu5xp",
