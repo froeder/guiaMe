@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-16T15:27:10.409Z",
-  "totalCount": 68,
+  "updatedAt": "2026-11-17T15:48:30.363Z",
+  "totalCount": 70,
   "sources": [
     "Veja SP",
     "Catraca Livre",
@@ -32,28 +32,6 @@
       "featured": true
     },
     {
-      "id": "xvjlmr",
-      "title": "Virada Sustentável ocupa o CCSP e espaços públicos de São Paulo com mais de quatro dias de atrações gratuitas",
-      "description": "Com sede no CCSP e ações em parques e CEUs, a 16ª edição traz show de Mãeana, debates com a ONU, cinema ao ar livre, retiro de ioga e capivaras gigantes.",
-      "category": "musica",
-      "date": "2026-11-03T14:03:17.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/11/image-1.png",
-      "ticketUrl": "https://catracalivre.com.br/gira/16a-edicao-da-virada-sustentavel-ccsp-e-espacos-publicos-programacao-gratuita/",
-      "source": "Catraca Livre",
-      "sourceUrl": "https://catracalivre.com.br/gira/16a-edicao-da-virada-sustentavel-ccsp-e-espacos-publicos-programacao-gratuita/",
-      "tags": [
-        "catracalivre",
-        "gratuito",
-        "sp",
-        "musica"
-      ],
-      "featured": true
-    },
-    {
       "id": "kjbv0t",
       "title": "Presentes de Natal para crianças: ideias para brincar, descobrir e viver bons momentos em família",
       "description": "No São Paulo para Crianças, adoramos descobrir programas, lugares e experiências que fazem os olhos dos pequenos brilharem. Mas também sabemos que algumas aventuras começam dentro de casa: uma caixa de papelão que vira foguete, uma tarde chuvosa que termina em campeonato de jogos ou um livro que leva a família inteira para mundos que [&hellip;]",
@@ -74,28 +52,6 @@
         "sp"
       ],
       "featured": false
-    },
-    {
-      "id": "bi1hy2",
-      "title": "Dia Musical estreia na Arena Pacaembu com shows gratuitos de Budah, Amanda Magalhães e Samba do Cruz",
-      "description": "Nos dias 7 e 8/11, o Pacaembu une rap, R&#038;B, piseiro e samba com entrada solidária e anúncios exclusivos para a edição de 2027 do Nômade Festival.",
-      "category": "musica",
-      "date": "2026-11-03T16:52:20.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/11/dia-musical-estreia-na-arena-pacaembu-com-shows-gratuitos-de-budah-amanda-magalhaes-e-samba-do-cruz.jpg",
-      "ticketUrl": "https://catracalivre.com.br/gira/dia-musical-estreia-na-arena-pacaembu-com-shows-gratuitos-de-budah-amanda-magalhaes-e-samba-do-cruz/",
-      "source": "Catraca Livre",
-      "sourceUrl": "https://catracalivre.com.br/gira/dia-musical-estreia-na-arena-pacaembu-com-shows-gratuitos-de-budah-amanda-magalhaes-e-samba-do-cruz/",
-      "tags": [
-        "catracalivre",
-        "gratuito",
-        "sp",
-        "musica"
-      ],
-      "featured": true
     },
     {
       "id": "xt68yk",
@@ -296,28 +252,6 @@
       "featured": false
     },
     {
-      "id": "ymql4s",
-      "title": "Festival ZUM traz Carrie Mae Weems pela primeira vez ao Brasil em fim de semana gratuito no IMS Paulista",
-      "description": "Com debates entre Anna Muylaert e Adirley Queirós, feira de fotolivros e nova edição da revista ZUM, o evento ocupa o IMS Paulista nos dias 7 e 8 de novembro",
-      "category": "gastronomia",
-      "date": "2026-11-08T10:00:00",
-      "location": "Bela Vista",
-      "neighborhood": "Bela Vista",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/11/image-28-e1793736613415.jpeg",
-      "ticketUrl": "https://catracalivre.com.br/gira/festival-zum-traz-carrie-mae-weems-pela-primeira-vez-ao-brasil-em-fim-de-semana-gratuito-no-ims-paulista/",
-      "source": "Catraca Livre",
-      "sourceUrl": "https://catracalivre.com.br/gira/festival-zum-traz-carrie-mae-weems-pela-primeira-vez-ao-brasil-em-fim-de-semana-gratuito-no-ims-paulista/",
-      "tags": [
-        "catracalivre",
-        "gratuito",
-        "sp",
-        "gastronomia"
-      ],
-      "featured": true
-    },
-    {
       "id": "shplot",
       "title": "Sesc e Cinemateca Brasileira completam 80 anos com circuito de cinema gratuito em SP",
       "description": "Comemoração conjunta traz filmes em 35mm, sessões ao ar livre com música ao vivo, oficinas e mostra online da Vera Cruz de novembro a dezembro em SP.",
@@ -472,50 +406,6 @@
       "featured": true
     },
     {
-      "id": "miyqey",
-      "title": "BikeCine exibe filmes gratuitos em São Paulo com energia gerada por bicicletas",
-      "description": "Cinema itinerante sustentável chega à capital em novembro com sessões de ‘O Auto da Compadecida 2’ e ‘Zootopia 2’",
-      "category": "esporte",
-      "date": "2026-11-10T12:28:24.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/bikecine-1920x1280-1.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/bikecine-exibe-filmes-gratuitos-em-sao-paulo-com-energia-gerada-por-bicicletas/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/bikecine-exibe-filmes-gratuitos-em-sao-paulo-com-energia-gerada-por-bicicletas/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "esporte"
-      ],
-      "featured": true
-    },
-    {
-      "id": "t80pf1",
-      "title": "Cinesystem lança promoção do 11/11 com combos de ingressos e pipoca",
-      "description": "Venda exclusiva acontece nesta quarta-feira (11) pela internet",
-      "category": "gastronomia",
-      "date": "2026-11-10T12:47:05.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=800&q=80",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/cinesystem-lanca-promocao-do-11-11-com-combos-de-ingressos-e-pipoca/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/cinesystem-lanca-promocao-do-11-11-com-combos-de-ingressos-e-pipoca/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "gastronomia"
-      ],
-      "featured": false
-    },
-    {
       "id": "j2dmwm",
       "title": "Festival da Consciência Negra traz shows gratuitos de Seu Jorge, Samba de Dandara, Os Prettos e mais ao Centro de SP",
       "description": "Programação ocupa a Av. São João, Viaduto do Chá e Praça Dom José Gaspar com atrações gratuitas; festival terá mais de 300 atividades por toda a cidade.",
@@ -556,28 +446,6 @@
         "gratuito",
         "sp",
         "festa"
-      ],
-      "featured": false
-    },
-    {
-      "id": "bnncxk",
-      "title": "Clínica de SP que internou famosos é tema de nova série do Globoplay",
-      "description": "Série documental reúne relatos de famosos sobre internações, tratamentos e denúncias envolvendo a clínica Maxwell, em Atibaia",
-      "category": "cultura",
-      "date": "2026-11-10T17:53:09.000Z",
-      "location": "Centro Histórico",
-      "neighborhood": "Centro Histórico",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/design-sem-nome-12-.png",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/clinica-famosos-serie-globoplay/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/clinica-famosos-serie-globoplay/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "cultura"
       ],
       "featured": false
     },
@@ -1286,6 +1154,182 @@
       "featured": true
     },
     {
+      "id": "f5wh90",
+      "title": "Sesc Pompeia recria barracão de escola de samba em mostra gratuita sobre Rosa Magalhães",
+      "description": "Com plumas, purpurina, croquis originais e peças para experimentar, “Esplendor Caleidoscópio” ocupa o Sesc Pompeia até 07/03 com entrada franca.",
+      "category": "musica",
+      "date": "2026-11-16T14:47:09.000Z",
+      "location": "Pompeia",
+      "neighborhood": "Pompeia",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/11/img-8149-camilamacedo.jpg",
+      "ticketUrl": "https://catracalivre.com.br/gira/exposicao-inedita-rosa-magalhaes-esplendor-caleidoscopio-gratuita-sesc-pompeia-sp/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/exposicao-inedita-rosa-magalhaes-esplendor-caleidoscopio-gratuita-sesc-pompeia-sp/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
+        "sp",
+        "musica"
+      ],
+      "featured": true
+    },
+    {
+      "id": "k9ayi",
+      "title": "São Paulo recebe primeira edição gratuita da Virada Indígena do Brasil no Tendal da Lapa",
+      "description": "Nos dias 12 e 13/12, das 10h às 22h, evento na Zona Oeste de SP reúne música, moda, culinária, artesanato e debates de povos originários de graça.",
+      "category": "musica",
+      "date": "2026-11-16T16:09:04.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/11/image-18.png",
+      "ticketUrl": "https://catracalivre.com.br/gira/sao-paulo-recebe-primeira-edicao-gratuita-da-virada-indigena-do-brasil-no-tendal-da-lapa/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/sao-paulo-recebe-primeira-edicao-gratuita-da-virada-indigena-do-brasil-no-tendal-da-lapa/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
+        "sp",
+        "musica"
+      ],
+      "featured": true
+    },
+    {
+      "id": "k01105",
+      "title": "Filha de Arlindo Cruz traz a SP roda de samba em homenagem ao pai no feriado da Consciência Negra",
+      "description": "Idealizado por Flora Cruz, o ‘Para Declarar Minha Saudade’ só tem músicas do sambista e recebe convidados nesta sexta (20), na Zona Leste",
+      "category": "musica",
+      "date": "2026-11-16T16:19:55.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2017/01/arlindo-cruz-2014-c2aewashington_possato0093.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/filha-de-arlindo-cruz-traz-a-sp-roda-de-samba-em-homenagem-ao-pai-no-feriado-da-consciencia-negra/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/filha-de-arlindo-cruz-traz-a-sp-roda-de-samba-em-homenagem-ao-pai-no-feriado-da-consciencia-negra/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "musica"
+      ],
+      "featured": true
+    },
+    {
+      "id": "79b6f3",
+      "title": "Farol Santander tem exposição de Natal inspirada em “O Quebra-Nozes”",
+      "description": "Mostra reúne figurinos históricos, obras de arte, cenários imersivos e personagens do clássico balé; programação segue até fevereiro de 2027 O Farol Santander, no centro de São Paulo, recebe a exposição A Magia do Quebra-Nozes, inspirada no famoso balé de Piotr Ilitch Tchaikovsky. A atração ocupa 400 m² no 23º andar e reúne cenários temáticos, [&hellip;]",
+      "category": "infantil",
+      "date": "2026-11-16T17:10:02.000Z",
+      "location": "Centro Histórico",
+      "neighborhood": "Centro Histórico",
+      "price": 35,
+      "isFree": false,
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/11/sp_criancas_passeio_natal_farol_-3.jpeg",
+      "ticketUrl": "https://saopauloparacriancas.com.br/farol-santander-exposicao-de-natal/",
+      "source": "SP para Crianças",
+      "sourceUrl": "https://saopauloparacriancas.com.br/farol-santander-exposicao-de-natal/",
+      "tags": [
+        "infantil",
+        "familia",
+        "criancas",
+        "sp"
+      ],
+      "featured": false
+    },
+    {
+      "id": "tytrdo",
+      "title": "Festival Parental 2026 reúne famílias e especialistas em quatro dias de atividades em São Paulo",
+      "description": "A chegada de um filho traz novas descobertas, mas também dúvidas sobre cuidados, educação e desenvolvimento infantil. Para lidar com esses desafios, gestantes, mães, pais e cuidadores buscam informação, orientação especializada e troca de experiências. Já os profissionais que atuam com infância e famílias encontram na atualização e no compartilhamento de conhecimentos oportunidades de aprimorar [&hellip;]",
+      "category": "infantil",
+      "date": "2026-11-17T09:28:58.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 35,
+      "isFree": false,
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/11/sp_criancas_passeio_festival.jpeg",
+      "ticketUrl": "https://saopauloparacriancas.com.br/festival-parental-sp/",
+      "source": "SP para Crianças",
+      "sourceUrl": "https://saopauloparacriancas.com.br/festival-parental-sp/",
+      "tags": [
+        "infantil",
+        "familia",
+        "criancas",
+        "sp"
+      ],
+      "featured": false
+    },
+    {
+      "id": "mmxs0a",
+      "title": "Irmão de Suzane von Richthofen fez homenagem aos pais em tese de doutorado; veja o que escreveu",
+      "description": "Documento acadêmico de 2015 voltou a circular após documentário da Netflix; Andreas homenageia os pais e não menciona a irmã",
+      "category": "cultura",
+      "date": "2026-11-17T10:42:19.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/Design-sem-nome-20.png",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/andreas-von-richthofen-tese-dedicatoria-pais-suzane/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/andreas-von-richthofen-tese-dedicatoria-pais-suzane/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "cultura"
+      ],
+      "featured": false
+    },
+    {
+      "id": "tx10fn",
+      "title": "Tony Bellotto anuncia retorno aos palcos com os Titãs após afastamento médico",
+      "description": "Em vídeo nas redes sociais, guitarrista agradece apoio dos fãs depois de desfalcar show da turnê de ‘Cabeça Dinossauro’ em São José dos Campos",
+      "category": "musica",
+      "date": "2026-11-17T11:01:53.000Z",
+      "location": "Centro Histórico",
+      "neighborhood": "Centro Histórico",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/tony.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/tony-bellotto-anuncia-retorno-aos-palcos-com-os-titas-apos-afastamento-medico/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/tony-bellotto-anuncia-retorno-aos-palcos-com-os-titas-apos-afastamento-medico/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "musica"
+      ],
+      "featured": true
+    },
+    {
+      "id": "u11ib4",
+      "title": "‘Babado Forte’, de Erika Palomino, ganha versão em podcast com o Estúdio Novelo",
+      "description": "Com os dois primeiros episódios já disponíveis em vídeo no YouTube e no Spotify, projeto investiga os cruzamentos entre moda, política, internet e comportamento",
+      "category": "cultura",
+      "date": "2026-11-17T12:12:14.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2024/10/ERIKA-PALOMINO_0093-NR.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/babado-forte-de-erika-palomino-ganha-versao-em-podcast-com-o-estudio-novelo/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/babado-forte-de-erika-palomino-ganha-versao-em-podcast-com-o-estudio-novelo/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "cultura"
+      ],
+      "featured": false
+    },
+    {
       "id": "855pk9",
       "title": "Natal perto de São Paulo: cidades e passeios para curtir a programação natalina",
       "description": "Quem quer entrar no clima de Natal sem ir muito longe de São Paulo encontra opções em cidades do interior e da região metropolitana. Há eventos com decoração iluminada, desfiles, personagens, passeios de trem e atividades para as crianças. Em São Pedro, a programação natalina acontece de 20 de novembro de 2026 a 3 de [&hellip;]",
@@ -1462,24 +1506,24 @@
       "featured": true
     },
     {
-      "id": "dwu5xp",
-      "title": "Passeio de ônibus com guia em SP: saiba como participar do roteiro grátis",
-      "description": "Profissionais credenciados acompanham três partidas de cada um dos cinco circuitos nos dias 29 de novembro e 27 de dezembro",
-      "category": "cultura",
+      "id": "bkn0ig",
+      "title": "Casa de Francisca recebe maratona gratuita de música paraibana com Lucy Alves, Bixarte e Vó Mera",
+      "description": "Dia 29 de novembro tem festival gratuito de música paraibana no Centro de SP: são 10 atrações do almoço até a noite ocupando três ambientes da casa.",
+      "category": "musica",
       "date": "2026-11-29T10:00:00",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
+      "location": "Centro Histórico",
+      "neighborhood": "Centro Histórico",
       "price": 0,
       "isFree": true,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/Paulistar.jpeg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/onibus-turisticos-de-sp-terao-passeios-gratuitos-com-guias-saiba-como-participar/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/onibus-turisticos-de-sp-terao-passeios-gratuitos-com-guias-saiba-como-participar/",
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/11/02-credito-ga-olho-ga-olho-luana-flores.png",
+      "ticketUrl": "https://catracalivre.com.br/gira/casa-de-francisca-recebe-ocupacao-paraiba-com-lucy-alves-luana-flores-vo-mera-shows-gratis/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/casa-de-francisca-recebe-ocupacao-paraiba-com-lucy-alves-luana-flores-vo-mera-shows-gratis/",
       "tags": [
-        "vejasp",
-        "cultura",
+        "catracalivre",
+        "gratuito",
         "sp",
-        "cultura"
+        "musica"
       ],
       "featured": true
     },
