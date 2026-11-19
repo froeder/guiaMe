@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-18T15:28:00.798Z",
-  "totalCount": 71,
+  "updatedAt": "2026-11-19T15:33:45.214Z",
+  "totalCount": 72,
   "sources": [
     "Veja SP",
     "Catraca Livre",
@@ -560,138 +560,6 @@
       "featured": true
     },
     {
-      "id": "h0tqi5",
-      "title": "Prêmio Bibi Ferreira consagra ‘Ópera do Malandro’ e emociona com vitória de Analu Pimenta",
-      "description": "Cerimônia no Teatro Renault teve musical sobre Tina Turner entre os destaques da noite, além de vitórias de Andrea Beltrão e Dan Stulbach nas peças de prosa",
-      "category": "musica",
-      "date": "2026-11-12T11:09:50.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/02/odm-8.jpg.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/premio-bibi-ferreira-consagra-opera-do-malandro-e-emociona-com-vitoria-de-analu-pimenta/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/premio-bibi-ferreira-consagra-opera-do-malandro-e-emociona-com-vitoria-de-analu-pimenta/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "musica"
-      ],
-      "featured": true
-    },
-    {
-      "id": "rg3kgb",
-      "title": "Edição geek do Red Bull Ladeira Abaixo acontece neste domingo (15) na Pompeia",
-      "description": "Com carrinhos sem motor inspirados na cultura pop, corrida maluca reúne 37 equipes de todo o país com entrada gratuita",
-      "category": "musica",
-      "date": "2026-11-12T11:43:30.000Z",
-      "location": "Pompeia",
-      "neighborhood": "Pompeia",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=800&q=80",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/edicao-geek-red-bull-ladeira-abaixo-2026/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/edicao-geek-red-bull-ladeira-abaixo-2026/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "musica"
-      ],
-      "featured": true
-    },
-    {
-      "id": "kxesvv",
-      "title": "Cinemark celebra Dia do Cinema Nacional com ingressos a R$ 10: confira",
-      "description": "A rede de cinemas dedica 100% da sua programação a produções brasileiras na próxima segunda-feira (16)",
-      "category": "gastronomia",
-      "date": "2026-11-12T12:57:56.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2025/10/CINEMARK-Credito-Divulgacao.jpg.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/cinemark-celebra-dia-do-cinema-nacional-com-ingressos-a-r-10-confira/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/cinemark-celebra-dia-do-cinema-nacional-com-ingressos-a-r-10-confira/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "gastronomia"
-      ],
-      "featured": false
-    },
-    {
-      "id": "tmer6c",
-      "title": "De mirante a livraria: 5 lugares para conhecer no Copan",
-      "description": "Edifício de Oscar Niemeyer no centro de SP reúne visitas ao terraço, livraria, locadora de filmes, floricultura e o Bar da Dona Onça",
-      "category": "cinema",
-      "date": "2026-11-12T14:50:09.000Z",
-      "location": "Centro Histórico",
-      "neighborhood": "Centro Histórico",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/COPAN-5.jpg.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/de-mirante-a-livraria-5-lugares-para-conhecer-no-copan/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/de-mirante-a-livraria-5-lugares-para-conhecer-no-copan/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "cinema"
-      ],
-      "featured": false
-    },
-    {
-      "id": "tuwa7f",
-      "title": "Castelo Rá-Tim-Bum volta ao cinema em sessões especiais em SP",
-      "description": "Longa de 1999 será exibido em película 35mm no CineSesc, com ingressos gratuitos para crianças de até 12 anos",
-      "category": "cinema",
-      "date": "2026-11-12T15:08:31.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/unnamed-1.webp",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/castelo-ra-tim-bum-cinema-sessoes/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/castelo-ra-tim-bum-cinema-sessoes/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "cinema"
-      ],
-      "featured": true
-    },
-    {
-      "id": "kl7n8s",
-      "title": "Sesc inaugura nova unidade com mais de 80 atrações gratuitas em SP",
-      "description": "Elba Ramalho, Renato Teixeira e São Paulo Companhia de Dança estão entre os destaques da programação de abertura do Sesc Marília, neste fim de semana",
-      "category": "tecnologia",
-      "date": "2026-11-12T18:39:59.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2025/07/unnamed-23.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/sesc-marilia-inauguracao-programacao/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/sesc-marilia-inauguracao-programacao/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "tecnologia"
-      ],
-      "featured": true
-    },
-    {
       "id": "xftat7",
       "title": "Mural SP: Barrão",
       "description": "Sua produção explora a transformação de objetos cotidianos por meio de esculturas que combinam fragmentos de cerâmica e porcelana",
@@ -798,6 +666,28 @@
         "cultura",
         "sp",
         "exposicao"
+      ],
+      "featured": true
+    },
+    {
+      "id": "xlwvee",
+      "title": "Natal gratuito em Osasco tem show de Maria Clara &#038; JP e chegada do Papai Noel de helicóptero",
+      "description": "Quer assistir à dupla nos palcos? Confira a agenda de shows de Maria Clara e JP em 2026, com datas, locais e informações sobre ingressos. O Shopping União de Osasco recebe a programação natalina com apresentação gratuita da dupla infantil, chegada do Papai Noel de helicóptero e atrações para toda a família. O Shopping União [&hellip;]",
+      "category": "infantil",
+      "date": "2026-11-14T19:14:40.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2025/10/sp_criancas_passeio_maria_clara-e_jp_01.jpg",
+      "ticketUrl": "https://saopauloparacriancas.com.br/uniao-de_osasco-sp/",
+      "source": "SP para Crianças",
+      "sourceUrl": "https://saopauloparacriancas.com.br/uniao-de_osasco-sp/",
+      "tags": [
+        "infantil",
+        "familia",
+        "criancas",
+        "sp"
       ],
       "featured": true
     },
@@ -1330,6 +1220,116 @@
       "featured": true
     },
     {
+      "id": "l1a2p4",
+      "title": "FlinkSampa 2026: Itamar Vieira Júnior participa de festival gratuito em SP",
+      "description": "Festa da Literatura e Cultura Negra homenageia Nei Lopes e tem conversas com escritores no Sesc 14 Bis até quinta-feira (19)",
+      "category": "festa",
+      "date": "2026-11-18T12:58:37.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2025/05/Flavio-Florido.jpeg-e1747926727593.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/flinksampa-2026-itamar-vieira-junior/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/flinksampa-2026-itamar-vieira-junior/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "festa"
+      ],
+      "featured": true
+    },
+    {
+      "id": "4dsiw7",
+      "title": "Com Mike Tyson, ExpoCannabis Brasil começa em São Paulo nesta sexta (20)",
+      "description": "Quarta edição da feira tem mais de 300 estandes e debates sobre cânhamo industrial, cannabis medicinal e as novas regras da Anvisa",
+      "category": "gastronomia",
+      "date": "2026-11-18T17:08:08.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2023/09/DJI_0512.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/com-mike-tyson-expocannabis-brasil-comeca-em-sao-paulo-nesta-sexta-20/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/com-mike-tyson-expocannabis-brasil-comeca-em-sao-paulo-nesta-sexta-20/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "gastronomia"
+      ],
+      "featured": false
+    },
+    {
+      "id": "kka1fp",
+      "title": "Anitta em GTA 6: cantora interpreta médica e comanda rádio sobre sexo no jogo",
+      "description": "A artista dá voz à personagem Dra. Nita e tem música na trilha sonora do novo game da Rockstar",
+      "category": "musica",
+      "date": "2026-11-18T18:02:05.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/Sem-titulo-5.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/anitta-em-gta-6-cantora-interpreta-medica-e-comanda-radio-sobre-sexo-no-jogo/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/anitta-em-gta-6-cantora-interpreta-medica-e-comanda-radio-sobre-sexo-no-jogo/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "musica"
+      ],
+      "featured": true
+    },
+    {
+      "id": "fmvie0",
+      "title": "Feriado da Consciência Negra: veja o que fazer de graça em São Paulo",
+      "description": "Shows de Seu Jorge, Dudu Nobre e Amaro Freitas estão entre as atrações; programação inclui exposições, cinema, teatro e feiras",
+      "category": "musica",
+      "date": "2026-11-18T19:28:50.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2025/09/Design-sem-nome-2025-09-25T151956.134.png",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/feriado-da-consciencia-negra-veja-o-que-fazer-de-graca-em-sao-paulo/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/feriado-da-consciencia-negra-veja-o-que-fazer-de-graca-em-sao-paulo/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "musica"
+      ],
+      "featured": true
+    },
+    {
+      "id": "dfk46u",
+      "title": "Horóscopo de hoje (19/11): Lua em Peixes desacelera a quinta e pede mais intuição",
+      "description": "Quinta-feira pede ritmo mais lento, atenção às emoções e cuidado com o que você absorve dos outros",
+      "category": "gastronomia",
+      "date": "2026-11-19T08:00:18.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/Horoscopo-de-hoje-19-11-Lua-em-Peixes-desacelera-a-quinta-e-pede-mais-intuicao.png",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/horoscopo-19-11-lua-peixes-desacelera-pede-intuicao/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/horoscopo-19-11-lua-peixes-desacelera-pede-intuicao/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "gastronomia"
+      ],
+      "featured": false
+    },
+    {
       "id": "855pk9",
       "title": "Natal perto de São Paulo: cidades e passeios para curtir a programação natalina",
       "description": "Quem quer entrar no clima de Natal sem ir muito longe de São Paulo encontra opções em cidades do interior e da região metropolitana. Há eventos com decoração iluminada, desfiles, personagens, passeios de trem e atividades para as crianças. Em São Pedro, a programação natalina acontece de 20 de novembro de 2026 a 3 de [&hellip;]",
@@ -1374,28 +1374,6 @@
       "featured": true
     },
     {
-      "id": "ce004w",
-      "title": "Natal gratuito em Osasco tem show de Maria Clara &#038; JP e chegada do Papai Noel de helicóptero",
-      "description": "A Fantástica Fábrica de Natal reúne personagens animatrônicos, observatório interativo e cenários para fotos. No dia 21 de novembro, Maria Clara & JP fazem show gratuito, seguido da chegada do Papai Noel de helicóptero e de uma Parada de Natal. O Shopping União de Osasco apresenta a decoração de Natal 2026 com o tema A [&hellip;]",
-      "category": "infantil",
-      "date": "2026-11-21T10:00:00",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2025/10/sp_criancas_passeio_maria_clara-e_jp_01.jpg",
-      "ticketUrl": "https://saopauloparacriancas.com.br/uniao-de_osasco-sp/",
-      "source": "SP para Crianças",
-      "sourceUrl": "https://saopauloparacriancas.com.br/uniao-de_osasco-sp/",
-      "tags": [
-        "infantil",
-        "familia",
-        "criancas",
-        "sp"
-      ],
-      "featured": true
-    },
-    {
       "id": "u82tvk",
       "title": "Concurso de cosplay do Orgulho Nerd SP abre inscrições para desfiles e performances",
       "description": "Evento gratuito nos dias 21 e 22 de novembro terá categorias de figurino e apresentações; vagas são limitadas para inscrições online e presenciais",
@@ -1436,6 +1414,28 @@
         "gratuito",
         "sp",
         "musica"
+      ],
+      "featured": true
+    },
+    {
+      "id": "sr8p5h",
+      "title": "Orgulho Nerd SP tem programação gratuita para famílias no Pacaembu",
+      "description": "Com o tema “Seja Meu Player 2”, festival acontece nos dias 21 e 22 de novembro, com jogos, cinema, oficinas criativas, concursos de cosplay e apresentações musicais. Quem gosta de games, desenhos, animes, quadrinhos e cultura pop tem um programa diferente para fazer em família em São Paulo. Nos dias 21 e 22 de novembro, [&hellip;]",
+      "category": "infantil",
+      "date": "2026-11-22T10:00:00",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/11/sp_criancas_passeio_orgulho_nerd-2.jpeg",
+      "ticketUrl": "https://saopauloparacriancas.com.br/orgulho-nerd-sp/",
+      "source": "SP para Crianças",
+      "sourceUrl": "https://saopauloparacriancas.com.br/orgulho-nerd-sp/",
+      "tags": [
+        "infantil",
+        "familia",
+        "criancas",
+        "sp"
       ],
       "featured": true
     },
@@ -1502,6 +1502,28 @@
         "cultura",
         "sp",
         "festa"
+      ],
+      "featured": true
+    },
+    {
+      "id": "n846te",
+      "title": "Itaú Cultural reúne visitas adaptadas e oficinas gratuitas na Virada Inclusiva",
+      "description": "A programação acontece nos dias 1º, 28 e 29 de novembro na Avenida Paulista",
+      "category": "tecnologia",
+      "date": "2026-11-29T10:00:00",
+      "location": "Bela Vista",
+      "neighborhood": "Bela Vista",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2016/12/itau-cultural-edouard-fraipont.jpeg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/itau-cultural-reune-visitas-adaptadas-e-oficinas-gratuitas-na-virada-inclusiva/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/itau-cultural-reune-visitas-adaptadas-e-oficinas-gratuitas-na-virada-inclusiva/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "tecnologia"
       ],
       "featured": true
     },
