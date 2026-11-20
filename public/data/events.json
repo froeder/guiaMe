@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-19T15:33:45.214Z",
-  "totalCount": 72,
+  "updatedAt": "2026-11-20T15:12:51.647Z",
+  "totalCount": 71,
   "sources": [
     "Veja SP",
     "Catraca Livre",
@@ -50,28 +50,6 @@
         "familia",
         "criancas",
         "sp"
-      ],
-      "featured": false
-    },
-    {
-      "id": "xt68yk",
-      "title": "Festival Sesc Culturas Negras celebra herança afro-brasileira com Sandra Sá, Velha Guarda da Mangueira e bailes black",
-      "description": "De 5 a 15/11, o festival ocupa várias unidades do Sesc em SP com debates sobre ancestralidade, rituais de lavagem, oficinas, cinema e literatura africana.",
-      "category": "festa",
-      "date": "2026-11-03T17:51:08.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 25,
-      "isFree": false,
-      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/11/festival-sesc-culturas-negras-celebra-heranca-afro-brasileira-com-sandra-sa-velha-guarda-da-manguei.jpg",
-      "ticketUrl": "https://catracalivre.com.br/gira/festival-sesc-culturas-negras-celebra-heranca-afro-brasileira-com-sandra-sa-velha-guarda-da-mangueira-e-bailes-black/",
-      "source": "Catraca Livre",
-      "sourceUrl": "https://catracalivre.com.br/gira/festival-sesc-culturas-negras-celebra-heranca-afro-brasileira-com-sandra-sa-velha-guarda-da-mangueira-e-bailes-black/",
-      "tags": [
-        "catracalivre",
-        "gratuito",
-        "sp",
-        "festa"
       ],
       "featured": false
     },
@@ -560,116 +538,6 @@
       "featured": true
     },
     {
-      "id": "xftat7",
-      "title": "Mural SP: Barrão",
-      "description": "Sua produção explora a transformação de objetos cotidianos por meio de esculturas que combinam fragmentos de cerâmica e porcelana",
-      "category": "exposicao",
-      "date": "2026-11-13T08:00:49.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/2025_Retrato-Barrao_Ph.-Eduardo-Ortega_DDM_1.jpg.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/mural-sp-barrao/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/mural-sp-barrao/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "exposicao"
-      ],
-      "featured": true
-    },
-    {
-      "id": "xjvw8w",
-      "title": "Hayley Williams surpreende fãs em SP ao cantar com Seu Jorge",
-      "description": "Dupla apresentou versão em português de clássico de David Bowie; confira o vídeo do encontro no palco",
-      "category": "teatro",
-      "date": "2026-11-13T10:29:49.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/Captura-de-Tela-2026-11-13-as-10.28.57.png",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/hayley-williams-seu-jorge-video/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/hayley-williams-seu-jorge-video/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "teatro"
-      ],
-      "featured": false
-    },
-    {
-      "id": "pbec5l",
-      "title": "Quem era o promotor acusado por Suzane von Richthofen de assédio?",
-      "description": "Documentário da Netflix resgata episódio ocorrido durante a prisão de Suzane, que acusou Eliseu Gonçalves de tentar seduzi-la; ele nega as acusações",
-      "category": "cultura",
-      "date": "2026-11-13T16:25:49.000Z",
-      "location": "Centro Histórico",
-      "neighborhood": "Centro Histórico",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/Suzane_von_Richthofen__O_que_o_Tempo_Nao_Apaga_n_01_24_27_05.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cidades/promotor-acusado-assedio-suzane-von-richthofen/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cidades/promotor-acusado-assedio-suzane-von-richthofen/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "cultura"
-      ],
-      "featured": false
-    },
-    {
-      "id": "mklp05",
-      "title": "Exposição de grafite, samba-rock e festas gratuitas ocupam o Novo Anhangabaú",
-      "description": "Programação do Mês da Consciência Negra destaca a cultura afro-brasileira com homenagem a mulheres marcantes da história e resgate da música preta",
-      "category": "festa",
-      "date": "2026-11-14T08:00:10.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=800&q=80",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/exposicao-de-grafite-samba-rock-e-festas-gratuitas-ocupam-o-novo-anhangabau/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/exposicao-de-grafite-samba-rock-e-festas-gratuitas-ocupam-o-novo-anhangabau/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "festa"
-      ],
-      "featured": true
-    },
-    {
-      "id": "vhxxkt",
-      "title": "MAC-USP realiza oficinas gratuitas de dança inspiradas em obras de performance",
-      "description": "Encontros abertos ao público exploram como o corpo interage com a arte e vão resultar em publicação impressa e digital",
-      "category": "exposicao",
-      "date": "2026-11-14T08:00:38.000Z",
-      "location": "Vila Mariana",
-      "neighborhood": "Vila Mariana",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/Oficina_danca.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/mac-usp-realiza-oficinas-gratuitas-de-danca-inspiradas-em-obras-de-performance/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/mac-usp-realiza-oficinas-gratuitas-de-danca-inspiradas-em-obras-de-performance/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "exposicao"
-      ],
-      "featured": true
-    },
-    {
       "id": "xlwvee",
       "title": "Natal gratuito em Osasco tem show de Maria Clara &#038; JP e chegada do Papai Noel de helicóptero",
       "description": "Quer assistir à dupla nos palcos? Confira a agenda de shows de Maria Clara e JP em 2026, com datas, locais e informações sobre ingressos. O Shopping União de Osasco recebe a programação natalina com apresentação gratuita da dupla infantil, chegada do Papai Noel de helicóptero e atrações para toda a família. O Shopping União [&hellip;]",
@@ -688,50 +556,6 @@
         "familia",
         "criancas",
         "sp"
-      ],
-      "featured": true
-    },
-    {
-      "id": "flo5v7",
-      "title": "O que fazer em São Paulo neste fim de semana: 14 programas para 14 e 15 de novembro",
-      "description": "Festivais gratuitos, corrida maluca geek, feiras de artesanato e exposições estão entre as atrações na capital paulista",
-      "category": "exposicao",
-      "date": "2026-11-15T10:00:00",
-      "location": "Bela Vista",
-      "neighborhood": "Bela Vista",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2025/09/Revelando-SP-5.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/o-que-fazer-em-sao-paulo-neste-fim-de-semana-14-programas-para-14-e-15-de-novembro/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/o-que-fazer-em-sao-paulo-neste-fim-de-semana-14-programas-para-14-e-15-de-novembro/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "exposicao"
-      ],
-      "featured": true
-    },
-    {
-      "id": "dufxrt",
-      "title": "Palco Matriarcas do Samba celebra o protagonismo feminino no Festival da Consciência Negra",
-      "description": "Com shows gratuitos de Graça Braga, Grazzi Brasil e Samba que Elas Querem, programação ocupa a Praça do Patriarca na sexta (20) e no sábado (21)",
-      "category": "musica",
-      "date": "2026-11-16T09:48:37.000Z",
-      "location": "Centro Histórico",
-      "neighborhood": "Centro Histórico",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/unnamed-6.png",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/palco-matriarcas-do-samba-celebra-o-protagonismo-feminino-no-festival-da-consciencia-negra/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/palco-matriarcas-do-samba-celebra-o-protagonismo-feminino-no-festival-da-consciencia-negra/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "musica"
       ],
       "featured": true
     },
@@ -906,28 +730,6 @@
       "tags": [
         "catracalivre",
         "gratuito",
-        "sp",
-        "musica"
-      ],
-      "featured": true
-    },
-    {
-      "id": "k01105",
-      "title": "Filha de Arlindo Cruz traz a SP roda de samba em homenagem ao pai no feriado da Consciência Negra",
-      "description": "Idealizado por Flora Cruz, o ‘Para Declarar Minha Saudade’ só tem músicas do sambista e recebe convidados nesta sexta (20), na Zona Leste",
-      "category": "musica",
-      "date": "2026-11-16T16:19:55.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2017/01/arlindo-cruz-2014-c2aewashington_possato0093.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/filha-de-arlindo-cruz-traz-a-sp-roda-de-samba-em-homenagem-ao-pai-no-feriado-da-consciencia-negra/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/filha-de-arlindo-cruz-traz-a-sp-roda-de-samba-em-homenagem-ao-pai-no-feriado-da-consciencia-negra/",
-      "tags": [
-        "vejasp",
-        "cultura",
         "sp",
         "musica"
       ],
@@ -1330,6 +1132,204 @@
       "featured": false
     },
     {
+      "id": "o5qzh9",
+      "title": "Farol Santander abre programação de Natal com mostra imersiva de ‘O Quebra-Nozes’ e árvore gigante",
+      "description": "Em cartaz até 14/02 no Centro de SP, programação reúne árvore de 10 metros gratuita no hall, cenários imersivos e performances ao vivo aos fins de semana.",
+      "category": "tecnologia",
+      "date": "2026-11-19T12:37:09.000Z",
+      "location": "Centro Histórico",
+      "neighborhood": "Centro Histórico",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/11/dsc06664.jpg",
+      "ticketUrl": "https://catracalivre.com.br/gira/farol-santander-abre-programacao-de-natal-com-mostra-imersiva-de-o-quebra-nozes-e-arvore-gigante/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/farol-santander-abre-programacao-de-natal-com-mostra-imersiva-de-o-quebra-nozes-e-arvore-gigante/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
+        "sp",
+        "tecnologia"
+      ],
+      "featured": true
+    },
+    {
+      "id": "u3sipz",
+      "title": "Feriadão no Ibirapuera tem exposições inéditas, shows de Eddie Vedder, Vitor Kley e mais; confira a programação",
+      "description": "Parque reúne duas mostras que estreiam no Museu Afro Brasil, show gratuito do Coral Harmona, sessões no Planetário e festival de rock de sexta a domingo",
+      "category": "musica",
+      "date": "2026-11-19T18:51:51.000Z",
+      "location": "Vila Mariana",
+      "neighborhood": "Vila Mariana",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/FOTOS_GERAIS_JUN26_IBIRAPUERA-11.jpg.jpeg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/feriadao-no-ibirapuera-tem-exposicoes-ineditas-shows-de-eddie-vedder-vitor-kley-e-mais-confira-a-programacao/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/feriadao-no-ibirapuera-tem-exposicoes-ineditas-shows-de-eddie-vedder-vitor-kley-e-mais-confira-a-programacao/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "musica"
+      ],
+      "featured": true
+    },
+    {
+      "id": "y2c0zc",
+      "title": "Sonia Guimarães, primeira professora negra do ITA: “Nós estamos empretejando tudo”",
+      "description": "Acusada de não saber física e afastada da sala de aula por mais de dez anos, a pesquisadora de 70 anos voltou com uma patente e lançou livro de memórias",
+      "category": "literatura",
+      "date": "2026-11-20T07:00:26.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/2024_Sonia_8.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/sonia-guimaraes-primeira-professora-negra-do-ita-nos-estamos-empretejando-tudo/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/sonia-guimaraes-primeira-professora-negra-do-ita-nos-estamos-empretejando-tudo/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "literatura"
+      ],
+      "featured": false
+    },
+    {
+      "id": "rtk2ma",
+      "title": "CCSP recebe mostra gratuita de cinema dedicada ao K-pop em dezembro",
+      "description": "Com exibições a céu aberto, o K-Pop Open Air traz registros de shows e documentários de nomes como Twice, G-Dragon, Ateez e Enhypen",
+      "category": "musica",
+      "date": "2026-11-20T08:00:07.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/unnamed-7.png",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/ccsp-recebe-mostra-gratuita-de-cinema-dedicada-ao-k-pop-em-dezembro/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/ccsp-recebe-mostra-gratuita-de-cinema-dedicada-ao-k-pop-em-dezembro/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "musica"
+      ],
+      "featured": true
+    },
+    {
+      "id": "4ui1rk",
+      "title": "A moda como fio condutor da memória afro-brasileira",
+      "description": "Em ‘Negras maneiras de vestir’, a pesquisadora Hanayrá Negreiros entrelaça histórias familiares, religiosidade e registros históricos para investigar o vestir",
+      "category": "cultura",
+      "date": "2026-11-20T08:00:10.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/BRAVO_HANAYRA-NEGREIROS_FOTO-RENATO-NASCIMENTO_6064_alta.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/a-moda-como-fio-condutor-da-memoria-afro-brasileira/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/a-moda-como-fio-condutor-da-memoria-afro-brasileira/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "cultura"
+      ],
+      "featured": false
+    },
+    {
+      "id": "ivwuf8",
+      "title": "6 expoentes negros da cultura, moda e ciência desafiam o apagamento histórico",
+      "description": "Especial de VEJA SÃO PAULO mostra como artistas, ativistas e professores reinventam os caminhos de emancipação no país",
+      "category": "tecnologia",
+      "date": "2026-11-20T08:00:40.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-18-at-20.52.59.jpeg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/dia-da-consciencia-negra-cultura-moda-ciencia/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/dia-da-consciencia-negra-cultura-moda-ciencia/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "tecnologia"
+      ],
+      "featured": false
+    },
+    {
+      "id": "gczvmv",
+      "title": "Horóscopo de hoje (20/11): Lua em Áries movimenta o feriado e pede atitude",
+      "description": "Veja como a energia ariana da sexta mexe com o trabalho, o dinheiro e os afetos de cada signo",
+      "category": "cultura",
+      "date": "2026-11-20T08:00:58.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/Horoscopo-de-hoje-20-11-Lua-em-Aries-movimenta-o-feriado-e-pede-atitude.png",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/horoscopo-20-11-lua-aries-movimenta-feriado-pede-atitude/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/horoscopo-20-11-lua-aries-movimenta-feriado-pede-atitude/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "cultura"
+      ],
+      "featured": false
+    },
+    {
+      "id": "vwpeza",
+      "title": "Mural SP: Elian Almeida",
+      "description": "Artista recupera elementos do passado, imagens, narrativas e personagens",
+      "category": "cultura",
+      "date": "2026-11-20T09:00:15.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/Mack_Art_Foundation_Elian_Almeida_454.jpg.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/mural-sp-elian-almeida/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/mural-sp-elian-almeida/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "cultura"
+      ],
+      "featured": false
+    },
+    {
+      "id": "mkt3lk",
+      "title": "Galeria Lacerdine inaugura duas exposições no Dia da Consciência Negra",
+      "description": "Em cartaz a partir de 20 de novembro, ‘Matrizes de Turquesa’ e ‘Ditos do Corpo’ reúnem obras que abordam espiritualidade e memória",
+      "category": "exposicao",
+      "date": "2026-11-20T10:00:00",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/unnamed-12.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/galeria-lacerdine-inaugura-duas-exposicoes-no-dia-da-consciencia-negra/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/galeria-lacerdine-inaugura-duas-exposicoes-no-dia-da-consciencia-negra/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "exposicao"
+      ],
+      "featured": true
+    },
+    {
       "id": "855pk9",
       "title": "Natal perto de São Paulo: cidades e passeios para curtir a programação natalina",
       "description": "Quem quer entrar no clima de Natal sem ir muito longe de São Paulo encontra opções em cidades do interior e da região metropolitana. Há eventos com decoração iluminada, desfiles, personagens, passeios de trem e atividades para as crianças. Em São Pedro, a programação natalina acontece de 20 de novembro de 2026 a 3 de [&hellip;]",
@@ -1350,50 +1350,6 @@
         "sp"
       ],
       "featured": false
-    },
-    {
-      "id": "a2u245",
-      "title": "Praça das Artes recebe 6ª Expo Internacional Dia da Consciência Negra com entrada gratuita",
-      "description": "Evento focado no protagonismo feminino debate mercado de trabalho, inteligência artificial, saúde e racismo ambiental nos dias 20 e 21 de novembro",
-      "category": "exposicao",
-      "date": "2026-11-21T10:00:00",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/Praca_das_Artes.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/praca-das-artes-recebe-6a-expo-internacional-dia-da-consciencia-negra-com-entrada-gratuita/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/praca-das-artes-recebe-6a-expo-internacional-dia-da-consciencia-negra-com-entrada-gratuita/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "exposicao"
-      ],
-      "featured": true
-    },
-    {
-      "id": "u82tvk",
-      "title": "Concurso de cosplay do Orgulho Nerd SP abre inscrições para desfiles e performances",
-      "description": "Evento gratuito nos dias 21 e 22 de novembro terá categorias de figurino e apresentações; vagas são limitadas para inscrições online e presenciais",
-      "category": "cultura",
-      "date": "2026-11-22T10:00:00",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/Concurso-Cosplay_13_0917.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/concurso-de-cosplay-do-orgulho-nerd-sp-abre-inscricoes-para-desfiles-e-performances/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/concurso-de-cosplay-do-orgulho-nerd-sp-abre-inscricoes-para-desfiles-e-performances/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "cultura"
-      ],
-      "featured": true
     },
     {
       "id": "exxk7p",
@@ -1462,6 +1418,50 @@
       "featured": true
     },
     {
+      "id": "xd7f25",
+      "title": "Festival Ubuntu ocupa a 9 de Julho com dias de arte periférica gratuita",
+      "description": "De 23 a 29 de novembro, a sexta edição do evento reúne shows, teatro, debates, oficinas e batalhas de rima no Centro da capital",
+      "category": "musica",
+      "date": "2026-11-23T10:00:00",
+      "location": "Centro Histórico",
+      "neighborhood": "Centro Histórico",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/Ubuntu.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/festival-ubuntu-ocupa-a-9-de-julho-com-dias-de-arte-periferica-gratuita/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/festival-ubuntu-ocupa-a-9-de-julho-com-dias-de-arte-periferica-gratuita/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "musica"
+      ],
+      "featured": true
+    },
+    {
+      "id": "gqr4zt",
+      "title": "Fause Haten ocupa o CCBB SP com exposição, teatro e performance até janeiro",
+      "description": "De 25 de novembro de 2026 a 25 de janeiro de 2027, o projeto ‘Um artista em processo’ reúne 28 obras inéditas, ensaios abertos e apresentações solo",
+      "category": "teatro",
+      "date": "2026-11-25T10:00:00",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/Fause-Haten_Eu-sou-um-Monstro_6jpg-1.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/fause-haten-ocupa-o-ccbb-sp-com-exposicao-teatro-e-performance-ate-janeiro/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/fause-haten-ocupa-o-ccbb-sp-com-exposicao-teatro-e-performance-ate-janeiro/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "teatro"
+      ],
+      "featured": false
+    },
+    {
       "id": "qf1m9z",
       "title": "Cinema no Centro de SP terá sessões de filmes franceses por R$ 4",
       "description": "O Spcine Olido recebe produções do Festival de Cinema Francês entre os dias 19 e 25 de novembro",
@@ -1484,24 +1484,24 @@
       "featured": false
     },
     {
-      "id": "pml3ss",
-      "title": "Evento literário gratuito com Tati Bernardi e Julián Fuks reúne crianças e adultos em SP",
-      "description": "Primeira edição da Festa Cosmopopeia tem mesas com escritores, oficinas, contação de histórias e show no dia 28 de novembro",
-      "category": "festa",
-      "date": "2026-11-28T10:00:00",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
+      "id": "pxs3m3",
+      "title": "Teatro Sérgio Cardoso recebe apresentação gratuita de ‘Carmina Burana’",
+      "description": "Concerto no dia 29 de novembro reúne a Orquestra Filarmônica do SENAI-SP, quatro grupos vocais e três solistas sob regência de Emiliano Patarra",
+      "category": "musica",
+      "date": "2026-11-29T10:00:00",
+      "location": "Centro Histórico",
+      "neighborhood": "Centro Histórico",
       "price": 0,
       "isFree": true,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/46692eda-ff94-4e59-81e2-cc57ed85f5b0.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/evento-literario-gratuito-com-tati-bernardi-e-julian-fuks-reune-criancas-e-adultos-em-sp/",
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/copia-de-IMG_3537.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/teatro-sergio-cardoso-recebe-apresentacao-gratuita-de-carmina-burana/",
       "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/evento-literario-gratuito-com-tati-bernardi-e-julian-fuks-reune-criancas-e-adultos-em-sp/",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/teatro-sergio-cardoso-recebe-apresentacao-gratuita-de-carmina-burana/",
       "tags": [
         "vejasp",
         "cultura",
         "sp",
-        "festa"
+        "musica"
       ],
       "featured": true
     },
@@ -1570,28 +1570,6 @@
         "sp"
       ],
       "featured": true
-    },
-    {
-      "id": "syrqw1",
-      "title": "Shopping Vila Olímpia tem árvore de Natal com escorregador e encontro de shih-tzus",
-      "description": "Decoração fica montada até 25 de dezembro; em novembro, a programação inclui paradas natalinas e fotos com o Papai Noel para crianças e pets",
-      "category": "tecnologia",
-      "date": "2026-12-25T10:00:00",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/unnamed_3b710b.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/shopping-vila-olimpia-tem-arvore-de-natal-com-escorregador-e-encontro-de-shih-tzus/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/shopping-vila-olimpia-tem-arvore-de-natal-com-escorregador-e-encontro-de-shih-tzus/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "tecnologia"
-      ],
-      "featured": false
     }
   ]
 }
