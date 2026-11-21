@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T15:12:51.647Z",
+  "updatedAt": "2026-11-21T14:28:35.998Z",
   "totalCount": 71,
   "sources": [
     "Veja SP",
@@ -780,50 +780,6 @@
       "featured": false
     },
     {
-      "id": "mmxs0a",
-      "title": "Irmão de Suzane von Richthofen fez homenagem aos pais em tese de doutorado; veja o que escreveu",
-      "description": "Documento acadêmico de 2015 voltou a circular após documentário da Netflix; Andreas homenageia os pais e não menciona a irmã",
-      "category": "cultura",
-      "date": "2026-11-17T10:42:19.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/Design-sem-nome-20.png",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/andreas-von-richthofen-tese-dedicatoria-pais-suzane/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/andreas-von-richthofen-tese-dedicatoria-pais-suzane/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "cultura"
-      ],
-      "featured": false
-    },
-    {
-      "id": "tx10fn",
-      "title": "Tony Bellotto anuncia retorno aos palcos com os Titãs após afastamento médico",
-      "description": "Em vídeo nas redes sociais, guitarrista agradece apoio dos fãs depois de desfalcar show da turnê de ‘Cabeça Dinossauro’ em São José dos Campos",
-      "category": "musica",
-      "date": "2026-11-17T11:01:53.000Z",
-      "location": "Centro Histórico",
-      "neighborhood": "Centro Histórico",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/tony.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/tony-bellotto-anuncia-retorno-aos-palcos-com-os-titas-apos-afastamento-medico/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/tony-bellotto-anuncia-retorno-aos-palcos-com-os-titas-apos-afastamento-medico/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "musica"
-      ],
-      "featured": true
-    },
-    {
       "id": "u11ib4",
       "title": "‘Babado Forte’, de Erika Palomino, ganha versão em podcast com o Estúdio Novelo",
       "description": "Com os dois primeiros episódios já disponíveis em vídeo no YouTube e no Spotify, projeto investiga os cruzamentos entre moda, política, internet e comportamento",
@@ -1352,6 +1308,28 @@
       "featured": false
     },
     {
+      "id": "p2gksd",
+      "title": "Horóscopo de hoje (21/11): último dia do Sol em Escorpião traz um sábado de iniciativa",
+      "description": "Na véspera da entrada do Sol em Sagitário, o céu pede coragem para começar e calma para não exagerar",
+      "category": "cultura",
+      "date": "2026-11-21T07:30:23.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/Horoscopo-de-hoje-21-11-ultimo-dia-do-Sol-em-Escorpiao-traz-um-sabado-de-iniciativa.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/horoscopo-21-11-ultimo-dia-sol-escorpiao-sabado-iniciativa/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/horoscopo-21-11-ultimo-dia-sol-escorpiao-sabado-iniciativa/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "cultura"
+      ],
+      "featured": false
+    },
+    {
       "id": "exxk7p",
       "title": "12ª Mostra Mosfilm de Cinema Soviético e Russo chega à Cinemateca Brasileira com entrada gratuita",
       "description": "Cinemateca recebe festival de cinema russo com 12 longas, projeção ao ar livre, música ao vivo e feira típica com entrada franca até 22 de novembro.",
@@ -1568,6 +1546,28 @@
         "familia",
         "criancas",
         "sp"
+      ],
+      "featured": true
+    },
+    {
+      "id": "40mg0k",
+      "title": "Show do Deep Purple é adiado para 2027 por problemas de saúde de Ian Gillan",
+      "description": "Nova data ainda será anunciada pela produção; ingressos já comprados continuam válidos, mas quem preferir pode pedir reembolso até 7 de dezembro",
+      "category": "musica",
+      "date": "2026-12-07T10:00:00",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/Deep-Purple_1_copyright-earMUSIC_credit-Jim-Rakete_official-photo-for-announcement_16-9-1.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/show-do-deep-purple-e-adiado-para-2027-por-problemas-de-saude-de-ian-gillan/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/show-do-deep-purple-e-adiado-para-2027-por-problemas-de-saude-de-ian-gillan/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "musica"
       ],
       "featured": true
     }
