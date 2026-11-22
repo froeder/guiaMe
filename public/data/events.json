@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T14:28:35.998Z",
+  "updatedAt": "2026-11-22T14:24:19.253Z",
   "totalCount": 71,
   "sources": [
     "Veja SP",
@@ -780,28 +780,6 @@
       "featured": false
     },
     {
-      "id": "u11ib4",
-      "title": "‘Babado Forte’, de Erika Palomino, ganha versão em podcast com o Estúdio Novelo",
-      "description": "Com os dois primeiros episódios já disponíveis em vídeo no YouTube e no Spotify, projeto investiga os cruzamentos entre moda, política, internet e comportamento",
-      "category": "cultura",
-      "date": "2026-11-17T12:12:14.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2024/10/ERIKA-PALOMINO_0093-NR.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/babado-forte-de-erika-palomino-ganha-versao-em-podcast-com-o-estudio-novelo/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/babado-forte-de-erika-palomino-ganha-versao-em-podcast-com-o-estudio-novelo/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "cultura"
-      ],
-      "featured": false
-    },
-    {
       "id": "3resg3",
       "title": "Trens de Natal 2026: veja passeios com Papai Noel e locomotivas iluminadas para fazer com crianças em São Paulo",
       "description": "Famílias podem embarcar em trens decorados, escrever cartinhas para o Bom Velhinho e acompanhar locomotivas iluminadas que passam por cidades paulistas; confira datas, preços e programação. O Natal também chegou aos trilhos! Em 2026, famílias encontram diferentes experiências ferroviárias para entrar no clima da época: há passeios noturnos em locomotivas históricas, viagens com personagens natalinos [&hellip;]",
@@ -822,50 +800,6 @@
         "sp"
       ],
       "featured": false
-    },
-    {
-      "id": "1hgw8q",
-      "title": "Festival da Consciência Negra tem quatro bailes de música preta na avenida Ipiranga",
-      "description": "Pista Baile Black reúne festas Nos Tempos da Soweto, Zimbabwe, Black Mad e Chic Show",
-      "category": "festa",
-      "date": "2026-11-17T14:39:15.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/unnamed-1.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/festival-da-consciencia-negra-tem-quatro-bailes-de-musica-preta-na-avenida-ipiranga/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/festival-da-consciencia-negra-tem-quatro-bailes-de-musica-preta-na-avenida-ipiranga/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "festa"
-      ],
-      "featured": false
-    },
-    {
-      "id": "4iw8m5",
-      "title": "Itaú Cultural faz mostra gratuita com filmes de Hector Babenco; veja a programação",
-      "description": "Sessões de Pixote, Carandiru, Ironweed e outros longas do cineasta começam neste sábado (21) no teatro da instituição, na Avenida Paulista",
-      "category": "teatro",
-      "date": "2026-11-17T15:37:23.000Z",
-      "location": "Bela Vista",
-      "neighborhood": "Bela Vista",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/1600x900-pixote.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/itau-cultural-faz-mostra-gratuita-com-filmes-de-hector-babenco-veja-a-programacao/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/itau-cultural-faz-mostra-gratuita-com-filmes-de-hector-babenco-veja-a-programacao/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "teatro"
-      ],
-      "featured": true
     },
     {
       "id": "ovx4yq",
@@ -1328,6 +1262,72 @@
         "cultura"
       ],
       "featured": false
+    },
+    {
+      "id": "flagzl",
+      "title": "Arsenal da Esperança apresenta espetáculo de Natal gratuito na Mooca",
+      "description": "Com elenco formado por pessoas em situação de rua e artistas circenses, peça ‘Josefina: A incrível máquina dos sonhos’ terá quatro sessões",
+      "category": "teatro",
+      "date": "2026-11-22T08:00:14.000Z",
+      "location": "Mooca",
+      "neighborhood": "Mooca",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/unnamed-13.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/arsenal-da-esperanca-apresenta-espetaculo-de-natal-gratuito-na-mooca/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/arsenal-da-esperanca-apresenta-espetaculo-de-natal-gratuito-na-mooca/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "teatro"
+      ],
+      "featured": true
+    },
+    {
+      "id": "8ig3o1",
+      "title": "Horóscopo de hoje (22/11): o Sol chega a Sagitário e o domingo pede calma",
+      "description": "Começa um período mais otimista e expansivo, mas hoje o céu pede conforto e pouca pressa",
+      "category": "cultura",
+      "date": "2026-11-22T08:00:27.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/Horoscopo-de-hoje-22-11-o-Sol-chega-a-Sagitario-e-o-domingo-pede-calma.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/horoscopo-22-11-sol-sagitario-domingo-pede-calma/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/horoscopo-22-11-sol-sagitario-domingo-pede-calma/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "cultura"
+      ],
+      "featured": false
+    },
+    {
+      "id": "91nzo7",
+      "title": "Documentário sobre Dona Onete mostra trajetória da cantora paraense",
+      "description": "Aos 87 anos, artista relembra os desafios que enfrentou antes de iniciar a carreira musical, aos 62",
+      "category": "musica",
+      "date": "2026-11-22T09:00:46.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/Dona-Onete-Meu-Coracao-Neste-Pedacinho-Aqui-04_Credito-Naiara-Jinknss.jpg.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/documentario-sobre-dona-onete-mostra-trajetoria-da-cantora-paraense/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/documentario-sobre-dona-onete-mostra-trajetoria-da-cantora-paraense/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "musica"
+      ],
+      "featured": true
     },
     {
       "id": "exxk7p",
