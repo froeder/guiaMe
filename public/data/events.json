@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-22T14:24:19.253Z",
-  "totalCount": 71,
+  "updatedAt": "2026-11-23T17:50:48.581Z",
+  "totalCount": 72,
   "sources": [
     "Veja SP",
     "Catraca Livre",
@@ -54,94 +54,6 @@
       "featured": false
     },
     {
-      "id": "h878wn",
-      "title": "Espaço cultural BANANAL comemora cinco anos na Barra Funda com mostra coletiva, festas e feiras",
-      "description": "Galeria e bar se unem na Barra Funda para um mês de festas, exibições e feira de publicações das 16h às 22h, a poucos passos do Metrô Barra Funda.",
-      "category": "festa",
-      "date": "2026-11-04T08:37:55.000Z",
-      "location": "Barra Funda",
-      "neighborhood": "Barra Funda",
-      "price": 25,
-      "isFree": false,
-      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/11/bananal-divulgacao-1-scaled.jpg",
-      "ticketUrl": "https://catracalivre.com.br/gira/espaco-cultural-bananal-comemora-cinco-anos-na-barra-funda-com-mostra-coletiva-festas-e-feiras/",
-      "source": "Catraca Livre",
-      "sourceUrl": "https://catracalivre.com.br/gira/espaco-cultural-bananal-comemora-cinco-anos-na-barra-funda-com-mostra-coletiva-festas-e-feiras/",
-      "tags": [
-        "catracalivre",
-        "gratuito",
-        "sp",
-        "festa"
-      ],
-      "featured": false
-    },
-    {
-      "id": "1dilm",
-      "title": "Benedita Casé Zerbini estreia nos palcos com o monólogo ‘SURDA’ no Sesc Ipiranga",
-      "description": "Após estrelar o filme 90 Decibéis na TV Globo, a artista apresenta montagem autobiográfica na capital paulista; veja como garantir seu ingresso no Sesc.",
-      "category": "teatro",
-      "date": "2026-11-04T09:40:02.000Z",
-      "location": "Bela Vista",
-      "neighborhood": "Bela Vista",
-      "price": 25,
-      "isFree": false,
-      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/11/unnamed-2026-11-04t091639268.jpg",
-      "ticketUrl": "https://catracalivre.com.br/gira/benedita-case-zerbini-estreia-nos-palcos-com-o-monologo-surda-no-sesc-ipiranga/",
-      "source": "Catraca Livre",
-      "sourceUrl": "https://catracalivre.com.br/gira/benedita-case-zerbini-estreia-nos-palcos-com-o-monologo-surda-no-sesc-ipiranga/",
-      "tags": [
-        "catracalivre",
-        "gratuito",
-        "sp",
-        "teatro"
-      ],
-      "featured": false
-    },
-    {
-      "id": "g8lz2e",
-      "title": "Festival de Cinema Italiano chega à 21ª edição com sessões gratuitas no CCBB São Paulo",
-      "description": "Com 21 longas em cartaz até 30/11, o evento no Centro Histórico de SP reúne obras recém-saídas de Veneza, streaming gratuito e clássicos de Fellini na telona.",
-      "category": "cinema",
-      "date": "2026-11-04T10:10:10.000Z",
-      "location": "Centro Histórico",
-      "neighborhood": "Centro Histórico",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/11/gemini-generated-image-hhsstzhhsstzhhss-scaled.jpg",
-      "ticketUrl": "https://catracalivre.com.br/gira/festival-de-cinema-italiano-chega-a-21a-edicao-com-sessoes-gratuitas-no-ccbb-sao-paulo/",
-      "source": "Catraca Livre",
-      "sourceUrl": "https://catracalivre.com.br/gira/festival-de-cinema-italiano-chega-a-21a-edicao-com-sessoes-gratuitas-no-ccbb-sao-paulo/",
-      "tags": [
-        "catracalivre",
-        "gratuito",
-        "sp",
-        "cinema"
-      ],
-      "featured": true
-    },
-    {
-      "id": "c8x628",
-      "title": "IMS Paulista abre mostra inédita de Ara Güler, fotojornalista que revelou a alma de Istambul",
-      "description": "Com 187 fotos em P&#038;B e entrada franca até março de 2027, o IMS Paulista resgata o olhar íntimo de Ara Güler sobre as transformações da metrópole turca.",
-      "category": "cinema",
-      "date": "2026-11-04T10:37:32.000Z",
-      "location": "Bela Vista",
-      "neighborhood": "Bela Vista",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/11/unnamed-2026-11-04t103555920-e1793799413851.jpg",
-      "ticketUrl": "https://catracalivre.com.br/gira/ims-paulista-abre-mostra-inedita-de-ara-guler-fotojornalista-que-revelou-a-alma-de-istambul/",
-      "source": "Catraca Livre",
-      "sourceUrl": "https://catracalivre.com.br/gira/ims-paulista-abre-mostra-inedita-de-ara-guler-fotojornalista-que-revelou-a-alma-de-istambul/",
-      "tags": [
-        "catracalivre",
-        "gratuito",
-        "sp",
-        "cinema"
-      ],
-      "featured": true
-    },
-    {
       "id": "bnt98t",
       "title": "Exposição de carros em SP tem simuladores de corrida, realidade virtual e desconto para famílias",
       "description": "AutoMotor Experience reúne mais de 150 itens históricos no Shopping Vila Olímpia, com carros icônicos e atrações interativas; leitores do São Paulo para Crianças têm 20% de desconto no ingresso inteiro Crianças que gostam de carros, velocidade e tecnologia podem embarcar em uma viagem pela história do automobilismo na AutoMotor Experience, exposição em cartaz no [&hellip;]",
@@ -160,50 +72,6 @@
         "familia",
         "criancas",
         "sp"
-      ],
-      "featured": false
-    },
-    {
-      "id": "8lp4rn",
-      "title": "Theatro São Pedro homenageia os 80 anos de Conceição Evaristo com ópera inédita",
-      "description": "Com composição de Juliana Ripke e libreto de Julianna Santos, a montagem estreia no Dia da Consciência Negra e tem transmissão gratuita no YouTube.",
-      "category": "teatro",
-      "date": "2026-11-05T13:15:55.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/11/conceicao-evaristo-credito-joyce-fonseca-6-scaled.jpg",
-      "ticketUrl": "https://catracalivre.com.br/gira/theatro-sao-pedro-homenageia-os-80-anos-de-conceicao-evaristo-com-opera-inedita/",
-      "source": "Catraca Livre",
-      "sourceUrl": "https://catracalivre.com.br/gira/theatro-sao-pedro-homenageia-os-80-anos-de-conceicao-evaristo-com-opera-inedita/",
-      "tags": [
-        "catracalivre",
-        "gratuito",
-        "sp",
-        "teatro"
-      ],
-      "featured": true
-    },
-    {
-      "id": "8wzc26",
-      "title": "Desconto Gira: Saiba como garantir 40% OFF nos shows da Casa Natura Musical",
-      "description": "A Casa Natura Musical é um dos palcos mais potentes de São Paulo, e quem se cadastra na Gira Catraca Livre garante 40% de desconto nos ingressos!",
-      "category": "musica",
-      "date": "2026-11-05T17:13:15.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 25,
-      "isFree": false,
-      "imageUrl": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=800&q=80",
-      "ticketUrl": "https://catracalivre.com.br/gira/casa-natura-musical-sao-paulo-sp/",
-      "source": "Catraca Livre",
-      "sourceUrl": "https://catracalivre.com.br/gira/casa-natura-musical-sao-paulo-sp/",
-      "tags": [
-        "catracalivre",
-        "gratuito",
-        "sp",
-        "musica"
       ],
       "featured": false
     },
@@ -428,28 +296,6 @@
       "featured": false
     },
     {
-      "id": "7qqyu4",
-      "title": "MixBrasil 2026: maior festival LGBTQIA+ do país invade SP com 84 filmes nacionais",
-      "description": "O festival exibe 84 filmes nacionais de 16 estados em salas de cinema de SP, com mostras de docs, séries e debates de 11 a 22 de novembro.",
-      "category": "cinema",
-      "date": "2026-11-11T10:00:00",
-      "location": "Centro Histórico",
-      "neighborhood": "Centro Histórico",
-      "price": 25,
-      "isFree": false,
-      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/11/1ad3cd2b-984c-47a6-8407-4be5cf43ecdd-scaled.jpg",
-      "ticketUrl": "https://catracalivre.com.br/gira/mixbrasil-2026-maior-festival-lgbtqia-do-pais-invade-sp-com-84-filmes-nacionais/",
-      "source": "Catraca Livre",
-      "sourceUrl": "https://catracalivre.com.br/gira/mixbrasil-2026-maior-festival-lgbtqia-do-pais-invade-sp-com-84-filmes-nacionais/",
-      "tags": [
-        "catracalivre",
-        "gratuito",
-        "sp",
-        "cinema"
-      ],
-      "featured": false
-    },
-    {
       "id": "fevedt",
       "title": "CAIXA Cultural abre retrospectiva de Francisco Galeno com 70 obras e entrada gratuita",
       "description": "Com curadoria de Paulo Herkenhoff, mostra na Praça da Sé reúne 70 obras, sala em homenagem a Niemeyer e a última tela pintada por Galeno até fevereiro.",
@@ -470,28 +316,6 @@
         "cinema"
       ],
       "featured": true
-    },
-    {
-      "id": "bp5xgj",
-      "title": "Festival Melanina Acentuada volta a SP após 14 anos com peças consagradas no CCBB",
-      "description": "De 12 a 15 de novembro, evento celebra 80 anos do Teatro Experimental do Negro com espetáculos de Clayton Nascimento e Djamila Ribeiro no Centro de SP.",
-      "category": "teatro",
-      "date": "2026-11-12T10:00:00",
-      "location": "Centro Histórico",
-      "neighborhood": "Centro Histórico",
-      "price": 25,
-      "isFree": false,
-      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/11/credito-noelia-najera-1-e1794233334383.jpg",
-      "ticketUrl": "https://catracalivre.com.br/gira/festival-melanina-acentuada-volta-a-sp-apos-14-anos-com-pecas-consagradas-no-ccbb/",
-      "source": "Catraca Livre",
-      "sourceUrl": "https://catracalivre.com.br/gira/festival-melanina-acentuada-volta-a-sp-apos-14-anos-com-pecas-consagradas-no-ccbb/",
-      "tags": [
-        "catracalivre",
-        "gratuito",
-        "sp",
-        "teatro"
-      ],
-      "featured": false
     },
     {
       "id": "73yyjh",
@@ -798,72 +622,6 @@
         "familia",
         "criancas",
         "sp"
-      ],
-      "featured": false
-    },
-    {
-      "id": "ovx4yq",
-      "title": "Natal no Ibirapuera: o que se sabe sobre a árvore de 57 metros e a decoração deste ano?",
-      "description": "Com expectativa de receber 2 milhões de visitantes, o parque terá árvore gigante, show de luzes no lago e Papai Noel",
-      "category": "musica",
-      "date": "2026-11-17T15:57:28.000Z",
-      "location": "Vila Mariana",
-      "neighborhood": "Vila Mariana",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2025/11/arvore-de-natal-ibirapuera.png",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/natal-no-ibirapuera-arvore-de-57-metros-decoracao-e-atracoes/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/natal-no-ibirapuera-arvore-de-57-metros-decoracao-e-atracoes/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "musica"
-      ],
-      "featured": true
-    },
-    {
-      "id": "vtap1u",
-      "title": "O fóssil de 400 milhões de anos encontrado em casarão da Avenida Paulista",
-      "description": "Batizado de Rosalita, vestígio de animal marinho foi achado durante o restauro da Casa das Rosas e virou tema de atividades gratuitas do museu",
-      "category": "exposicao",
-      "date": "2026-11-17T18:27:27.000Z",
-      "location": "Bela Vista",
-      "neighborhood": "Bela Vista",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2024/12/20230918_VejaS_Casa-das-Rosas-397.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/o-fossil-de-400-milhoes-de-anos-encontrado-em-casarao-da-avenida-paulista/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/o-fossil-de-400-milhoes-de-anos-encontrado-em-casarao-da-avenida-paulista/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "exposicao"
-      ],
-      "featured": true
-    },
-    {
-      "id": "4m9v5f",
-      "title": "Horóscopo de hoje (18/11): Lua em Peixes pede para ouvir a intuição e ter menos pressa",
-      "description": "A quarta-feira favorece pausas, conversas sensíveis e decisões tomadas com calma",
-      "category": "gastronomia",
-      "date": "2026-11-18T08:20:05.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/Horoscopo-de-hoje-18-11-Lua-em-Peixes-pede-para-ouvir-a-intuicao-e-ter-menos-pressa.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/horoscopo-18-11-lua-peixes-ouvir-intuicao-ter-menos-pressa/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/horoscopo-18-11-lua-peixes-ouvir-intuicao-ter-menos-pressa/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "gastronomia"
       ],
       "featured": false
     },
@@ -1396,6 +1154,50 @@
       "featured": true
     },
     {
+      "id": "dyis4d",
+      "title": "Horóscopo de hoje (23/11): o dia certo para pôr as contas e a agenda em ordem",
+      "description": "Na véspera da Lua cheia, o céu pede firmeza e paciência; confira as previsões para os 12 signos",
+      "category": "cultura",
+      "date": "2026-11-23T08:00:31.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/Horoscopo-de-hoje-23-11-o-dia-certo-para-por-as-contas-e-a-agenda-em-ordem.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/horoscopo-23-11-contas-agenda-em-ordem/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/horoscopo-23-11-contas-agenda-em-ordem/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "cultura"
+      ],
+      "featured": false
+    },
+    {
+      "id": "v07e34",
+      "title": "Festival Mário de Andrade ocupa o Centro com shows gratuitos de Luedji Luna, Negra Li e leitura de Vera Holtz",
+      "description": "Nos dias 25, 27, 28 e 29/11, evento gratuito na Biblioteca Mário de Andrade reúne 34 editoras, feira gastronômica, shows, passeios e debates no Centro.",
+      "category": "musica",
+      "date": "2026-11-23T09:43:59.000Z",
+      "location": "Centro Histórico",
+      "neighborhood": "Centro Histórico",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/11/gemini-generated-image-kuv1sckuv1sckuv1-scaled.jpg",
+      "ticketUrl": "https://catracalivre.com.br/gira/festival-mario-de-andrade-ocupa-o-centro-com-shows-gratuitos-de-luedji-luna-negra-li-e-leitura-de-vera-holtz/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/festival-mario-de-andrade-ocupa-o-centro-com-shows-gratuitos-de-luedji-luna-negra-li-e-leitura-de-vera-holtz/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
+        "sp",
+        "musica"
+      ],
+      "featured": true
+    },
+    {
       "id": "xd7f25",
       "title": "Festival Ubuntu ocupa a 9 de Julho com dias de arte periférica gratuita",
       "description": "De 23 a 29 de novembro, a sexta edição do evento reúne shows, teatro, debates, oficinas e batalhas de rima no Centro da capital",
@@ -1409,6 +1211,248 @@
       "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/festival-ubuntu-ocupa-a-9-de-julho-com-dias-de-arte-periferica-gratuita/",
       "source": "Veja SP",
       "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/festival-ubuntu-ocupa-a-9-de-julho-com-dias-de-arte-periferica-gratuita/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "musica"
+      ],
+      "featured": true
+    },
+    {
+      "id": "h2jd02",
+      "title": "Coletivo Faces leva adaptação gratuita do romance ‘A Cabeça do Santo’ à Funarte SP",
+      "description": "Misturando teatro de sombras, xilogravura e figurinos feitos com upcycling, montagem gratuita de estudantes da ETEC estreia nos dias 27 e 28/11 em SP.",
+      "category": "teatro",
+      "date": "2026-11-23T10:26:00.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/11/02-cabeca-do-santo-cena-coletivo-faces-scaled-e1795440134918.jpg",
+      "ticketUrl": "https://catracalivre.com.br/gira/coletivo-faces-leva-adaptacao-gratuita-do-romance-a-cabeca-do-santo-a-funarte-sp/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/coletivo-faces-leva-adaptacao-gratuita-do-romance-a-cabeca-do-santo-a-funarte-sp/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
+        "sp",
+        "teatro"
+      ],
+      "featured": true
+    },
+    {
+      "id": "8ie8eg",
+      "title": "Pina Contemporânea reúne obras icônicas de Nam June Paik e instalações inéditas",
+      "description": "Em cartaz de 28/11 a 18/04 na Luz, mostra reúne 25 obras do pai da videoarte e trabalhos inéditos de quatro artistas; entrada grátis aos sábados.",
+      "category": "exposicao",
+      "date": "2026-11-23T10:50:20.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/11/7-tv-garden-1-scaled.jpg",
+      "ticketUrl": "https://catracalivre.com.br/gira/pina-contemporanea-reune-obras-iconicas-de-nam-june-paik-em-exposicao/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/pina-contemporanea-reune-obras-iconicas-de-nam-june-paik-em-exposicao/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
+        "sp",
+        "exposicao"
+      ],
+      "featured": true
+    },
+    {
+      "id": "r86m20",
+      "title": "Festa do Livro da USP chega à 28ª edição com livros a partir de 50% de desconto",
+      "description": "Evento gratuito acontece entre quarta (25) e domingo (29) na Cidade Universitária, na Zona Oeste, e reúne 245 editoras com títulos de diversos gêneros",
+      "category": "festa",
+      "date": "2026-11-23T11:07:25.000Z",
+      "location": "Butantã",
+      "neighborhood": "Butantã",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/elisa-calvet-b-S3nUOqDmUvc-unsplash.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/festa-do-livro-da-usp-chega-a-28a-edicao-com-livros-a-partir-de-50-de-desconto/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/festa-do-livro-da-usp-chega-a-28a-edicao-com-livros-a-partir-de-50-de-desconto/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "festa"
+      ],
+      "featured": true
+    },
+    {
+      "id": "qwqg8s",
+      "title": "SIM São Paulo 2026 movimenta a Paulista com mais de 100 painéis e shows noturnos",
+      "description": "De 30/11 a 03/12, conferência ocupa a Avenida Paulista com mais de 100 painéis e 100 shows noturnos espalhados por São Paulo",
+      "category": "musica",
+      "date": "2026-11-23T11:12:38.000Z",
+      "location": "Bela Vista",
+      "neighborhood": "Bela Vista",
+      "price": 25,
+      "isFree": false,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/11/sim-sao-paulo-2026-movimenta-a-paulista-com-mais-de-100-paineis-e-shows-noturnos.jpg",
+      "ticketUrl": "https://catracalivre.com.br/gira/sim-sao-paulo-2026-movimenta-a-paulista-com-mais-de-100-paineis-e-shows-noturnos/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/sim-sao-paulo-2026-movimenta-a-paulista-com-mais-de-100-paineis-e-shows-noturnos/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
+        "sp",
+        "musica"
+      ],
+      "featured": false
+    },
+    {
+      "id": "37r8fd",
+      "title": "Orquestra Brasileira de Cantores Cegos estreia em São Paulo com show gratuito no Sesc Pinheiros",
+      "description": "Incorporando o som das bengalas à cena, espetáculo gratuito celebra cantos indígenas e tradições brasileiras no domingo (29/11), às 18h, em Pinheiros.",
+      "category": "musica",
+      "date": "2026-11-23T11:26:15.000Z",
+      "location": "Pinheiros",
+      "neighborhood": "Pinheiros",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/11/orquestra-brasileira-de-cantores-cegos-repertorio-4-creditos-gabriel-lordello-5-scaled.jpg",
+      "ticketUrl": "https://catracalivre.com.br/gira/orquestra-brasileira-de-cantores-cegos-estreia-em-sao-paulo-com-show-gratuito-no-sesc-pinheiros/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/orquestra-brasileira-de-cantores-cegos-estreia-em-sao-paulo-com-show-gratuito-no-sesc-pinheiros/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
+        "sp",
+        "musica"
+      ],
+      "featured": true
+    },
+    {
+      "id": "gca7ry",
+      "title": "De coxinha de acarajé a churros de pistache: festival gratuito agita o Tatuapé no fim de semana",
+      "description": "Com entrada gratuita e pet friendly, Festival de Churros e Coxinha no Parque CERET reúne 35 expositores, tributo ao Charlie Brown Jr. e feira de adoção",
+      "category": "gastronomia",
+      "date": "2026-11-23T11:57:05.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/11/unnamed-2026-11-23t115211343.jpg",
+      "ticketUrl": "https://catracalivre.com.br/gira/festival-de-churros-e-coxinha-no-parque-ceret-sp/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/festival-de-churros-e-coxinha-no-parque-ceret-sp/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
+        "sp",
+        "gastronomia"
+      ],
+      "featured": true
+    },
+    {
+      "id": "wpoo0",
+      "title": "Clowns de Shakespeare e Magiluth apresentam o espetáculo ‘CÃO’ no Sesc Consolação",
+      "description": "Peça acompanha trabalhadores em pânico após governador morrer antes da posse; temporada no Centro vai até 13/12 e inclui ateliê de criação cênica.",
+      "category": "teatro",
+      "date": "2026-11-23T13:30:30.000Z",
+      "location": "Centro Histórico",
+      "neighborhood": "Centro Histórico",
+      "price": 25,
+      "isFree": false,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/11/brunnomartins-50-2.jpg",
+      "ticketUrl": "https://catracalivre.com.br/gira/clowns-de-shakespeare-e-magiluth-apresentam-o-espetaculo-cao-no-sesc-consolacao/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/clowns-de-shakespeare-e-magiluth-apresentam-o-espetaculo-cao-no-sesc-consolacao/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
+        "sp",
+        "teatro"
+      ],
+      "featured": false
+    },
+    {
+      "id": "p2djb2",
+      "title": "Sesc Parque Dom Pedro II inaugura em dezembro e ganha prêmio internacional",
+      "description": "Com abertura marcada para os dias 19 e 20, novo endereço no Centro integra arquitetura premiada, espaços culturais e áreas esportivas",
+      "category": "infantil",
+      "date": "2026-11-23T14:10:04.000Z",
+      "location": "Centro Histórico",
+      "neighborhood": "Centro Histórico",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/Sesc.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/sesc-parque-dom-pedro-ii-inaugura-em-dezembro-e-ganha-premio-internacional/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/sesc-parque-dom-pedro-ii-inaugura-em-dezembro-e-ganha-premio-internacional/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "infantil"
+      ],
+      "featured": false
+    },
+    {
+      "id": "l8olxn",
+      "title": "Clássico da Broadway ‘Um Violinista no Telhado’ ganha nova montagem brasileira em São Paulo em 2027",
+      "description": "Com estreia marcada para 14/05/2027 no Teatro Liberdade, musical vencedor de nove prêmios Tony já tem ingressos à venda pelo Sympla e na bilheteria.",
+      "category": "musica",
+      "date": "2026-11-23T14:18:41.000Z",
+      "location": "Liberdade",
+      "neighborhood": "Liberdade",
+      "price": 25,
+      "isFree": false,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/11/unnamed-90.png",
+      "ticketUrl": "https://catracalivre.com.br/gira/classico-da-broadway-um-violinista-no-telhado-ganha-nova-montagem-brasileira-em-2027/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/classico-da-broadway-um-violinista-no-telhado-ganha-nova-montagem-brasileira-em-2027/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
+        "sp",
+        "musica"
+      ],
+      "featured": false
+    },
+    {
+      "id": "2mg69b",
+      "title": "Elisa Lucinda apresenta o espetáculo em versos ‘O Princípio do Mundo’ no CCBB SP",
+      "description": "E se a humanidade resgatasse a sabedoria ancestral para curar o presente? Montagem mistura poesia falada e tradição oral num convite à cultura de paz.",
+      "category": "teatro",
+      "date": "2026-11-23T14:22:02.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 25,
+      "isFree": false,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/11/principio-do-mundo-vix-vit6864-1-131-scaled.jpg",
+      "ticketUrl": "https://catracalivre.com.br/gira/elisa-lucinda-apresenta-o-espetaculo-em-versos-o-principio-do-mundo-no-ccbb-sp/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/elisa-lucinda-apresenta-o-espetaculo-em-versos-o-principio-do-mundo-no-ccbb-sp/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
+        "sp",
+        "teatro"
+      ],
+      "featured": false
+    },
+    {
+      "id": "qdf0r7",
+      "title": "Centro de SP terá shows de Negra Li e Luedji Luna e feira de livros grátis",
+      "description": "6ª edição do Festival Mário de Andrade traz leitura cênica, apresentações musicais e feira literária de 25 a 29 de novembro",
+      "category": "musica",
+      "date": "2026-11-25T10:00:00",
+      "location": "Centro Histórico",
+      "neighborhood": "Centro Histórico",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2017/02/15-fachada-da-biblioteca-mc3a1rio-de-andrade-na-rua-da-consolac3a7c3a3o-sylvia-masini.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/centro-de-sp-tera-shows-de-negra-li-e-luedji-luna-e-feira-de-livros-gratis/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/centro-de-sp-tera-shows-de-negra-li-e-luedji-luna-e-feira-de-livros-gratis/",
       "tags": [
         "vejasp",
         "cultura",
@@ -1436,28 +1480,6 @@
         "cultura",
         "sp",
         "teatro"
-      ],
-      "featured": false
-    },
-    {
-      "id": "qf1m9z",
-      "title": "Cinema no Centro de SP terá sessões de filmes franceses por R$ 4",
-      "description": "O Spcine Olido recebe produções do Festival de Cinema Francês entre os dias 19 e 25 de novembro",
-      "category": "cinema",
-      "date": "2026-11-25T10:00:00",
-      "location": "Centro Histórico",
-      "neighborhood": "Centro Histórico",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2017/01/59838_cine-olido-foto-sylvia-masini.jpeg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/cinema-no-centro-de-sp-tera-sessoes-de-filmes-franceses-por-r-4/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/cinema-no-centro-de-sp-tera-sessoes-de-filmes-franceses-por-r-4/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "cinema"
       ],
       "featured": false
     },
