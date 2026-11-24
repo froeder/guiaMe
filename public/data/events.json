@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-23T17:50:48.581Z",
-  "totalCount": 72,
+  "updatedAt": "2026-11-24T17:23:26.697Z",
+  "totalCount": 75,
   "sources": [
     "Veja SP",
     "Catraca Livre",
@@ -9,94 +9,6 @@
     "Instituições SP"
   ],
   "events": [
-    {
-      "id": "9e7wv8",
-      "title": "CEUs de São Paulo abrem no feriado de Finados com piscinas, bibliotecas e atividades gratuitas",
-      "description": "Unidades funcionam das 8h às 18h na segunda-feira (2); programação inclui opções culturais, esportivas e de lazer para famílias Os 63 Centros Educacionais Unificados (CEUs) de São Paulo estarão abertos no feriado de Finados, na segunda-feira (2 de novembro), das 8h às 18h. As unidades oferecem atividades culturais, esportivas e de lazer gratuitas para famílias, [&hellip;]",
-      "category": "infantil",
-      "date": "2026-11-02T10:00:00",
-      "location": "Centro Histórico",
-      "neighborhood": "Centro Histórico",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/05/sp_criancas_passeio_brincar.jpg",
-      "ticketUrl": "https://saopauloparacriancas.com.br/ceus-de-sao-paulo-programacao/",
-      "source": "SP para Crianças",
-      "sourceUrl": "https://saopauloparacriancas.com.br/ceus-de-sao-paulo-programacao/",
-      "tags": [
-        "infantil",
-        "familia",
-        "criancas",
-        "sp"
-      ],
-      "featured": true
-    },
-    {
-      "id": "kjbv0t",
-      "title": "Presentes de Natal para crianças: ideias para brincar, descobrir e viver bons momentos em família",
-      "description": "No São Paulo para Crianças, adoramos descobrir programas, lugares e experiências que fazem os olhos dos pequenos brilharem. Mas também sabemos que algumas aventuras começam dentro de casa: uma caixa de papelão que vira foguete, uma tarde chuvosa que termina em campeonato de jogos ou um livro que leva a família inteira para mundos que [&hellip;]",
-      "category": "infantil",
-      "date": "2026-11-03T14:40:22.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 35,
-      "isFree": false,
-      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/11/sp_criancas_passeios_Presentes_4.jpeg",
-      "ticketUrl": "https://saopauloparacriancas.com.br/presentes-de-natal-para-criancas/",
-      "source": "SP para Crianças",
-      "sourceUrl": "https://saopauloparacriancas.com.br/presentes-de-natal-para-criancas/",
-      "tags": [
-        "infantil",
-        "familia",
-        "criancas",
-        "sp"
-      ],
-      "featured": false
-    },
-    {
-      "id": "bnt98t",
-      "title": "Exposição de carros em SP tem simuladores de corrida, realidade virtual e desconto para famílias",
-      "description": "AutoMotor Experience reúne mais de 150 itens históricos no Shopping Vila Olímpia, com carros icônicos e atrações interativas; leitores do São Paulo para Crianças têm 20% de desconto no ingresso inteiro Crianças que gostam de carros, velocidade e tecnologia podem embarcar em uma viagem pela história do automobilismo na AutoMotor Experience, exposição em cartaz no [&hellip;]",
-      "category": "infantil",
-      "date": "2026-11-05T11:06:19.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 35,
-      "isFree": false,
-      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/11/sp_criancas_passeios_automotor_05.jpeg",
-      "ticketUrl": "https://saopauloparacriancas.com.br/exposicao-de-carros-sp/",
-      "source": "SP para Crianças",
-      "sourceUrl": "https://saopauloparacriancas.com.br/exposicao-de-carros-sp/",
-      "tags": [
-        "infantil",
-        "familia",
-        "criancas",
-        "sp"
-      ],
-      "featured": false
-    },
-    {
-      "id": "qthvu4",
-      "title": "The Jacksons, grupo que revelou Michael Jackson, faz show em São Paulo com desconto especial na pré-venda",
-      "description": "Com classificação etária de 16 anos, apresentação acontece em janeiro de 2027, no Espaço Unimed, e reúne sucessos do Jackson 5 que atravessaram gerações. Está procurando um programa diferente para fazer com os filhos adolescentes? O show do The Jacksons, grupo que revelou Michael Jackson e marcou a história da música pop, pode entrar na [&hellip;]",
-      "category": "infantil",
-      "date": "2026-11-06T09:21:26.000Z",
-      "location": "Barra Funda",
-      "neighborhood": "Barra Funda",
-      "price": 35,
-      "isFree": false,
-      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/11/sp_criancas_passeio_jackson_five_01.jpeg",
-      "ticketUrl": "https://saopauloparacriancas.com.br/the-jacksons-five-sp/",
-      "source": "SP para Crianças",
-      "sourceUrl": "https://saopauloparacriancas.com.br/the-jacksons-five-sp/",
-      "tags": [
-        "infantil",
-        "familia",
-        "criancas",
-        "sp"
-      ],
-      "featured": false
-    },
     {
       "id": "shplot",
       "title": "Sesc e Cinemateca Brasileira completam 80 anos com circuito de cinema gratuito em SP",
@@ -318,72 +230,6 @@
       "featured": true
     },
     {
-      "id": "73yyjh",
-      "title": "Júlio Verne de graça em SP? Exposição na Avenida Paulista tem entrada grátis às terças e para crianças até 7 anos todos os dias",
-      "description": "Uma viagem pelo fundo do mar e pelo universo da ficção científica espera os visitantes da Casa das Rosas, na Avenida Paulista. De 12 de novembro a 13 de dezembro de 2026, o espaço recebe a exposição imersiva 20 Mil Léguas Submarinas e Outras Viagens Extraordinárias, inspirada nas obras do escritor francês Júlio Verne. A [&hellip;]",
-      "category": "infantil",
-      "date": "2026-11-12T10:00:00",
-      "location": "Bela Vista",
-      "neighborhood": "Bela Vista",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2018/03/sp_criancas_passeios_20_mil_leguas_submarinas_-4.jpeg",
-      "ticketUrl": "https://saopauloparacriancas.com.br/exposicao-casa-das-rosas-sp/",
-      "source": "SP para Crianças",
-      "sourceUrl": "https://saopauloparacriancas.com.br/exposicao-casa-das-rosas-sp/",
-      "tags": [
-        "infantil",
-        "familia",
-        "criancas",
-        "sp"
-      ],
-      "featured": true
-    },
-    {
-      "id": "c7tafe",
-      "title": "Revelando SP 2026 tem oficinas, brincadeiras e contação de histórias gratuitas para crianças",
-      "description": "Pintura facial, contação de histórias, brincadeiras, palhaçaria, atividades circenses, oficinas de artesanato indígena, bordado, crochê, modelagem em argila e vivência de jongo estão entre as atrações infantis do Revelando SP 2026. O festival acontece de 12 a 15 de novembro, no Parque do Trote, na Vila Guilherme, Zona Norte de São Paulo, com entrada gratuita. [&hellip;]",
-      "category": "infantil",
-      "date": "2026-11-12T10:00:00",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/11/sp_criancas_passeio_revelando.jpeg",
-      "ticketUrl": "https://saopauloparacriancas.com.br/revelando-sp/",
-      "source": "SP para Crianças",
-      "sourceUrl": "https://saopauloparacriancas.com.br/revelando-sp/",
-      "tags": [
-        "infantil",
-        "familia",
-        "criancas",
-        "sp"
-      ],
-      "featured": true
-    },
-    {
-      "id": "xlwvee",
-      "title": "Natal gratuito em Osasco tem show de Maria Clara &#038; JP e chegada do Papai Noel de helicóptero",
-      "description": "Quer assistir à dupla nos palcos? Confira a agenda de shows de Maria Clara e JP em 2026, com datas, locais e informações sobre ingressos. O Shopping União de Osasco recebe a programação natalina com apresentação gratuita da dupla infantil, chegada do Papai Noel de helicóptero e atrações para toda a família. O Shopping União [&hellip;]",
-      "category": "infantil",
-      "date": "2026-11-14T19:14:40.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2025/10/sp_criancas_passeio_maria_clara-e_jp_01.jpg",
-      "ticketUrl": "https://saopauloparacriancas.com.br/uniao-de_osasco-sp/",
-      "source": "SP para Crianças",
-      "sourceUrl": "https://saopauloparacriancas.com.br/uniao-de_osasco-sp/",
-      "tags": [
-        "infantil",
-        "familia",
-        "criancas",
-        "sp"
-      ],
-      "featured": true
-    },
-    {
       "id": "k06x2x",
       "title": "8º Festival Nicho ocupa espaços culturais de SP com cinema negro gratuito e premiado",
       "description": "De 20 a 27/11, evento exibe clássicos e obras inéditas no CCSP, Cinemateca Brasileira, Museu das Favelas e Vão Livre do MASP com entrada franca em SP.",
@@ -558,226 +404,6 @@
         "musica"
       ],
       "featured": true
-    },
-    {
-      "id": "79b6f3",
-      "title": "Farol Santander tem exposição de Natal inspirada em “O Quebra-Nozes”",
-      "description": "Mostra reúne figurinos históricos, obras de arte, cenários imersivos e personagens do clássico balé; programação segue até fevereiro de 2027 O Farol Santander, no centro de São Paulo, recebe a exposição A Magia do Quebra-Nozes, inspirada no famoso balé de Piotr Ilitch Tchaikovsky. A atração ocupa 400 m² no 23º andar e reúne cenários temáticos, [&hellip;]",
-      "category": "infantil",
-      "date": "2026-11-16T17:10:02.000Z",
-      "location": "Centro Histórico",
-      "neighborhood": "Centro Histórico",
-      "price": 35,
-      "isFree": false,
-      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/11/sp_criancas_passeio_natal_farol_-3.jpeg",
-      "ticketUrl": "https://saopauloparacriancas.com.br/farol-santander-exposicao-de-natal/",
-      "source": "SP para Crianças",
-      "sourceUrl": "https://saopauloparacriancas.com.br/farol-santander-exposicao-de-natal/",
-      "tags": [
-        "infantil",
-        "familia",
-        "criancas",
-        "sp"
-      ],
-      "featured": false
-    },
-    {
-      "id": "tytrdo",
-      "title": "Festival Parental 2026 reúne famílias e especialistas em quatro dias de atividades em São Paulo",
-      "description": "A chegada de um filho traz novas descobertas, mas também dúvidas sobre cuidados, educação e desenvolvimento infantil. Para lidar com esses desafios, gestantes, mães, pais e cuidadores buscam informação, orientação especializada e troca de experiências. Já os profissionais que atuam com infância e famílias encontram na atualização e no compartilhamento de conhecimentos oportunidades de aprimorar [&hellip;]",
-      "category": "infantil",
-      "date": "2026-11-17T09:28:58.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 35,
-      "isFree": false,
-      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/11/sp_criancas_passeio_festival.jpeg",
-      "ticketUrl": "https://saopauloparacriancas.com.br/festival-parental-sp/",
-      "source": "SP para Crianças",
-      "sourceUrl": "https://saopauloparacriancas.com.br/festival-parental-sp/",
-      "tags": [
-        "infantil",
-        "familia",
-        "criancas",
-        "sp"
-      ],
-      "featured": false
-    },
-    {
-      "id": "3resg3",
-      "title": "Trens de Natal 2026: veja passeios com Papai Noel e locomotivas iluminadas para fazer com crianças em São Paulo",
-      "description": "Famílias podem embarcar em trens decorados, escrever cartinhas para o Bom Velhinho e acompanhar locomotivas iluminadas que passam por cidades paulistas; confira datas, preços e programação. O Natal também chegou aos trilhos! Em 2026, famílias encontram diferentes experiências ferroviárias para entrar no clima da época: há passeios noturnos em locomotivas históricas, viagens com personagens natalinos [&hellip;]",
-      "category": "infantil",
-      "date": "2026-11-17T14:30:04.000Z",
-      "location": "Bela Vista",
-      "neighborhood": "Bela Vista",
-      "price": 35,
-      "isFree": false,
-      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/11/sp_criancas_passeios_trem_natal_.jpeg",
-      "ticketUrl": "https://saopauloparacriancas.com.br/trens-de-natal-sp/",
-      "source": "SP para Crianças",
-      "sourceUrl": "https://saopauloparacriancas.com.br/trens-de-natal-sp/",
-      "tags": [
-        "infantil",
-        "familia",
-        "criancas",
-        "sp"
-      ],
-      "featured": false
-    },
-    {
-      "id": "ac4f59",
-      "title": "Mariah Carey canta clássicos da carreira em São Paulo: confira melhores momentos",
-      "description": "Cantora trouxe pela primeira vez turnê natalina ‘Christmas Time’ ao Brasil para público de 20 mil pessoas",
-      "category": "cultura",
-      "date": "2026-11-18T11:27:13.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/PRIDIA0920210338-1.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/mariah-carey-show-sao-paulo-videos-melhores-momentos/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/mariah-carey-show-sao-paulo-videos-melhores-momentos/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "cultura"
-      ],
-      "featured": false
-    },
-    {
-      "id": "exq0nd",
-      "title": "Festival João Rock anuncia data da próxima edição e promoção de ingresso grátis",
-      "description": "Evento vai acontecer em julho de 2027",
-      "category": "musica",
-      "date": "2026-11-18T11:45:10.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2025/01/link.php-5.jpeg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/festival-joao-rock-anuncia-data-da-proxima-edicao-e-promocao-de-ingresso-gratis/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/festival-joao-rock-anuncia-data-da-proxima-edicao-e-promocao-de-ingresso-gratis/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "musica"
-      ],
-      "featured": true
-    },
-    {
-      "id": "l1a2p4",
-      "title": "FlinkSampa 2026: Itamar Vieira Júnior participa de festival gratuito em SP",
-      "description": "Festa da Literatura e Cultura Negra homenageia Nei Lopes e tem conversas com escritores no Sesc 14 Bis até quinta-feira (19)",
-      "category": "festa",
-      "date": "2026-11-18T12:58:37.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2025/05/Flavio-Florido.jpeg-e1747926727593.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/flinksampa-2026-itamar-vieira-junior/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/flinksampa-2026-itamar-vieira-junior/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "festa"
-      ],
-      "featured": true
-    },
-    {
-      "id": "4dsiw7",
-      "title": "Com Mike Tyson, ExpoCannabis Brasil começa em São Paulo nesta sexta (20)",
-      "description": "Quarta edição da feira tem mais de 300 estandes e debates sobre cânhamo industrial, cannabis medicinal e as novas regras da Anvisa",
-      "category": "gastronomia",
-      "date": "2026-11-18T17:08:08.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2023/09/DJI_0512.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/com-mike-tyson-expocannabis-brasil-comeca-em-sao-paulo-nesta-sexta-20/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/com-mike-tyson-expocannabis-brasil-comeca-em-sao-paulo-nesta-sexta-20/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "gastronomia"
-      ],
-      "featured": false
-    },
-    {
-      "id": "kka1fp",
-      "title": "Anitta em GTA 6: cantora interpreta médica e comanda rádio sobre sexo no jogo",
-      "description": "A artista dá voz à personagem Dra. Nita e tem música na trilha sonora do novo game da Rockstar",
-      "category": "musica",
-      "date": "2026-11-18T18:02:05.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/Sem-titulo-5.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/anitta-em-gta-6-cantora-interpreta-medica-e-comanda-radio-sobre-sexo-no-jogo/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/anitta-em-gta-6-cantora-interpreta-medica-e-comanda-radio-sobre-sexo-no-jogo/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "musica"
-      ],
-      "featured": true
-    },
-    {
-      "id": "fmvie0",
-      "title": "Feriado da Consciência Negra: veja o que fazer de graça em São Paulo",
-      "description": "Shows de Seu Jorge, Dudu Nobre e Amaro Freitas estão entre as atrações; programação inclui exposições, cinema, teatro e feiras",
-      "category": "musica",
-      "date": "2026-11-18T19:28:50.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2025/09/Design-sem-nome-2025-09-25T151956.134.png",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/feriado-da-consciencia-negra-veja-o-que-fazer-de-graca-em-sao-paulo/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/feriado-da-consciencia-negra-veja-o-que-fazer-de-graca-em-sao-paulo/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "musica"
-      ],
-      "featured": true
-    },
-    {
-      "id": "dfk46u",
-      "title": "Horóscopo de hoje (19/11): Lua em Peixes desacelera a quinta e pede mais intuição",
-      "description": "Quinta-feira pede ritmo mais lento, atenção às emoções e cuidado com o que você absorve dos outros",
-      "category": "gastronomia",
-      "date": "2026-11-19T08:00:18.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/Horoscopo-de-hoje-19-11-Lua-em-Peixes-desacelera-a-quinta-e-pede-mais-intuicao.png",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/horoscopo-19-11-lua-peixes-desacelera-pede-intuicao/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/horoscopo-19-11-lua-peixes-desacelera-pede-intuicao/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "gastronomia"
-      ],
-      "featured": false
     },
     {
       "id": "o5qzh9",
@@ -978,28 +604,6 @@
       "featured": true
     },
     {
-      "id": "855pk9",
-      "title": "Natal perto de São Paulo: cidades e passeios para curtir a programação natalina",
-      "description": "Quem quer entrar no clima de Natal sem ir muito longe de São Paulo encontra opções em cidades do interior e da região metropolitana. Há eventos com decoração iluminada, desfiles, personagens, passeios de trem e atividades para as crianças. Em São Pedro, a programação natalina acontece de 20 de novembro de 2026 a 3 de [&hellip;]",
-      "category": "infantil",
-      "date": "2026-11-20T10:00:00",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 35,
-      "isFree": false,
-      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2025/11/sp_criancas_passeios_pullman_natal_01.jpeg",
-      "ticketUrl": "https://saopauloparacriancas.com.br/natal-perto-de-sp/",
-      "source": "SP para Crianças",
-      "sourceUrl": "https://saopauloparacriancas.com.br/natal-perto-de-sp/",
-      "tags": [
-        "infantil",
-        "familia",
-        "criancas",
-        "sp"
-      ],
-      "featured": false
-    },
-    {
       "id": "p2gksd",
       "title": "Horóscopo de hoje (21/11): último dia do Sol em Escorpião traz um sábado de iniciativa",
       "description": "Na véspera da entrada do Sol em Sagitário, o céu pede coragem para começar e calma para não exagerar",
@@ -1110,50 +714,6 @@
       "featured": true
     },
     {
-      "id": "sr8p5h",
-      "title": "Orgulho Nerd SP tem programação gratuita para famílias no Pacaembu",
-      "description": "Com o tema “Seja Meu Player 2”, festival acontece nos dias 21 e 22 de novembro, com jogos, cinema, oficinas criativas, concursos de cosplay e apresentações musicais. Quem gosta de games, desenhos, animes, quadrinhos e cultura pop tem um programa diferente para fazer em família em São Paulo. Nos dias 21 e 22 de novembro, [&hellip;]",
-      "category": "infantil",
-      "date": "2026-11-22T10:00:00",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/11/sp_criancas_passeio_orgulho_nerd-2.jpeg",
-      "ticketUrl": "https://saopauloparacriancas.com.br/orgulho-nerd-sp/",
-      "source": "SP para Crianças",
-      "sourceUrl": "https://saopauloparacriancas.com.br/orgulho-nerd-sp/",
-      "tags": [
-        "infantil",
-        "familia",
-        "criancas",
-        "sp"
-      ],
-      "featured": true
-    },
-    {
-      "id": "cmknpn",
-      "title": "Dinossauros gigantes de balão desfilam de graça em Guarulhos",
-      "description": "Quem gosta de dinossauros vai encontrar uma atração diferente em Guarulhos! No domingo, 22 de novembro de 2026, a Avenida Paulo Faccini, em frente ao Bosque Maia, recebe a terceira edição da Balloon Parade, um desfile gratuito com 14 carros alegóricos decorados com esculturas gigantes de dinossauros feitas de balões. As estruturas tridimensionais podem chegar [&hellip;]",
-      "category": "infantil",
-      "date": "2026-11-22T10:00:00",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/11/sp_criancas_passeios_baloes_9.jpeg",
-      "ticketUrl": "https://saopauloparacriancas.com.br/baloes-gigantes-sp/",
-      "source": "SP para Crianças",
-      "sourceUrl": "https://saopauloparacriancas.com.br/baloes-gigantes-sp/",
-      "tags": [
-        "infantil",
-        "familia",
-        "criancas",
-        "sp"
-      ],
-      "featured": true
-    },
-    {
       "id": "dyis4d",
       "title": "Horóscopo de hoje (23/11): o dia certo para pôr as contas e a agenda em ordem",
       "description": "Na véspera da Lua cheia, o céu pede firmeza e paciência; confira as previsões para os 12 signos",
@@ -1218,6 +778,28 @@
         "musica"
       ],
       "featured": true
+    },
+    {
+      "id": "6nxmd9",
+      "title": "Crianças na cozinha? Le Cordon Bleu: curso de cozinha para pais e filhos em SP",
+      "description": "Oficina Les Petits Cordons Bleus – Duo teve edição anunciada em julho de 2026; saiba como funciona a experiência, quanto custava e onde acompanhar novas vagas. Atualizado em 23 de novembro de 2026. Uma cozinha profissional, aventais, ingredientes sobre a bancada e uma missão compartilhada: preparar uma receita do começo ao fim. Essa é a [&hellip;]",
+      "category": "infantil",
+      "date": "2026-11-23T10:00:00",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 35,
+      "isFree": false,
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2025/07/sp_criancas_passeio_ferias_Le_Cordon_Bleu_01.jpg",
+      "ticketUrl": "https://saopauloparacriancas.com.br/criancas-na-cozinha-le-cordon-bleu-abre-curso-em-sp-para-pais-e-filhos-cozinharem-juntos-nas-ferias/",
+      "source": "SP para Crianças",
+      "sourceUrl": "https://saopauloparacriancas.com.br/criancas-na-cozinha-le-cordon-bleu-abre-curso-em-sp-para-pais-e-filhos-cozinharem-juntos-nas-ferias/",
+      "tags": [
+        "infantil",
+        "familia",
+        "criancas",
+        "sp"
+      ],
+      "featured": false
     },
     {
       "id": "h2jd02",
@@ -1374,10 +956,10 @@
       "featured": false
     },
     {
-      "id": "p2djb2",
-      "title": "Sesc Parque Dom Pedro II inaugura em dezembro e ganha prêmio internacional",
-      "description": "Com abertura marcada para os dias 19 e 20, novo endereço no Centro integra arquitetura premiada, espaços culturais e áreas esportivas",
-      "category": "infantil",
+      "id": "9v0im5",
+      "title": "Novo Sesc no centro terá parque aquático e biblioteca; veja quando abre",
+      "description": "Sesc Dom Pedro II integra arquitetura premiada, espaços culturais e áreas esportivas",
+      "category": "literatura",
       "date": "2026-11-23T14:10:04.000Z",
       "location": "Centro Histórico",
       "neighborhood": "Centro Histórico",
@@ -1391,7 +973,7 @@
         "vejasp",
         "cultura",
         "sp",
-        "infantil"
+        "literatura"
       ],
       "featured": false
     },
@@ -1440,6 +1022,490 @@
       "featured": false
     },
     {
+      "id": "icztep",
+      "title": "Conheça o grupo musical da PM de SP que tem mais de 180 anos",
+      "description": "Com origem em 1843, o grupo realiza apresentações mensais na sede da corporação, no Centro, além de atuar em escolas, hospitais e desfiles oficiais",
+      "category": "musica",
+      "date": "2026-11-23T15:09:47.000Z",
+      "location": "Centro Histórico",
+      "neighborhood": "Centro Histórico",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/Grupo_PM.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/corpo-musical-da-pm-de-sp-leva-concertos-gratuitos-a-luz/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/corpo-musical-da-pm-de-sp-leva-concertos-gratuitos-a-luz/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "musica"
+      ],
+      "featured": true
+    },
+    {
+      "id": "drq0z9",
+      "title": "Feira de Natal na Vila Madalena chega à 22ª edição com presentes autorais, comida e música",
+      "description": "Evento gratuito e que aceita pets reúne pequenos empreendedores, artesanato e cinco shows no Palco Jazz no Limoeiro",
+      "category": "musica",
+      "date": "2026-11-23T15:11:50.000Z",
+      "location": "Vila Madalena",
+      "neighborhood": "Vila Madalena",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/upscalemedia-transformed.jpeg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/feira-de-natal-na-vila-madalena-chega-a-22a-edicao-com-presentes-autorais-comida-e-musica/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/feira-de-natal-na-vila-madalena-chega-a-22a-edicao-com-presentes-autorais-comida-e-musica/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "musica"
+      ],
+      "featured": true
+    },
+    {
+      "id": "gw2jfe",
+      "title": "Maior cafezal urbano do mundo terá visitas e degustações gratuitas",
+      "description": "Evento que acontece nos dias 27 e 28 conta com visita guiada, apresentações musicais e premiação dos melhores cafés de São Paulo",
+      "category": "musica",
+      "date": "2026-11-23T15:27:23.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2024/01/cafezal.jpg.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/maior-cafezal-urbano-do-mundo-tera-visitas-e-degustacoes-gratuitas/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/maior-cafezal-urbano-do-mundo-tera-visitas-e-degustacoes-gratuitas/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "musica"
+      ],
+      "featured": true
+    },
+    {
+      "id": "ybjiqm",
+      "title": "Festival gratuito mistura música, cultura urbana e debates sobre o clima",
+      "description": "Quarta edição do Festival Formigueiro de Insurgências Climáticas ocorre sábado (28) no Circo Luz, com nomes como Katú Mirim, Batalha da Matrix e Coco da Batata",
+      "category": "musica",
+      "date": "2026-11-23T17:21:59.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/Katu_corte.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/festival-gratuito-mistura-musica-cultura-urbana-e-debates-sobre-o-clima/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/festival-gratuito-mistura-musica-cultura-urbana-e-debates-sobre-o-clima/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "musica"
+      ],
+      "featured": true
+    },
+    {
+      "id": "i2d4gz",
+      "title": "Da gripe espanhola aos murais de Kobra: a história da Igreja do Calvário, em Pinheiros",
+      "description": "Templo da Rua Cardeal Arcoverde, inaugurado em 1926, guarda episódios da cidade, como a gripe espanhola, a Revolução de 1924 e o casamento de Rivelino",
+      "category": "cultura",
+      "date": "2026-11-23T17:45:25.000Z",
+      "location": "Pinheiros",
+      "neighborhood": "Pinheiros",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2022/06/3-TOPO-PAGINA-3-Quermesse-do-Calvario-DIVULGACAO-1.JPEG.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/da-gripe-espanhola-aos-murais-de-kobra-a-historia-da-igreja-do-calvario-em-pinheiros/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/da-gripe-espanhola-aos-murais-de-kobra-a-historia-da-igreja-do-calvario-em-pinheiros/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "cultura"
+      ],
+      "featured": false
+    },
+    {
+      "id": "grer3c",
+      "title": "Passeio de Balão em Boituva: quanto custa e como funciona a experiência para famílias",
+      "description": "Quem olha Boituva do chão talvez não imagine como a paisagem muda quando o ponto de vista está a bordo de um balão. No interior de São Paulo, o Passeio de Balão em Boituva leva famílias para um voo de 40 minutos a 1 hora sobre os campos e rios da cidade. A atividade tem [&hellip;]",
+      "category": "infantil",
+      "date": "2026-11-23T18:26:21.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 35,
+      "isFree": false,
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/08/sp_criancas_passeio_balao_boituva_fever_02.jpeg",
+      "ticketUrl": "https://saopauloparacriancas.com.br/passeio-de-balao-em-boituva-sp/",
+      "source": "SP para Crianças",
+      "sourceUrl": "https://saopauloparacriancas.com.br/passeio-de-balao-em-boituva-sp/",
+      "tags": [
+        "infantil",
+        "familia",
+        "criancas",
+        "sp"
+      ],
+      "featured": false
+    },
+    {
+      "id": "bod8b5",
+      "title": "Férias de julho em Poços de Caldas e Sorocaba: hotéis que unem conforto, diversão para todas as idades, aceitam pets e oferecem desconto exclusivo",
+      "description": "Viagem em família nas férias de julho pede opções que unam conforto, lazer e programas para todas as idades. Pensando nisso, o Grupo Nacional Inn reúne três opções de hospedagem para quem viaja com crianças: o Cassino Resort All Inclusive, o Hotel Nacional Inn Poços de Caldas e o Golden Park Sorocaba, localizado próximo à [&hellip;]",
+      "category": "infantil",
+      "date": "2026-11-23T18:44:37.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 35,
+      "isFree": false,
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2025/06/sp_criancas_passeio_cassino_04.jpg",
+      "ticketUrl": "https://saopauloparacriancas.com.br/ferias-de-julho-em-pocos-de-caldas-e-sorocaba-hoteis-que-unem-conforto-diversao-para-todas-as-idades-aceitam-pets-e-oferecem-desconto-exclusivo/",
+      "source": "SP para Crianças",
+      "sourceUrl": "https://saopauloparacriancas.com.br/ferias-de-julho-em-pocos-de-caldas-e-sorocaba-hoteis-que-unem-conforto-diversao-para-todas-as-idades-aceitam-pets-e-oferecem-desconto-exclusivo/",
+      "tags": [
+        "infantil",
+        "familia",
+        "criancas",
+        "sp"
+      ],
+      "featured": false
+    },
+    {
+      "id": "26vk0k",
+      "title": "Ligação Santos e Guarujá: veja como será o primeiro túnel imerso do Brasil e quando ele abre",
+      "description": "Já imaginou ir de Santos ao Guarujá em menos de cinco minutos, sem depender da fila das balsas? Essa é a promessa do Túnel Santos-Guarujá, uma das maiores obras de infraestrutura previstas para o litoral paulista e que será o primeiro túnel imerso do Brasil. O empreendimento terá aproximadamente 1,5 quilômetro de extensão, sendo 870 [&hellip;]",
+      "category": "infantil",
+      "date": "2026-11-23T19:02:18.000Z",
+      "location": "Bela Vista",
+      "neighborhood": "Bela Vista",
+      "price": 35,
+      "isFree": false,
+      "imageUrl": "https://images.unsplash.com/photo-1508873696983-2df5293cb32f?w=800&q=80",
+      "ticketUrl": "https://saopauloparacriancas.com.br/ligac%cc%a7a%cc%83o-santos-e-guaruja-veja-como-sera-o-primeiro-tunel-imerso-do-brasil-e-quando-ele-abre/",
+      "source": "SP para Crianças",
+      "sourceUrl": "https://saopauloparacriancas.com.br/ligac%cc%a7a%cc%83o-santos-e-guaruja-veja-como-sera-o-primeiro-tunel-imerso-do-brasil-e-quando-ele-abre/",
+      "tags": [
+        "infantil",
+        "familia",
+        "criancas",
+        "sp"
+      ],
+      "featured": false
+    },
+    {
+      "id": "719cdb",
+      "title": "Cidade no interior de SP receberá avião da antiga VASP para virar atração turística",
+      "description": "Boeing 737-200 será instalado no Morro do Cristo, mesmo complexo que abrigou outra aeronave histórica destruída por um incêndio em 1993",
+      "category": "aviacao",
+      "date": "2026-11-23T19:04:54.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/cidade-paulista-vai-ganhar-boeing-737-que-pertenceu-a-antiga-vasp-1795459570360_v2_900x506.png.webp",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/pedreira-recebera-aviao-vasp-atracao-turistica/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/pedreira-recebera-aviao-vasp-atracao-turistica/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "aviacao"
+      ],
+      "featured": false
+    },
+    {
+      "id": "en0v8w",
+      "title": "Mais de 20 lugares diferentes para fazer uma festa de aniversário infantil incrível",
+      "description": "Fazer uma festa de aniversário infantil diferente em São Paulo não precisa significar alugar um buffet tradicional, gastar uma fortuna com decoração ou organizar uma comemoração para dezenas de convidados. Que tal trocar o salão de festas por um cinema, um museu interativo, uma pista de patinação no gelo, uma fazendinha, uma escola de circo [&hellip;]",
+      "category": "infantil",
+      "date": "2026-11-23T19:27:13.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 35,
+      "isFree": false,
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2022/09/Design-sem-nome-21.jpg",
+      "ticketUrl": "https://saopauloparacriancas.com.br/20-lugares-festa-de-aniversario-infantil-incrivel/",
+      "source": "SP para Crianças",
+      "sourceUrl": "https://saopauloparacriancas.com.br/20-lugares-festa-de-aniversario-infantil-incrivel/",
+      "tags": [
+        "infantil",
+        "familia",
+        "criancas",
+        "sp"
+      ],
+      "featured": false
+    },
+    {
+      "id": "2uuixz",
+      "title": "FAO Schwarz em São Paulo? O que aconteceu com a Casa FAO",
+      "description": "A famosa loja de brinquedos FAO Schwarz, de Nova York, chegou mesmo a São Paulo? Em novembro de 2023, uma loja de três andares repleta de brinquedos, fantasias e atividades infantis abriu as portas na Avenida Europa, no Jardim Europa, com uma proposta que remetia à tradicional loja americana conhecida pelo filme Quero Ser Grande, [&hellip;]",
+      "category": "infantil",
+      "date": "2026-11-23T20:00:13.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 35,
+      "isFree": false,
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2023/12/sp_criancas_passeio_fao_schwarz_01.jpg",
+      "ticketUrl": "https://saopauloparacriancas.com.br/fao-schwarz-em-sao-paulo-o-que-aconteceu-com-a-casa-fao/",
+      "source": "SP para Crianças",
+      "sourceUrl": "https://saopauloparacriancas.com.br/fao-schwarz-em-sao-paulo-o-que-aconteceu-com-a-casa-fao/",
+      "tags": [
+        "infantil",
+        "familia",
+        "criancas",
+        "sp"
+      ],
+      "featured": false
+    },
+    {
+      "id": "xiszh9",
+      "title": "Pinacoteca com crianças: roteiro para visitar em família",
+      "description": "Quem disse que museu de arte não é lugar de criança? Na Pinacoteca de São Paulo, os pequenos podem descobrir pinturas, explorar esculturas, brincar com formas e cores, participar de oficinas e até ajudar a transformar uma obra de arte. E o melhor: a entrada é gratuita para todas as pessoas aos sábados e no [&hellip;]",
+      "category": "infantil",
+      "date": "2026-11-23T20:03:40.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2021/03/spcriancas_passeios_pinacoteca.png",
+      "ticketUrl": "https://saopauloparacriancas.com.br/pinacoteca-com-criancas-2/",
+      "source": "SP para Crianças",
+      "sourceUrl": "https://saopauloparacriancas.com.br/pinacoteca-com-criancas-2/",
+      "tags": [
+        "infantil",
+        "familia",
+        "criancas",
+        "sp"
+      ],
+      "featured": true
+    },
+    {
+      "id": "fhi4f0",
+      "title": "3ª edição do Prêmio Mauricio de Sousa tem vencedores divulgados",
+      "description": "Tradicional premiação anual de parques de diversões e locais que promovem o entretenimento no Brasil, o Prêmio Mauricio de Sousa já tem seus vencedores conhecidos. Em sua 3ª edição, um total de 52 projetos foram inscritos, oriundos de 35 empresas, divididos nas categorias de atração, inovação e ESG. Como prêmio, os ganhadores levaram uma estatueta [&hellip;]",
+      "category": "infantil",
+      "date": "2026-11-23T20:29:54.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 35,
+      "isFree": false,
+      "imageUrl": "https://images.unsplash.com/photo-1508873696983-2df5293cb32f?w=800&q=80",
+      "ticketUrl": "https://saopauloparacriancas.com.br/3a-edicao-do-premio-mauricio-de-sousa-tem-vencedores-divulgados/",
+      "source": "SP para Crianças",
+      "sourceUrl": "https://saopauloparacriancas.com.br/3a-edicao-do-premio-mauricio-de-sousa-tem-vencedores-divulgados/",
+      "tags": [
+        "infantil",
+        "familia",
+        "criancas",
+        "sp"
+      ],
+      "featured": false
+    },
+    {
+      "id": "qltqvn",
+      "title": "Day use em hotéis de São Paulo: 9 opções com piscina para curtir com as crianças, preços e descontos",
+      "description": "Calor em São Paulo, crianças de férias e vontade de passar o dia na piscina, mas sem enfrentar a estrada até a praia nem pagar por uma hospedagem completa? O day use em hotéis de São Paulo pode ser exatamente o passeio que sua família está procurando! Imagine tomar café da manhã em um hotel, [&hellip;]",
+      "category": "infantil",
+      "date": "2026-11-23T20:34:57.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 35,
+      "isFree": false,
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2024/02/sp_para_criancas_passeio_day_use_02.jpg",
+      "ticketUrl": "https://saopauloparacriancas.com.br/day-use-em-hoteis-de-sao-paulo-9-opcoes-com-piscina-para-curtir-com-as-criancas-precos-e-descontos/",
+      "source": "SP para Crianças",
+      "sourceUrl": "https://saopauloparacriancas.com.br/day-use-em-hoteis-de-sao-paulo-9-opcoes-com-piscina-para-curtir-com-as-criancas-precos-e-descontos/",
+      "tags": [
+        "infantil",
+        "familia",
+        "criancas",
+        "sp"
+      ],
+      "featured": false
+    },
+    {
+      "id": "caw8ln",
+      "title": "Hot Park Bahia: novo parque aquático na Costa do Sauípe terá mais de 20 atrações e inauguração prevista para 2027",
+      "description": "Um novo parque aquático gigante está nascendo no litoral norte da Bahia! O Hot Park Costa do Sauípe, também conhecido como Hot Park Baía das Tartarugas, terá mais de 20 atrações, cinco áreas temáticas, piscina de ondas, rio lento, toboáguas para crianças e uma história inspirada na vida das tartarugas-marinhas. Com investimento atualizado de aproximadamente [&hellip;]",
+      "category": "infantil",
+      "date": "2026-11-23T20:45:50.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 35,
+      "isFree": false,
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2023/08/image-78-1-1.jpg",
+      "ticketUrl": "https://saopauloparacriancas.com.br/hot-park-bahia-novo-parque-aquatico-na-costa-do-sauipe-tera-mais-de-20-atracoes-e-inauguracao-prevista-para-2027/",
+      "source": "SP para Crianças",
+      "sourceUrl": "https://saopauloparacriancas.com.br/hot-park-bahia-novo-parque-aquatico-na-costa-do-sauipe-tera-mais-de-20-atracoes-e-inauguracao-prevista-para-2027/",
+      "tags": [
+        "infantil",
+        "familia",
+        "criancas",
+        "sp"
+      ],
+      "featured": false
+    },
+    {
+      "id": "31c3jo",
+      "title": "Casa Ubaiá: conheça o espaço de brincar, escola e férias para crianças na Mooca e Vila Mariana",
+      "description": "Um quintal para brincar com água e terra, tempo para inventar histórias, explorar a natureza, fazer arte e descobrir o mundo sem pressa. Essa é a proposta da Casa Ubaiá, um espaço de educação e convivência para crianças e famílias que nasceu na Mooca e hoje também tem uma unidade na Vila Mariana, em São [&hellip;]",
+      "category": "infantil",
+      "date": "2026-11-23T21:03:06.000Z",
+      "location": "Mooca",
+      "neighborhood": "Mooca",
+      "price": 35,
+      "isFree": false,
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2023/12/WhatsApp-Image-2022-02-24-at-16.00.18-1.jpeg",
+      "ticketUrl": "https://saopauloparacriancas.com.br/casa-ubaia-conheca-o-espaco-de-brincar-escola-e-ferias-para-criancas-na-mooca-e-vila-mariana/",
+      "source": "SP para Crianças",
+      "sourceUrl": "https://saopauloparacriancas.com.br/casa-ubaia-conheca-o-espaco-de-brincar-escola-e-ferias-para-criancas-na-mooca-e-vila-mariana/",
+      "tags": [
+        "infantil",
+        "familia",
+        "criancas",
+        "sp"
+      ],
+      "featured": false
+    },
+    {
+      "id": "qd5ymd",
+      "title": "Aniversariante não paga! Parques em SP com entrada grátis, cortesias e presentes de aniversário",
+      "description": "Quem faz aniversário ganha presente! E sabia que, em São Paulo, esse presente pode ser um ingresso gratuito para um parque de diversões, um passeio na roda-gigante, uma visita ao zoológico, uma sessão de cinema ou até um dia inteiro em um parque aquático? Se você está procurando onde aniversariante não paga em SP, temos [&hellip;]",
+      "category": "infantil",
+      "date": "2026-11-23T21:28:37.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2022/01/sp_criancas_passeio_aniversario_della_vitoria_01.jpg",
+      "ticketUrl": "https://saopauloparacriancas.com.br/aniversariante-nao-paga-parques-em-sp-com-entrada-gratis-cortesias-e-presentes-de-aniversario/",
+      "source": "SP para Crianças",
+      "sourceUrl": "https://saopauloparacriancas.com.br/aniversariante-nao-paga-parques-em-sp-com-entrada-gratis-cortesias-e-presentes-de-aniversario/",
+      "tags": [
+        "infantil",
+        "familia",
+        "criancas",
+        "sp"
+      ],
+      "featured": true
+    },
+    {
+      "id": "6n5c01",
+      "title": "Aventura Jurássica em Balneário Camboriú: ingressos, atrações e dicas para visitar com crianças",
+      "description": "Seu filho é apaixonado por dinossauros? Então imagine caminhar por uma floresta onde um Tiranossauro Rex se movimenta, ouvir rugidos de animais gigantes, observar fósseis com milhões de anos e ainda brincar em uma área de aventuras! Essa é a proposta do Parque Aventura Jurássica, em Balneário Camboriú, Santa Catarina, um dos maiores parques temáticos [&hellip;]",
+      "category": "infantil",
+      "date": "2026-11-23T21:31:21.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 35,
+      "isFree": false,
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2023/12/sp_criancas_parque_aventura_jurastica_01.jpg",
+      "ticketUrl": "https://saopauloparacriancas.com.br/aventura-jurassica-em-balneario-camboriu-ingressos-atracoes-e-dicas-para-visitar-com-criancas/",
+      "source": "SP para Crianças",
+      "sourceUrl": "https://saopauloparacriancas.com.br/aventura-jurassica-em-balneario-camboriu-ingressos-atracoes-e-dicas-para-visitar-com-criancas/",
+      "tags": [
+        "infantil",
+        "familia",
+        "criancas",
+        "sp"
+      ],
+      "featured": false
+    },
+    {
+      "id": "nqefik",
+      "title": "Skate em São Paulo: conheça as melhores pistas gratuitas para crianças, iniciantes e toda a família!",
+      "description": "Seu filho quer aprender a andar de skate? Ou já está se aventurando nas primeiras manobras? São Paulo tem pistas gratuitas espalhadas por todas as regiões da cidade, desde espaços para iniciantes até skateparks com bowls, rampas e obstáculos de padrão profissional. E o melhor: muitos ficam dentro de parques públicos, permitindo combinar esporte, brincadeiras [&hellip;]",
+      "category": "infantil",
+      "date": "2026-11-23T21:32:33.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2023/06/167598321663e579707214b_1675983216_3x2_lg.jpg",
+      "ticketUrl": "https://saopauloparacriancas.com.br/skate-em-sao-paulo-conheca-as-melhores-pistas-gratuitas-para-criancas-iniciantes-e-toda-a-familia/",
+      "source": "SP para Crianças",
+      "sourceUrl": "https://saopauloparacriancas.com.br/skate-em-sao-paulo-conheca-as-melhores-pistas-gratuitas-para-criancas-iniciantes-e-toda-a-familia/",
+      "tags": [
+        "infantil",
+        "familia",
+        "criancas",
+        "sp"
+      ],
+      "featured": true
+    },
+    {
+      "id": "jqgbsa",
+      "title": "Viagem em Campos do Jordão! Pousada Alto da Boa Vista tem playground e chalés em meio à natureza",
+      "description": "Campos do Jordão é um destino turísticos que atrai muitas famílias durante todo ano. Para quem pretende passar uns dias na “Suíça Brasileira”, é importante escolher um local aconchegante para se hospedar, que dê para aproveitar as atrações da cidade com as crianças tranquilamente. [btc txt=”Faça sua reserva aqui!” , link=”https://spcriancas.com/m6lWO”] Uma das opções disponíveis [&hellip;]",
+      "category": "infantil",
+      "date": "2026-11-23T21:56:05.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 35,
+      "isFree": false,
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2022/12/Sp_criancas_Natal_Pousada_Alto_da_Boa_Vista_Reproducao_Instagram_1.jpg",
+      "ticketUrl": "https://saopauloparacriancas.com.br/viagem-em-campos-do-jordao-pousada-alto-da-boa-vista-tem-playground-e-chales-em-meio-a-natureza/",
+      "source": "SP para Crianças",
+      "sourceUrl": "https://saopauloparacriancas.com.br/viagem-em-campos-do-jordao-pousada-alto-da-boa-vista-tem-playground-e-chales-em-meio-a-natureza/",
+      "tags": [
+        "infantil",
+        "familia",
+        "criancas",
+        "sp"
+      ],
+      "featured": false
+    },
+    {
+      "id": "siywxr",
+      "title": "Hector Hamburgueria em Gramado: quanto custa jantar no trem mágico da Ferrovia Secreta?",
+      "description": "Imagine entrar em uma antiga livraria no centro de Gramado, na Serra Gaúcha, descobrir uma passagem secreta e, de repente, embarcar em um trem encantado que atravessa mundos fantásticos! Parece cena de filme, mas é a proposta da Hector Hamburgueria – A Ferrovia Secreta, um dos restaurantes temáticos da cidade, que transforma a hora de [&hellip;]",
+      "category": "infantil",
+      "date": "2026-11-23T22:11:13.000Z",
+      "location": "Centro Histórico",
+      "neighborhood": "Centro Histórico",
+      "price": 35,
+      "isFree": false,
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2022/09/Sp_criancas_Hector_Hamburgueria_Divulgacao10-scaled.jpg",
+      "ticketUrl": "https://saopauloparacriancas.com.br/hector-hamburgueria-em-gramado-quanto-custa-jantar-no-trem-magico-da-ferrovia-secreta/",
+      "source": "SP para Crianças",
+      "sourceUrl": "https://saopauloparacriancas.com.br/hector-hamburgueria-em-gramado-quanto-custa-jantar-no-trem-magico-da-ferrovia-secreta/",
+      "tags": [
+        "infantil",
+        "familia",
+        "criancas",
+        "sp"
+      ],
+      "featured": false
+    },
+    {
+      "id": "jqxqw2",
+      "title": "Horóscopo de hoje (24/11): Lua cheia em Gêmeos coloca as conversas no centro do dia",
+      "description": "Mensagens, contas e relações pedem atenção nesta terça-feira; confira as previsões",
+      "category": "gastronomia",
+      "date": "2026-11-24T08:00:01.000Z",
+      "location": "Centro Histórico",
+      "neighborhood": "Centro Histórico",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/Horoscopo-de-hoje-24-11-Lua-cheia-em-Gemeos-coloca-as-conversas-no-centro-do-dia.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/horoscopo-24-11-lua-cheia-gemeos-conversas-centro-do-dia/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/horoscopo-24-11-lua-cheia-gemeos-conversas-centro-do-dia/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "gastronomia"
+      ],
+      "featured": false
+    },
+    {
       "id": "qdf0r7",
       "title": "Centro de SP terá shows de Negra Li e Luedji Luna e feira de livros grátis",
       "description": "6ª edição do Festival Mário de Andrade traz leitura cênica, apresentações musicais e feira literária de 25 a 29 de novembro",
@@ -1484,6 +1550,28 @@
       "featured": false
     },
     {
+      "id": "1s5o58",
+      "title": "Exposição gratuita reúne jaquetas criadas com guarda-chuvas descartados em SP",
+      "description": "A mostra da plataforma Trama Afetiva, fica em cartaz no Edifício Gazeta entre os dias 25 e 29 de novembro",
+      "category": "exposicao",
+      "date": "2026-11-29T10:00:00",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/unnamed_e9beaf.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/exposicao-gratuita-reune-jaquetas-criadas-com-guarda-chuvas-descartados-em-sp/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/exposicao-gratuita-reune-jaquetas-criadas-com-guarda-chuvas-descartados-em-sp/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "exposicao"
+      ],
+      "featured": true
+    },
+    {
       "id": "pxs3m3",
       "title": "Teatro Sérgio Cardoso recebe apresentação gratuita de ‘Carmina Burana’",
       "description": "Concerto no dia 29 de novembro reúne a Orquestra Filarmônica do SENAI-SP, quatro grupos vocais e três solistas sob regência de Emiliano Patarra",
@@ -1502,28 +1590,6 @@
         "cultura",
         "sp",
         "musica"
-      ],
-      "featured": true
-    },
-    {
-      "id": "n846te",
-      "title": "Itaú Cultural reúne visitas adaptadas e oficinas gratuitas na Virada Inclusiva",
-      "description": "A programação acontece nos dias 1º, 28 e 29 de novembro na Avenida Paulista",
-      "category": "tecnologia",
-      "date": "2026-11-29T10:00:00",
-      "location": "Bela Vista",
-      "neighborhood": "Bela Vista",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2016/12/itau-cultural-edouard-fraipont.jpeg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/itau-cultural-reune-visitas-adaptadas-e-oficinas-gratuitas-na-virada-inclusiva/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/itau-cultural-reune-visitas-adaptadas-e-oficinas-gratuitas-na-virada-inclusiva/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "tecnologia"
       ],
       "featured": true
     },
@@ -1550,28 +1616,6 @@
       "featured": true
     },
     {
-      "id": "5wrpp5",
-      "title": "Grupo Esparrama apresenta teatro infantil gratuito no Sesc Consolação em dezembro",
-      "description": "Espetáculo Cidade-Brinquedo mistura palhaçaria e interação para convidar crianças a reinventar os espaços urbanos por meio da brincadeira. E se a cidade inteira fosse um brinquedo? Essa é a pergunta que conduz Cidade-Brinquedo, espetáculo do Grupo Esparrama que será apresentado em 5 de dezembro de 2026, às 17h, no Sesc Consolação. Gratuita e com classificação [&hellip;]",
-      "category": "infantil",
-      "date": "2026-12-05T10:00:00",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/11/sp_criancas_passeio_esparrama-1.jpeg",
-      "ticketUrl": "https://saopauloparacriancas.com.br/grupo-esparrama-sp/",
-      "source": "SP para Crianças",
-      "sourceUrl": "https://saopauloparacriancas.com.br/grupo-esparrama-sp/",
-      "tags": [
-        "infantil",
-        "familia",
-        "criancas",
-        "sp"
-      ],
-      "featured": true
-    },
-    {
       "id": "40mg0k",
       "title": "Show do Deep Purple é adiado para 2027 por problemas de saúde de Ian Gillan",
       "description": "Nova data ainda será anunciada pela produção; ingressos já comprados continuam válidos, mas quem preferir pode pedir reembolso até 7 de dezembro",
@@ -1592,6 +1636,28 @@
         "musica"
       ],
       "featured": true
+    },
+    {
+      "id": "edqaom",
+      "title": "Ceia de Natal na Catedral da Sé 2026: preços e programação",
+      "description": "Que tal passar a noite de Natal em um dos lugares mais emblemáticos de São Paulo? A tradicional Ceia de Natal na Catedral da Sé está confirmada para 24 de dezembro de 2026, com jantar à luz de velas, buffet assinado pela chef Gil Gondim, concerto natalino e a Missa do Galo à meia-noite.A experiência [&hellip;]",
+      "category": "infantil",
+      "date": "2026-12-24T10:00:00",
+      "location": "Centro Histórico",
+      "neighborhood": "Centro Histórico",
+      "price": 35,
+      "isFree": false,
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2024/08/sp_criancas_brunch-catedral-da-se_1.jpg",
+      "ticketUrl": "https://saopauloparacriancas.com.br/ceia-de-natal-na-catedral-da-se-2026-precos-e-programacao/",
+      "source": "SP para Crianças",
+      "sourceUrl": "https://saopauloparacriancas.com.br/ceia-de-natal-na-catedral-da-se-2026-precos-e-programacao/",
+      "tags": [
+        "infantil",
+        "familia",
+        "criancas",
+        "sp"
+      ],
+      "featured": false
     }
   ]
 }
