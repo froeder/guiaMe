@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-24T17:23:26.697Z",
-  "totalCount": 75,
+  "updatedAt": "2026-11-25T17:00:35.248Z",
+  "totalCount": 77,
   "sources": [
     "Veja SP",
     "Catraca Livre",
@@ -428,72 +428,6 @@
       "featured": true
     },
     {
-      "id": "u3sipz",
-      "title": "Feriadão no Ibirapuera tem exposições inéditas, shows de Eddie Vedder, Vitor Kley e mais; confira a programação",
-      "description": "Parque reúne duas mostras que estreiam no Museu Afro Brasil, show gratuito do Coral Harmona, sessões no Planetário e festival de rock de sexta a domingo",
-      "category": "musica",
-      "date": "2026-11-19T18:51:51.000Z",
-      "location": "Vila Mariana",
-      "neighborhood": "Vila Mariana",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/FOTOS_GERAIS_JUN26_IBIRAPUERA-11.jpg.jpeg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/feriadao-no-ibirapuera-tem-exposicoes-ineditas-shows-de-eddie-vedder-vitor-kley-e-mais-confira-a-programacao/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/feriadao-no-ibirapuera-tem-exposicoes-ineditas-shows-de-eddie-vedder-vitor-kley-e-mais-confira-a-programacao/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "musica"
-      ],
-      "featured": true
-    },
-    {
-      "id": "y2c0zc",
-      "title": "Sonia Guimarães, primeira professora negra do ITA: “Nós estamos empretejando tudo”",
-      "description": "Acusada de não saber física e afastada da sala de aula por mais de dez anos, a pesquisadora de 70 anos voltou com uma patente e lançou livro de memórias",
-      "category": "literatura",
-      "date": "2026-11-20T07:00:26.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/2024_Sonia_8.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/sonia-guimaraes-primeira-professora-negra-do-ita-nos-estamos-empretejando-tudo/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/sonia-guimaraes-primeira-professora-negra-do-ita-nos-estamos-empretejando-tudo/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "literatura"
-      ],
-      "featured": false
-    },
-    {
-      "id": "rtk2ma",
-      "title": "CCSP recebe mostra gratuita de cinema dedicada ao K-pop em dezembro",
-      "description": "Com exibições a céu aberto, o K-Pop Open Air traz registros de shows e documentários de nomes como Twice, G-Dragon, Ateez e Enhypen",
-      "category": "musica",
-      "date": "2026-11-20T08:00:07.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/unnamed-7.png",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/ccsp-recebe-mostra-gratuita-de-cinema-dedicada-ao-k-pop-em-dezembro/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/ccsp-recebe-mostra-gratuita-de-cinema-dedicada-ao-k-pop-em-dezembro/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "musica"
-      ],
-      "featured": true
-    },
-    {
       "id": "4ui1rk",
       "title": "A moda como fio condutor da memória afro-brasileira",
       "description": "Em ‘Negras maneiras de vestir’, a pesquisadora Hanayrá Negreiros entrelaça histórias familiares, religiosidade e registros históricos para investigar o vestir",
@@ -778,28 +712,6 @@
         "musica"
       ],
       "featured": true
-    },
-    {
-      "id": "6nxmd9",
-      "title": "Crianças na cozinha? Le Cordon Bleu: curso de cozinha para pais e filhos em SP",
-      "description": "Oficina Les Petits Cordons Bleus – Duo teve edição anunciada em julho de 2026; saiba como funciona a experiência, quanto custava e onde acompanhar novas vagas. Atualizado em 23 de novembro de 2026. Uma cozinha profissional, aventais, ingredientes sobre a bancada e uma missão compartilhada: preparar uma receita do começo ao fim. Essa é a [&hellip;]",
-      "category": "infantil",
-      "date": "2026-11-23T10:00:00",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 35,
-      "isFree": false,
-      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2025/07/sp_criancas_passeio_ferias_Le_Cordon_Bleu_01.jpg",
-      "ticketUrl": "https://saopauloparacriancas.com.br/criancas-na-cozinha-le-cordon-bleu-abre-curso-em-sp-para-pais-e-filhos-cozinharem-juntos-nas-ferias/",
-      "source": "SP para Crianças",
-      "sourceUrl": "https://saopauloparacriancas.com.br/criancas-na-cozinha-le-cordon-bleu-abre-curso-em-sp-para-pais-e-filhos-cozinharem-juntos-nas-ferias/",
-      "tags": [
-        "infantil",
-        "familia",
-        "criancas",
-        "sp"
-      ],
-      "featured": false
     },
     {
       "id": "h2jd02",
@@ -1128,50 +1040,6 @@
         "cultura",
         "sp",
         "cultura"
-      ],
-      "featured": false
-    },
-    {
-      "id": "grer3c",
-      "title": "Passeio de Balão em Boituva: quanto custa e como funciona a experiência para famílias",
-      "description": "Quem olha Boituva do chão talvez não imagine como a paisagem muda quando o ponto de vista está a bordo de um balão. No interior de São Paulo, o Passeio de Balão em Boituva leva famílias para um voo de 40 minutos a 1 hora sobre os campos e rios da cidade. A atividade tem [&hellip;]",
-      "category": "infantil",
-      "date": "2026-11-23T18:26:21.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 35,
-      "isFree": false,
-      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/08/sp_criancas_passeio_balao_boituva_fever_02.jpeg",
-      "ticketUrl": "https://saopauloparacriancas.com.br/passeio-de-balao-em-boituva-sp/",
-      "source": "SP para Crianças",
-      "sourceUrl": "https://saopauloparacriancas.com.br/passeio-de-balao-em-boituva-sp/",
-      "tags": [
-        "infantil",
-        "familia",
-        "criancas",
-        "sp"
-      ],
-      "featured": false
-    },
-    {
-      "id": "bod8b5",
-      "title": "Férias de julho em Poços de Caldas e Sorocaba: hotéis que unem conforto, diversão para todas as idades, aceitam pets e oferecem desconto exclusivo",
-      "description": "Viagem em família nas férias de julho pede opções que unam conforto, lazer e programas para todas as idades. Pensando nisso, o Grupo Nacional Inn reúne três opções de hospedagem para quem viaja com crianças: o Cassino Resort All Inclusive, o Hotel Nacional Inn Poços de Caldas e o Golden Park Sorocaba, localizado próximo à [&hellip;]",
-      "category": "infantil",
-      "date": "2026-11-23T18:44:37.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 35,
-      "isFree": false,
-      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2025/06/sp_criancas_passeio_cassino_04.jpg",
-      "ticketUrl": "https://saopauloparacriancas.com.br/ferias-de-julho-em-pocos-de-caldas-e-sorocaba-hoteis-que-unem-conforto-diversao-para-todas-as-idades-aceitam-pets-e-oferecem-desconto-exclusivo/",
-      "source": "SP para Crianças",
-      "sourceUrl": "https://saopauloparacriancas.com.br/ferias-de-julho-em-pocos-de-caldas-e-sorocaba-hoteis-que-unem-conforto-diversao-para-todas-as-idades-aceitam-pets-e-oferecem-desconto-exclusivo/",
-      "tags": [
-        "infantil",
-        "familia",
-        "criancas",
-        "sp"
       ],
       "featured": false
     },
@@ -1506,6 +1374,116 @@
       "featured": false
     },
     {
+      "id": "nq4ryi",
+      "title": "Sandy e Junior anunciam seis shows em São Paulo em 2027; repertório terá músicas que nunca foram apresentadas ao vivo",
+      "description": "Com o nome “Nada É Por Acaso”, residência artística acontece em julho, no Nubank Parque. Dupla acompanha sugestões dos fãs e prepara repertório especial para celebrar sua trajetória musical. Os fãs de Sandy e Junior já podem começar a contagem regressiva para o reencontro! A dupla fará seis shows em São Paulo, em julho de [&hellip;]",
+      "category": "infantil",
+      "date": "2026-11-24T14:33:49.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 35,
+      "isFree": false,
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/11/sp_criancas_passeio_sandy_e_junior.jpeg",
+      "ticketUrl": "https://saopauloparacriancas.com.br/sandy-e-junior/",
+      "source": "SP para Crianças",
+      "sourceUrl": "https://saopauloparacriancas.com.br/sandy-e-junior/",
+      "tags": [
+        "infantil",
+        "familia",
+        "criancas",
+        "sp"
+      ],
+      "featured": false
+    },
+    {
+      "id": "s7weo",
+      "title": "Vila Romana ganha nova casa cultural com shows, oficinas e café",
+      "description": "Espaço abre neste sábado (28) com apresentações de Danilo Moraes e Wandi Doratiotto; programação inclui teatro, dança, música e gastronomia",
+      "category": "musica",
+      "date": "2026-11-24T15:07:35.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/Design-sem-nome-22.png",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/vila-romana-ganha-nova-casa-cultural-com-shows-oficinas-e-cafe/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/vila-romana-ganha-nova-casa-cultural-com-shows-oficinas-e-cafe/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "musica"
+      ],
+      "featured": true
+    },
+    {
+      "id": "1f9xbt",
+      "title": "Bazar de Natal em prol de gatos terá brechó e presentes a partir de R$ 5 na Liberdade",
+      "description": "Evento gratuito acontece neste sábado (28), com gastronomia vegana, atrações infantis e produtos cuja renda ajuda gatos resgatados pela ONG",
+      "category": "gastronomia",
+      "date": "2026-11-24T19:32:54.000Z",
+      "location": "Liberdade",
+      "neighborhood": "Liberdade",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2023/06/LiberdadeGalvaoBuenoJoseCordeiroSPTuris.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/bazar-de-natal-em-prol-de-gatos-tera-brecho-e-presentes-a-partir-de-r-5-na-liberdade/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/bazar-de-natal-em-prol-de-gatos-tera-brecho-e-presentes-a-partir-de-r-5-na-liberdade/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "gastronomia"
+      ],
+      "featured": true
+    },
+    {
+      "id": "xsinjf",
+      "title": "Primavera Sound: saiba como chegar e voltar do festival de trem e metrô",
+      "description": "Festival terá trem expresso por R$ 35, ida e volta; saiba como comprar",
+      "category": "cultura",
+      "date": "2026-11-24T19:34:45.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2022/11/cropped-FABI7006.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/primavera-sound-saiba-como-chegar-e-voltar-do-festival-de-trem-e-metro/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/primavera-sound-saiba-como-chegar-e-voltar-do-festival-de-trem-e-metro/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "cultura"
+      ],
+      "featured": false
+    },
+    {
+      "id": "kfosda",
+      "title": "Horóscopo de hoje (25/11): Marte entra em Virgem à noite e muda o ritmo das próximas semanas",
+      "description": "A quarta-feira é ideal para fechar conversas pendentes e filtrar o excesso de informação",
+      "category": "exposicao",
+      "date": "2026-11-25T08:00:07.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/Horoscopo-de-hoje-25-11-Marte-entra-em-Virgem-a-noite-e-muda-o-ritmo-das-proximas-semanas.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/horoscopo-25-11-marte-virgem-muda-ritmo-proximas-semanas/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/horoscopo-25-11-marte-virgem-muda-ritmo-proximas-semanas/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "exposicao"
+      ],
+      "featured": true
+    },
+    {
       "id": "qdf0r7",
       "title": "Centro de SP terá shows de Negra Li e Luedji Luna e feira de livros grátis",
       "description": "6ª edição do Festival Mário de Andrade traz leitura cênica, apresentações musicais e feira literária de 25 a 29 de novembro",
@@ -1548,6 +1526,28 @@
         "teatro"
       ],
       "featured": false
+    },
+    {
+      "id": "qdk767",
+      "title": "Virada Inclusiva 2026 tem atividades gratuitas para famílias em São Paulo; veja onde ir e o que fazer",
+      "description": "De 28 de novembro a 6 de dezembro, evento reúne oficinas sensoriais, teatro, música, esportes adaptados, visitas acessíveis e atividades para crianças e adultos na capital e Grande São Paulo A Virada Inclusiva 2026 chega à sua 17ª edição com uma programação que convida pessoas com e sem deficiência a ocupar espaços culturais, parques e [&hellip;]",
+      "category": "infantil",
+      "date": "2026-11-28T10:00:00",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/11/sp_criancas_passeio_sesc_viradainclusiva.jpeg",
+      "ticketUrl": "https://saopauloparacriancas.com.br/virada-inclusiva-sp/",
+      "source": "SP para Crianças",
+      "sourceUrl": "https://saopauloparacriancas.com.br/virada-inclusiva-sp/",
+      "tags": [
+        "infantil",
+        "familia",
+        "criancas",
+        "sp"
+      ],
+      "featured": true
     },
     {
       "id": "1s5o58",
@@ -1616,6 +1616,28 @@
       "featured": true
     },
     {
+      "id": "jkf435",
+      "title": "CCXP26 reúne estrelas de Hollywood, Marvel e universo geek em São Paulo",
+      "description": "Festival de cultura pop acontece de 3 a 6 de dezembro, no São Paulo Expo, com convidados internacionais, painéis, quadrinhos, cosplay e experiências para fãs de todas as idades Quem gosta de cinema, séries, games, quadrinhos e personagens que atravessam gerações já pode marcar a data: a CCXP26 acontece de 3 a 6 de dezembro [&hellip;]",
+      "category": "infantil",
+      "date": "2026-12-03T10:00:00",
+      "location": "Centro Histórico",
+      "neighborhood": "Centro Histórico",
+      "price": 35,
+      "isFree": false,
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/11/SP_CRIANCAS_PASSEIOS_CCXP2026_0-3.jpeg",
+      "ticketUrl": "https://saopauloparacriancas.com.br/ccxp-sp/",
+      "source": "SP para Crianças",
+      "sourceUrl": "https://saopauloparacriancas.com.br/ccxp-sp/",
+      "tags": [
+        "infantil",
+        "familia",
+        "criancas",
+        "sp"
+      ],
+      "featured": false
+    },
+    {
       "id": "40mg0k",
       "title": "Show do Deep Purple é adiado para 2027 por problemas de saúde de Ian Gillan",
       "description": "Nova data ainda será anunciada pela produção; ingressos já comprados continuam válidos, mas quem preferir pode pedir reembolso até 7 de dezembro",
@@ -1638,19 +1660,41 @@
       "featured": true
     },
     {
-      "id": "edqaom",
-      "title": "Ceia de Natal na Catedral da Sé 2026: preços e programação",
-      "description": "Que tal passar a noite de Natal em um dos lugares mais emblemáticos de São Paulo? A tradicional Ceia de Natal na Catedral da Sé está confirmada para 24 de dezembro de 2026, com jantar à luz de velas, buffet assinado pela chef Gil Gondim, concerto natalino e a Missa do Galo à meia-noite.A experiência [&hellip;]",
+      "id": "c3xygb",
+      "title": "Festival Em Cena 2026 reúne 68 sessões gratuitas com Taís Araujo, Eduardo Moscovis e Drica Moraes",
+      "description": "A maratona cultural traz 23 espetáculos de teatro distribuídos por palcos municipais da capital entre 2 e 20 de dezembro",
+      "category": "teatro",
+      "date": "2026-12-20T10:00:00",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/06/20260625_reforma_melhorias_teatro_joao_caetano_RP-11.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/festival-em-cena-2026-reune-68-sessoes-gratuitas-com-tais-araujo-eduardo-moscovis-e-drica-moraes/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/festival-em-cena-2026-reune-68-sessoes-gratuitas-com-tais-araujo-eduardo-moscovis-e-drica-moraes/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "teatro"
+      ],
+      "featured": true
+    },
+    {
+      "id": "lj1vg2",
+      "title": "Novo Sesc no Centro de SP: inauguração no Parque Dom Pedro II",
+      "description": "A nova unidade do Sesc São Paulo abre as portas nos dias 19 e 20 de dezembro de 2026 em uma área estratégica entre o Mercadão e o Museu Catavento, prometendo novas opções de convivência e lazer para famílias. O Centro de São Paulo ganha uma nova referência cultural e de convivência no fim de [&hellip;]",
       "category": "infantil",
-      "date": "2026-12-24T10:00:00",
+      "date": "2026-12-20T10:00:00",
       "location": "Centro Histórico",
       "neighborhood": "Centro Histórico",
       "price": 35,
       "isFree": false,
-      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2024/08/sp_criancas_brunch-catedral-da-se_1.jpg",
-      "ticketUrl": "https://saopauloparacriancas.com.br/ceia-de-natal-na-catedral-da-se-2026-precos-e-programacao/",
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/11/sp_criancas_passeio_sesc_dom_pedro_01.jpeg",
+      "ticketUrl": "https://saopauloparacriancas.com.br/sesc-dom-pedro-sp/",
       "source": "SP para Crianças",
-      "sourceUrl": "https://saopauloparacriancas.com.br/ceia-de-natal-na-catedral-da-se-2026-precos-e-programacao/",
+      "sourceUrl": "https://saopauloparacriancas.com.br/sesc-dom-pedro-sp/",
       "tags": [
         "infantil",
         "familia",
