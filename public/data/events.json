@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-25T17:00:35.248Z",
-  "totalCount": 77,
+  "updatedAt": "2026-11-26T16:41:54.868Z",
+  "totalCount": 76,
   "sources": [
     "Veja SP",
     "Catraca Livre",
@@ -9,50 +9,6 @@
     "Instituições SP"
   ],
   "events": [
-    {
-      "id": "shplot",
-      "title": "Sesc e Cinemateca Brasileira completam 80 anos com circuito de cinema gratuito em SP",
-      "description": "Comemoração conjunta traz filmes em 35mm, sessões ao ar livre com música ao vivo, oficinas e mostra online da Vera Cruz de novembro a dezembro em SP.",
-      "category": "musica",
-      "date": "2026-11-09T11:44:24.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/11/20250605-garotas-do-abc-2003-papo-de-cinema-banner.png",
-      "ticketUrl": "https://catracalivre.com.br/gira/sesc-e-cinemateca-brasileira-completam-80-anos-com-circuito-de-cinema-gratuito-em-sp/",
-      "source": "Catraca Livre",
-      "sourceUrl": "https://catracalivre.com.br/gira/sesc-e-cinemateca-brasileira-completam-80-anos-com-circuito-de-cinema-gratuito-em-sp/",
-      "tags": [
-        "catracalivre",
-        "gratuito",
-        "sp",
-        "musica"
-      ],
-      "featured": true
-    },
-    {
-      "id": "vgosbh",
-      "title": "Gilsons faz show gratuito e ao ar livre no Sesc Itaquera pelo programa Bem Brasil",
-      "description": "Trio carioca se apresenta neste domingo (15/11) ao meio-dia na Zona Leste; evento ao ar livre tem entrada franca sem retirada prévia de ingressos no Sesc.",
-      "category": "musica",
-      "date": "2026-11-09T13:38:34.000Z",
-      "location": "Itaquera",
-      "neighborhood": "Itaquera",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/11/saveclipapp-876208704-18336567157263771-8058315181269093149-n-e1794242044269.jpg",
-      "ticketUrl": "https://catracalivre.com.br/gira/gilsons-faz-show-gratuito-e-ao-ar-livre-no-sesc-itaquera-pelo-programa-bem-brasil/",
-      "source": "Catraca Livre",
-      "sourceUrl": "https://catracalivre.com.br/gira/gilsons-faz-show-gratuito-e-ao-ar-livre-no-sesc-itaquera-pelo-programa-bem-brasil/",
-      "tags": [
-        "catracalivre",
-        "gratuito",
-        "sp",
-        "musica"
-      ],
-      "featured": true
-    },
     {
       "id": "do3tuh",
       "title": "3ª Festa da Padroeira da Santa Cecília reúne Charanga do França, forró e feiras na rua",
@@ -428,72 +384,6 @@
       "featured": true
     },
     {
-      "id": "4ui1rk",
-      "title": "A moda como fio condutor da memória afro-brasileira",
-      "description": "Em ‘Negras maneiras de vestir’, a pesquisadora Hanayrá Negreiros entrelaça histórias familiares, religiosidade e registros históricos para investigar o vestir",
-      "category": "cultura",
-      "date": "2026-11-20T08:00:10.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/BRAVO_HANAYRA-NEGREIROS_FOTO-RENATO-NASCIMENTO_6064_alta.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/a-moda-como-fio-condutor-da-memoria-afro-brasileira/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/a-moda-como-fio-condutor-da-memoria-afro-brasileira/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "cultura"
-      ],
-      "featured": false
-    },
-    {
-      "id": "ivwuf8",
-      "title": "6 expoentes negros da cultura, moda e ciência desafiam o apagamento histórico",
-      "description": "Especial de VEJA SÃO PAULO mostra como artistas, ativistas e professores reinventam os caminhos de emancipação no país",
-      "category": "tecnologia",
-      "date": "2026-11-20T08:00:40.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-18-at-20.52.59.jpeg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/dia-da-consciencia-negra-cultura-moda-ciencia/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/dia-da-consciencia-negra-cultura-moda-ciencia/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "tecnologia"
-      ],
-      "featured": false
-    },
-    {
-      "id": "gczvmv",
-      "title": "Horóscopo de hoje (20/11): Lua em Áries movimenta o feriado e pede atitude",
-      "description": "Veja como a energia ariana da sexta mexe com o trabalho, o dinheiro e os afetos de cada signo",
-      "category": "cultura",
-      "date": "2026-11-20T08:00:58.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/Horoscopo-de-hoje-20-11-Lua-em-Aries-movimenta-o-feriado-e-pede-atitude.png",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/horoscopo-20-11-lua-aries-movimenta-feriado-pede-atitude/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/horoscopo-20-11-lua-aries-movimenta-feriado-pede-atitude/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "cultura"
-      ],
-      "featured": false
-    },
-    {
       "id": "vwpeza",
       "title": "Mural SP: Elian Almeida",
       "description": "Artista recupera elementos do passado, imagens, narrativas e personagens",
@@ -514,28 +404,6 @@
         "cultura"
       ],
       "featured": false
-    },
-    {
-      "id": "mkt3lk",
-      "title": "Galeria Lacerdine inaugura duas exposições no Dia da Consciência Negra",
-      "description": "Em cartaz a partir de 20 de novembro, ‘Matrizes de Turquesa’ e ‘Ditos do Corpo’ reúnem obras que abordam espiritualidade e memória",
-      "category": "exposicao",
-      "date": "2026-11-20T10:00:00",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/unnamed-12.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/galeria-lacerdine-inaugura-duas-exposicoes-no-dia-da-consciencia-negra/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/galeria-lacerdine-inaugura-duas-exposicoes-no-dia-da-consciencia-negra/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "exposicao"
-      ],
-      "featured": true
     },
     {
       "id": "p2gksd",
@@ -1506,26 +1374,114 @@
       "featured": true
     },
     {
-      "id": "gqr4zt",
-      "title": "Fause Haten ocupa o CCBB SP com exposição, teatro e performance até janeiro",
-      "description": "De 25 de novembro de 2026 a 25 de janeiro de 2027, o projeto ‘Um artista em processo’ reúne 28 obras inéditas, ensaios abertos e apresentações solo",
-      "category": "teatro",
-      "date": "2026-11-25T10:00:00",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
+      "id": "vt36fe",
+      "title": "Turnê de Sandy e Junior: o que se sabe sobre o retorno da dupla aos palcos",
+      "description": "Irmãos confirmam 6 shows no Nubank Parque, em julho de 2027; pré-venda de ingressos começa na terça (1º)",
+      "category": "musica",
+      "date": "2026-11-25T15:21:33.000Z",
+      "location": "Vila Mariana",
+      "neighborhood": "Vila Mariana",
       "price": 30,
       "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/Fause-Haten_Eu-sou-um-Monstro_6jpg-1.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/fause-haten-ocupa-o-ccbb-sp-com-exposicao-teatro-e-performance-ate-janeiro/",
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2019/08/8-frf_2081.jpg.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/turne-de-sandy-e-junior-o-que-se-sabe-sobre-o-retorno-da-dupla-aos-palcos/",
       "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/fause-haten-ocupa-o-ccbb-sp-com-exposicao-teatro-e-performance-ate-janeiro/",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/turne-de-sandy-e-junior-o-que-se-sabe-sobre-o-retorno-da-dupla-aos-palcos/",
       "tags": [
         "vejasp",
         "cultura",
         "sp",
-        "teatro"
+        "musica"
+      ],
+      "featured": true
+    },
+    {
+      "id": "jqwztp",
+      "title": "‘Gal, o Musical’ volta aos palcos de São Paulo em 2027 e já tem ingressos à venda",
+      "description": "Protagonizado por Walerie Gondim, espetáculo celebra a trajetória, a força feminista e os grandes sucessos de Gal Costa no espírito da Tropicália.",
+      "category": "musica",
+      "date": "2026-11-25T17:23:20.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 25,
+      "isFree": false,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/11/gal-01-03-fotos-edgar-machado-49-scaled-e1795638087881.jpg",
+      "ticketUrl": "https://catracalivre.com.br/gira/gal-o-musical-volta-aos-palcos-de-sao-paulo-em-2027-e-ja-tem-ingressos-a-venda/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/gal-o-musical-volta-aos-palcos-de-sao-paulo-em-2027-e-ja-tem-ingressos-a-venda/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
+        "sp",
+        "musica"
       ],
       "featured": false
+    },
+    {
+      "id": "lsd73i",
+      "title": "Cinema de graça: saiba onde ver filmes sem pagar em SP",
+      "description": "Rede pública tem 28 salas gratuitas na cidade, e centros culturais e festivais completam a programação",
+      "category": "tecnologia",
+      "date": "2026-11-25T18:35:50.000Z",
+      "location": "Centro Histórico",
+      "neighborhood": "Centro Histórico",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/Cinema-de-graca-saiba-onde-ver-filmes-sem-pagar-em-SP.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/cinema-de-graca-onde-ver-filmes-sem-pagar-sp/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/cinema-de-graca-onde-ver-filmes-sem-pagar-sp/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "tecnologia"
+      ],
+      "featured": true
+    },
+    {
+      "id": "62yg9p",
+      "title": "Horóscopo de hoje (26/11): a Lua chega a Câncer e pede um dia mais caseiro",
+      "description": "A quinta-feira é boa para desacelerar e encerrar o que ficou pela metade",
+      "category": "gastronomia",
+      "date": "2026-11-26T08:00:29.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/Horoscopo-de-hoje-26-11-a-Lua-chega-a-Cancer-e-pede-um-dia-mais-caseiro.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/horoscopo-lua-cancer-pede-dia-caseiro/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/horoscopo-lua-cancer-pede-dia-caseiro/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "gastronomia"
+      ],
+      "featured": false
+    },
+    {
+      "id": "lgagze",
+      "title": "Casa de Cultura do Parque celebra o fim de ano com seis exposições e oficinas gratuitas em dezembro",
+      "description": "Em frente ao Parque Villa-Lobos, espaço cultural no Alto de Pinheiros oferece mostras de artes visuais e oficinas criativas gratuitas aos fins de semana.",
+      "category": "exposicao",
+      "date": "2026-11-26T13:39:18.000Z",
+      "location": "Pinheiros",
+      "neighborhood": "Pinheiros",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/11/261003-dando-bandeira-o-tudo-e-o-todo-cred-raphaela-campano-25-scaled.jpg",
+      "ticketUrl": "https://catracalivre.com.br/gira/casa-de-cultura-do-parque-celebra-o-fim-de-ano-com-seis-exposicoes-e-oficinas-gratuitas-em-dezembro/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/casa-de-cultura-do-parque-celebra-o-fim-de-ano-com-seis-exposicoes-e-oficinas-gratuitas-em-dezembro/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
+        "sp",
+        "exposicao"
+      ],
+      "featured": true
     },
     {
       "id": "qdk767",
@@ -1572,28 +1528,6 @@
       "featured": true
     },
     {
-      "id": "pxs3m3",
-      "title": "Teatro Sérgio Cardoso recebe apresentação gratuita de ‘Carmina Burana’",
-      "description": "Concerto no dia 29 de novembro reúne a Orquestra Filarmônica do SENAI-SP, quatro grupos vocais e três solistas sob regência de Emiliano Patarra",
-      "category": "musica",
-      "date": "2026-11-29T10:00:00",
-      "location": "Centro Histórico",
-      "neighborhood": "Centro Histórico",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/copia-de-IMG_3537.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/teatro-sergio-cardoso-recebe-apresentacao-gratuita-de-carmina-burana/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/teatro-sergio-cardoso-recebe-apresentacao-gratuita-de-carmina-burana/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "musica"
-      ],
-      "featured": true
-    },
-    {
       "id": "bkn0ig",
       "title": "Casa de Francisca recebe maratona gratuita de música paraibana com Lucy Alves, Bixarte e Vó Mera",
       "description": "Dia 29 de novembro tem festival gratuito de música paraibana no Centro de SP: são 10 atrações do almoço até a noite ocupando três ambientes da casa.",
@@ -1616,6 +1550,28 @@
       "featured": true
     },
     {
+      "id": "rlbm0a",
+      "title": "Zoológico de São Paulo oferece meia-entrada para todos em compras até 30 de novembro",
+      "description": "Ingresso antecipado cai de R$ 89,90 para R$ 69,90 e pode ser usado em dezembro; Simba Safari tem o mesmo valor e Jardim Botânico sai por R$ 19,90",
+      "category": "cultura",
+      "date": "2026-11-30T10:00:00",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2020/10/46756953414_fc9111b470_o.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/zoologico-de-sao-paulo-oferece-meia-entrada-para-todos-em-compras-ate-30-de-novembro/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/zoologico-de-sao-paulo-oferece-meia-entrada-para-todos-em-compras-ate-30-de-novembro/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "cultura"
+      ],
+      "featured": false
+    },
+    {
       "id": "jkf435",
       "title": "CCXP26 reúne estrelas de Hollywood, Marvel e universo geek em São Paulo",
       "description": "Festival de cultura pop acontece de 3 a 6 de dezembro, no São Paulo Expo, com convidados internacionais, painéis, quadrinhos, cosplay e experiências para fãs de todas as idades Quem gosta de cinema, séries, games, quadrinhos e personagens que atravessam gerações já pode marcar a data: a CCXP26 acontece de 3 a 6 de dezembro [&hellip;]",
@@ -1636,6 +1592,28 @@
         "sp"
       ],
       "featured": false
+    },
+    {
+      "id": "7wi40l",
+      "title": "Teatro Oficina faz festa em homenagem a Denise Assunção e Lina Bo Bardi",
+      "description": "Evento no Bixiga terá exposição de figurinos históricos, leituras de textos da arquiteta, performances e apresentação musical em 5 de dezembro; acesso é livre",
+      "category": "festa",
+      "date": "2026-12-05T10:00:00",
+      "location": "Bela Vista",
+      "neighborhood": "Bela Vista",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/Montagem_Denise-Assuncao-e-Lina-Bo-Bardi_Mauricio-Shirakawa-Henri-Ballot.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/teatro-oficina-faz-festa-em-homenagem-a-denise-assuncao-e-lina-bo-bardi/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/teatro-oficina-faz-festa-em-homenagem-a-denise-assuncao-e-lina-bo-bardi/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "festa"
+      ],
+      "featured": true
     },
     {
       "id": "40mg0k",
