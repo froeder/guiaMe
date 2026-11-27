@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-26T16:41:54.868Z",
-  "totalCount": 76,
+  "updatedAt": "2026-11-27T16:27:37.255Z",
+  "totalCount": 77,
   "sources": [
     "Veja SP",
     "Catraca Livre",
@@ -9,94 +9,6 @@
     "Instituições SP"
   ],
   "events": [
-    {
-      "id": "do3tuh",
-      "title": "3ª Festa da Padroeira da Santa Cecília reúne Charanga do França, forró e feiras na rua",
-      "description": "A 3ª Festa da Padroeira de Santa Cecília reúne cortejo, forró em vinil e mais de 80 feirantes neste sábado (14/11), na saída do metrô, com entrada franca.",
-      "category": "festa",
-      "date": "2026-11-09T14:13:05.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/11/saveclipapp-532151705-17906405166213265-6512045854021460972-n.jpg",
-      "ticketUrl": "https://catracalivre.com.br/gira/3a-festa-da-padroeira-da-santa-cecilia/",
-      "source": "Catraca Livre",
-      "sourceUrl": "https://catracalivre.com.br/gira/3a-festa-da-padroeira-da-santa-cecilia/",
-      "tags": [
-        "catracalivre",
-        "gratuito",
-        "sp",
-        "festa"
-      ],
-      "featured": true
-    },
-    {
-      "id": "pcf4qq",
-      "title": "Centenário de Moacir Santos ganha espetáculo inédito no Sesc Pinheiros",
-      "description": "Espetáculo reúne dez instrumentistas e convidadas como Xênia França e Eliana Pittman para homenagear Moacir Santos de 20 a 22/11 no Sesc Pinheiros.",
-      "category": "teatro",
-      "date": "2026-11-09T15:05:41.000Z",
-      "location": "Pinheiros",
-      "neighborhood": "Pinheiros",
-      "price": 25,
-      "isFree": false,
-      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/11/moacir-santos-scaled.png",
-      "ticketUrl": "https://catracalivre.com.br/gira/centenario-de-moacir-santos-ganha-espetaculo-inedito-no-sesc-pinheiros/",
-      "source": "Catraca Livre",
-      "sourceUrl": "https://catracalivre.com.br/gira/centenario-de-moacir-santos-ganha-espetaculo-inedito-no-sesc-pinheiros/",
-      "tags": [
-        "catracalivre",
-        "gratuito",
-        "sp",
-        "teatro"
-      ],
-      "featured": false
-    },
-    {
-      "id": "qqjmgt",
-      "title": "Pina Estação abre maior mostra de Sara Ramo no Brasil com 90 obras sobre a memória dos descartes",
-      "description": "Em cartaz até abril de 2027 ao lado da Sala São Paulo, mostra de Sara Ramo ocupa o 4º andar com instalações sensoriais e entrada livre aos sábados.",
-      "category": "exposicao",
-      "date": "2026-11-09T15:51:34.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 25,
-      "isFree": false,
-      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/11/pina-estacao-abre-maior-mostra-de-sara-ramo-no-brasil-com-90-obras-sobre-a-memoria-dos-descartes.jpg",
-      "ticketUrl": "https://catracalivre.com.br/gira/exposicao-sara-ramo-a-furia-dos-restos-vivos-pinacoteca-sp/",
-      "source": "Catraca Livre",
-      "sourceUrl": "https://catracalivre.com.br/gira/exposicao-sara-ramo-a-furia-dos-restos-vivos-pinacoteca-sp/",
-      "tags": [
-        "catracalivre",
-        "gratuito",
-        "sp",
-        "exposicao"
-      ],
-      "featured": false
-    },
-    {
-      "id": "ijwxak",
-      "title": "Museu Judaico abre mostra panorâmica com cinco décadas de arte feminista de Gretta Sarfaty",
-      "description": "Com entrada grátis aos sábados, exposição Diáfana reúne mais de 60 obras de Gretta Sarfaty entre fotografia, vídeo e performance no centro de SP.",
-      "category": "exposicao",
-      "date": "2026-11-09T17:41:57.000Z",
-      "location": "Centro Histórico",
-      "neighborhood": "Centro Histórico",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/11/image001-3.jpg",
-      "ticketUrl": "https://catracalivre.com.br/gira/museu-judaico-abre-mostra-panoramica-com-cinco-decadas-de-arte-feminista-de-gretta-sarfaty/",
-      "source": "Catraca Livre",
-      "sourceUrl": "https://catracalivre.com.br/gira/museu-judaico-abre-mostra-panoramica-com-cinco-decadas-de-arte-feminista-de-gretta-sarfaty/",
-      "tags": [
-        "catracalivre",
-        "gratuito",
-        "sp",
-        "exposicao"
-      ],
-      "featured": true
-    },
     {
       "id": "70n0e2",
       "title": "Festival do Acarajé e Camarão estreia no Parque CERET com pratos típicos deliciosos e entrada gratuita",
@@ -384,116 +296,6 @@
       "featured": true
     },
     {
-      "id": "vwpeza",
-      "title": "Mural SP: Elian Almeida",
-      "description": "Artista recupera elementos do passado, imagens, narrativas e personagens",
-      "category": "cultura",
-      "date": "2026-11-20T09:00:15.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/Mack_Art_Foundation_Elian_Almeida_454.jpg.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/mural-sp-elian-almeida/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/mural-sp-elian-almeida/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "cultura"
-      ],
-      "featured": false
-    },
-    {
-      "id": "p2gksd",
-      "title": "Horóscopo de hoje (21/11): último dia do Sol em Escorpião traz um sábado de iniciativa",
-      "description": "Na véspera da entrada do Sol em Sagitário, o céu pede coragem para começar e calma para não exagerar",
-      "category": "cultura",
-      "date": "2026-11-21T07:30:23.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/Horoscopo-de-hoje-21-11-ultimo-dia-do-Sol-em-Escorpiao-traz-um-sabado-de-iniciativa.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/horoscopo-21-11-ultimo-dia-sol-escorpiao-sabado-iniciativa/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/horoscopo-21-11-ultimo-dia-sol-escorpiao-sabado-iniciativa/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "cultura"
-      ],
-      "featured": false
-    },
-    {
-      "id": "flagzl",
-      "title": "Arsenal da Esperança apresenta espetáculo de Natal gratuito na Mooca",
-      "description": "Com elenco formado por pessoas em situação de rua e artistas circenses, peça ‘Josefina: A incrível máquina dos sonhos’ terá quatro sessões",
-      "category": "teatro",
-      "date": "2026-11-22T08:00:14.000Z",
-      "location": "Mooca",
-      "neighborhood": "Mooca",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/unnamed-13.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/arsenal-da-esperanca-apresenta-espetaculo-de-natal-gratuito-na-mooca/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/arsenal-da-esperanca-apresenta-espetaculo-de-natal-gratuito-na-mooca/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "teatro"
-      ],
-      "featured": true
-    },
-    {
-      "id": "8ig3o1",
-      "title": "Horóscopo de hoje (22/11): o Sol chega a Sagitário e o domingo pede calma",
-      "description": "Começa um período mais otimista e expansivo, mas hoje o céu pede conforto e pouca pressa",
-      "category": "cultura",
-      "date": "2026-11-22T08:00:27.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/Horoscopo-de-hoje-22-11-o-Sol-chega-a-Sagitario-e-o-domingo-pede-calma.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/horoscopo-22-11-sol-sagitario-domingo-pede-calma/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/horoscopo-22-11-sol-sagitario-domingo-pede-calma/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "cultura"
-      ],
-      "featured": false
-    },
-    {
-      "id": "91nzo7",
-      "title": "Documentário sobre Dona Onete mostra trajetória da cantora paraense",
-      "description": "Aos 87 anos, artista relembra os desafios que enfrentou antes de iniciar a carreira musical, aos 62",
-      "category": "musica",
-      "date": "2026-11-22T09:00:46.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/Dona-Onete-Meu-Coracao-Neste-Pedacinho-Aqui-04_Credito-Naiara-Jinknss.jpg.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/documentario-sobre-dona-onete-mostra-trajetoria-da-cantora-paraense/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/documentario-sobre-dona-onete-mostra-trajetoria-da-cantora-paraense/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "musica"
-      ],
-      "featured": true
-    },
-    {
       "id": "exxk7p",
       "title": "12ª Mostra Mosfilm de Cinema Soviético e Russo chega à Cinemateca Brasileira com entrada gratuita",
       "description": "Cinemateca recebe festival de cinema russo com 12 longas, projeção ao ar livre, música ao vivo e feira típica com entrada franca até 22 de novembro.",
@@ -516,28 +318,6 @@
       "featured": true
     },
     {
-      "id": "dyis4d",
-      "title": "Horóscopo de hoje (23/11): o dia certo para pôr as contas e a agenda em ordem",
-      "description": "Na véspera da Lua cheia, o céu pede firmeza e paciência; confira as previsões para os 12 signos",
-      "category": "cultura",
-      "date": "2026-11-23T08:00:31.000Z",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/Horoscopo-de-hoje-23-11-o-dia-certo-para-por-as-contas-e-a-agenda-em-ordem.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/horoscopo-23-11-contas-agenda-em-ordem/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/horoscopo-23-11-contas-agenda-em-ordem/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "cultura"
-      ],
-      "featured": false
-    },
-    {
       "id": "v07e34",
       "title": "Festival Mário de Andrade ocupa o Centro com shows gratuitos de Luedji Luna, Negra Li e leitura de Vera Holtz",
       "description": "Nos dias 25, 27, 28 e 29/11, evento gratuito na Biblioteca Mário de Andrade reúne 34 editoras, feira gastronômica, shows, passeios e debates no Centro.",
@@ -554,28 +334,6 @@
       "tags": [
         "catracalivre",
         "gratuito",
-        "sp",
-        "musica"
-      ],
-      "featured": true
-    },
-    {
-      "id": "xd7f25",
-      "title": "Festival Ubuntu ocupa a 9 de Julho com dias de arte periférica gratuita",
-      "description": "De 23 a 29 de novembro, a sexta edição do evento reúne shows, teatro, debates, oficinas e batalhas de rima no Centro da capital",
-      "category": "musica",
-      "date": "2026-11-23T10:00:00",
-      "location": "Centro Histórico",
-      "neighborhood": "Centro Histórico",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/Ubuntu.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/festival-ubuntu-ocupa-a-9-de-julho-com-dias-de-arte-periferica-gratuita/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/festival-ubuntu-ocupa-a-9-de-julho-com-dias-de-arte-periferica-gratuita/",
-      "tags": [
-        "vejasp",
-        "cultura",
         "sp",
         "musica"
       ],
@@ -624,50 +382,6 @@
         "exposicao"
       ],
       "featured": true
-    },
-    {
-      "id": "r86m20",
-      "title": "Festa do Livro da USP chega à 28ª edição com livros a partir de 50% de desconto",
-      "description": "Evento gratuito acontece entre quarta (25) e domingo (29) na Cidade Universitária, na Zona Oeste, e reúne 245 editoras com títulos de diversos gêneros",
-      "category": "festa",
-      "date": "2026-11-23T11:07:25.000Z",
-      "location": "Butantã",
-      "neighborhood": "Butantã",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/elisa-calvet-b-S3nUOqDmUvc-unsplash.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/festa-do-livro-da-usp-chega-a-28a-edicao-com-livros-a-partir-de-50-de-desconto/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/festa-do-livro-da-usp-chega-a-28a-edicao-com-livros-a-partir-de-50-de-desconto/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "festa"
-      ],
-      "featured": true
-    },
-    {
-      "id": "qwqg8s",
-      "title": "SIM São Paulo 2026 movimenta a Paulista com mais de 100 painéis e shows noturnos",
-      "description": "De 30/11 a 03/12, conferência ocupa a Avenida Paulista com mais de 100 painéis e 100 shows noturnos espalhados por São Paulo",
-      "category": "musica",
-      "date": "2026-11-23T11:12:38.000Z",
-      "location": "Bela Vista",
-      "neighborhood": "Bela Vista",
-      "price": 25,
-      "isFree": false,
-      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/11/sim-sao-paulo-2026-movimenta-a-paulista-com-mais-de-100-paineis-e-shows-noturnos.jpg",
-      "ticketUrl": "https://catracalivre.com.br/gira/sim-sao-paulo-2026-movimenta-a-paulista-com-mais-de-100-paineis-e-shows-noturnos/",
-      "source": "Catraca Livre",
-      "sourceUrl": "https://catracalivre.com.br/gira/sim-sao-paulo-2026-movimenta-a-paulista-com-mais-de-100-paineis-e-shows-noturnos/",
-      "tags": [
-        "catracalivre",
-        "gratuito",
-        "sp",
-        "musica"
-      ],
-      "featured": false
     },
     {
       "id": "37r8fd",
@@ -908,28 +622,6 @@
         "cultura",
         "sp",
         "cultura"
-      ],
-      "featured": false
-    },
-    {
-      "id": "26vk0k",
-      "title": "Ligação Santos e Guarujá: veja como será o primeiro túnel imerso do Brasil e quando ele abre",
-      "description": "Já imaginou ir de Santos ao Guarujá em menos de cinco minutos, sem depender da fila das balsas? Essa é a promessa do Túnel Santos-Guarujá, uma das maiores obras de infraestrutura previstas para o litoral paulista e que será o primeiro túnel imerso do Brasil. O empreendimento terá aproximadamente 1,5 quilômetro de extensão, sendo 870 [&hellip;]",
-      "category": "infantil",
-      "date": "2026-11-23T19:02:18.000Z",
-      "location": "Bela Vista",
-      "neighborhood": "Bela Vista",
-      "price": 35,
-      "isFree": false,
-      "imageUrl": "https://images.unsplash.com/photo-1508873696983-2df5293cb32f?w=800&q=80",
-      "ticketUrl": "https://saopauloparacriancas.com.br/ligac%cc%a7a%cc%83o-santos-e-guaruja-veja-como-sera-o-primeiro-tunel-imerso-do-brasil-e-quando-ele-abre/",
-      "source": "SP para Crianças",
-      "sourceUrl": "https://saopauloparacriancas.com.br/ligac%cc%a7a%cc%83o-santos-e-guaruja-veja-como-sera-o-primeiro-tunel-imerso-do-brasil-e-quando-ele-abre/",
-      "tags": [
-        "infantil",
-        "familia",
-        "criancas",
-        "sp"
       ],
       "featured": false
     },
@@ -1352,28 +1044,6 @@
       "featured": true
     },
     {
-      "id": "qdf0r7",
-      "title": "Centro de SP terá shows de Negra Li e Luedji Luna e feira de livros grátis",
-      "description": "6ª edição do Festival Mário de Andrade traz leitura cênica, apresentações musicais e feira literária de 25 a 29 de novembro",
-      "category": "musica",
-      "date": "2026-11-25T10:00:00",
-      "location": "Centro Histórico",
-      "neighborhood": "Centro Histórico",
-      "price": 0,
-      "isFree": true,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2017/02/15-fachada-da-biblioteca-mc3a1rio-de-andrade-na-rua-da-consolac3a7c3a3o-sylvia-masini.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/centro-de-sp-tera-shows-de-negra-li-e-luedji-luna-e-feira-de-livros-gratis/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/centro-de-sp-tera-shows-de-negra-li-e-luedji-luna-e-feira-de-livros-gratis/",
-      "tags": [
-        "vejasp",
-        "cultura",
-        "sp",
-        "musica"
-      ],
-      "featured": true
-    },
-    {
       "id": "vt36fe",
       "title": "Turnê de Sandy e Junior: o que se sabe sobre o retorno da dupla aos palcos",
       "description": "Irmãos confirmam 6 shows no Nubank Parque, em julho de 2027; pré-venda de ingressos começa na terça (1º)",
@@ -1484,6 +1154,248 @@
       "featured": true
     },
     {
+      "id": "3qpsl4",
+      "title": "Tribo de Jah e Marcelo Rubens Paiva fazem show gratuito na abertura da Virada Inclusiva",
+      "description": "Programação musical acontece neste sábado (28), no Memorial da América Latina",
+      "category": "musica",
+      "date": "2026-11-26T13:53:41.000Z",
+      "location": "Barra Funda",
+      "neighborhood": "Barra Funda",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/ab6761610000e5ebe94c97720545808b7ddfa624.jpeg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/tribo-de-jah-e-marcelo-rubens-paiva-fazem-show-gratuito-na-abertura-da-virada-inclusiva/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/tribo-de-jah-e-marcelo-rubens-paiva-fazem-show-gratuito-na-abertura-da-virada-inclusiva/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "musica"
+      ],
+      "featured": true
+    },
+    {
+      "id": "9uw8hn",
+      "title": "Cine Marquise realiza sessões gratuitas de filmes natalinos na Avenida Paulista",
+      "description": "“O Grinch” e “O Expresso Polar” estão entre os clássicos exibidos aos sábados e domingos na programação oferecida pela Brasil Cacau",
+      "category": "tecnologia",
+      "date": "2026-11-26T16:38:09.000Z",
+      "location": "Bela Vista",
+      "neighborhood": "Bela Vista",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/11/brasil-cacau-14-scaled.jpg",
+      "ticketUrl": "https://catracalivre.com.br/gira/cine-marquise-realiza-sessoes-gratuitas-de-filmes-natalinos-na-avenida-paulista/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/cine-marquise-realiza-sessoes-gratuitas-de-filmes-natalinos-na-avenida-paulista/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
+        "sp",
+        "tecnologia"
+      ],
+      "featured": true
+    },
+    {
+      "id": "dwx9i3",
+      "title": "MIS é alvo de críticas por falta de mulheres entre escolhidos por edital de fotografia",
+      "description": "Coletivo de fotógrafas publicou carta de repúdio após museu selecionar apenas homens para o Nova Fotografia 2027",
+      "category": "exposicao",
+      "date": "2026-11-26T17:51:53.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2017/02/mis2_por-ding-musa.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/mis-alvo-criticas-falta-de-mulheres-edital-nova-fotografia/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/mis-alvo-criticas-falta-de-mulheres-edital-nova-fotografia/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "exposicao"
+      ],
+      "featured": true
+    },
+    {
+      "id": "9z2jzc",
+      "title": "Mural SP: Tomie Ohtake",
+      "description": "Obra da artista está em cartaz no Instituto Tomie Ohtake",
+      "category": "cultura",
+      "date": "2026-11-27T06:00:22.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/Tomie-Ohtake-artista-plastica._6.jpg.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/mural-sp-tomie-ohtake/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/mural-sp-tomie-ohtake/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "cultura"
+      ],
+      "featured": false
+    },
+    {
+      "id": "tyrzy5",
+      "title": "Chico Adnet lança álbum ao vivo e afirma: “Sem emoção, a arte não faz sentido”",
+      "description": "Aos 66 anos, compositor lança quinto álbum solo, relembra histórias da carreira e fala sobre os desafios dos direitos autorais na era da inteligência artificial",
+      "category": "exposicao",
+      "date": "2026-11-27T07:00:38.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/aADT_5375-copiar.jpg.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/chico-adnet-lanca-album-ao-vivo-e-afirma-sem-emocao-a-arte-nao-faz-sentido/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/chico-adnet-lanca-album-ao-vivo-e-afirma-sem-emocao-a-arte-nao-faz-sentido/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "exposicao"
+      ],
+      "featured": true
+    },
+    {
+      "id": "aqlhg7",
+      "title": "Horóscopo de hoje (27/11): sexta-feira pede cuidado com o bolso",
+      "description": "Promoções por todo lado, mas os astros recomendam comprar só o que já estava nos planos",
+      "category": "gastronomia",
+      "date": "2026-11-27T08:00:20.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/Horoscopo-de-hoje-27-11-sexta-feira-pede-cuidado-com-o-bolso.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/horoscopo-27-11-cuidado-bolso/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/horoscopo-27-11-cuidado-bolso/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "gastronomia"
+      ],
+      "featured": false
+    },
+    {
+      "id": "fu3qg",
+      "title": "Cão Silvestre: primeira edição no Ibirapuera terá percurso de 1,4 km em dezembro",
+      "description": "Tutores devem fazer inscrição pela internet e apresentar vacinação dos animais em dia para participar",
+      "category": "musica",
+      "date": "2026-11-27T11:17:20.000Z",
+      "location": "Vila Mariana",
+      "neighborhood": "Vila Mariana",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2025/12/Sao-Silvestre-2025-Credito-Paulo-Pinto-Reproducao.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/cao-silvestre-primeira-edicao-no-ibirapuera-tera-percurso-de-14-km-em-dezembro/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/cao-silvestre-primeira-edicao-no-ibirapuera-tera-percurso-de-14-km-em-dezembro/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "musica"
+      ],
+      "featured": true
+    },
+    {
+      "id": "g44nbj",
+      "title": "Raí é dono de cinema de rua tradicional em SP; saiba onde fica",
+      "description": "O ex-jogador é um dos sócios do espaço cultural em Pinheiros, que funciona desde 1962",
+      "category": "cinema",
+      "date": "2026-11-27T11:26:04.000Z",
+      "location": "Pinheiros",
+      "neighborhood": "Pinheiros",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=800&q=80",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/rai-e-dono-de-cinema-de-rua-tradicional-em-sp-saiba-onde-fica/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/rai-e-dono-de-cinema-de-rua-tradicional-em-sp-saiba-onde-fica/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "cinema"
+      ],
+      "featured": false
+    },
+    {
+      "id": "363dcx",
+      "title": "Copa do Mundo Feminina 2027: confira o calendário de jogos em SP e como comprar ingressos",
+      "description": "Vendas abrem nesta terça (1º), com pacotes a partir de 30 reais por partida; Brasil estreia em casa em busca do título inédito",
+      "category": "cultura",
+      "date": "2026-11-27T11:31:16.000Z",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/taca_copa_feminina_rj_bb79693984-_1_-credito-Thais-Magalhaes_CBF-1.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/copa-do-mundo-feminina-2027-ingressos-calendario/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/copa-do-mundo-feminina-2027-ingressos-calendario/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "cultura"
+      ],
+      "featured": false
+    },
+    {
+      "id": "qysfwi",
+      "title": "Exposição dos irmãos Campana tem animais gigantes e criaturas curiosas na Avenida Paulista; entrada é grátis",
+      "description": "Com esculturas de animais brasileiros, monstros criativos e objetos feitos com materiais reaproveitados, mostra no Centro Cultural Fiesp convida crianças e adultos a explorar o universo do design. Entrada gratuita e classificação livre. Uma cadeira pode virar uma obra de arte? E um pedaço de madeira, tecido ou metal pode ganhar a forma de uma [&hellip;]",
+      "category": "infantil",
+      "date": "2026-11-27T12:50:10.000Z",
+      "location": "Bela Vista",
+      "neighborhood": "Bela Vista",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/11/sp_criancas_passeios_fiesp_everton_amaro_-2.jpeg",
+      "ticketUrl": "https://saopauloparacriancas.com.br/exposicao-fiesp-historia-natural-sp/",
+      "source": "SP para Crianças",
+      "sourceUrl": "https://saopauloparacriancas.com.br/exposicao-fiesp-historia-natural-sp/",
+      "tags": [
+        "infantil",
+        "familia",
+        "criancas",
+        "sp"
+      ],
+      "featured": true
+    },
+    {
+      "id": "wovzw6",
+      "title": "Festa Cosmopopeia reúne literatura, oficinas e música gratuitas para crianças na Vila Madalena",
+      "description": "Evento acontece no dia 28 de novembro, com conversas com escritoras, autores, contação de histórias, oficinas infantis, poesia, brincadeiras, livrarias e espaço gastronômico. Já imaginou passar um dia inteiro em uma praça com livros, histórias, música, oficinas e brincadeiras para crianças e adultos? Essa é a proposta da Festa Cosmopopeia, que acontece no sábado, 28 [&hellip;]",
+      "category": "infantil",
+      "date": "2026-11-28T10:00:00",
+      "location": "Vila Madalena",
+      "neighborhood": "Vila Madalena",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://saopauloparacriancas.com.br/wp-content/uploads/2026/11/sp_criancas_passeios_livraria_casa_cosmos_01.jpeg",
+      "ticketUrl": "https://saopauloparacriancas.com.br/livraria-casa-cosmos-sp/",
+      "source": "SP para Crianças",
+      "sourceUrl": "https://saopauloparacriancas.com.br/livraria-casa-cosmos-sp/",
+      "tags": [
+        "infantil",
+        "familia",
+        "criancas",
+        "sp"
+      ],
+      "featured": true
+    },
+    {
       "id": "qdk767",
       "title": "Virada Inclusiva 2026 tem atividades gratuitas para famílias em São Paulo; veja onde ir e o que fazer",
       "description": "De 28 de novembro a 6 de dezembro, evento reúne oficinas sensoriais, teatro, música, esportes adaptados, visitas acessíveis e atividades para crianças e adultos na capital e Grande São Paulo A Virada Inclusiva 2026 chega à sua 17ª edição com uma programação que convida pessoas com e sem deficiência a ocupar espaços culturais, parques e [&hellip;]",
@@ -1502,6 +1414,28 @@
         "familia",
         "criancas",
         "sp"
+      ],
+      "featured": true
+    },
+    {
+      "id": "5rhkgg",
+      "title": "Dia Nacional do Samba tem maratona de rodas e shows gratuitos em SP",
+      "description": "Programação promovida pela prefeitura acontece de 29 de novembro a 6 de dezembro e ocupa centros culturais e casas de cultura de todas as regiões da capital",
+      "category": "musica",
+      "date": "2026-11-29T10:00:00",
+      "location": "Centro Histórico",
+      "neighborhood": "Centro Histórico",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/unnamed-13-1.jpg",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/dia-nacional-do-samba-tem-maratona-de-rodas-e-shows-gratuitos-em-sp/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/dia-nacional-do-samba-tem-maratona-de-rodas-e-shows-gratuitos-em-sp/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "musica"
       ],
       "featured": true
     },
@@ -1528,6 +1462,28 @@
       "featured": true
     },
     {
+      "id": "bhpmrn",
+      "title": "La Peruana celebra 11 anos com festa latina, chefs convidados e pratos especiais",
+      "description": "Evento acontece no Jardim Paulista e reúne gastronomia peruana, drinks autorais, música ao vivo e DJ no dia 29 de novembro",
+      "category": "festa",
+      "date": "2026-11-29T10:00:00",
+      "location": "Bela Vista",
+      "neighborhood": "Bela Vista",
+      "price": 25,
+      "isFree": false,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/11/whatsapp-image-2026-11-13-at-115530-2-e1795720747815.jpeg",
+      "ticketUrl": "https://catracalivre.com.br/gira/la-peruana-celebra-11-anos-com-festa-latina-chefs-convidados-e-pratos-especiais/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/la-peruana-celebra-11-anos-com-festa-latina-chefs-convidados-e-pratos-especiais/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
+        "sp",
+        "festa"
+      ],
+      "featured": false
+    },
+    {
       "id": "bkn0ig",
       "title": "Casa de Francisca recebe maratona gratuita de música paraibana com Lucy Alves, Bixarte e Vó Mera",
       "description": "Dia 29 de novembro tem festival gratuito de música paraibana no Centro de SP: são 10 atrações do almoço até a noite ocupando três ambientes da casa.",
@@ -1550,6 +1506,28 @@
       "featured": true
     },
     {
+      "id": "z7vg7s",
+      "title": "Pedro Andrade viaja do Amazonas a Grasse em série sobre os bastidores dos perfumes da Natura",
+      "description": "‘Rota Perfumada’ tem 12 episódios, estreia em 30 de novembro e passa por França, Estados Unidos, Bulgária e México atrás da origem dos aromas",
+      "category": "cultura",
+      "date": "2026-11-30T10:00:00",
+      "location": "Centro Histórico",
+      "neighborhood": "Centro Histórico",
+      "price": 30,
+      "isFree": false,
+      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/Design-sem-nome-24.png",
+      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/pedro-andrade-viaja-do-amazonas-a-grasse-em-serie-sobre-os-bastidores-dos-perfumes-da-natura/",
+      "source": "Veja SP",
+      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/pedro-andrade-viaja-do-amazonas-a-grasse-em-serie-sobre-os-bastidores-dos-perfumes-da-natura/",
+      "tags": [
+        "vejasp",
+        "cultura",
+        "sp",
+        "cultura"
+      ],
+      "featured": false
+    },
+    {
       "id": "rlbm0a",
       "title": "Zoológico de São Paulo oferece meia-entrada para todos em compras até 30 de novembro",
       "description": "Ingresso antecipado cai de R$ 89,90 para R$ 69,90 e pode ser usado em dezembro; Simba Safari tem o mesmo valor e Jardim Botânico sai por R$ 19,90",
@@ -1568,6 +1546,28 @@
         "cultura",
         "sp",
         "cultura"
+      ],
+      "featured": false
+    },
+    {
+      "id": "6a2a91",
+      "title": "SIM São Paulo 2026 movimenta a Paulista com mais de 100 painéis e shows noturnos",
+      "description": "De 30 de novembro a 3 de dezembro, São Paulo recebe conferência com mais de 100 painéis e mais de 200 shows noturnos, que se espalham pela cidade.",
+      "category": "musica",
+      "date": "2026-11-30T10:00:00",
+      "location": "Bela Vista",
+      "neighborhood": "Bela Vista",
+      "price": 25,
+      "isFree": false,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/11/sim-sao-paulo-2026-movimenta-a-paulista-com-mais-de-100-paineis-e-shows-noturnos.jpg",
+      "ticketUrl": "https://catracalivre.com.br/gira/sim-sao-paulo-2026-movimenta-a-paulista-com-mais-de-100-paineis-e-shows-noturnos/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/sim-sao-paulo-2026-movimenta-a-paulista-com-mais-de-100-paineis-e-shows-noturnos/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
+        "sp",
+        "musica"
       ],
       "featured": false
     },
@@ -1616,26 +1616,48 @@
       "featured": true
     },
     {
-      "id": "40mg0k",
-      "title": "Show do Deep Purple é adiado para 2027 por problemas de saúde de Ian Gillan",
-      "description": "Nova data ainda será anunciada pela produção; ingressos já comprados continuam válidos, mas quem preferir pode pedir reembolso até 7 de dezembro",
-      "category": "musica",
+      "id": "hdcxt",
+      "title": "Palhapalooza 2026 leva sete dias de espetáculos, cortejos e oficinas gratuitas de circo ao Centro de SP",
+      "description": "De 7 a 13 de dezembro, festival gratuito ocupa a Galeria Olido e a rua com números circenses, cabaré, oficinas e debates com intérprete de Libras.",
+      "category": "teatro",
       "date": "2026-12-07T10:00:00",
-      "location": "São Paulo",
-      "neighborhood": "São Paulo",
-      "price": 30,
-      "isFree": false,
-      "imageUrl": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/Deep-Purple_1_copyright-earMUSIC_credit-Jim-Rakete_official-photo-for-announcement_16-9-1.jpg",
-      "ticketUrl": "https://vejasp.abril.com.br/cultura-lazer/show-do-deep-purple-e-adiado-para-2027-por-problemas-de-saude-de-ian-gillan/",
-      "source": "Veja SP",
-      "sourceUrl": "https://vejasp.abril.com.br/cultura-lazer/show-do-deep-purple-e-adiado-para-2027-por-problemas-de-saude-de-ian-gillan/",
+      "location": "Centro Histórico",
+      "neighborhood": "Centro Histórico",
+      "price": 0,
+      "isFree": true,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/11/oincrivelnumerofinal-foto-gui-assano-84-scaled.jpg",
+      "ticketUrl": "https://catracalivre.com.br/gira/palhapalooza-2026-leva-sete-dias-de-espetaculos-cortejos-e-oficinas-gratuitas-de-circo-ao-centro-de-sp/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/palhapalooza-2026-leva-sete-dias-de-espetaculos-cortejos-e-oficinas-gratuitas-de-circo-ao-centro-de-sp/",
       "tags": [
-        "vejasp",
-        "cultura",
+        "catracalivre",
+        "gratuito",
         "sp",
-        "musica"
+        "teatro"
       ],
       "featured": true
+    },
+    {
+      "id": "3erm9",
+      "title": "Cisne Negro Cia de Dança leva a 43ª temporada de ‘O Quebra-Nozes’ ao Teatro Santander em dezembro",
+      "description": "Com participação de Ana Botafogo e solistas internacionais, clássico de Natal da Cisne Negro chega a SP de 12 a 27 de dezembro.",
+      "category": "teatro",
+      "date": "2026-12-12T10:00:00",
+      "location": "São Paulo",
+      "neighborhood": "São Paulo",
+      "price": 25,
+      "isFree": false,
+      "imageUrl": "https://catracalivre.com.br/wp-content/uploads/2026/11/o-quebra-nozes-foto-reginaldo-azevedo34-scaled.jpg",
+      "ticketUrl": "https://catracalivre.com.br/gira/cisne-negro-cia-de-danca-leva-a-43a-temporada-de-o-quebra-nozes-ao-teatro-santander-em-dezembro/",
+      "source": "Catraca Livre",
+      "sourceUrl": "https://catracalivre.com.br/gira/cisne-negro-cia-de-danca-leva-a-43a-temporada-de-o-quebra-nozes-ao-teatro-santander-em-dezembro/",
+      "tags": [
+        "catracalivre",
+        "gratuito",
+        "sp",
+        "teatro"
+      ],
+      "featured": false
     },
     {
       "id": "c3xygb",
